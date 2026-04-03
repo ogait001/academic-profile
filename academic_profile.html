@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Academic Profile — Oscar Gaitan</title>
+
+  <!-- Google Scholar citation meta tags (static, crawler-readable) -->
+  <meta name="citation_author" content="Gaitan, Oscar" />
+
+  <noscript>
+    <!-- Publication 1 -->
+    <meta name="citation_title"            content="The Lemniscate of Time: A Theological Meditation on Temporality and Eternity" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-02-17" />
+    <meta name="citation_doi"             content="10.5281/zenodo.18684516" />
+
+    <!-- Publication 2 -->
+    <meta name="citation_title"            content="La Lemniscata del Tiempo: Una Meditación Geométrica sobre la Eternidad y la Sucesión Temporal" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-04" />
+    <meta name="citation_doi"             content="10.5281/zenodo.18867864" />
+
+    <!-- Publication 3 -->
+    <meta name="citation_title"            content="The Ghost Zone: The Invisible Inner World Where We Process What We Cannot Yet Speak" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-18" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19100268" />
+
+    <!-- Publication 4 -->
+    <meta name="citation_title"            content="The Lemniscate of Time: A Topology of Memory, Possibility, and Grace" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-19" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19121110" />
+
+    <!-- Publication 5 -->
+    <meta name="citation_title"            content="La Lemniscata del Tiempo: Una Topologia de la Memoria, la Posibilidad y la Gracia" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-19" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19121592" />
+
+    <!-- Publication 6 -->
+    <meta name="citation_title"            content="The Heroic Illusion: The Upward Escape and the Structure That Replaces Reality Before It Begins" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-25" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19224539" />
+
+    <!-- Publication 7 -->
+    <meta name="citation_title"            content="The Topology of Presence: Four Planes of Existence on the Lemniscate" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-30" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19339347" />
+
+    <!-- Publication 8 -->
+    <meta name="citation_title"            content="La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-03-31" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19358491" />
+
+    <!-- Publication 9 -->
+    <meta name="citation_title"            content="The Serpent, the Self, and the Collapse of the &#34;I&#34;" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-04-02" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19379289" />
+
+    <!-- Publication 10 -->
+    <meta name="citation_title"            content="La Serpiente, el Ser y el Colapso del &#34;Yo&#34;" />
+    <meta name="citation_author"           content="Gaitan, Oscar" />
+    <meta name="citation_publication_date" content="2026-04-02" />
+    <meta name="citation_doi"             content="10.5281/zenodo.19389347" />
+  </noscript>
+
+  <style>
+    :root {
+      --bg: #0f0f13;
+      --surface: #16161d;
+      --border: #252533;
+      --accent: #7c6af7;
+      --accent-dim: #4a4390;
+      --text: #e2e2f0;
+      --text-dim: #888899;
+      --tag-bg: #1e1e2e;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Georgia', serif;
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 2.5rem 2rem 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+      color: var(--text);
+    }
+
+    header .orcid-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .45rem;
+      margin-top: .8rem;
+      background: var(--tag-bg);
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      padding: .3rem .9rem;
+      font-family: monospace;
+      font-size: .82rem;
+      color: var(--text-dim);
+      text-decoration: none;
+      transition: border-color .2s;
+    }
+
+    header .orcid-badge:hover { border-color: var(--accent); color: var(--text); }
+
+    header .profile-photo {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid var(--border);
+      margin-bottom: 1rem;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    header .orcid-badge .dot {
+      width: 10px; height: 10px;
+      background: #a6c94a;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── Stats bar ── */
+    #stats {
+      display: flex;
+      justify-content: center;
+      gap: 2.5rem;
+      padding: 1.2rem 2rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      font-family: 'Helvetica Neue', sans-serif;
+    }
+
+    #stats .stat { text-align: center; }
+    #stats .stat-num { font-size: 1.6rem; font-weight: 700; color: var(--accent); }
+    #stats .stat-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--text-dim); }
+
+    /* ── Controls ── */
+    #controls {
+      max-width: 900px;
+      margin: 2rem auto 1.2rem;
+      padding: 0 1.5rem;
+      display: flex;
+      gap: .8rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    #search {
+      flex: 1;
+      min-width: 180px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: .9rem;
+      padding: .55rem 1rem;
+      outline: none;
+      transition: border-color .2s;
+    }
+    #search:focus { border-color: var(--accent); }
+
+    #sort {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: .85rem;
+      padding: .55rem .9rem;
+      outline: none;
+      cursor: pointer;
+    }
+
+    #result-count {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: .82rem;
+      color: var(--text-dim);
+      margin-left: auto;
+    }
+
+    /* ── Publication list ── */
+    #publications {
+      max-width: 900px;
+      margin: 0 auto 3rem;
+      padding: 0 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    /* ── Card ── */
+    .pub-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.4rem 1.6rem;
+      transition: border-color .2s, box-shadow .2s;
+    }
+
+    .pub-card:hover {
+      border-color: var(--accent-dim);
+      box-shadow: 0 0 0 1px var(--accent-dim);
+    }
+
+    .pub-card-header {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+
+    .pub-year {
+      flex-shrink: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: .78rem;
+      font-weight: 700;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 12%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+      border-radius: 6px;
+      padding: .2rem .55rem;
+      margin-top: .15rem;
+    }
+
+    .pub-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.45;
+    }
+
+    .pub-meta {
+      margin-top: .55rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      align-items: center;
+    }
+
+    .pub-doi {
+      font-family: monospace;
+      font-size: .78rem;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+      border-radius: 6px;
+      padding: .15rem .6rem;
+      text-decoration: none;
+      transition: background .2s;
+    }
+    .pub-doi:hover { background: color-mix(in srgb, var(--accent) 18%, transparent); }
+
+    .pub-type {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--text-dim);
+      background: var(--tag-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: .15rem .6rem;
+    }
+
+    /* ── Abstract accordion ── */
+    .abstract-toggle {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: .78rem;
+      color: var(--text-dim);
+      padding: 0;
+      margin-top: .75rem;
+      display: flex;
+      align-items: center;
+      gap: .3rem;
+      transition: color .2s;
+    }
+    .abstract-toggle:hover { color: var(--text); }
+    .abstract-toggle .chevron { transition: transform .2s; display: inline-block; }
+    .abstract-toggle.open .chevron { transform: rotate(90deg); }
+
+    .abstract-body {
+      display: none;
+      margin-top: .75rem;
+      font-size: .9rem;
+      color: #ffffff;
+      font-weight: bold;
+      border-left: 2px solid var(--accent-dim);
+      padding-left: 1rem;
+      line-height: 1.75;
+    }
+    .abstract-body.visible { display: block; }
+
+    /* ── Loading / error ── */
+    #status {
+      max-width: 900px;
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+      text-align: center;
+      color: var(--text-dim);
+      font-family: 'Helvetica Neue', sans-serif;
+    }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 1rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error-msg { color: #e06c75; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: .75rem;
+      color: var(--text-dim);
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.4rem; }
+      #stats { gap: 1.2rem; }
+      .pub-card-header { flex-direction: column; gap: .4rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="oscar.jpg" alt="Oscar Gaitan" class="profile-photo">
+  <h1 id="profile-name">Oscar Gaitan</h1>
+  <p style="margin:.25rem 0 .6rem; font-size:.95rem; font-weight:bold; color:#ffffff;">
+    Independent Catholic Scholar &middot; Nicaraguan &middot; Los Angeles
+  </p>
+  <a
+    class="orcid-badge"
+    href="https://orcid.org/0009-0007-1904-4547"
+    target="_blank"
+    rel="noopener"
+  >
+    <span class="dot"></span>
+    ORCID&nbsp;0009-0007-1904-4547
+  </a>
+</header>
+
+<div id="stats" hidden>
+  <div class="stat">
+    <div class="stat-num" id="stat-total">—</div>
+    <div class="stat-label">Works</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="stat-with-doi">—</div>
+    <div class="stat-label">With DOI</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="stat-with-abstract">—</div>
+    <div class="stat-label">With Abstract</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="stat-latest">—</div>
+    <div class="stat-label">Latest Year</div>
+  </div>
+</div>
+
+<div id="controls" hidden>
+  <input id="search" type="text" placeholder="Filter by title, DOI, abstract…" />
+  <select id="sort">
+    <option value="newest">Newest first</option>
+    <option value="oldest">Oldest first</option>
+    <option value="title">Title A–Z</option>
+  </select>
+  <span id="result-count"></span>
+</div>
+
+<div id="status">
+  <div class="spinner"></div>
+  <p>Fetching publications from Zenodo…</p>
+</div>
+
+<div id="publications"></div>
+
+<footer>
+  Data sourced from <a href="https://zenodo.org" style="color:var(--accent);text-decoration:none;">Zenodo</a>
+  via the public REST API &middot; ORCID 0009-0007-1904-4547
+</footer>
+
+<script>
+  const API_ORCID      = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.identifiers.identifier:0009-0007-1904-4547&size=25`;
+  const API_NAME       = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Oscar+Gaitan%22&size=25`;
+  const API_NAME_ACCENT= `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Oscar+Gait%C3%A1n%22&size=25`;
+  const API_NAME_REV   = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Gaitan%2C+Oscar%22&size=25`;
+
+  let allRecords = [];
+
+  // ── Helpers ────────────────────────────────────────────────────
+  function getYear(rec) {
+    const raw =
+      rec.metadata?.publication_date ||
+      rec.metadata?.created          ||
+      rec.created || '';
+    return raw ? raw.slice(0, 4) : '—';
+  }
+
+  function getType(rec) {
+    return (
+      rec.metadata?.resource_type?.type ||
+      rec.metadata?.upload_type ||
+      'publication'
+    );
+  }
+
+  function stripHtml(str) {
+    const d = document.createElement('div');
+    d.innerHTML = str;
+    return d.textContent || d.innerText || '';
+  }
+
+  // ── Render ─────────────────────────────────────────────────────
+  function renderCards(records) {
+    const container = document.getElementById('publications');
+    container.innerHTML = '';
+
+    document.getElementById('result-count').textContent =
+      `${records.length} result${records.length !== 1 ? 's' : ''}`;
+
+    if (!records.length) {
+      container.innerHTML =
+        `<p style="text-align:center;color:var(--text-dim);font-family:sans-serif;">No results match your filter.</p>`;
+      return;
+    }
+
+    records.forEach(rec => {
+      const title    = rec.metadata?.title || '(Untitled)';
+      const doi      = rec.doi || rec.metadata?.doi || null;
+      const abstract = rec.metadata?.description
+        ? stripHtml(rec.metadata.description)
+        : null;
+      const year     = getYear(rec);
+      const type     = getType(rec);
+
+      const card = document.createElement('article');
+      card.className = 'pub-card';
+      card.dataset.title    = title.toLowerCase();
+      card.dataset.doi      = (doi || '').toLowerCase();
+      card.dataset.abstract = (abstract || '').toLowerCase();
+
+      card.innerHTML = `
+        <div class="pub-card-header">
+          <span class="pub-year">${year}</span>
+          <span class="pub-title">${title}</span>
+        </div>
+        <div class="pub-meta">
+          ${doi
+            ? `<a class="pub-doi"
+                  href="https://doi.org/${doi}"
+                  target="_blank"
+                  rel="noopener"
+               >DOI&nbsp;${doi}</a>`
+            : ''}
+          <span class="pub-type">${type}</span>
+        </div>
+        ${abstract
+          ? `<button class="abstract-toggle" aria-expanded="false">
+               <span class="chevron">▶</span> Abstract
+             </button>
+             <div class="abstract-body">${abstract}</div>`
+          : ''}
+      `;
+
+      // abstract accordion
+      const btn = card.querySelector('.abstract-toggle');
+      if (btn) {
+        btn.addEventListener('click', () => {
+          const body = card.querySelector('.abstract-body');
+          const open = body.classList.toggle('visible');
+          btn.classList.toggle('open', open);
+          btn.setAttribute('aria-expanded', open);
+        });
+      }
+
+      container.appendChild(card);
+    });
+  }
+
+  function applyFilters() {
+    const q    = document.getElementById('search').value.toLowerCase().trim();
+    const sort = document.getElementById('sort').value;
+
+    let filtered = allRecords.filter(rec => {
+      if (!q) return true;
+      return (
+        (rec.metadata?.title || '').toLowerCase().includes(q)         ||
+        (rec.doi || '').toLowerCase().includes(q)                      ||
+        stripHtml(rec.metadata?.description || '').toLowerCase().includes(q)
+      );
+    });
+
+    filtered = [...filtered].sort((a, b) => {
+      if (sort === 'newest')
+        return getYear(b).localeCompare(getYear(a));
+      if (sort === 'oldest')
+        return getYear(a).localeCompare(getYear(b));
+      if (sort === 'title')
+        return (a.metadata?.title || '').localeCompare(b.metadata?.title || '');
+      return 0;
+    });
+
+    renderCards(filtered);
+  }
+
+  // ── Fetch ──────────────────────────────────────────────────────
+  async function fetchAll() {
+    const status = document.getElementById('status');
+
+    try {
+      const fetchHits = url =>
+        fetch(url, { headers: { 'Accept': 'application/json' } })
+          .then(r => r.ok ? r.json() : { hits: { hits: [] } })
+          .then(d => d.hits?.hits || []);
+
+      // Run all four primary queries in parallel
+      let [hitsOrcid, hitsName, hitsAccent, hitsRev] = await Promise.all([
+        fetchHits(API_ORCID),
+        fetchHits(API_NAME),
+        fetchHits(API_NAME_ACCENT),
+        fetchHits(API_NAME_REV),
+      ]);
+
+      let hits = [...hitsOrcid, ...hitsName, ...hitsAccent, ...hitsRev];
+
+      // If all three return nothing, fall back to hardcoded DOI lookups
+      if (!hits.length) {
+        const doiFallbackUrls = [
+          `https://zenodo.org/api/records?q=doi:10.5281/zenodo.19339347`,
+          `https://zenodo.org/api/records?q=doi:10.5281/zenodo.19121110`,
+          `https://zenodo.org/api/records?q=doi:10.5281/zenodo.18684516`,
+        ];
+        hits = (await Promise.all(doiFallbackUrls.map(fetchHits))).flat();
+      }
+
+      // Deduplicate by DOI (keep first occurrence)
+      const seen = new Set();
+      hits = hits.filter(r => {
+        const doi = r.doi || r.metadata?.doi;
+        if (!doi) return true;
+        if (seen.has(doi)) return false;
+        seen.add(doi);
+        return true;
+      });
+
+      if (!hits.length) {
+        status.innerHTML = `<p>No publications found for ORCID ${ORCID} on Zenodo.</p>`;
+        return;
+      }
+
+      allRecords = hits;
+
+      // ── Stats ──
+      const withDoi      = hits.filter(r => r.doi || r.metadata?.doi).length;
+      const withAbstract = hits.filter(r => r.metadata?.description).length;
+      const latestYear   = hits
+        .map(getYear)
+        .filter(y => y !== '—')
+        .sort((a, b) => b.localeCompare(a))[0] || '—';
+
+      document.title = 'Oscar Gaitan — Academic Profile';
+
+      document.getElementById('stat-total').textContent    = hits.length;
+      document.getElementById('stat-with-doi').textContent = withDoi;
+      document.getElementById('stat-with-abstract').textContent = withAbstract;
+      document.getElementById('stat-latest').textContent   = latestYear;
+      document.getElementById('stats').hidden    = false;
+      document.getElementById('controls').hidden = false;
+      status.hidden = true;
+
+      applyFilters();
+
+    } catch (err) {
+      status.innerHTML = `
+        <p class="error-msg">Failed to load publications.</p>
+        <p style="margin-top:.5rem;font-size:.85rem;">${err.message}</p>
+        <p style="margin-top:.5rem;font-size:.8rem;color:var(--text-dim);">
+          This may be a CORS issue when opening locally.<br>
+          Try serving the file with a local server:<br>
+          <code style="color:var(--accent);">python3 -m http.server 8080</code>
+        </p>`;
+    }
+  }
+
+  // ── Events ─────────────────────────────────────────────────────
+  document.getElementById('search').addEventListener('input', applyFilters);
+  document.getElementById('sort').addEventListener('change', applyFilters);
+
+  fetchAll();
+</script>
+</body>
+</html>

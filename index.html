@@ -417,6 +417,7 @@
 
 <script>
   const API_ORCID      = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.identifiers.identifier:0009-0007-1904-4547&size=25`;
+  const API_ORCID_P2   = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.identifiers.identifier:0009-0007-1904-4547&size=25&page=2`;
   const API_NAME       = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Oscar+Gaitan%22&size=25`;
   const API_NAME_ACCENT= `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Oscar+Gait%C3%A1n%22&size=25`;
   const API_NAME_REV   = `https://zenodo.org/api/records?q=metadata.creators.person_or_org.name:%22Gaitan%2C+Oscar%22&size=25`;
@@ -549,17 +550,15 @@
           .then(r => r.ok ? r.json() : { hits: { hits: [] } })
           .then(d => d.hits?.hits || []);
 
-      // Run all four primary queries in parallel
-      let [hitsOrcid, hitsName, hitsAccent, hitsRev] = await Promise.all([
+      // Fetch ORCID pages 1 and 2 (Zenodo caps at 25/page for unauthenticated requests)
+      let [hitsOrcid, hitsOrcid2] = await Promise.all([
         fetchHits(API_ORCID),
-        fetchHits(API_NAME),
-        fetchHits(API_NAME_ACCENT),
-        fetchHits(API_NAME_REV),
+        fetchHits(API_ORCID_P2),
       ]);
 
-      let hits = [...hitsOrcid, ...hitsName, ...hitsAccent, ...hitsRev];
+      let hits = [...hitsOrcid, ...hitsOrcid2];
 
-      // If all three return nothing, fall back to hardcoded DOI lookups
+      // If all queries return nothing, fall back to hardcoded DOI lookups
       if (!hits.length) {
         const doiFallbackUrls = [
           `https://zenodo.org/api/records?q=doi:10.5281/zenodo.19339347`,

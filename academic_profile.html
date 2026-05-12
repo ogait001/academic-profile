@@ -324,14 +324,14 @@
 
   <style>
     :root {
-      --bg: #0f0f13;
-      --surface: #16161d;
-      --border: #252533;
-      --accent: #7c6af7;
-      --accent-dim: #4a4390;
-      --text: #e2e2f0;
-      --text-dim: #888899;
-      --tag-bg: #1e1e2e;
+      --bg: #f7f6f3;
+      --surface: #ffffff;
+      --border: #e2deda;
+      --accent: #5046e5;
+      --accent-dim: #7c6af7;
+      --text: #1c1c2e;
+      --text-dim: #6e6e85;
+      --tag-bg: #f0eef9;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -560,8 +560,7 @@
       display: none;
       margin-top: .75rem;
       font-size: .9rem;
-      color: #ffffff;
-      font-weight: bold;
+      color: var(--text);
       border-left: 2px solid var(--accent-dim);
       padding-left: 1rem;
       line-height: 1.75;
@@ -612,7 +611,7 @@
 <header>
   <img src="oscar.jpg" alt="Oscar Gaitan" class="profile-photo">
   <h1 id="profile-name">Oscar Gaitan</h1>
-  <p style="margin:.25rem 0 .6rem; font-size:.95rem; font-weight:bold !important; color:#ffffff !important;">
+  <p style="margin:.25rem 0 .6rem; font-size:.95rem; color:var(--text-dim);">
     Independent Catholic Scholar &middot; Nicaraguan &middot; Los Angeles
   </p>
   <a

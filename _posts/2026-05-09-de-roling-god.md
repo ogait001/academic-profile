@@ -27,10 +27,10 @@ tags:
 
 lang: en
 
-excerpt: "An essay from the Gaitan Topology..."
+excerpt: "An essay from the Gaitan Topology arguing that the primary threat..."
 
 doi: "10.5281/zenodo.20100162"
-record_url: "https://zenodo.org/doi/10.5281/zenodo.20100162"
+record_url: "https://zenodo.org/records/20100162"
 ---
 
 *From the Gaitan Topology*

@@ -13,8 +13,8 @@ layout: default
 <meta name="citation_doi" content="{{ page.doi }}">
 {% endif %}
 
-{% if page.pdf_url %}
-<meta name="citation_pdf_url" content="{{ page.pdf_url }}">
+{% if page.record_url %}
+  <meta name="citation_public_url" content="{{ page.record_url }}">
 {% endif %}
 
 <script type="application/ld+json">
@@ -43,8 +43,8 @@ layout: default
       <p>DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></p>
     {% endif %}
 
-    {% if page.pdf_url %}
-      <p><a href="{{ page.pdf_url }}">Download PDF</a></p>
+    {% if page.record_url %}
+     <p><a href="{{ page.record_url }}">View PDF / Zenodo Record</a></p>
     {% endif %}
   </header>
 

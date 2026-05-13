@@ -4,6 +4,7 @@ title: "One Day: The Opportunity That Never Arrives"
 date: 2026-04-08
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, topology-of-presence, philosophy-of-religion, theological-anthropology, ghost-zone]
+lang: en
 excerpt: "An essay from the Gaitan Topology on the grammar of deferral — how the phrase 'one day' becomes a geometry of displacement, and why the crossing point is the only location where life is actually given."
 ---
 

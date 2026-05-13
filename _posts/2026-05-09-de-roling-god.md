@@ -2,10 +2,36 @@
 layout: post
 title: "De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now"
 date: 2026-05-09
-categories: [philosophy-of-time, catholic-theology, ontology]
-tags: [lemniscate, gaitan-topology, phenomenology, crossing-point, non-derivative-being, community, multitude, das-man, legion, evacuation-of-the-now, ghost-zone, philosophy-of-religion, theological-anthropology, heidegger, eschatology]
+
+categories:
+  - philosophy-of-time
+  - catholic-theology
+  - ontology
+
+tags:
+  - lemniscate
+  - gaitan-topology
+  - phenomenology
+  - crossing-point
+  - non-derivative-being
+  - community
+  - multitude
+  - das-man
+  - legion
+  - evacuation-of-the-now
+  - ghost-zone
+  - philosophy-of-religion
+  - theological-anthropology
+  - heidegger
+  - eschatology
+
 lang: en
+
 excerpt: "An essay from the Gaitan Topology arguing that the primary threat to religious community is not the denial of God's existence but the systematic displacement of His ontological function — the evacuation of the self from the crossing point, thumb-stroke by thumb-stroke, without awareness of loss."
+
+doi: "10.5281/zenodo.20100162"
+
+pdf_url: "https://zenodo.org/records/20100162/files/DE-ROLING%20GOD.pdf"
 ---
 
 *From the Gaitan Topology*

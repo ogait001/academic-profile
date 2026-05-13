@@ -22,6 +22,21 @@ excerpt: >
   What if time is not the powerful one in this relationship? This essay argues that the Now is not a moving point on a timeline but the singular, invariant condition of all actualization — and that the structural question of what holds the Now open points to the only grammar adequate to what is most real: I AM.
 ---
 
+## Contents
+
+1. [The Fear](#i-the-fear)
+2. [What Time Is Not](#ii-what-time-is-not)
+3. [The Dependent Condition](#iii-the-dependent-condition)
+4. [The Now](#iv-the-now)
+5. [The Inversion](#v-the-inversion)
+6. [The Lemniscate](#vi-the-lemniscate)
+7. [One Now](#vii-one-now)
+8. [The Question the Now Raises](#viii-the-question-the-now-raises)
+9. [I AM](#ix-i-am)
+10. [Back to the Question](#x-back-to-the-question)
+
+---
+
 ## I. The Fear
 
 We speak of time as though it were a force pressing against us from outside — a tide that carries us forward whether we consent or not, that erodes us slowly, that will eventually swallow us whole. We say we are running out of time, that time is passing, that we are losing time as though something is being taken from us by an entity with its own agenda and its own momentum.

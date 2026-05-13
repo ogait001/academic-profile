@@ -4,6 +4,8 @@ baseurl: "/academic-profile"
 url: "https://ogait001.github.io"
 theme: minima
 
+google_site_verification: PJlDuChhSovdT4_1ylBNm5jt4_zXlfe53rhJkHQSi7o
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

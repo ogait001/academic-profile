@@ -27,11 +27,10 @@ tags:
 
 lang: en
 
-excerpt: "An essay from the Gaitan Topology arguing that the primary threat to religious community is not the denial of God's existence but the systematic displacement of His ontological function — the evacuation of the self from the crossing point, thumb-stroke by thumb-stroke, without awareness of loss."
+excerpt: "An essay from the Gaitan Topology..."
 
 doi: "10.5281/zenodo.20100162"
-
-pdf_url: "https://zenodo.org/records/20100162/files/DE-ROLING%20GOD.pdf"
+record_url: "https://zenodo.org/doi/10.5281/zenodo.20100162"
 ---
 
 *From the Gaitan Topology*

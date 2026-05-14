@@ -8,6 +8,8 @@ lang: es
 excerpt: "La primera pregunta de Dios a un hombre caído no es una acusación. Es un llamado. Este ensayo examina la geometría de la voluntad en el punto de cruce — a través de Adán, Caín y David — y argumenta que el arrepentimiento no es la causa de la misericordia sino su recepción: la voluntad habiendo agotado sus propios bucles y encontrándose, finalmente, sin nada más que el giro."
 doi: "10.5281/zenodo.19559034"
 record_url: "https://zenodo.org/records/19559034"
+pdf_url: "https://zenodo.org/records/19559034/files/donde-estas.pdf"
+lang: es
 ---
 
 > Nel mezzo del cammin di nostra vita  

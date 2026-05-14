@@ -2,17 +2,18 @@
 layout: default
 ---
 
-# Oscar Gaitan
-
 ## Independent Catholic Philosophical Research
 
-This site collects philosophical essays in **Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology**, including works associated with **The Lemniscate of Time**.
+This site collects philosophical essays in
+**Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology**,
+including works associated with
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**.
+
 
 ## Philosophical Essays
 
 <ul class="post-list">
-{% assign sorted_posts = site.posts %}
-{% for post in sorted_posts %}
+{% for post in site.posts %}
   <li>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h3>

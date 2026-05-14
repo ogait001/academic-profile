@@ -8,6 +8,7 @@ lang: en
 excerpt: "Hope is the last thing that dies — but the topology reveals a second, darker reading: hope is the last thing that dies because the loop needs it to survive. This essay traces three scriptural positions — the Samaritan woman, the widow of Zarephath, and Christ at the well — to ask why the center does not run out."
 doi: "10.5281/zenodo.19476335"
 record_url: "https://zenodo.org/records/19476335"
+pdf_url: "https://zenodo.org/records/19476348/files/why-the-center-does-not-run-out.pdf"
 ---
 
 *From the Gaitan Topology*

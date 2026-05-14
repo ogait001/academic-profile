@@ -17,7 +17,7 @@ lang: es
 
 ---
 
-## Índice
+## Indice
 
 1. [El universo que no podemos ver entero](#i-el-universo-que-no-podemos-ver-entero)
 2. [Orbitar alrededor o cruzar a través](#ii-orbitar-alrededor-o-cruzar-a-través)

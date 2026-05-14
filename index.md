@@ -5,7 +5,7 @@ layout: default
 ## Independent Catholic Philosophical Research
 
 <p class="site-intro">
-This site presents original research in Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology, including works associated with <em>The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession</em>.
+Oscar Gaitan is an independent philosophical researcher whose work focuses on Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology, including the framework developed in <em>The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession</em>.
 </p>
 
 <h2 class="essays-heading">Philosophical Essays</h2>

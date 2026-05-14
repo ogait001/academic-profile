@@ -8,6 +8,7 @@ lang: en
 excerpt: "The 'is' in every statement of existence points toward something it cannot sustain by itself. This essay moves in four directions from that center — through the structure of the present, its communal constitution, its relational depth, and the orientation of the will — arriving at the AM of Exodus as the non-derivative ground the argument requires."
 doi: "10.5281/zenodo.19654743"
 record_url: "https://zenodo.org/records/19654743"
+pdf_url: "https://zenodo.org/records/19654927/files/the-is-and-the-am.pdf"
 ---
 
 *Presence, Identity, and the Ground that Holds*

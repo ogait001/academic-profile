@@ -8,6 +8,7 @@ lang: en
 excerpt: "This essay proposes that identity — the persistence of the self through change — is not a philosophical problem requiring a solution. It is a geometric fact requiring a name: the infinite interior, the continuous asymptotic space between any two states of a being, which is necessarily unbroken, and therefore preserving of the one who undergoes it."
 doi: "10.5281/zenodo.20032817"
 record_url: "https://zenodo.org/records/20032817"
+pdf_url: "https://zenodo.org/records/20032765/files/the-infinite-interior.pdf"
 ---
 
 *A Proposition on Distance, Asymptotic Transition, and the Irreducible One*

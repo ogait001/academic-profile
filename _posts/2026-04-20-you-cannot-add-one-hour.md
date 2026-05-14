@@ -8,6 +8,7 @@ lang: en
 excerpt: "We ask whether we have enough time, whether we are using it well, whether it is running out. We do not ask what it is made of — whether all of it is equally real, equally dense, equally full of what it is capable of containing. This essay argues that time is not uniform, that the will is formed across its crossings, and that the finitude of the passage is not a threat but a description."
 doi: "10.5281/zenodo.19599170"
 record_url: "https://zenodo.org/records/19599170"
+pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"
 ---
 
 ---

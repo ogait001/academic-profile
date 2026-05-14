@@ -6,6 +6,8 @@ categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, memory, grace, ghost-zone, harmonic-echo, providence, phenomenology, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, rosary, incarnation, self-and-identity]
 lang: en
 excerpt: "A full monograph from the Gaitan Topology descending into the interior of the lemniscate framework — mapping the zones of displacement that pull human attention from the crossing point, the harmonic echo of unrealized possibility, and the Ghost Zone where millions live in silence, separated from the only moment where genuine life is possible."
+doi: "10.5281/zenodo.19121110"
+record_url: "https://zenodo.org/records/19121110"
 ---
 
 *From the Gaitan Topology — Second Monograph*

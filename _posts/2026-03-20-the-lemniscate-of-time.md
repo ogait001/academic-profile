@@ -8,6 +8,7 @@ lang: en
 excerpt: "A full monograph from the Gaitan Topology descending into the interior of the lemniscate framework — mapping the zones of displacement that pull human attention from the crossing point, the harmonic echo of unrealized possibility, and the Ghost Zone where millions live in silence, separated from the only moment where genuine life is possible."
 doi: "10.5281/zenodo.19121110"
 record_url: "https://zenodo.org/records/19121110"
+pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
 ---
 
 *From the Gaitan Topology — Second Monograph*

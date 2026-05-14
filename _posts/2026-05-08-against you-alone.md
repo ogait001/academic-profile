@@ -6,6 +6,8 @@ categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [judgement, soul, will, pride, alibi, david, non-serviam, contingency, lemniscate, self-witness, mercy, eschatology, gaitan-topology, ghost-zone, phenomenology]
 lang: en
 excerpt: "An essay on the moment of Judgement not as an external verdict imposed upon the soul but as the soul's first complete self-witness — the moment at which every alibi collapses not because it is refuted, but because the noise that sustained it is gone."
+doi: "10.5281/zenodo.20087687"
+record_url: "https://zenodo.org/records/20087687"
 ---
 
 *From the Gaitan Topology*

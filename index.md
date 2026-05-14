@@ -10,11 +10,29 @@ This site collects philosophical essays in Catholic theology, metaphysics, ontol
 
 <h2 class="essays-heading">Philosophical Essays</h2>
 
+<h2 class="essays-heading">English Essays</h2>
+
 <ul class="post-list">
-{% assign sorted_posts = site.posts | sort: "date" | reverse %}
-{% for post in sorted_posts %}
+{% assign english_posts = site.posts | where: "lang", "en" | sort: "date" | reverse %}
+{% for post in english_posts %}
   <li>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+  </li>
+{% endfor %}
+</ul>
+
+<h2 class="essays-heading">Ensayos en Español</h2>
+
+<ul class="post-list">
+{% assign spanish_posts = site.posts | where: "lang", "es" | sort: "date" | reverse %}
+{% for post in spanish_posts %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%-d %b %Y" }}</span>
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title }}

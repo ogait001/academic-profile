@@ -6,6 +6,8 @@ categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, identity, endurance, uninhabited-now, ship-of-theseus, darwin, natural-selection, ecology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology]
 lang: en
 excerpt: "An essay arguing that endurance is not incidental to identity but constitutive of it — that a being systematically insulated from the pressures that would otherwise shape what it becomes occupies a form without inhabiting it, producing what the Gaitan Topology calls the Uninhabited Now."
+doi: "10.5281/zenodo.19870770"
+record_url: "https://zenodo.org/records/19870770"
 ---
 
 *From the Gaitan Topology*

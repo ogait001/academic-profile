@@ -1,20 +1,31 @@
------
+---
+layout: post
+title: "The Topology of Presence: Four Planes of Existence on the Lemniscate"
+date: 2026-03-01
+categories:
+  - ontology
+  - philosophy-of-time
+  - catholic-theology
 
-## layout: post
-title: “The Topology of Presence: Four Planes of Existence on the Lemniscate”
-date: 2026-03-01 00:00:00 +0000
-categories: [ontology, philosophy-of-time, catholic-theology]
-tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, time-and-eternity, theological-anthropology, philosophy-of-religion, eschatology]
+tags:
+  - lemniscate
+  - gaitan-topology
+  - crossing-point
+  - ghost-zone
+  - phenomenology
+  - self-and-identity
+  - time-and-eternity
+  - theological-anthropology
+  - philosophy-of-religion
+  - eschatology
+
 lang: en
-excerpt: “This essay maps four ontological planes onto the lemniscate — temporality, eternity, visible non-existence, and eternal non-existence — and in doing so produces a complete topology of presence encompassing not only lived experience but the conditions of eternity, evil, hell, and the Ghost Zone.”
+
+excerpt: "This essay maps four ontological planes onto the lemniscate—temporality, eternity, visible non-existence, and eternal non-existence—and in doing so produces a complete topology of presence encompassing not only lived experience but the conditions of eternity, evil, hell, and the Ghost Zone."
+
 doi: "10.5281/zenodo.19339347"
 record_url: "https://zenodo.org/records/19339347"
------
-*Four Planes of Existence on the Lemniscate — Temporality, Eternity, and the Grammar of the Serpent*
-
-*Companion to* The Lemniscate of Time: A Topology of Memory, Possibility, and Grace
-
------
+---
 
 ## Table of Contents
 

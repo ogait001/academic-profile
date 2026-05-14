@@ -24,6 +24,8 @@ tags:
 lang: en
 excerpt: >
   When the self walks away from the crossing point, it does not cease to loop — it begins looping around something else. The structure of devotion is preserved. What changes is the axis. This essay maps the taxonomy of false centers, the mechanics of rupture, and the one fixed point that remains when everything else has moved.
+doi: "10.5281/zenodo.19410632"
+record_url: "https://zenodo.org/records/19410632"
 ---
 
 *Viernes Santo — Los Angeles, April 3, 2026*

@@ -8,6 +8,7 @@ lang: en
 excerpt: "An essay arguing that endurance is not incidental to identity but constitutive of it — that a being systematically insulated from the pressures that would otherwise shape what it becomes occupies a form without inhabiting it, producing what the Gaitan Topology calls the Uninhabited Now."
 doi: "10.5281/zenodo.19870770"
 record_url: "https://zenodo.org/records/19870770"
+pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"
 ---
 
 *From the Gaitan Topology*

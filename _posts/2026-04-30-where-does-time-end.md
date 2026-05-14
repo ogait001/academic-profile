@@ -8,6 +8,7 @@ lang: en
 excerpt: "What happens when time ends—not for the universe, but for the person? Through the framework of the Now, the crossing point, and the lemniscate, this essay traces the structure of Heaven, Purgatory, and Hell as three permanent modes of existing at the crossing point Christ opened. Forever. Never."
 doi: "10.5281/zenodo.19581285"
 record_url: "https://zenodo.org/records/19581285"
+pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"
 ---
 
 *A Meditation on Final States*

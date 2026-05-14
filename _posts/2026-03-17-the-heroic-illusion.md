@@ -18,6 +18,7 @@ excerpt: >
   The Ghost Zone has an upward expression. In it, the self is already coherent, already recognized, the conversation already completed before it begins. This is the Heroic Illusion — not vanity, not exaggeration, but a precise construction: a life that has not yet been lived organizes its decisive moments in advance and begins to inhabit them.
 doi: "10.5281/zenodo.19224539"
 record_url: "https://zenodo.org/records/19224539"
+pdf_url: "https://zenodo.org/records/19447117/files/the-heroic-illusion.pdf"
 ---
 
 *Part II of The Ghost Zone Series*

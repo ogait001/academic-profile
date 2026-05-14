@@ -8,6 +8,7 @@ lang: es
 excerpt: "Existe una forma de discurso en que nadie habla. No se. Dicen. Todo el mundo sabe. Este ensayo examina Das Man de Heidegger a través de Andersen, Kafka, Lope de Vega y la antropología bíblica, y sostiene que la comunión auténtica requiere yos previamente recogidos en la presencia."
 doi: "10.5281/zenodo.19685712"
 record_url: "https://zenodo.org/records/19685712"
+pdf_url: "https://zenodo.org/records/19685712/files/das-man-y-la-primera-persona-del-singular.pdf"
 ---
 
 **Resumen:** Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.

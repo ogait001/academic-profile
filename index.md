@@ -4,13 +4,11 @@ layout: default
 
 ## Independent Catholic Philosophical Research
 
-This site collects philosophical essays in
-**Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology**,
-including works associated with
-**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**.
+<p class="site-intro">
+This site collects philosophical essays in Catholic theology, metaphysics, ontology, philosophy of time, phenomenology, and metaphysical anthropology, including works associated with <em>The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession</em>.
+</p>
 
-
-## Philosophical Essays
+<h2 class="essays-heading">Philosophical Essays</h2>
 
 <ul class="post-list">
 {% for post in site.posts %}

@@ -25,6 +25,8 @@ tags:
 lang: en
 excerpt: >
   Descartes said: I think, therefore I am. He was half right. The thinking was real. The therefore was the error. This essay argues that the cogito grounds certainty in the act of thinking while leaving being itself insufficiently explored — and that what death removes is not the soul but the chain of interference that was obscuring it. I am not because I think. I think because I am.
+doi: "10.5281/zenodo.19842987"
+record_url: "https://zenodo.org/records/19842987"
 ---
 
 ## Contents

@@ -25,6 +25,7 @@ excerpt: >
   What ordinary language calls happiness is insufficient as an account of what human beings are actually seeking. Moving across philosophical, scriptural, and theological registers, this essay argues that happ — what fortune delivers to a passive self — cannot be the ground of what endures. What the crossing point contains, received in full presence and rightly ordered, is not extended but complete. And what is complete is already whole.
 doi: "10.5281/zenodo.20146258"
 record_url: "https://zenodo.org/records/20146258"
+pdf_url: "https://zenodo.org/records/20146275/files/on-happiness.pdf"
 ---
 
 *Non sumus Deus tuus; quaere super nos.*

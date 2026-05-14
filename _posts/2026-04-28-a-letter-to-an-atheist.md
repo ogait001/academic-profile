@@ -17,6 +17,8 @@ tags:
 lang: en
 excerpt: >
   A concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. An infinite regress of existentially dependent realities fails to explain existence; a necessary ground of being provides a more coherent terminus. The question that never goes away is not only a doubt — it is a knock.
+doi: "10.5281/zenodo.19870600"
+record_url: "https://zenodo.org/records/19870600"
 ---
 
 This essay develops a concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. It argues that an infinite regress of existentially dependent realities fails to explain existence and that a necessary ground of being provides a more coherent terminus than a brute contingent universe. Drawing from the classical theist tradition, the paper further examines simplicity, timelessness, and the limits of empirical method.

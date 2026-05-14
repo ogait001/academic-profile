@@ -25,6 +25,7 @@ excerpt: "This essay maps four ontological planes onto the lemniscate—temporal
 
 doi: "10.5281/zenodo.19339347"
 record_url: "https://zenodo.org/records/19339347"
+pdf_url: "https://zenodo.org/records/19339347/files/the-topology-of-presence.pdf"
 ---
 
 ## Table of Contents

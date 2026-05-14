@@ -22,6 +22,8 @@ tags:
 lang: en
 excerpt: >
   This essay examines Martin Heidegger's concept of Das Man through literature, theology, and contemporary social life. It argues that anonymity, conformity, and relational fragility emerge where the first person singular is displaced by impersonal collective forms. Through Hans Christian Andersen, Franz Kafka, Lope de Vega, and biblical anthropology, the essay proposes that authentic communion requires selves first gathered into presence.
+doi: "10.5281/zenodo.19685642"
+record_url: "https://zenodo.org/records/19685642"
 ---
 
 ## Abstract

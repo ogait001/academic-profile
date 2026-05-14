@@ -9,29 +9,61 @@
 
   {% seo %}
 
-  <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"Person",
-    "name":"Oscar Gaitan",
-    "url":"https://ogait001.github.io/academic-profile/",
-    "jobTitle":"Independent Catholic Philosophical Researcher",
-    "knowsAbout": [
-      "Catholic theology",
-      "Metaphysics",
-      "Ontology",
-      "Philosophy of time",
-      "Phenomenology",
-      "Metaphysical anthropology"
-    ],
-    "sameAs": [
-      "https://orcid.org/0009-0007-1904-4547",
-      "https://philpeople.org/profiles/oscar-gaitan",
-      "https://zenodo.org/search?page=1&size=20&q=Gaitan%2C%20Oscar",
-      "https://scholar.google.com/citations?user=huV-MLsAAAAJ"
-    ]
-  }
-  </script>
+  {% if page.layout == "post" %}
+    <meta name="citation_title" content="{{ page.title }}">
+    <meta name="citation_author" content="Oscar Gaitan">
+    <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+    <meta name="citation_abstract_html_url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+    {% if page.doi %}
+      <meta name="citation_doi" content="{{ page.doi }}">
+    {% endif %}
+
+    {% if page.record_url %}
+      <meta name="citation_public_url" content="{{ page.record_url }}">
+    {% endif %}
+
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"ScholarlyArticle",
+      "headline":"{{ page.title | escape }}",
+      "author":{
+        "@type":"Person",
+        "name":"Oscar Gaitan"
+      },
+      "datePublished":"{{ page.date | date: '%Y-%m-%d' }}",
+      "url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+      {% if page.doi %},
+      "identifier":"https://doi.org/{{ page.doi }}"
+      {% endif %}
+    }
+    </script>
+  {% else %}
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"Person",
+      "name":"Oscar Gaitan",
+      "url":"https://ogait001.github.io/academic-profile/",
+      "jobTitle":"Independent Catholic Philosophical Researcher",
+      "knowsAbout": [
+        "Catholic theology",
+        "Metaphysics",
+        "Ontology",
+        "Philosophy of time",
+        "Phenomenology",
+        "Metaphysical anthropology"
+      ],
+      "sameAs": [
+        "https://orcid.org/0009-0007-1904-4547",
+        "https://philpeople.org/profiles/oscar-gaitan",
+        "https://zenodo.org/search?page=1&size=20&q=Gaitan%2C%20Oscar",
+        "https://scholar.google.com/citations?user=huV-MLsAAAAJ"
+      ]
+    }
+    </script>
+  {% endif %}
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 </head>

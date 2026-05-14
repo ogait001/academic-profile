@@ -8,6 +8,7 @@ lang: en
 excerpt: "An essay in speculative metaphysics arguing that the universe does not dissipate because it moves toward Omega — and that Alpha and Omega are not two points on a timeline but the single I AM who holds the entire lemniscate of the cosmos open from outside it."
 doi: "10.5281/zenodo.20112294"
 record_url: "https://zenodo.org/records/20112294"
+pdf_url: "https://zenodo.org/records/20112452/files/alpha-and-omega.pdf"
 ---
 
 *From the Gaitan Topology*

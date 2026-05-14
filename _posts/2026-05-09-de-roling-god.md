@@ -31,6 +31,7 @@ excerpt: "An essay from the Gaitan Topology arguing that the primary threat..."
 
 doi: "10.5281/zenodo.20100162"
 record_url: "https://zenodo.org/records/20100162"
+pdf_url: "https://zenodo.org/records/20099894/files/de-roling-god.pdf"
 ---
 
 *From the Gaitan Topology*

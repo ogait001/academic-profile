@@ -8,6 +8,7 @@ lang: en
 excerpt: "God's first question to a fallen man is not an accusation. It is an address. Through Adam, Cain, and David, this essay traces the two fundamental geometries of the will at the crossing point—and argues that repentance is not the cause of mercy, but the shape of its reception."
 doi: "10.5281/zenodo.19558895"
 record_url: "https://zenodo.org/records/19558895"
+pdf_url: "https://zenodo.org/records/19558910/files/where-are-you.pdf"
 ---
 
 *Second Sunday of Easter — Divine Mercy Sunday*

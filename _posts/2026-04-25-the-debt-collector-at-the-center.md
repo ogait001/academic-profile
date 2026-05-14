@@ -23,6 +23,8 @@ tags:
 lang: en
 excerpt: >
   Any vision of reality governed only by return, repayment, and exact consequence can account for the stones. It cannot account for the voice. This essay argues that karma places the wrong thing at the center of reality — and that the ground of the Now is not a mechanism of proportional return but a person who holds accounts open.
+doi: "10.5281/zenodo.19702597"
+record_url: "https://zenodo.org/records/19702597"
 ---
 
 ## Prelude — The Stone and the Sentence

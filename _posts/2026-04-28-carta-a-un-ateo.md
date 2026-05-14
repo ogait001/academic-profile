@@ -8,6 +8,7 @@ lang: es
 excerpt: "Una regresión infinita de realidades existencialmente dependientes no logra explicar la existencia. Este ensayo examina la contingencia, la terminación explicativa y el ser necesario, y sostiene que un fundamento necesario del ser ofrece un punto de llegada más coherente que un universo contingente bruto."
 doi: "10.5281/zenodo.19871019"
 record_url: "https://zenodo.org/records/19871019"
+pdf_url: "https://zenodo.org/records/19871019/files/carta-a-un-ateo.pdf"
 lang: es
 ---
 

@@ -8,7 +8,7 @@ lang: es
 excerpt: "El Ahora en el que estás es el único Ahora que existe. Este ensayo extiende la topología lemniscata a escala cósmica: desde la expansión del universo hasta el sistema decimal, desde la vida que encuentra su camino hasta Alfa y Omega — el único fundamento que sostiene la línea abierta desde fuera de la línea."
 doi: "10.5281/zenodo.20112562"
 record_url: "https://zenodo.org/records/20112562"
-lang: es
+pdf_url: "https://zenodo.org/records/20112562/files/alfa-y-omega.pdf"
 ---
 
 ---

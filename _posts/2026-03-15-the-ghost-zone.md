@@ -16,6 +16,8 @@ tags:
 lang: en
 excerpt: >
   There is a zone that exists alongside ordinary life — not in the past, not in the future, not even in the realm of possibility. It runs parallel to reality, close enough to mimic presence, but never fully making contact with it. This essay is the first in The Ghost Zone Series, an exploration of the asymptotic life: a way of existing that approaches reality, but never fully touches it.
+doi: "10.5281/zenodo.19100268"
+record_url: "https://zenodo.org/records/19100268"
 ---
 
 *Part I of The Ghost Zone Series*

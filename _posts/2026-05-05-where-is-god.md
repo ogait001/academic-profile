@@ -8,6 +8,7 @@ lang: en
 excerpt: "Where is God when terrible things happen? This essay argues that the question, as commonly posed, rests on a mistaken assumption: that God's presence should appear as intervention within events. God is not an agent within events. God is the sustaining ground of the present moment in which events occur. Without that ground, there is nothing to intervene in."
 doi: "10.5281/zenodo.20044781"
 record_url: "https://zenodo.org/records/20044781"
+pdf_url: "https://zenodo.org/records/20044785/files/where-is-god.pdf"
 ---
 
 *Without God, there is nothing to intervene in.*

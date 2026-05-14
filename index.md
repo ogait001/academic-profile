@@ -11,7 +11,8 @@ This site collects philosophical essays in Catholic theology, metaphysics, ontol
 <h2 class="essays-heading">Philosophical Essays</h2>
 
 <ul class="post-list">
-{% for post in site.posts %}
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
+{% for post in sorted_posts %}
   <li>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h3>

@@ -20,6 +20,8 @@ tags:
 lang: en
 excerpt: >
   What if time is not the powerful one in this relationship? This essay argues that the Now is not a moving point on a timeline but the singular, invariant condition of all actualization — and that the structural question of what holds the Now open points to the only grammar adequate to what is most real: I AM.
+doi: "10.5281/zenodo.19502525"
+record_url: "https://zenodo.org/records/19502525"
 ---
 
 ## Contents

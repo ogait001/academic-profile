@@ -8,6 +8,7 @@ lang: en
 excerpt: "An essay from the Gaitan Topology on the grammar of deferral — how the phrase 'one day' becomes a geometry of displacement, and why the crossing point is the only location where life is actually given."
 doi: "10.5281/zenodo.19475979"
 record_url: "https://zenodo.org/records/19475979"
+pdf_url: "https://zenodo.org/records/19475956/files/one-day-the-opportunity-that-never-arrives.pdf"
 ---
 
 *From the Gaitan Topology — Part of The Ghost Zone Essay Series*

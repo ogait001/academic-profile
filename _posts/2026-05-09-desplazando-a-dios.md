@@ -8,6 +8,7 @@ lang: es
 excerpt: "Este ensayo sostiene que la amenaza principal a la comunidad religiosa en el mundo moderno no es la negación de la existencia de Dios, sino el desplazamiento sistemático de Su función ontológica. El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, lo que ningún imperio consiguió por la fuerza: la partida voluntaria del yo desde el punto de cruce, pulgarada tras pulgarada, sin conciencia de pérdida."
 doi: "10.5281/zenodo.20100210"
 record_url: "https://zenodo.org/records/20100210"
+pdf_url: "https://zenodo.org/records/20100210/files/desplazando-a-dios.pdf"
 ---
 
 > El concepto de pecado no necesita ser prohibido. Solo necesita volverse pintoresco.

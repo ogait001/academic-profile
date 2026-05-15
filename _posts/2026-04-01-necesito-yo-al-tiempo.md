@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/19513936/files/necesito-yo-al-tiempo.pdf"
 excerpt: "Una reflexión sobre el tiempo, la presencia y el fundamento del ser."
 ---
 
-## Índice
+## Indice
 
 - [I. El miedo](#i-el-miedo)
 - [II. Lo que el tiempo no es](#ii-lo-que-el-tiempo-no-es)
@@ -210,6 +210,6 @@ Oscar Gaitan desarrolla este marco como parte de una topología más amplia del 
 
 ---
 
-*Oscar Gaitan · Los Ángeles, abril de 2026*
+*Oscar Gaitan · Los Angeles, 22 abril de 2026*
 
-CC BY-NC 4.0
+

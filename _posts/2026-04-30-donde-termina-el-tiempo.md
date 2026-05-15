@@ -1,14 +1,14 @@
 ---
 layout: post
-title: “¿Dónde termina el tiempo? Los Tres Ahoras”
+title: "¿Dónde termina el tiempo? Los Tres Ahoras"
 date: 2026-04-30
 categories: [catholic-theology, philosophy-of-time, ontology]
-tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, eschatology, time-and-eternity, self-and-identity, philosophy-of-religion, theological-anthropology]
+tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology]
 lang: es
 doi: "10.5281/zenodo.19581332"
 record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
-excerpt: “Una meditación estructural sobre los estados finales — el Cielo, el Purgatorio y el Infierno — reinterpretados como tres modos permanentes de existir en el punto de cruce que Cristo abrió: el Ahora sin fin, el Ahora ordenado, y el Ahora invertido."
+excerpt: "Meditación estructural sobre los estados finales."
 ---
 
 *Para siempre. Nunca.*

@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/19389347/files/la-serpiente-el-ser-y-el-col
 excerpt: "La curva de la serpiente no tiene punto de cruce. Nunca pasa por el centro. Nunca retorna al Ahora. Este ensayo propone que la tentación original — y su iteración digital moderna — no es una rebelión dramática sino una deriva estructural: el abandono silencioso del punto de cruce hacia una pseudo-lemniscata que imita el movimiento de la presencia sin habitarla jamás."
 ---
 
-## Índice
+## Indice
 
 - [I. La Curva de la Serpiente](#i-la-curva-de-la-serpiente)
 - [II. La Gramática de la Deriva](#ii-la-gramática-de-la-deriva)

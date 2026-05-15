@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/19655047/files/el-es-y-el-soy.pdf"
 excerpt: "¿Qué es el 'es' en toda afirmación de existencia, y qué lo mantiene abierto? Este ensayo explora la estructura del es a través de cuatro movimientos — su arquitectura temporal, su constitución comunitaria, su profundidad relacional, y la orientación de la que depende su fundamento — llegando al SOY del Éxodo como el único es que no requiere ningún fundamento detrás de él."
 ---
 
-## Índice
+## Indice
 
 - [Nota sobre este ensayo y su contexto](#nota-sobre-este-ensayo-y-su-contexto)
 - [Nota sobre método y género](#nota-sobre-método-y-género)

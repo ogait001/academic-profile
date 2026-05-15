@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/19843193/files/el-soy-que-permanece.pdf"
 excerpt: "Descartes dijo: pienso, luego existo. Tenía razón a medias. El pensamiento era real. El 'luego' fue el error. Este ensayo argumenta que el alma no es constituida por el pensamiento sino que lo fundamenta — y que la muerte, al retirar la cadena de interferencia sensorial y pasional, no destruye al alma sino que la libera hacia su modo propio de conocimiento."
 ---
 
-## Índice
+## Indice
 
 - [I. El error en el "por lo tanto"](#i-el-error-en-el-por-lo-tanto)
 - [II. La cadena de interferencia](#ii-la-cadena-de-interferencia)

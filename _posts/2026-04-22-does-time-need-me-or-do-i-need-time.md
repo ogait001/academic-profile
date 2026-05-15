@@ -23,6 +23,7 @@ excerpt: >
 doi: "10.5281/zenodo.19502525"
 record_url: "https://zenodo.org/records/19502525"
 pdf_url: "https://zenodo.org/records/19502525/files/does-time-need-me-or-do-i-need-time.pdf"
+translation_url: https://ogait001.github.io/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html
 ---
 
 ## Contents

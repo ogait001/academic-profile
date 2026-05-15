@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "El 'Soy' que Permanece: Una crítica a Descartes y una metafísica del alma"
 date: 2026-04-20

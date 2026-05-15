@@ -8,7 +8,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
+  {% if page.translation_url %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
+  {% if page.lang == "en" %}
+    <link rel="alternate" hreflang="es" href="https://ogait001.github.io{{ page.translation_url }}">
+  {% elsif page.lang == "es" %}
+    <link rel="alternate" hreflang="en" href="https://ogait001.github.io{{ page.translation_url }}">
+  {% endif %}
+{% endif %} 
   {% if page.doi %}
     <meta name="citation_title" content="{{ page.title }}">
     <meta name="citation_author" content="Oscar Gaitan">

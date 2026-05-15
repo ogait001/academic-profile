@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/20032897/files/el-interior-infinito.pdf"
 excerpt: "El reemplazo requiere un límite. La continuidad no admite ninguno. Este ensayo propone que la identidad — la persistencia del ser a través del cambio — no es un problema filosófico que requiere una solución. Es un hecho geométrico que requiere un nombre: el interior infinito, el espacio asintótico continuo entre dos estados cualesquiera de un ser, necesariamente ininterrumpido y por lo tanto preservador del que lo atraviesa."
 ---
 
-## Índice
+## Indice
 
 - [I. El Problema del Cambio](#i-el-problema-del-cambio)
 - [II. El Espacio como Condición, no como Contenedor](#ii-el-espacio-como-condición-no-como-contenedor)

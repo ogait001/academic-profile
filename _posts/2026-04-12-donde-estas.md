@@ -21,7 +21,7 @@ lang: es
 
 ---
 
-## Índice
+## Indice
 
 - [I. El llamado](#i-el-llamado)
 - [II. La segunda pregunta](#ii-la-segunda-pregunta)

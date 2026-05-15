@@ -1,6 +1,6 @@
 ---
 
-## layout: post
+layout: post
 title: “¿Dónde termina el tiempo? Los Tres Ahoras”
 date: 2026-04-30
 categories: [catholic-theology, philosophy-of-time, ontology]

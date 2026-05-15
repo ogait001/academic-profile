@@ -19,7 +19,7 @@ El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, l
 
 ---
 
-## Índice
+## Indice
 
 - [Resumen](#resumen)
 - [Nota sobre el método](#nota-sobre-el-método)

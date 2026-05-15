@@ -11,7 +11,7 @@ pdf_url: "https://zenodo.org/records/19870865/files/la-seleccion-artificial.pdf"
 excerpt: "¿Es la resistencia necesaria para la identidad? Este ensayo sostiene que sí — no como prescripción moral sino como descripción estructural de cómo los seres llegan a ser lo que son. Un ser sistemáticamente aislado de las presiones que de otro modo constituirían lo que llega a ser ocupa una forma. No la habita. A través de Darwin, la ecología, el barco de Teseo y la ontología del Ahora, el ensayo diagnostica la cultura del reemplazo como una ingeniería del Ahora Deshabitado."
 ---
 
-## Índice
+## Indice
 
 - [I. La tesis](#i-la-tesis)
 - [II. Lo que Darwin realmente encontró](#ii-lo-que-darwin-realmente-encontró)

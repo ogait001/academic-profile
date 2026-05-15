@@ -15,7 +15,7 @@ excerpt: "Este ensayo sostiene que cualquier visión de la realidad gobernada ú
 
 ---
 
-## Índice
+## Indice
 
 - [Preludio — La piedra y la sentencia](#preludio--la-piedra-y-la-sentencia)
 - [I. El sistema cerrado](#i-el-sistema-cerrado)

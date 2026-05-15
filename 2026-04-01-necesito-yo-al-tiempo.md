@@ -3,7 +3,7 @@ layout: post
 title: "¿Necesito yo al tiempo, o necesita el tiempo de mí?"
 date: 2026-04-22
 categories: [philosophy-of-time, ontology, catholic-theology]
-tags: [time, presence, ontology, invariance, lemniscate, metaphysics, gaitan-topology, crossing-point, time-and-eternity, philosophy-of-religion]
+tags: [time, presence, ontology, invariance, lemniscate, metaphysics]
 lang: es
 doi: "10.5281/zenodo.19513936"
 record_url: "https://zenodo.org/records/19513936"
@@ -11,6 +11,9 @@ pdf_url: "https://zenodo.org/records/19513936/files/necesito-yo-al-tiempo.pdf"
 excerpt: "Si el tiempo depende del cambio, el cambio de la materia, y la materia del Ahora, ¿qué sostiene el Ahora mismo? Un ensayo sobre la ontología del presente: el Ahora como punto de grosor cero, condición invariante de toda actualización, y el fundamento que lo mantiene abierto — el que no dice *yo era* ni *yo seré*, sino simplemente YO SOY."
 ---
 
+*Parte del corpus de la* [*Lemniscata del Tiempo*](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
+
+---
 
 ## Indice
 
@@ -213,4 +216,3 @@ Oscar Gaitan desarrolla este marco como parte de una topología más amplia del 
 
 *Oscar Gaitan · Los Ángeles, abril de 2026*
 
-CC BY-NC 4.0

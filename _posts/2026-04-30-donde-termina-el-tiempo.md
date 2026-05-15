@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: “¿Dónde termina el tiempo? Los Tres Ahoras”
 date: 2026-04-30
@@ -15,7 +14,7 @@ excerpt: “Una meditación estructural sobre los estados finales — el Cielo, 
 *Para siempre. Nunca.*
 *Una meditación sobre los estados finales.*
 
-## Índice
+## Indice
 
 - [I. El prefacio de esta indagación](#i-el-prefacio-de-esta-indagación)
 - [II. Lo que significaría el fin del tiempo](#ii-lo-que-significaría-el-fin-del-tiempo)

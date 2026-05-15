@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19581332"
 record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
-excerpt: “Una meditación estructural sobre los estados finales — el Cielo, el Purgatorio y el Infierno — reinterpretados como tres modos permanentes de existir en el punto de cruce que Cristo abrió: el Ahora sin fin, el Ahora ordenado, y el Ahora invertido.”
+excerpt: “Una meditación estructural sobre los estados finales — el Cielo, el Purgatorio y el Infierno — reinterpretados como tres modos permanentes de existir en el punto de cruce que Cristo abrió: el Ahora sin fin, el Ahora ordenado, y el Ahora invertido."
 ---
 
 *Para siempre. Nunca.*

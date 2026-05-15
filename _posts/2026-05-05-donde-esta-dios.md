@@ -15,7 +15,7 @@ pdf_url: "https://zenodo.org/records/20044903/files/donde-esta-dios.pdf"
 
 ---
 
-## Índice
+## Indice
 
 - [Resumen](#resumen)
 - [Nota sobre Fuentes y Método](#nota-sobre-fuentes-y-método)

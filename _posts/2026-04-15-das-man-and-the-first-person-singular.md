@@ -25,6 +25,7 @@ excerpt: >
 doi: "10.5281/zenodo.19685642"
 record_url: "https://zenodo.org/records/19685642"
 pdf_url: "https://zenodo.org/records/19685599/files/das-man-and-the-first-person-singular.pdf"
+translation_url: "/academic-profile/philosophy-of-time/ontology/2026/04/30/das-man-primera-persona.html"
 ---
 
 ## Abstract

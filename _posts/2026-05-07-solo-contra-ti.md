@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solo Contra Ti: Sobre el Juicio, el Alma como Testigo de Sí Misma, y las Dos Respuestas que Permanecen"
-date: 2026-05-10
+date: 2026-05-08
 categories: [catholic-theology, ontology, metaphysical-anthropology]
 tags: [judgement, soul, conscience, witness, responsibility, grace]
 lang: es

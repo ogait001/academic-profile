@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Meanings of 'Is': Heidegger's Horizon and the Crossing Point"
-date: 2026-05-01 00:00:00 +0000
+date: 2026-04-21 00:00:00 +0000
 categories: [ontology, philosophy-of-time]
 tags: [gaitan-topology, crossing-point, self-and-identity, phenomenology, time-and-eternity, philosophy-of-religion, theological-anthropology]
 lang: en

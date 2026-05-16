@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Puedes Añadir una Hora"
+title: "No Puedes Añadir una Hora: Sobre la densidad temporal, la formación de la voluntad y la finitud del cruce"
 date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [time, will, finitude, crossing-point, lemniscate, metaphysics]

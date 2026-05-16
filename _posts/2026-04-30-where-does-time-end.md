@@ -9,6 +9,7 @@ excerpt: "What happens when time ends—not for the universe, but for the person
 doi: "10.5281/zenodo.19581285"
 record_url: "https://zenodo.org/records/19581285"
 pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"
+translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/04/30/donde-termina-el-tiempo.html"
 ---
 
 *A Meditation on Final States*

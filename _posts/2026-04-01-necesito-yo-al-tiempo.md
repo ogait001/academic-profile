@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Necesito yo al tiempo, o necesita el tiempo de mí?"
+title: "¿Necesito yo al tiempo, o necesita el tiempo de mí? La ontología del Ahora, la invarianza de la presencia y el fundamento del ser"
 date: 2026-04-22
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [time, presence, ontology, invariance, lemniscate, metaphysics]

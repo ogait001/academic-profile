@@ -23,7 +23,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <table>
 <tr>
-<<td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
+<td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
 <td><a href="/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html">Where Is God?</a></td>
 </tr>
 <tr>
@@ -31,8 +31,8 @@ Essays written for both scholarly readers and the philosophically curious.
 <td><a href="/academic-profile/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html">The Infinite Interior</a></td>
 </tr>
 <tr>
-<td><a href="/academic-profile/ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html">Das Man and the First Person Singular</a></td>
-<td><a href="/academic-profile/ontology/philosophy-of-time/2026/04/29/zero-returned.html">Zero Returned</a></td>
+<td><a href="/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
+<td><a href="/academic-profile/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
 </tr>
 </table>
 

@@ -9,7 +9,7 @@ excerpt: "An essay arguing that endurance is not incidental to identity but cons
 doi: "10.5281/zenodo.19870770"
 record_url: "https://zenodo.org/records/19870770"
 pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"
-translation_url: "https://ogait001.github.io/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/01/la-seleccion-artificial.html"
+translation_url: "https://ogait001.github.io/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html"
 ---
 
 *From the Gaitan Topology*

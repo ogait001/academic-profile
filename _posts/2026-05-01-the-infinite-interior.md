@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Infinite Interior: On Space, Change, and the Integrity of the Self"
-date: 2026-05-01 00:00:00 +0000
+date: 2026-05-05 00:00:00 +0000
 categories: [ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, self-and-identity, phenomenology, time-and-eternity, theological-anthropology, philosophy-of-religion]
 lang: en

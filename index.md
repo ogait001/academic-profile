@@ -26,7 +26,7 @@ Essays written for both scholarly readers and the philosophically curious.
 </tr>
 <tr>
 <td><a href="/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
-<td><a href="/academic-profile/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo</a></td>
+<td><a href="/academic-profile/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When we stopped Asking</a></td>
 </tr>
 <tr>
 <td><a href="/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>

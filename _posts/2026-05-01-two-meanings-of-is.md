@@ -9,6 +9,7 @@ excerpt: "Heidegger correctly recovered the question of Being, but temporal hori
 doi: "10.5281/zenodo.19684052"
 record_url: "https://zenodo.org/records/19684052"
 pdf_url: "https://zenodo.org/records/19684023/files/two-meanings-of-is.pdf"
+translation_url: "/academic-profile/ontology/phenomenology/philosophy-of-time/2026/04/21/dos-significados-del-es.html"
 ---
 
 *Heidegger's Horizon and the Crossing Point*

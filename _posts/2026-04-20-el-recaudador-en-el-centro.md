@@ -8,6 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19702737"
 record_url: "https://zenodo.org/records/19702737"
 pdf_url: "https://zenodo.org/records/19702737/files/el-recaudador-en-el-centro.pdf"
+translation_url: "/academic-profile/ontology/catholic-theology/philosophy-of-time/2026/04/25/the-debt-collector-at-the-center.html"
 excerpt: "Este ensayo sostiene que cualquier visión de la realidad gobernada únicamente por el retorno, el pago y la consecuencia exacta no puede dar cuenta del momento en que Cristo habla a la mujer sorprendida en adulterio. Puede dar cuenta de las piedras. No puede dar cuenta de la voz. El karma cierra el Ahora. La misericordia lo mantiene abierto."
 ---
 

@@ -18,14 +18,16 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ## Featured Essays
 
+## Featured Essays
+
 <table>
 <tr>
 <td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
 <td><a href="/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html">Where Is God?</a></td>
 </tr>
 <tr>
-<td><a href="/academic-profile/ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.html">A Letter to an Atheist</a></td>
-<td><a href="/academic-profile/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html">The Infinite Interior</a></td>
+<td><a href="/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
+<td><a href="/academic-profile/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo</a></td>
 </tr>
 <tr>
 <td><a href="/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>

@@ -23,7 +23,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <table>
 <tr>
-<td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
+<<td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
 <td><a href="/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html">Where Is God?</a></td>
 </tr>
 <tr>

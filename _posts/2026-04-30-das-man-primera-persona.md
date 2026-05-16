@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Man y la primera persona del singular: Sobre el anonimato, el desplazamiento y las condiciones de la comunión auténtica"
-date: 2026-04-30
+date: 2026-04-21
 categories: [philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, theological-anthropology, philosophy-of-religion]
 lang: es

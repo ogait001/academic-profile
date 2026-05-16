@@ -9,6 +9,7 @@ doi: "10.5281/zenodo.19476451"
 record_url: "https://zenodo.org/records/19476451"
 pdf_url: "https://zenodo.org/records/19476451/files/por-que-el-centro-no-se-agota.pdf"
 excerpt: "La curva de la serpiente se sostiene precisamente manteniendo la esperanza viva y la plenitud permanentemente fuera de alcance. El punto de cruce no se agota porque no es un recurso — es una posición. Lo que determina si un don satisface o genera nueva carencia no es el don mismo, sino la posición en la curva desde la cual es recibido."
+translation_url: "/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/04/08/why-the-center-does-not-run-out.html"
 ---
 
 *Desde la Topología Gaitan · Parte del corpus de la* [*Lemniscata del Tiempo*](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)

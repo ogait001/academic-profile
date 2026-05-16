@@ -27,6 +27,7 @@ excerpt: >
 doi: "10.5281/zenodo.19410632"
 record_url: "https://zenodo.org/records/19410632"
 pdf_url: "https://zenodo.org/records/19410477/files/the-alternate-lemniscate.pdf"
+translation_url: "/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/03/la-lemniscata-alterna.html"
 ---
 
 *Viernes Santo — Los Angeles, April 3, 2026*

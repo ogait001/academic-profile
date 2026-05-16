@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zero Returned: An Ontological Reading of Decimal Structure"
+title: "Zero Returned: What decimal notation suggests about Repetition, Identity, and Infinity"
 date: 2026-04-29
 categories: [ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, self-and-identity, time-and-eternity]

@@ -24,6 +24,9 @@ translation_url: "/academic-profile/philosophy-of-time/ontology/2026/05/16/non-t
 excerpt: "La pregunta no desaparece por prohibición. Lo que la cultura algorítmica produce no es la pregunta prohibida, sino la pregunta innecesaria. El non te egeo no responde la pregunta por el fundamento — la vuelve irrelevante."
 ---
 
+> Una pregunta que se siente redundante nunca se formula. Y un sujeto que nunca pregunta está, en el sentido filosófico más exacto, deshabitado.
+
+---
 
 ## Contenido
 

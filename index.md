@@ -9,14 +9,11 @@ title: Oscar Gaitan — Philosophy & Catholic Thought
 
 Essays written for both scholarly readers and the philosophically curious.
 
-<p>
+<<p>
   <a href="/academic-profile/essays/">📚 Read Essays</a> |
   <a href="https://zenodo.org/search?page=1&size=20&q=Gaitan%2C%20Oscar">Zenodo</a> |
-  <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a> |
-  <a href="https://orcid.org/0009-0007-1904-4547">ORCID</a> |
-  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
+  <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </p>
-
 ---
 
 ## Featured Essays

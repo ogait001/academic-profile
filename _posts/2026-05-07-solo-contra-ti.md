@@ -8,6 +8,7 @@ lang: es
 doi: "10.5281/zenodo.20088406"
 record_url: "https://zenodo.org/records/20088406"
 pdf_url: "https://zenodo.org/records/20088406/files/solo-contra-ti.pdf"
+translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html"
 excerpt: "El Juicio no es un veredicto externo impuesto al alma, sino el primer testimonio completo del alma sobre sí misma — el momento en que la cadena de interferencia que oscureció la voluntad a lo largo de la vida temporal es eliminada de manera permanente, y el alma ve lo que construyó exactamente como Dios siempre lo vio. Solo contra ti — o Non Serviam. No hay una tercera respuesta. Nunca la hubo."
 ---
 

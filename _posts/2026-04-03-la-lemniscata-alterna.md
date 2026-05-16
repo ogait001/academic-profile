@@ -8,6 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19410726"
 record_url: "https://zenodo.org/records/19410726"
 pdf_url: "https://zenodo.org/records/19410726/files/la-lemniscata-alterna.pdf"
+translation_url: "/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/03/the-alternate-lemniscate.html"
 excerpt: "El yo no deja de trazar el bucle cuando abandona a Dios. Comienza a trazarlo alrededor de otra cosa. Este ensayo propone que el pecado, la adicción y el colapso moral no representan desorden sino orden en la clave equivocada — una lemniscata alterna con un centro falso en lugar del punto de cruce. A través de una taxonomía de seis centros falsos y su mecánica de ruptura, el ensayo traza la geometría del desplazamiento y el camino de regreso."
 ---
 

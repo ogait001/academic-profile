@@ -11,7 +11,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <div class="hero-buttons">
   <a href="/academic-profile/essays/">Read Essays</a>
-  <a href="https://zenodo.org/search?page=1&size=20&q=Gaitan%2C%20Oscar">Zenodo</a>
+  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
 ---

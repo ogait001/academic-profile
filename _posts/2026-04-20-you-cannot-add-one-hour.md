@@ -9,6 +9,7 @@ excerpt: "We ask whether we have enough time, whether we are using it well, whet
 doi: "10.5281/zenodo.19599170"
 record_url: "https://zenodo.org/records/19599170"
 pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"
+translation_url: "/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/04/20/no-puedes-anadir-una-hora.html"
 ---
 
 ---

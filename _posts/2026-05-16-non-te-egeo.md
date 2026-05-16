@@ -19,7 +19,7 @@ tags:
 lang: en
 doi: "10.5281/zenodo.20242868"
 record_url: "https://zenodo.org/records/20242868"
-pdf_url: "https://zenodo.org/records/20242868/files/non-te-egeo-when-we-stopped-asking.pdf"
+pdf_url: "https://zenodo.org/records/20242868/files/non_te_egeo.pdf"
 translation_url: "/academic-profile/philosophy-of-time/ontology/2026/05/16/no-te-necesito.html"
 excerpt: "The question is not a symptom of ignorance — it is the form that genuine subjectivity takes. Algorithmic culture does not forbid asking; it produces something more complete: the unnecessary question. This essay traces the movement from non serviam to non te egeo — from refusal to indifference — as the defining spiritual and philosophical condition of the present moment."
 ---

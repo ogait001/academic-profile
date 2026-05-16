@@ -9,6 +9,7 @@ excerpt: "El Ahora en el que estás es el único Ahora que existe. Este ensayo e
 doi: "10.5281/zenodo.20112562"
 record_url: "https://zenodo.org/records/20112562"
 pdf_url: "https://zenodo.org/records/20112562/files/alfa-y-omega.pdf"
+translation_url: "/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html"
 ---
 
 ---

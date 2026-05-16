@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Dónde termina el tiempo? Los Tres Ahoras"
+title: "¿Dónde termina el tiempo? Los Tres Ahoras: Para siempre. Nunca."
 date: 2026-04-30
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology]

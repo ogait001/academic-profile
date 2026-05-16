@@ -16,7 +16,6 @@ Essays written for both scholarly readers and the philosophically curious.
 </div>
 ---
 
-## Featured Essays
 
 ## Featured Essays
 

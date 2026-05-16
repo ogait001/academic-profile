@@ -9,6 +9,7 @@ excerpt: "La primera pregunta de Dios a un hombre caído no es una acusación. E
 doi: "10.5281/zenodo.19559034"
 record_url: "https://zenodo.org/records/19559034"
 pdf_url: "https://zenodo.org/records/19559034/files/donde-estas.pdf"
+translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/04/12/where-are-you.html"
 lang: es
 ---
 

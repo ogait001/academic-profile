@@ -9,6 +9,7 @@ doi: "10.5281/zenodo.19684135"
 record_url: "https://zenodo.org/records/19684135"
 pdf_url: "https://zenodo.org/records/19684135/files/dos-significados-del-es.pdf"
 excerpt: "Una lectura ontológica del 'es' entre Heidegger y el Punto de Cruce."
+translation_url: "/academic-profile/ontology/philosophy-of-time/2026/04/21/two-meanings-of-is.html"
 ---
 
 ## Nota sobre la relación con trabajos anteriores

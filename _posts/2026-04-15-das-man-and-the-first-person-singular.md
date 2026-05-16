@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Man and the First Person Singular: On Anonymity, Displacement, and the Conditions of Authentic Communion"
-date: 2026-04-15 00:00:00 -0500
+date: 2026-04-21 00:00:00 -0500
 categories: [ontology, phenomenology]
 tags:
   - lemniscate

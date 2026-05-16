@@ -9,6 +9,7 @@ excerpt: "This essay proposes that identity — the persistence of the self thro
 doi: "10.5281/zenodo.20032817"
 record_url: "https://zenodo.org/records/20032817"
 pdf_url: "https://zenodo.org/records/20032765/files/the-infinite-interior.pdf"
+translation_url: "/academic-profile/ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior-infinito.html"
 ---
 
 *A Proposition on Distance, Asymptotic Transition, and the Irreducible One*

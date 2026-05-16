@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19870865"
 record_url: "https://zenodo.org/records/19870865"
 pdf_url: "https://zenodo.org/records/19870865/files/la-seleccion-artificial.pdf"
-translation_url: "/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html"
+translation_url: /academic-profile/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html
 excerpt: "¿Es la resistencia necesaria para la identidad? Este ensayo sostiene que sí — no como prescripción moral sino como descripción estructural de cómo los seres llegan a ser lo que son. Un ser sistemáticamente aislado de las presiones que de otro modo constituirían lo que llega a ser ocupa una forma. No la habita. A través de Darwin, la ecología, el barco de Teseo y la ontología del Ahora, el ensayo diagnostica la cultura del reemplazo como una ingeniería del Ahora Deshabitado."
 ---
 

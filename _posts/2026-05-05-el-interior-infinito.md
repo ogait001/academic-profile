@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Interior Infinito: Sobre el Espacio, el Cambio y la Integridad del Ser"
-date: 2026-05-01
+date: 2026-05-05
 categories: [ontology, philosophy-of-time, metaphysics]
 tags: [space, change, identity, interiority, metaphysical-anthropology, lemniscate]
 lang: es

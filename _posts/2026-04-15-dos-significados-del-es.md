@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dos significados del 'es': El horizonte de Heidegger y el Punto de Cruce"
-date: 2026-04-20
+date: 2026-04-21
 categories: [ontology, phenomenology, philosophy-of-time]
 tags: [heidegger, lemniscate, gaitan-topology, crossing-point, metaphysics]
 lang: es

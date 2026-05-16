@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essays
-permalink: /academic-profile/essays/
+permalink: /essays/
 ---
 
 # Essays

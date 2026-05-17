@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.19581332"
 record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/30/where-does-time-end.html
-excerpt: "Meditación estructural sobre los estados finales."
+excerpt: "¿Qué ocurre cuando el tiempo termina — no para el universo, sino para la persona? A través del marco del Ahora, el punto de cruce y la lemniscata, este ensayo traza la estructura del Cielo, el Purgatorio y el Infierno como tres modos permanentes de existir en el punto de cruce que Cristo abrió. Para siempre. Nunca."
 ---
 
 *Para siempre. Nunca.*

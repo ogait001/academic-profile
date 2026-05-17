@@ -14,23 +14,25 @@ Essays written for both scholarly readers and the philosophically curious.
   <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
----
 
+---
 
 ## Featured Essays
 
 <table>
 <tr>
-<td><a href="/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
-<td><a href="/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html">Where Is God?</a></td>
+<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
+<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html">Where Is God?</a></td>
 </tr>
+
 <tr>
-<td><a href="/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
-<td><a href="/academic-profile/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When we stopped Asking</a></td>
+<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
+<td><a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a></td>
 </tr>
+
 <tr>
-<td><a href="/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
-<td><a href="/academic-profile/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
+<td><a href="/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
 </tr>
 </table>
 

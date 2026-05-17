@@ -21,8 +21,7 @@ tags:
   - acceptance
   - beatitudes
 lang: en
-excerpt: >
-  What ordinary language calls happiness is insufficient as an account of what human beings are actually seeking. Moving across philosophical, scriptural, and theological registers, this essay argues that happ — what fortune delivers to a passive self — cannot be the ground of what endures. What the crossing point contains, received in full presence and rightly ordered, is not extended but complete. And what is complete is already whole.
+excerpt: "A philosophical and theological inquiry into happiness, arguing that what human beings seek is not fleeting satisfaction but enduring fullness, and that finite goods cannot satisfy the deeper desire for permanence that structures human longing."
 doi: "10.5281/zenodo.20146258"
 record_url: "https://zenodo.org/records/20146258"
 pdf_url: "https://zenodo.org/records/20146275/files/on-happiness.pdf"

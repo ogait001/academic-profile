@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.20146381"
 record_url: "https://zenodo.org/records/20146381"
 pdf_url: "https://zenodo.org/records/20146381/files/sobre-la-felicidad.pdf"
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html
-excerpt: "Lo que el lenguaje ordinario llama felicidad — *happ*, fortuna, lo que entrega la circunstancia — no es lo que los seres humanos buscan realmente cuando usan esa palabra. Un examen filosófico de la duración de la felicidad, la distinción entre residencia y referencia en el bucle de la memoria, y por qué ṭūwayhūn — correctamente ordenado en el punto de cruce — da mejor cuenta de lo que la tradición llama *beatitudo* que cualquier marco de la contingencia externa."
+excerpt: "Una indagación filosófica y teológica sobre la felicidad, argumentando que lo que el ser humano busca no es una satisfacción pasajera, sino una plenitud perdurable, y que los bienes finitos no pueden satisfacer el deseo más profundo de permanencia que estructura el anhelo humano."
 ---
 
 *Non sumus Deus tuus; quaere super nos.*

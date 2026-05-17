@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.19894007"
 record_url: "https://zenodo.org/records/19894007"
 pdf_url: "https://zenodo.org/records/19894007/files/el-cero-que-regresa.pdf"
 excerpt: "Una reflexión ontológica sobre repetición, identidad e infinito desde la notación decimal."
-translation_url: "/academic-profile/ontology/philosophy-of-time/2026/04/29/zero-returned.html"
+translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 ---
 
 > **5 + 5 ≡ 0 (mod 10)**

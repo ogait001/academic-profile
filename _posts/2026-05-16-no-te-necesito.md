@@ -20,7 +20,7 @@ lang: es
 doi: "10.5281/zenodo.20243460"
 record_url: "https://zenodo.org/records/20243460"
 pdf_url: "https://zenodo.org/records/20243460/files/no_te_necesito.pdf"
-translation_url: "/academic-profile/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html"
+translation_url: /philosophy-of-time/ontology/2026/05/16/non-te-egeo.html
 excerpt: "La pregunta no desaparece por prohibición. Lo que la cultura algorítmica produce no es la pregunta prohibida, sino la pregunta innecesaria. El non te egeo no responde la pregunta por el fundamento — la vuelve irrelevante."
 ---
 

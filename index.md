@@ -70,9 +70,12 @@ Many essays are available in both **English and Spanish**.
 
 <ul>
 {% for post in site.posts limit: 10 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>— {{ post.date | date: "%B %d, %Y" }}</small>
+  <li style="margin-bottom: 2rem;">
+    <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a><br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    <p style="margin-top: 0.5rem; line-height: 1.5; color: #555;">
+      {{ post.excerpt | strip_html }}
+    </p>
   </li>
 {% endfor %}
 </ul>
@@ -81,4 +84,4 @@ Many essays are available in both **English and Spanish**.
 
 ## About
 
-Oscar Gaitan is an independent philosophical researcher whose work explores ontology, temporality, metaphysical anthropology, phenomenology, and Catholic thought through publicly accessible scholarly essays.
+Oscar Gaitan is a Nicaraguan-American independent philosophical researcher whose work explores ontology, temporality, metaphysical anthropology, phenomenology, and Catholic thought through publicly accessible scholarly essays.

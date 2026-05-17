@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19655047"
 record_url: "https://zenodo.org/records/19655047"
 pdf_url: "https://zenodo.org/records/19655047/files/el-es-y-el-soy.pdf"
-translation_url: "/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/05/01/the-is-and-the-am.html"
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/05/01/the-is-and-the-am.html
 excerpt: "¿Qué es el 'es' en toda afirmación de existencia, y qué lo mantiene abierto? Este ensayo explora la estructura del es a través de cuatro movimientos — su arquitectura temporal, su constitución comunitaria, su profundidad relacional, y la orientación de la que depende su fundamento — llegando al SOY del Éxodo como el único es que no requiere ningún fundamento detrás de él."
 ---
 

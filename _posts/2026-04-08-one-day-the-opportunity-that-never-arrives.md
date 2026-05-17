@@ -9,7 +9,7 @@ excerpt: "An essay from the Gaitan Topology on the grammar of deferral — how t
 doi: "10.5281/zenodo.19475979"
 record_url: "https://zenodo.org/records/19475979"
 pdf_url: "https://zenodo.org/records/19475956/files/one-day-the-opportunity-that-never-arrives.pdf"
-translation_url: "/academic-profile/philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html"
+translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html
 ---
 
 *From the Gaitan Topology — Part of The Ghost Zone Essay Series*

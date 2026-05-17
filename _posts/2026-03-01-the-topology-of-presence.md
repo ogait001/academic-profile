@@ -26,7 +26,7 @@ excerpt: "This essay maps four ontological planes onto the lemniscate—temporal
 doi: "10.5281/zenodo.19339347"
 record_url: "https://zenodo.org/records/19339347"
 pdf_url: "https://zenodo.org/records/19339347/files/the-topology-of-presence.pdf"
-translation_url: https://ogait001.github.io/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/03/01/la-topologia-de-la-presencia.html
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/01/la-topologia-de-la-presencia.html
 ---
 
 ## Table of Contents

@@ -9,7 +9,7 @@ excerpt: "An essay in speculative metaphysics arguing that the universe does not
 doi: "10.5281/zenodo.20112294"
 record_url: "https://zenodo.org/records/20112294"
 pdf_url: "https://zenodo.org/records/20112452/files/alpha-and-omega.pdf"
-translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html"
+translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html
 ---
 
 *From the Gaitan Topology*

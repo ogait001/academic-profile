@@ -9,7 +9,7 @@ excerpt: "Una regresión infinita de realidades existencialmente dependientes no
 doi: "10.5281/zenodo.19871019"
 record_url: "https://zenodo.org/records/19871019"
 pdf_url: "https://zenodo.org/records/19871019/files/carta-a-un-ateo.pdf"
-translation_url: "/academic-profile/ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.html"
+translation_url: /ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.html
 lang: es
 ---
 

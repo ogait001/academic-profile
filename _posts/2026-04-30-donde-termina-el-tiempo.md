@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19581332"
 record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
-translation_url: "/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/04/30/where-does-time-end.html"
+translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/30/where-does-time-end.html
 excerpt: "Meditación estructural sobre los estados finales."
 ---
 

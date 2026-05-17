@@ -9,7 +9,7 @@ excerpt: "Este ensayo examina la pregunta ¿Dónde está Dios? no como un desaf�
 doi: "10.5281/zenodo.20044903"
 record_url: "https://zenodo.org/records/20044903"
 pdf_url: "https://zenodo.org/records/20044903/files/donde-esta-dios.pdf"
-translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html"
+translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html
 ---
 
 > Sin Dios, no hay nada en lo que intervenir.

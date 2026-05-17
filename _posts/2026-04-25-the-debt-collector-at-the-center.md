@@ -26,7 +26,7 @@ excerpt: >
 doi: "10.5281/zenodo.19702597"
 record_url: "https://zenodo.org/records/19702597"
 pdf_url: "https://zenodo.org/records/19702585/files/the-debt-collector-at-the-center.pdf"
-translation_url: "/academic-profile/catholic-theology/ontology/philosophy-of-time/2026/04/25/el-recaudador-en-el-centro.html"
+translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/25/el-recaudador-en-el-centro.html
 ---
 
 ## Prelude — The Stone and the Sentence

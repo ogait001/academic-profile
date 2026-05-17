@@ -9,7 +9,7 @@ excerpt: "Hope is the last thing that dies — but the topology reveals a second
 doi: "10.5281/zenodo.19476335"
 record_url: "https://zenodo.org/records/19476335"
 pdf_url: "https://zenodo.org/records/19476348/files/why-the-center-does-not-run-out.pdf"
-translation_url: "/academic-profile/catholic-theology/philosophy-of-time/ontology/2026/04/08/porque-el-centro-no-se-agota.html"
+translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/08/porque-el-centro-no-se-agota.html
 ---
 
 *From the Gaitan Topology*

@@ -21,7 +21,7 @@ doi: "10.5281/zenodo.20243460"
 record_url: "https://zenodo.org/records/20243460"
 pdf_url: "https://zenodo.org/records/20243460/files/no_te_necesito.pdf"
 translation_url: /philosophy-of-time/ontology/2026/05/16/non-te-egeo.html
-excerpt: "La pregunta no desaparece por prohibición. Lo que la cultura algorítmica produce no es la pregunta prohibida, sino la pregunta innecesaria. El non te egeo no responde la pregunta por el fundamento — la vuelve irrelevante."
+excerpt: "Una reflexión sobre cómo la cultura digital suministra respuestas antes de que puedan formarse preguntas reales, argumentando que la crisis espiritual más profunda de la modernidad no es la rebelión contra la trascendencia, sino la pérdida gradual de la capacidad de preguntar."
 ---
 
 > Una pregunta que se siente redundante nunca se formula. Y un sujeto que nunca pregunta está, en el sentido filosófico más exacto, deshabitado.

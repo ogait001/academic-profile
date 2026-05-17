@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19843193"
 record_url: "https://zenodo.org/records/19843193"
 pdf_url: "https://zenodo.org/records/19843193/files/el-soy-que-permanece.pdf"
-translation_url: "/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html"
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html
 excerpt: "Descartes dijo: pienso, luego existo. Tenía razón a medias. El pensamiento era real. El 'luego' fue el error. Este ensayo argumenta que el alma no es constituida por el pensamiento sino que lo fundamenta — y que la muerte, al retirar la cadena de interferencia sensorial y pasional, no destruye al alma sino que la libera hacia su modo propio de conocimiento."
 ---
 

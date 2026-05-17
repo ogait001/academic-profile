@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19513936"
 record_url: "https://zenodo.org/records/19513936"
 pdf_url: "https://zenodo.org/records/19513936/files/necesito-yo-al-tiempo.pdf"
-excerpt: "Una reflexión sobre el tiempo, la presencia y el fundamento del ser."
+excerpt: "¿Y si el tiempo no fuera el poderoso en esta relación? Este ensayo sostiene que el Ahora no es un punto móvil en una línea temporal, sino la condición singular e invariante de toda actualización — y que la pregunta estructural acerca de qué mantiene abierto el Ahora apunta a la única gramática adecuada para lo que es más real: YO SOY."
 translation_url: /philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html
 ---
 

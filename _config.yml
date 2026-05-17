@@ -1,7 +1,7 @@
 title: "Oscar Gaitan"
-description: 
-baseurl: "/academic-profile"
-url: "https://ogait001.github.io"
+description: "Independent philosophical research in ontology, philosophy of time, phenomenology, metaphysics, and Catholic theology."
+url: "https://oscargaitan.org"
+baseurl: ""
 theme: minima
 
 header_pages: []

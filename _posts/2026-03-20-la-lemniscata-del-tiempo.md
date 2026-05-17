@@ -23,7 +23,7 @@ lang: es
 doi: "10.5281/zenodo.19121592"
 record_url: "https://zenodo.org/records/19121592"
 pdf_url: "https://zenodo.org/records/19121592/files/la-lemniscata-del-tiempo.pdf"
-translation_url: https://ogait001.github.io/academic-profile/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
+translation_url: /academic-profile/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
 excerpt: "La existencia humana no se despliega como una progresión lineal ni como un ciclo repetitivo, sino como una lemniscata: una curva continua de dos lazos unida en un único punto de cruce donde el pasado y el futuro convergen en el ahora accionable. Este monográfico traza esa geometría a través de la teología, la literatura, la Escritura y las vidas reales — incluyendo las zonas de desplazamiento que alejan la atención del cruce, el eco armónico de la posibilidad no realizada, y la condición de la Zona Fantasma."
 ---
 

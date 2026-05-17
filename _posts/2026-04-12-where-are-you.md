@@ -9,7 +9,7 @@ excerpt: "God's first question to a fallen man is not an accusation. It is an ad
 doi: "10.5281/zenodo.19558895"
 record_url: "https://zenodo.org/records/19558895"
 pdf_url: "https://zenodo.org/records/19558910/files/where-are-you.pdf"
-translation_url: "/academic-profile/catholic-theology/ontology/philosophy-of-time/2026/04/12/donde-estas.html"
+translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde-estas.html
 ---
 
 *Second Sunday of Easter — Divine Mercy Sunday*

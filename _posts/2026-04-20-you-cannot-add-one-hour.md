@@ -5,7 +5,7 @@ date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity]
 lang: en
-excerpt: "We ask whether we have enough time, whether we are using it well, whether it is running out. We do not ask what it is made of — whether all of it is equally real, equally dense, equally full of what it is capable of containing. This essay argues that time is not uniform, that the will is formed across its crossings, and that the finitude of the passage is not a threat but a description."
+excerpt: "“Not all time is equally dense. The moments of greatest temporal reality are the moments of greatest ontological commitment — where the will is fully operative, fully addressed, fully capable of the turn that constitutes the densest change available to a human being. And the number of crossings is finite. You cannot add an hour. But every hour given is entire."
 doi: "10.5281/zenodo.19599170"
 record_url: "https://zenodo.org/records/19599170"
 pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"

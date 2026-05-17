@@ -26,7 +26,7 @@ excerpt: >
 doi: "10.5281/zenodo.20146258"
 record_url: "https://zenodo.org/records/20146258"
 pdf_url: "https://zenodo.org/records/20146275/files/on-happiness.pdf"
-translation_url: "/academic-profile/catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html"
+translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html
 ---
 
 *Non sumus Deus tuus; quaere super nos.*

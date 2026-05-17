@@ -9,7 +9,7 @@ excerpt: "The 'is' in every statement of existence points toward something it ca
 doi: "10.5281/zenodo.19654743"
 record_url: "https://zenodo.org/records/19654743"
 pdf_url: "https://zenodo.org/records/19654927/files/the-is-and-the-am.pdf"
-translation_url: "/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/05/01/el-es-y-el-soy.html"
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/05/01/el-es-y-el-soy.html
 ---
 
 *Presence, Identity, and the Ground that Holds*

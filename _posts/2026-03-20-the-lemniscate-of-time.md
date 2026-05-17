@@ -9,7 +9,7 @@ excerpt: "A full monograph from the Gaitan Topology descending into the interior
 doi: "10.5281/zenodo.19121110"
 record_url: "https://zenodo.org/records/19121110"
 pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
-translation_url: /academic-profile/philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html
+translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html
 ---
 
 *From the Gaitan Topology — Second Monograph*

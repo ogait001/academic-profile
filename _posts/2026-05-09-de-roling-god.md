@@ -27,7 +27,7 @@ tags:
 
 lang: en
 
-excerpt: "A philosophical and theological analysis of how modern systems displace the self from the present moment, arguing that the deepest spiritual crisis is not the denial of God, but the loss of the interior conditions in which transcendence becomes thinkable."
+excerpt: "This essay argues that the principal threat to religious community in the modern world is not the denial of God’s existence, but the systematic displacement of His ontological function. The modern system has achieved, through frictionless architectural means, what no empire ever accomplished by force: the voluntary departure of the self from the crossing point, scroll after scroll, without any awareness of loss."
 
 doi: "10.5281/zenodo.20100162"
 record_url: "https://zenodo.org/records/20100162"

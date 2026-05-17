@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.19389347"
 record_url: "https://zenodo.org/records/19389347"
 pdf_url: "https://zenodo.org/records/19389347/files/la-serpiente-el-ser-y-el-colapso-del-yo.pdf"
 excerpt: "La curva de la serpiente no tiene punto de cruce. Nunca pasa por el centro. Nunca retorna al Ahora. Este ensayo propone que la tentación original — y su iteración digital moderna — no es una rebelión dramática sino una deriva estructural: el abandono silencioso del punto de cruce hacia una pseudo-lemniscata que imita el movimiento de la presencia sin habitarla jamás."
-translation_url: "/ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html"
+translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html
 ---
 
 ## Indice

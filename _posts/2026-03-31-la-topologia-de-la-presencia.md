@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19358491"
 record_url: "https://zenodo.org/records/19358491"
 pdf_url: "https://zenodo.org/records/19358491/files/la-topologia-de-la-presencia.pdf"
-translation_url: https://ogait001.github.io/academic-profile/ontology/philosophy-of-time/catholic-theology/2026/03/01/the-topology-of-presence.html
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/01/the-topology-of-presence.html
 excerpt: "Un ensayo que mapea cuatro planos ontológicos sobre la lemniscata —temporalidad, eternidad, no-existencia visible y no-existencia eterna— produciendo una topología completa del tiempo que abarca la experiencia vivida, las condiciones de la eternidad, el mal y la Zona Fantasma. La topología atraviesa los ejes de lo visible e invisible, y lo que existe y no persiste, con el punto de cruce como sitio donde la gracia actúa y la libertad opera."
 ---
 

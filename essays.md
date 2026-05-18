@@ -4,6 +4,8 @@ title: Essays
 permalink: /essays/
 ---
 
+<div id="top"></div>
+
 # Essays
 
 A complete archive of philosophical essays by Oscar Gaitan.
@@ -11,13 +13,13 @@ A complete archive of philosophical essays by Oscar Gaitan.
 <ul style="list-style: none; padding-left: 0;">
 {% for post in site.posts %}
   <li style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;">
-    
+
     <a href="{{ post.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
       {{ post.title }}
     </a>
-    
+
     <br>
-    
+
     <small style="color: #666;">
       {{ post.date | date: "%B %d, %Y" }}
     </small>
@@ -39,3 +41,7 @@ A complete archive of philosophical essays by Oscar Gaitan.
   </li>
 {% endfor %}
 </ul>
+
+<p style="text-align: right; margin-top: 2rem; font-size: 0.95rem;">
+  <a href="#top">↑ Back to Top</a>
+</p>

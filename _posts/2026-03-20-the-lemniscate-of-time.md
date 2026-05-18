@@ -14,9 +14,115 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 
 *From the Gaitan Topology — Second Monograph*
 
-*Dedicated to the Holy Trinity, the Virgin Mary, Saint Joseph, Saint Raphael the Archangel, and to all those who stood at the crossing point in Oscar Gaitan's formation.*
 
 ---
+
+Introduction
+Chapter One: The Crossing Point
+
+I. The problem with time
+II. The geometry
+III. The asymptote of tomorrow
+IV. The micro-gap: where freedom lives
+V. Infinite traversal within the finite
+VI. The five axioms
+VII. Why neither the line nor the circle
+VIII. The center that holds
+
+
+Chapter Two: Zones of Displacement
+
+I. The natural drift
+Zone One: The Memory Zone
+Zone Two: The Anxiety Zone
+Zone Three: The Could Have Been Zone
+Zone Four: The Ghost Zone
+II. The fifth state: watchfulness
+III. The balance of forces
+IV. What the map is for
+
+
+Chapter Three: The Harmonic Echo
+
+I. The honest reckoning
+II. What the harmonic echo is
+III. The scriptural spine
+IV. Two loops, not a circle
+V. The servant at the well
+VI. What the second loop contains
+
+
+Chapter Four: Providence
+
+I. The full range of human response
+II. The Barrie-Milton polarity
+III. Ordinary Providence: the slow arc
+IV. Extraordinary Providence: the crossing arrives
+V. Compunction: the view from the center
+VI. The ground of the crossing
+
+
+Chapter Five: The Individual Lemniscate
+
+I. The shape of a life
+II. The two aphelions
+III. The paradox of maturity
+IV. Pride and the outer loop
+V. Nicodemus: a person in motion
+VI. The aphelion of night
+VII. The center that is not yours
+
+
+Chapter Six: The Crossing as Topological Event
+
+I. Not a threshold but a topology
+II. Attrition and contrition
+III. What the crossing does not do
+IV. Evil as distortion, not structure
+V. The first crossing
+VI. Freedom as gateway of both
+VII. The prodigal revisited
+VIII. The new center
+
+
+Chapter Seven: Figures at the Crossing
+
+I. Figures in motion
+Nathanael: The shock of being known
+Peter: Foreknowledge without predestination
+Judas: Freedom and its weight
+II. The name changes: crossing points made permanent
+III. What the encounter reveals
+
+
+Chapter Eight: Lives at the Crossing
+
+I. Why literature
+Góngora: The distance traversed
+Barrie: The boy who would not cross
+Lope de Vega: The crossing finally made
+Edith Piaf: Non, je ne regrette rien
+Milton's Satan: The magnificent dead end
+II. The spectrum completed
+
+
+Chapter Nine: The Ghost Zone
+
+I. Naming the condition
+II. A structural definition
+III. The parallel topology
+IV. Personal witness
+V. The generational wound
+VI. The engineered displacement
+VII. Legion: we are many
+VIII. Why human solutions are not enough
+IX. The dark night and the collapse
+X. Sitting, clothed, in his right mind
+XI. What this chapter is for
+
+
+Conclusion: The Hidden Rosary Structure of the Lemniscate
+Bibliography
 
 ## Preface: On Continuity and Descent into the Concrete
 

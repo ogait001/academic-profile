@@ -43,7 +43,7 @@ excerpt: "La vida humana puede desplegarse como una lemniscata: dos bucles unido
   - [VI. Los cinco axiomas](#vi-los-cinco-axiomas)
   - [VII. Por qué ni la línea ni el círculo](#vii-por-qué-ni-la-línea-ni-el-círculo)
   - [VIII. El centro que sostiene](#viii-el-centro-que-sostiene)
-  - [IX. La pregunta que regresa](#ix-la-pregunta-que-regresa)
+  - [IX. La pregunta regresa](#ix-la-pregunta-regresa)
 - [Capítulo Segundo: Zonas de Desplazamiento](#capítulo-segundo-zonas-de-desplazamiento)
   - [I. La deriva natural](#i-la-deriva-natural)
   - [Zona Primera: La Zona de la Memoria](#zona-primera-la-zona-de-la-memoria)

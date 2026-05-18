@@ -21,7 +21,7 @@ tags:
 
 lang: en
 
-excerpt: "This essay maps four ontological planes onto the lemniscate—temporality, eternity, visible non-existence, and eternal non-existence—and in doing so produces a complete topology of presence encompassing not only lived experience but the conditions of eternity, evil, hell, and the Ghost Zone."
+excerpt: "A working essay in theological anthropology proposing a four-quadrant ontological framework (the Gaitan Topology) mapped onto the lemniscate. The essay develops a topology of presence organized around the crossing point of the figure-eight as the site of the Now, grace, and encounter. It introduces the grammatical axis (God's present tense versus the serpent's future tense), the reference/residence distinction, the phenomenology of presence, three mechanics of deferral, and the Ghost Zone as a state of existential displacement. Companion to The Lemniscate of Time: A Topology of Memory, Possibility and Grace."
 
 doi: "10.5281/zenodo.19339347"
 record_url: "https://zenodo.org/records/19339347"

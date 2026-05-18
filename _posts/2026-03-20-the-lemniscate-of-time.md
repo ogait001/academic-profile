@@ -17,7 +17,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 ---
 
 ## Table of Contents
-
+- [Preface](#preface)
 - [Introduction: The question that does not wait](#introduction-the-question-that-does-not-wait)
 - [Chapter One: The Crossing Point](#chapter-one-the-crossing-point)
   - [I. The problem with time](#i-the-problem-with-time)
@@ -99,6 +99,27 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 - [Bibliography](#bibliography)
 
 ---
+## Preface: On Continuity and Descent into the Concrete
+
+The first monograph in this series, *The Lemniscate of Time*, proposed a geometric intuition: that human existence unfolds not as a linear progression but as a continuous curve structured around a crossing point where past and future converge into a single, actionable present. It traced this intuition across theology — the Fall, the Incarnation, the sacraments, and eschatology — establishing the lemniscate as a contemplative framework for understanding time, freedom, and divine action.
+
+This second monograph does not replace that framework. It descends into it.
+
+If the first work remained primarily at the level of structure — outlining the curve and identifying its theological correspondences — the present work turns toward what it means to inhabit that structure from within. The focus shifts from geometry to experience, from description to interiority, from the architecture of time to the lived reality of persons who move within it.
+
+For that reason, the register broadens.
+
+Scripture remains central, but it is now read alongside literature, biography, and the particular weight of actual lives. Figures such as Nathanael and Peter appear not only as theological anchors but as movements within the curve. Alongside them stand voices from outside the explicit theological tradition — Lope de Vega at the threshold of a long-delayed opening, John Milton at the lucid edge of refusal, J. M. Barrie circling a crossing never fully inhabited, Giovanni Papini giving voice to interior time, Rubén Darío articulating the anguish of the divided self, and Luis de Góngora measuring the distance the crossing has already traversed from the side of grace.
+
+They are not introduced as authorities. They are not summoned to support an argument. They appear because they have been there — because they have, each in their own way, stood at or near the crossing and left behind language that allows that moment to be recognized from within.
+
+This expansion is not a departure from the original framework. It is its necessary continuation. A structure, if it is true, must prove itself capable of being inhabited — not only in doctrine, but in memory, in regret, in suffering, in delayed response, and in the quiet moments where the question returns without announcement:
+
+*What did you do with this moment?*
+
+The chapters that follow assume the geometry established previously and move through its consequences — the zones of displacement, the persistence of what was lost, the conditions under which the crossing is inhabited or avoided, and the forms of grace that meet the person there. They do so with greater attention to the concrete, because the crossing itself is never abstract. It is always encountered in the particular.
+
+If the first monograph asked whether such a structure could be seen, this one asks whether it can be recognized — and, perhaps, inhabited — here, in the finite space of this particular moment.
 
 ## Introduction: The question that does not wait
 

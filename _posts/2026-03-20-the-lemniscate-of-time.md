@@ -839,13 +839,98 @@ The fullness of existence is available there. Not despite the finitude of the se
 
 *On attrition, contrition, the displacement of the self, and what evil is not*
 
-Catholic theology distinguishes two forms of sorrow for sin. **Attrition** is imperfect repentance — sorrow arising primarily from fear. **Contrition** is perfect repentance — sorrow arising from love, grief not primarily because of what the sin has done to the self but because it offends the God who is loved.
+> *Our heart is made for Thee, O Lord, and it is restless until it rests in Thee.*
+> — Augustine of Hippo, Confessions
 
-Within the lemniscate framework, these two forms occupy the same geometric coordinate — the crossing point itself. What differs is not their position but the center around which the self is orbiting.
+### I. Not a Threshold but a Topology
 
-**In attrition, the self remains the center.** God is approached as the one who can relieve the consequence, restore the self, repair the damage. In **contrition, God becomes the center.** The orbit has shifted. This is the Augustinian movement from *amor sui* to *amor Dei* — rendered not as a philosophical abstraction but as a spatial event.
+The temptation, when thinking about conversion, is to imagine it as a line crossed. A moral threshold. A ledger cleared. A before and an after, cleanly separated, the past loop closed and the second loop opened in a single decisive moment. This is a natural way to think about transformation, and it is not entirely wrong — there are crossings that feel exactly like that, and the tradition honors them. But it is incomplete. And in its incompleteness it misrepresents both the structure of the crossing point and the nature of the soul that passes through it.
 
-**Evil is not a structural element of the lemniscate. It is a distortion of traversal.** The outer loop is not evil. Evil enters the structure when the will, arriving at the crossing point, turns away from the center and back into the outer loop — not as the necessary traversal that develops the person but as the permanent preference for the perimeter over the center. The traversal collapses into a circle. The outer loop without end.
+The lemniscate offers a more honest account. The crossing point is not a boundary between two territories — a clean line separating the before from the after, the sinful from the redeemed, the outer loop from the second. It is a shared point of passage through which both trajectories run. The past loop and the second loop share the same crossing. Whatever the soul carries through that crossing from the first loop does not disappear at the threshold. It enters the second loop. Transformed — yes. Carried forward — always. The crossing does not erase the past. It recontextualizes it.
+
+This topological precision matters theologically because it corresponds exactly to the grammar of the tradition's account of repentance. The distinction between attrition and contrition — between imperfect and perfect repentance — is not a distinction between two different places on the lemniscate. It is a distinction about what is happening at the same point.
+
+### II. Attrition and Contrition
+
+Catholic theology distinguishes two forms of sorrow for sin. Attrition is imperfect repentance: sorrow for sin arising primarily from fear — fear of punishment, fear of consequence, fear of what the sin has cost or may cost the self. Contrition is perfect repentance: sorrow for sin arising from love — grief not primarily because of what the sin has done to the self but because it violates the Good itself, because it offends the God who is loved.
+
+The tradition has always maintained that attrition, while imperfect, is real and has genuine value. It is the beginning of the movement. Sacramental theology holds that attrition, joined to the sacrament of confession, is sufficient for the forgiveness of sins — grace completing what the imperfect sorrow alone cannot. Contrition is the fuller form, the deeper movement, the sorrow that does not require the sacrament to accomplish its work because love has already done it. But attrition is not nothing. It is the foot on the curve, pointed toward the center.
+
+Within the lemniscate framework, these two forms of repentance do not occupy different locations on the curve. They occupy the same location — the crossing point itself. The soul in attrition and the soul in contrition are at the same geometric coordinate. What differs is not their position but the orientation of their movement and, most precisely, the center around which the self is orbiting.
+
+> *The difference between attrition and contrition lies not in the object of sorrow — sin — but in the center of gravity of the self. The object of grief is the same. The subject who grieves has been displaced.*
+
+In attrition, the self remains the center. Sin is grieved because it wounds or threatens the self — because of what it costs, what it may cost, what it has made the self into. The sorrow is real. The movement toward the crossing is real. But the orbit of the soul has not yet shifted. God is approached as the one who can relieve the consequence, restore the self, repair the damage. The self remains, even in its repentance, at the center of its own concern.
+
+In contrition, God becomes the center. Sin is grieved not primarily because of what it has done to the self but because it violates the Good itself — because the one who is loved has been offended, because the relationship that is the soul's truest orientation has been fractured. The sorrow is the same sorrow, directed at the same object. But the subject who sorrows has been displaced from the center. The orbit has shifted. This is the Augustinian movement from *amor sui* to *amor Dei* — from the love of self as the organizing principle of the soul's life to the love of God as that principle — rendered not as a philosophical abstraction but as a spatial event. The crossing is the moment at which the orbit shifts. Not a new path, but a new center.
+
+### III. What the Crossing Does Not Do
+
+The crossing does not annihilate the history of attrition. Fear was real. Sorrow was real, even if imperfect. The years of the outer loop were real — their weight, their cost, their accumulated displacement from the center were all real. The crossing does not erase them. It carries them forward into a new context — a context in which they can be understood differently, received differently, redeemed in the precise sense the tradition means by that word.
+
+This is not a minor theological point. It addresses directly the experience of the person who has crossed — who finds, on the other side of the crossing, that the history of the outer loop is still present, still visible, still exerting its weight on the trajectory of the second loop. The crossing did not make the past disappear. The person who expected it to may feel that something went wrong — that the transformation was incomplete, that the conversion did not take. What the lemniscate shows is that this is not failure. It is the structure. The second loop begins with everything the first loop carried. The difference is not the absence of that weight but the new center around which it is now orbiting.
+
+Nor does the crossing immediately produce peace. The Prodigal Son, returning to his father, does not arrive in a state of serene resolution. He arrives carrying everything the outer loop gave him — the hunger, the degradation, the memory of what he squandered, the rehearsed speech that begins *I am no longer worthy to be called your son*. The crossing happens not when the speech is delivered but when the father runs — when grace arrives before the prepared words, before the organized repentance, at the sight of the returning figure while he was still a great way off. What the father receives is not a reconstructed son. It is the actual son, carrying everything, arriving at last.
+
+### IV. Evil as Distortion, Not Structure
+
+The crossing as topological event raises a question the framework must answer directly: where does evil fit in the geometry of the lemniscate? If the crossing is the place where orientation is decided — where the orbit of the self shifts from self-centered to God-centered — then what is the structural status of the movement away from the center? Is evil built into the lemniscate? Is the outer loop itself the problem? Is the traversal of the first loop already a form of sin?
+
+The answer the tradition gives — and that the framework preserves — is precise: evil is not a structural element of the lemniscate. It is a distortion of traversal. The distinction is fundamental.
+
+The outer loop is not evil. The expansion of the self, the development of identity and capacity and the full range of human experience — these are good. They are the necessary traversal of a curve that God created. The first loop exists so that the crossing can be inhabited by a person who has something to bring to it — a history, a self, a developed capacity for love and responsibility and choice. A curve with no first loop would have no crossing point worth approaching.
+
+Evil enters the structure not as a second loop of the lemniscate — not as an alternative path built into the geometry — but as a bending of the traversal away from the center at the moment of crossing. When the will, arriving at the crossing point, turns away from the center and back into the outer loop — not as the necessary traversal that develops the person but as the permanent preference for the perimeter over the center — the curve does not gain a new loop. It loses its orientation. The traversal continues but without the transformation the crossing was designed to accomplish. The circle rather than the lemniscate. The outer loop without end.
+
+This is what the tradition means when it describes sin as disordered love — not the absence of love but love misdirected, love curved back toward the self rather than oriented toward God and neighbor. The lemniscate remains intact. The traversal continues. But the orbit does not shift. The crossing is reached but not inhabited. The soul passes through it without the displacement of the self from the center that the crossing is designed to accomplish.
+
+> *Evil is not a second loop of the lemniscate. It is a bending of the traversal away from the center — not a structural necessity but a distortion of the curve.*
+
+### V. The First Crossing
+
+The account of the Fall in Genesis is, within this framework, the narrative of the first crossing point at which the distortion was introduced. It is not necessary to resolve every question of biblical interpretation to recognize what the narrative is describing at the level of structure.
+
+Evil does not enter creation as a substance crossing a boundary. It does not break into the garden from outside like an invading force. It enters through freedom — through the capacity of a created intelligence to misalign itself with the truth of its own being. The serpent does not overpower the will. It presents an alternative orientation at the crossing point. *You will be like God, knowing good and evil.* The temptation is not to cross into a second loop of evil. It is to claim, at the crossing point, the authority to define the center — to make the self, rather than God, the ground of all valuation.
+
+The human will receives this, evaluates it, and consents. Not because the distortion is irresistible — it is not. Not because the alternative was hidden — it was not. The consent happens at the crossing point, in the micro-gap of freedom, at the only location where such a choice is possible. And the distortion introduced there — the orbit of the self curved back toward the self as center — becomes the inherited condition into which all subsequent traversals of the lemniscate are born.
+
+This does not make the lemniscate corrupt. The structure of the curve remains good. The crossing point remains available. The second loop remains possible. What the Fall introduces is not a new geometry but a new gravity — a tendency of the traversal to bend toward the self at every crossing point rather than toward God. The work of grace is not to rebuild the curve. It is to reorient the traveler within it — to restore, at each crossing point, the possibility of the orbit shifting from *amor sui* to *amor Dei*.
+
+### VI. Freedom as Gateway of Both
+
+If the distortion entered creation through freedom — through the capacity of the will to misalign itself at the crossing point — then the restoration must also pass through freedom. This is one of the most consequential structural insights of the entire framework. The same architecture that made the Fall possible is the architecture that makes redemption possible.
+
+Grace does not bypass the crossing point. It meets the person there. It does not override the freedom that the crossing requires — it heals the orientation of that freedom, restoring the capacity to align with the truth of one's being rather than curve back toward the self. This is why the tradition speaks of grace not as compulsion but as healing — not as a force that removes the need for choice but as a gift that makes genuine choice possible again, by restoring the interior order that the distortion disrupted.
+
+At each crossing point, the question therefore has two layers. On the surface: what will I choose? At the depth: what will I love? For the distortion introduced at the first crossing was not, at its root, a distortion of choice. It was a distortion of love — love curved back toward the self rather than oriented toward the Good. And the work of grace at every subsequent crossing point is not primarily to produce better choices. It is to heal the love that underlies every choice — to reorder the affections so that what the will chooses begins to align with what the heart was made to desire.
+
+This is the Augustinian insight in its fullest form: the heart is restless until it rests in God not because God is the reward the will earns by choosing correctly, but because God is the only center large enough to hold the orbit of a love that was made for infinity. Every other center the soul tries — the self, the achievement, the relationship, the project — is simply too small. The restlessness is not a failure of the soul. It is the soul's truest knowledge: that the center it has been trying to occupy is not the center it was made for.
+
+> *The restlessness is not a failure of the soul. It is the soul's truest knowledge: that the center it has been orbiting is not the center it was made for.*
+
+### VII. The Prodigal Revisited
+
+The parable of the Prodigal Son has appeared already in this monograph as the canonical narrative of ordinary Providence — the slow arc of the outer loop traversed to its furthest point and the gradual return to the center. It deserves a second reading here, through the lens of attrition and contrition, because the parable encodes the movement between them with unusual precision.
+
+When the son comes to himself in the far country — when the crisis at the aphelion finally arrives, when the outer loop has been traversed to its cost — his first movement is attrition. He reasons through his situation with pragmatic clarity: *how many of my father's hired servants have more than enough bread, but I perish here with hunger.* The sorrow that initiates his return is not primarily about the father. It is about the self. The hunger. The degradation. The comparison between what he has now and what he left behind. He will arise and go to his father — and the speech he rehearses as he walks names the offense clearly — but the impulse that starts the feet moving is the self's recognition of its own condition.
+
+This is not hypocrisy. The tradition does not condemn the Prodigal for beginning with attrition. It honors the beginning. The foot on the curve, pointed toward the center, is already the beginning of the return — whatever the motive that started it moving. The question is whether the movement continues, and what happens to the self as it traverses the distance between the aphelion and the crossing.
+
+Something shifts during the walk home. The rehearsed speech — *I am no longer worthy to be called your son; make me as one of your hired servants* — is no longer purely strategic when it is finally spoken. The son who arrives at the crossing is not the same person who started walking. The traversal itself has worked on him. And then the father runs — and in the running, in the robe and the ring and the feast, the context of the entire first loop is recontextualized. Not erased. Received. The past is not cancelled. It is embraced, carried forward, made the occasion of a joy that the outer loop alone could not have produced.
+
+This is the movement from attrition to contrition: not a second, better repentance replacing the first inadequate one, but the same sorrow deepened as the soul approaches the center and discovers, in the encounter with the father who was already running, that what it was sorrowful about was not only the self's condition but the fractured relationship that the self's condition had caused. The object of sorrow has not changed. The center of gravity has shifted. The crossing has been inhabited.
+
+> *The crossing does not erase the past. It receives it — carries it forward, makes it the occasion of what the outer loop alone could not have produced.*
+
+### VIII. The New Center
+
+The crossing as topological event is not the moment the past disappears. It is the moment the past is reoriented — placed in relation to a center it was always approaching without knowing it. The outer loop, received from the crossing, looks different. Not because it was secretly fine all along. Because the center from which it is now seen is large enough to hold it — to receive its weight, its cost, its wasted years and its genuine goods — without being diminished by any of it.
+
+The sorrow of the crossing — whether it arrives as attrition or contrition, whether it is initiated by fear or by love, whether it is the Prodigal's hunger or Schindler's compunction or Darío's anguished prayer — is the sorrow of a soul discovering that the center it has been orbiting is not the center it was made for. And in that discovery, however painful, however long in coming, however incomplete its first form — in that discovery is the beginning of the rest Augustine promised.
+
+The heart finds no rest until it rests in God. Not because rest is the absence of motion — the lemniscate keeps moving, the second loop is still a loop, the traversal continues. But because at the center, the motion is no longer driven by restlessness. It is sustained by love. The orbit has shifted. The crossing has been inhabited. The new center holds.
+
+> *At the center, the motion is no longer driven by restlessness. It is sustained by love. The orbit has shifted. The crossing has been inhabited.*
 
 ---
 
@@ -853,14 +938,87 @@ Within the lemniscate framework, these two forms occupy the same geometric coord
 
 *On what the Gospel reveals when its characters are allowed to move rather than stand still*
 
-**Nathanael** — the crossing arrives in the middle of ordinary approach, when the person who came to see is suddenly, unexpectedly, seen. *Before Philip called you, when you were under the fig tree, I saw you.* The framework collapsed not because the argument was defeated but because the question was answered at a depth deeper than it was asked.
+> *Before Philip called you, when you were under the fig tree, I saw you.*
+> — John 1:48
 
-**Peter** — the person who needed to traverse both loops to become what the first loop's confident declarations could only claim without yet grounding. At Caesarea Philippi: *You are the Christ.* At the Last Supper: *When you have turned again, strengthen your brothers* — the fall already known, already held by the one who sees the entire curve simultaneously. At the charcoal fire: the three questions, the three answers. The fall was not the end of Peter's story. It was the part of the traversal that made the second loop possible.
+> *Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail.*
+> — Luke 22:31–32
 
-**Judas** — the crossing point was present to him, repeatedly, in the company of the same person who saw Nathanael under the fig tree. The tradition holds two truths together: that God's providence works within human choices without removing from them their full weight of freedom. And that the outcome of a freedom fully exercised toward the perimeter is not predetermined but the person's own.
+### I. Figures in Motion
 
-**The name changes** — Abram to Abraham, Jacob to Israel, Simon to Peter, Saul to Paul — are not reclassifications. They are the crossing point made permanent. The new name carries the second loop into every subsequent moment of the life.
+Scripture gives us human beings, not types. The Gospel figures who appear in this chapter have acquired, through centuries of meditation and devotion, a kind of fixed identity — Nathanael the sincere, Peter the rock, Judas the betrayer — that is not false but is incomplete. It is the identity they carry at one moment of their story, frozen into a label that represents them in the tradition's shorthand. But the Gospels themselves are more patient and more honest than the labels. They record people in motion — approaching the crossing, standing at it, retreating from it, being placed at it without warning, carrying it forward into a second loop whose shape they could not have predicted.
 
+This chapter reads four of those figures with the patience the Gospels model — not to correct the tradition but to let the motion be visible. What the lemniscate offers these readings is not a new interpretation. It is a geometry that makes certain movements legible that the linear reading of a life can flatten into a single decisive moment.
+
+The chapter closes with a reflection on the biblical name changes — those moments in Scripture when a person receives a new name at the crossing point and carries it forward as the permanent mark of the orbit that shifted there. These are among the most concentrated expressions of the crossing point as biographical event in the entire scriptural tradition.
+
+### Nathanael — The Shock of Being Known
+
+The encounter between Jesus and Nathanael in the first chapter of John is among the briefest and most electrifying in the Gospels. It lasts, in the text, a few verses. What it contains is the crossing point in its most compressed form — the moment at which eternity intersects temporal history so precisely that the person receiving it can only respond with confession.
+
+Nathanael arrives skeptical. When Philip tells him they have found the one Moses and the prophets wrote about — Jesus of Nazareth — Nathanael's response is dry and immediate: *Can anything good come out of Nazareth?* It is not hostility. It is the honest assessment of a person who has developed a well-calibrated intelligence and is applying it to a claim that sounds geographically improbable. He is not closed. He comes to see. But he comes with his framework intact, expecting to evaluate rather than to be evaluated.
+
+Jesus sees him approaching and speaks before any introduction has been made: *Behold, an Israelite indeed, in whom there is no deceit.* Nathanael's first response is the natural one — *how do you know me?* And then the answer that stops everything: *Before Philip called you, when you were under the fig tree, I saw you.*
+
+The fig tree is a private moment. Whatever Nathanael was doing under that tree — praying, reading, sitting in silence, carrying something in his interior life that no one present had witnessed — it was known. Not observed from a distance by someone with good eyesight. Known in the way that only complete comprehension knows — without succession, without inference, without the gap between the observer and the observed that characterizes all human knowing.
+
+What moves Nathanael is not the information. It is the recognition — the experience of being seen from a depth that precedes his own self-knowledge. Not seen as a social identity, not as a theological category, not as the skeptic from Cana who asked the Nazareth question. Seen as the person he actually is, in the private moment that no performance covers. The response is not analysis. It is not the conclusion of an argument. It is a confession that arrives before the reasoning catches up: *Rabbi, you are the Son of God. You are the King of Israel.*
+
+This is the crossing point as the shock of being known. Not the crossing that arrives after the outer loop is traversed, not the crossing of the person who has worked their way to the center through crisis and return. The crossing that arrives in the middle of ordinary approach, when the person who came to see is suddenly, unexpectedly, seen. The framework collapses not because the argument is defeated but because the question has been answered at a level deeper than the question was being asked.
+
+> *Nathanael came to evaluate. He was evaluated first. The framework collapsed not because the argument was defeated but because the question was answered at a depth deeper than it was asked.*
+
+### Peter — Foreknowledge Without Predestination
+
+Peter is the figure in the Gospels who most explicitly embodies the lemniscate's two loops within a single narrative arc — the expansion of the self into confident declaration, the collapse at the aphelion, and the return through a crossing that the collapse itself made possible. He is not the rock who became a denier and then somehow recovered. He is the person who needed to traverse both loops to become what the first loop's confident declarations could only claim without yet grounding.
+
+At Caesarea Philippi, Peter makes the confession that gives him his name: *You are the Christ, the Son of the living God.* Jesus receives it as revelation — *this was not flesh and blood that disclosed this to you, but my Father.* And gives him the name: *You are Peter, and on this rock I will build my church.* The first loop at its most confident moment. The confession is genuine. The name is real. But the person who carries that name has not yet been to the aphelion. The outer loop has not yet shown him what confidence untempered by the crossing cannot sustain.
+
+At the Last Supper, Jesus says something to Peter that is among the most carefully constructed sentences in the Gospels: *Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.*
+
+Notice the sentence's structure. It does not say *if you fall*. It says *when you have turned again*. The fall is already known. It is already present to the one who speaks — not as a predetermined script that removes Peter's freedom, but as the full knowledge of a person who sees the entire curve simultaneously, who knows both the aphelion and the crossing that follows it. The prayer is not for Peter to avoid the outer loop. It is for his faith not to fail within it — for the fall to be a traversal rather than a permanent residence.
+
+Peter denies three times. In the courtyard, by the fire, to the servant girl and the bystanders, at the moment of greatest external pressure and greatest internal fear. The aphelion. The furthest point from the confident declaration at Caesarea Philippi. And then the rooster crows — and the Gospel of Luke adds the detail that undoes everything: *and the Lord turned and looked at Peter.* Not with accusation. Not with the confirmation of the worst the self fears about itself. A look. And Peter went out and wept bitterly.
+
+The weeping is the beginning of the return. Not because bitterness is the crossing, but because bitterness at this depth — the grief of a person who has seen the distance between the declaration and the reality — is the soul arriving at the aphelion honestly and beginning to turn. The crossing will come later, on the shore of the Sea of Tiberias, with a charcoal fire and three questions and three answers that mirror the three denials without replacing them. *Do you love me? Yes, Lord, you know that I love you.* The second loop. The same Peter, carrying everything the first loop gave him, at last at the crossing from which the strengthening of the brothers becomes possible.
+
+> *The fall was not the end of Peter's story. It was the part of the traversal that made the second loop more than the first loop's ungrounded declaration could have been.*
+
+### Judas — Freedom and Its Weight
+
+Judas stands in the tradition as the figure of irreversible betrayal, and the weight of that standing is real. But it is possible — and contemplatively necessary — to sit with his story without either explaining it away or reducing him to a function within a predetermined plot. The Gospels do not do either of those things. They record a human being who made choices that cannot be undone, and they record them with the same restraint and gravity with which they record everything else.
+
+Jesus says of Judas, at the Last Supper, that it would have been better for that man if he had not been born. The Church does not read this as a declaration of predestined damnation. It is the expression of the weight of what free choice, fully exercised in the wrong direction, costs. Not a pronouncement of inevitability but a statement about gravity — the gravity of the crossing refused, the gravity of the orbit that curved entirely away from the center and did not return.
+
+What the lemniscate can offer Judas's story is not an alternative ending or a softened reading. It can offer the structural recognition that the same crossing point that Nathanael inhabited with immediate confession, that Peter reached after the aphelion of denial, was present to Judas — was stood at by Judas, repeatedly, in the company of the same person who saw Nathanael under the fig tree. The knowledge that the crossing was there. The freedom that made the turning away from it fully his own.
+
+The tradition has always held two truths together here without forcing resolution between them: that God's providence can work within and through human choices, including the worst of them, without removing from those choices their full weight of freedom. And that the outcome of a freedom fully exercised in the direction of the perimeter is not predetermined but is the person's own. Judas's story is the crossing point at its most sobering — not because it tells us something new about God but because it tells us something true about freedom, about the weight of what is possible at the only location where everything is decided.
+
+### II. The Name Changes: Crossing Points Made Permanent
+
+Among the most concentrated expressions of the crossing point as biographical event in Scripture are the moments when a person receives a new name. These are not reclassifications. They are not administrative reassignments. They are the marking of a moment at which the orbit shifted — at which the person passed through the crossing point in a way that changed the fundamental orientation of their life, and the new name became the permanent record of that crossing carried forward into the second loop.
+
+**Abram becomes Abraham.** The name change in Genesis 17 comes at the moment of covenant — the moment at which Abram's life is reoriented from the trajectory of a man building a legacy through his own resources to the trajectory of a man whose life is defined by a promise he did not generate and cannot sustain by his own effort. The name Abram means *exalted father*. The name Abraham means *father of a multitude*. The crossing is the moment at which the self's project — to be the exalted one, to achieve significance through one's own expansion — is displaced by a purpose that arrives from outside the self entirely. The new name carries the second loop into every subsequent moment of his life.
+
+**Jacob becomes Israel.** The crossing at the Jabbok ford in Genesis 32 is one of the strangest and most honest passages in the entire scriptural tradition. Jacob wrestles through the night with a figure he cannot name and cannot defeat and cannot release. The wrestling is not a moral parable about perseverance. It is the body of a man at the outer limit of everything the first loop built — the cunning, the acquisition, the maneuvering, the relentless self-reliance — arriving at the crossing point and discovering that the crossing requires something the first loop never taught him: the capacity to be wounded and remain, to be held in a grip he cannot escape and continue asking for the blessing rather than the release. He limps away from the crossing. But he crosses. And the name he receives — Israel, one who strives with God — is not the name of a man who has resolved his struggle. It is the name of a man who has inhabited it honestly.
+
+**Simon becomes Peter.** The name change comes at Caesarea Philippi, at the moment of the confession — and it is worth noting that Jesus gives him the name before the denial, before the restoration, before the outer loop has completed its arc. The name is given to the person who will be, not only to the person who is. It is the second loop's identity conferred at the crossing, carried through the first loop's aphelion, and confirmed in the post-resurrection encounter on the shore. The name was always his. The traversal was required to become the person who could inhabit it fully.
+
+**Saul becomes Paul.** The road to Damascus is the most dramatic name change in the New Testament precisely because the outer loop of the first name is at its most active — Saul traveling toward his purpose, authorized and determined — when the crossing arrives orthogonally, without preparation, from outside the plane of the life he was living. The new name belongs to the second loop. Paul carries the entire first loop forward — the training, the zeal, the capacity for rigorous thought and sustained argument — but in a new orbit, around a new center, under a name that marks the crossing as the defining event of the life.
+
+> *The new name is not a replacement for the old one. It is the crossing point made permanent — the record of the orbit that shifted, carried forward into every moment after.*
+
+### III. What the Encounter Reveals
+
+The figures of this chapter — Nathanael's immediate confession, Peter's arc through declaration and denial and restoration, Judas's freedom and its weight, the name changes that mark the crossing as biographical turning — all illuminate the same structural reality from different angles: the encounter with Christ at the crossing point reveals the heart.
+
+It does not create what it reveals. Nathanael's integrity was already present under the fig tree before Jesus named it. Peter's love was already present at Caesarea Philippi before the denial tested it. The crossing point does not manufacture a new person from nothing. It illuminates what is actually there — the genuine goods and the genuine wounds, the orbit that has been running and the center that has been sought or refused — and offers the possibility of a different orientation to whatever is found.
+
+This is why the same encounter produces such different responses in those who receive it. Nathanael confesses immediately. Peter confesses and then denies and then confesses again. Judas is present at the same table, hears the same words, and chooses the orbit of the self. The encounter is the same. The freedom is real. The heart revealed is each person's own.
+
+And this is why the crossing point cannot be forced — not by urgency, not by argument, not by the most eloquent theology. What happens at the threshold happens in the micro-gap of freedom, at the only location where a genuine response is possible. The tradition can illuminate the crossing. It cannot cross for anyone. Every person who arrives at the crossing point — whether they walked the full outer loop to get there, or were placed there without warning by a grace that did not wait — arrives in their own name, carrying their own history, at the only location where the orbit of their life can change.
+
+> *The encounter does not create what it reveals. It illuminates what is actually there — and offers the possibility of a different orientation to whatever is found.*
 ---
 
 ## Chapter Eight: Lives at the Crossing

@@ -93,7 +93,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
   - [VI. The engineered displacement](#vi-the-engineered-displacement)
   - [VII. Legion: we are many](#vii-legion-we-are-many)
   - [VIII. Why human solutions are not enough](#viii-why-human-solutions-are-not-enough)
-  - [IX. The dark night and the collapse](#ix-the-dark-night-and-the-collapse)
+  - [IX. The dark night and the collapse of the ghost zone](#ix-the-dark-night-and-the-collapse-of-the-ghost-zone)
   - [X. Sitting, clothed, in his right mind](#x-sitting-clothed-in-his-right-mind)
   - [XI. What this chapter is for](#xi-what-this-chapter-is-for)
 - [Conclusion: The Hidden Rosary Structure of the Lemniscate](#conclusion-the-hidden-rosary-structure-of-the-lemniscate)

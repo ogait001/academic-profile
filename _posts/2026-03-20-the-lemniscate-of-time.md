@@ -952,7 +952,7 @@ This chapter reads four of those figures with the patience the Gospels model —
 
 The chapter closes with a reflection on the biblical name changes — those moments in Scripture when a person receives a new name at the crossing point and carries it forward as the permanent mark of the orbit that shifted there. These are among the most concentrated expressions of the crossing point as biographical event in the entire scriptural tradition.
 
-### Nathanael — The Shock of Being Known
+### Nathanael: The Shock of Being Known
 
 The encounter between Jesus and Nathanael in the first chapter of John is among the briefest and most electrifying in the Gospels. It lasts, in the text, a few verses. What it contains is the crossing point in its most compressed form — the moment at which eternity intersects temporal history so precisely that the person receiving it can only respond with confession.
 
@@ -968,7 +968,7 @@ This is the crossing point as the shock of being known. Not the crossing that ar
 
 > *Nathanael came to evaluate. He was evaluated first. The framework collapsed not because the argument was defeated but because the question was answered at a depth deeper than it was asked.*
 
-### Peter — Foreknowledge Without Predestination
+### Peter: Foreknowledge Without Predestination
 
 Peter is the figure in the Gospels who most explicitly embodies the lemniscate's two loops within a single narrative arc — the expansion of the self into confident declaration, the collapse at the aphelion, and the return through a crossing that the collapse itself made possible. He is not the rock who became a denier and then somehow recovered. He is the person who needed to traverse both loops to become what the first loop's confident declarations could only claim without yet grounding.
 
@@ -984,7 +984,7 @@ The weeping is the beginning of the return. Not because bitterness is the crossi
 
 > *The fall was not the end of Peter's story. It was the part of the traversal that made the second loop more than the first loop's ungrounded declaration could have been.*
 
-### Judas — Freedom and Its Weight
+### Judas: Freedom and Its Weight
 
 Judas stands in the tradition as the figure of irreversible betrayal, and the weight of that standing is real. But it is possible — and contemplatively necessary — to sit with his story without either explaining it away or reducing him to a function within a predetermined plot. The Gospels do not do either of those things. They record a human being who made choices that cannot be undone, and they record them with the same restraint and gravity with which they record everything else.
 

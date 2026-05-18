@@ -341,21 +341,6 @@ But before all of that, the question comes first. It always does. Because the qu
 
 ---
 
-## Chapter Two: Zones of Displacement
-
-*On where human attention goes when it leaves the crossing, and what it finds when it returns*
-
-The crossing point is almost never where human attention actually is. The mind drifts — backward into the past loop, forward into the future loop, sideways into territories that have no address on the lemniscate at all. There are four such zones.
-
-**Zone One: The Memory Zone.** The past loop itself — the fixed coordinates of what has already been traversed. The danger is not memory itself but over-habitation: the person who lives primarily in what was, measuring the present against a former fullness. Grace here transforms memory into gratitude — from residence to resource.
-
-**Zone Two: The Anxiety Zone.** The future loop as the mind attempts to inhabit it prematurely. Anxiety does not consider the future in order to act wisely at the present crossing. It attempts to occupy the future crossing before it arrives. *Do not be anxious about tomorrow, for tomorrow will be anxious for itself.* Each crossing point has its own weight. The weight of tomorrow's crossing cannot be carried productively at today's.
-
-**Zone Three: The Could Have Been Zone.** Not the past loop itself but the virtual space adjacent to it — the coordinates of what was possible but never manifested. The particular cruelty of this zone is asymmetry: the life actually lived can be measured; the life not lived cannot. It was never tested by reality, and so the imagination fills it with everything the actual life lacked. *It was not meant to be* fails the person here — it dissolves the loss before anyone has acknowledged the loss was real. **The loss was real. The door was a real door.**
-
-**Zone Four: The Ghost Zone.** Categorically different from the other three. It references nothing real at all. It is a fabricated topology — a parallel world constructed entirely from imagination, populated with conversations that never happened, conflicts rehearsed against people who said nothing, victories performed before audiences that do not exist. The Ghost Zone has its own internal logic, its own narrative gravity, its own emotional weight. Reality never intersects it to challenge it or correct it. That is precisely why it feels so compelling. *(Treated fully in Chapter Nine.)*
-
-**The Fifth State: Watchfulness.** *Nepsis* is the practice of inhabiting the micro-gap consciously — noticing the pull toward the zones of displacement before it becomes drift, and remaining, as far as the limits of human consciousness allow, actually present at the crossing where life is occurring.
 
 ---
 

@@ -33,7 +33,7 @@ excerpt: "La vida humana puede desplegarse como una lemniscata: dos bucles unido
 ## Indice
 
 - [Prefacio: Sobre la continuidad y el descenso hacia lo concreto](#prefacio-sobre-la-continuidad-y-el-descenso-hacia-lo-concreto)
-- [Introducción](#introducción)
+- [Introducción: La pregunta que no espera ](#introducción-la-pregunta-que-no-espera)
 - [Capítulo Primero: El Punto de Cruce](#capítulo-primero-el-punto-de-cruce)
   - [I. El problema del tiempo](#i-el-problema-del-tiempo)
   - [II. La geometría](#ii-la-geometría)
@@ -137,7 +137,7 @@ Los capítulos que siguen presuponen la geometría establecida anteriormente y a
 
 Si el primer monográfico preguntaba si semejante estructura podía verse, este pregunta si puede reconocerse — y, quizás, habitarse — aquí, en el espacio finito de este momento particular.
 
-## Introducción: La Pregunta Que No Espera
+## Introducción: La pregunta que no espera
 
 *Sobre la geometría del tiempo, el peso de lo ordinario, y el único momento que ha existido siempre*
 

@@ -5,7 +5,7 @@ date: 2026-05-05 00:00:00 +0000
 categories: [ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, self-and-identity, phenomenology, time-and-eternity, theological-anthropology, philosophy-of-religion]
 lang: en
-excerpt: "This essay proposes that identity — the persistence of the self through change — is not a philosophical problem requiring a solution. It is a geometric fact requiring a name: the infinite interior, the continuous asymptotic space between any two states of a being, which is necessarily unbroken, and therefore preserving of the one who undergoes it."
+excerpt: "Replacement requires a boundary. Continuity admits none. This essay proposes that identity — the persistence of being through change — is not a philosophical problem in need of a solution. It is a geometric fact in need of a name: the infinite interior, the continuous asymptotic space between any two states of a being, necessarily uninterrupted and therefore preserving the one who traverses it."
 doi: "10.5281/zenodo.20032817"
 record_url: "https://zenodo.org/records/20032817"
 pdf_url: "https://zenodo.org/records/20032765/files/the-infinite-interior.pdf"

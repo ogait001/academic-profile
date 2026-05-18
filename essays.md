@@ -42,6 +42,4 @@ A complete archive of philosophical essays by Oscar Gaitan.
 {% endfor %}
 </ul>
 
-<p style="text-align: right; margin-top: 2rem; font-size: 0.95rem;">
-  <a href="#top">↑ Back to Top</a>
-</p>
+

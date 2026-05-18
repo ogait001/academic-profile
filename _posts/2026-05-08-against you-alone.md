@@ -5,7 +5,7 @@ date: 2026-05-08
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [judgement, soul, will, pride, alibi, david, non-serviam, contingency, lemniscate, self-witness, mercy, eschatology, gaitan-topology, ghost-zone, phenomenology]
 lang: en
-excerpt: "An essay on the moment of Judgement not as an external verdict imposed upon the soul but as the soul's first complete self-witness — the moment at which every alibi collapses not because it is refuted, but because the noise that sustained it is gone."
+excerpt: "Judgment is not an external verdict imposed on the soul, but the soul’s first complete testimony about itself — the moment in which the chain of interference that obscured the will throughout temporal life is permanently removed, and the soul sees what it built exactly as God always saw it. Only against You — or Non Serviam. There is no third response. There never was."
 doi: "10.5281/zenodo.20087687"
 record_url: "https://zenodo.org/records/20087687"
 pdf_url: "https://zenodo.org/records/20088283/files/against-you-alone.pdf"

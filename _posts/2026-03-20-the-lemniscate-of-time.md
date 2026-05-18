@@ -121,6 +121,8 @@ The chapters that follow assume the geometry established previously and move thr
 
 If the first monograph asked whether such a structure could be seen, this one asks whether it can be recognized — and, perhaps, inhabited — here, in the finite space of this particular moment.
 
+---
+
 ## Introduction: The Question That Does Not Wait
 
 *On the geometry of time, the weight of the ordinary, and the only moment that has ever existed*

@@ -193,77 +193,128 @@ Esa conclusión no se impone. Emerge. Y eso, al fin, es la mejor evidencia de qu
 Ese reconocimiento, si llega, es en sí mismo una especie de cruce.
 
 > *La plenitud de la existencia está disponible ahora, en el espacio finito de este Jueves en particular. Inagotable dentro de lo finito.*
+
 ---
 
 ## Capítulo Primero: El Punto de Cruce
 
 *Sobre la geometría del ahora, la asíntota del mañana, y la brecha infinitesimal donde vive la libertad*
 
-> ¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo sé. Si quiero explicarlo a quien me lo pregunta, no lo sé.
-> — Agustín de Hipona, *Confesiones*
+> *¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo sé. Si quiero explicarlo a quien me lo pregunta, no lo sé.*
+> — Agustín de Hipona, Confesiones
+
+> *He aquí el momento favorable. He aquí el día de la salvación.*
+> — 2 Corintios 6:2
 
 ### I. El Problema del Tiempo
 
-Todo intento serio de pensar el tiempo llega al mismo descubrimiento desconcertante: el único tiempo que existe es el que no puede sostenerse. El pasado es real pero cerrado. El futuro es real pero todavía no. Y el presente — el único momento donde algo ocurre realmente — resulta, bajo examen, infinitesimalmente delgado.
+Todo intento serio de pensar el tiempo llega al mismo descubrimiento desconcertante: el único tiempo que existe es el que no puede sostenerse. El pasado es real pero cerrado. El futuro es real pero todavía no. Y el presente — el único momento donde algo ocurre realmente — resulta, bajo examen, infinitesimalmente delgado. Si se intenta medirlo, ya se ha convertido en pasado. Si se intenta habitarlo, el futuro ya está presionando desde adentro.
 
-Agustín lo sabía. Lo que sí sabía — una de las observaciones más penetrantes de la historia de la filosofía — era que el pasado y el futuro no existen en sí mismos. Solo existen tres cosas: el presente de las cosas pasadas (la memoria), el presente de las cosas presentes (la atención), y el presente de las cosas futuras (la expectativa). Todo existe únicamente en el presente.
+Agustín lo sabía. De pie en el siglo cuarto, con todo el peso de la filosofía platónica a sus espaldas y todo el peso de la revelación cristiana ante él, formuló la pregunta con la honestidad que lo hizo grande: ¿qué es el tiempo? Y luego la respondió con una honestidad aún mayor: no lo sabía. Lo que sí sabía — y lo que permaneció como una de las observaciones más penetrantes de la historia de la filosofía — era que el pasado y el futuro no existen en sí mismos. Solo existen tres cosas: el presente de las cosas pasadas, que es la memoria; el presente de las cosas presentes, que es la atención; y el presente de las cosas futuras, que es la expectativa. Todo, en otras palabras, existe únicamente en el presente. No hay otro lugar.
 
-La lemniscata da a la intuición de Agustín una geometría. No resuelve el misterio del tiempo — nada lo hace. Pero hace visible la estructura de un modo que el análisis filosófico puro no puede del todo lograr.
+La lemniscata da a la intuición de Agustín una geometría. No resuelve el misterio del tiempo — nada lo hace. Pero hace visible la estructura de un modo que el análisis filosófico puro no puede del todo lograr. Dos lazos, unidos en un único punto de cruce. Un camino continuo que nunca se rompe y nunca simplemente se repite. Y en el centro, el cruce — el único lugar donde el viajero se encuentra realmente, en cada momento del camino.
 
 ### II. La Geometría
 
-La lemniscata de Bernoulli es una curva matemática descubierta en el siglo XVII. Su ecuación en coordenadas polares es: **r² = a² cos(2θ)**. La curva forma dos lazos simétricos unidos en un único punto de autointersección — el origen, el centro, el cruce.
+La lemniscata de Bernoulli es una curva matemática descubierta en el siglo XVII. Su ecuación en coordenadas polares es elegante: r² = a² cos(2θ). Pero la ecuación no es lo que importa aquí. Lo que importa es la forma que produce y el comportamiento que codifica.
 
-El punto de cruce no es un lugar *entre* los lazos. Es el lugar donde ambos lazos están presentes a la vez. El lazo izquierdo representa el pasado — coordenadas fijas de una vida, eventos que no pueden volver a habitarse. El lazo derecho representa el futuro — el horizonte de posibilidad que se aproxima. El centro — el punto de cruce — es el presente. El ahora.
+La curva forma dos lazos simétricos unidos en un único punto de autointersección — el origen, el centro, el cruce. El camino es continuo: un viajero que se mueve a lo largo de la lemniscata nunca abandona la curva, nunca salta, nunca recorre exactamente el mismo camino. Pasa por el cruce, atraviesa un lazo, regresa por el cruce y entra en el segundo lazo. El cruce es el único punto compartido por ambos lazos. Es el único lugar de toda la curva que pertenece, simultáneamente, a ambas trayectorias.
 
-> No vivimos en los lazos. Vivimos en el cruce — el único lugar donde ambas trayectorias están presentes, y el único lugar donde algo puede hacerse.
+Esto es lo primero que hay que comprender sobre el punto de cruce: no es un lugar entre los lazos. Es el lugar donde ambos lazos están presentes a la vez. El viajero que se encuentra en el cruce está, en el sentido geométrico más preciso, en ambos caminos simultáneamente — el camino que lleva de regreso al lazo del pasado y el camino que lleva hacia el lazo del futuro. El cruce es donde ambos movimientos cohabitan la misma coordenada.
+
+La interpretación filosófica se sigue naturalmente. El lazo izquierdo representa el pasado — lo que ya ha sido recorrido, las coordenadas fijas de una vida, los eventos que no pueden volver a habitarse. El lazo derecho representa el futuro — el horizonte que se aproxima de posibilidad, las coordenadas aún no alcanzadas, los cruces aún no habitados. Y el centro — el punto de cruce — es el presente. El ahora. El único lugar donde el pasado y el futuro presionan simultáneamente contra el mismo momento.
+
+> *No vivimos en los lazos. Vivimos en el cruce — el único lugar donde ambas trayectorias están presentes, y el único lugar donde algo puede hacerse.*
 
 ### III. La Asíntota del Mañana
 
-El lazo futuro de la lemniscata se aproxima al punto de cruce asintóticamente: siempre acercándose, sin llegar nunca como futuro. En el momento en que alcanza el cruce, ya no es mañana. Se ha convertido en hoy, en ahora, y en ese mismo instante, en ayer.
+El lazo futuro de la lemniscata se aproxima al punto de cruce desde la derecha. Pero se aproxima de una manera específica — asintóticamente. Este término matemático describe una curva que se acerca cada vez más a una línea o punto sin alcanzarlo perfectamente jamás. La distancia disminuye de manera continua. La llegada nunca llega.
 
-San Pablo comprendió la geometría antes de que existiera la geometría: *He aquí el momento favorable. He aquí el día de la salvación.* No el momento favorable de ayer, ya cerrado. No el de mañana, todavía inaccesible. Ahora — el punto de cruce de la lemniscata.
+El mañana se comporta exactamente de esta manera. Siempre se aproxima al presente. Siempre se acerca, siempre casi aquí, siempre a punto de llegar. Y sin embargo nunca llega como mañana. En el momento en que alcanza el punto de cruce, ya no es mañana. Se ha convertido en hoy. Se ha convertido en ahora. Y en ese mismo instante, se ha convertido en ayer.
+
+Esto no es un juego de palabras. Es una característica estructural del tiempo con consecuencias profundas para la comprensión de la existencia humana. El mañana, considerado como mañana, es permanentemente inaccesible. Puede anticiparse, planearse, temerse, desearse e imaginarse con extraordinario detalle. Pero no puede habitarse como mañana. La única coordenada disponible para la habitación es el punto de cruce — el ahora al que el mañana siempre se aproxima pero nunca alcanza.
+
+Por eso la tradición espiritual antigua habla con tanta insistencia sobre el momento presente. No porque el pasado y el futuro carezcan de importancia — están tejidos en la estructura misma de la lemniscata — sino porque el punto de cruce es el único lugar donde un ser humano existe realmente. La persona que vive principalmente en la memoria está sobrehabitando el lazo del pasado. La persona que vive principalmente en la anticipación está intentando ocupar un punto de cruce que aún no ha alcanzado. Ambas están ausentes del único lugar donde su vida está ocurriendo realmente.
+
+San Pablo comprendió la geometría antes de que existiera la geometría. Escribiendo a los Corintios, comprimió todo el argumento en una sola frase: He aquí el momento favorable. He aquí el día de la salvación. No el momento favorable de ayer, ya cerrado. No el día de la salvación de mañana, todavía inaccesible. Ahora — el punto de cruce de la lemniscata, el umbral donde termina el lazo del pasado y comienza el lazo del futuro, el único momento que está disponible siempre.
 
 ### IV. La Micro-Brecha: Donde Vive la Libertad
 
-Porque el mañana se aproxima asintóticamente, existe siempre una brecha infinitesimal entre la posibilidad y la actualidad. Si el mañana colapsara completamente en el hoy sin resto alguno, la posibilidad equivaldría a la actualidad y el futuro se desplegaría como un guión. La asíntota lo impide.
+Porque el mañana se aproxima al presente asintóticamente — acercándose siempre, sin llegar nunca perfectamente — existe siempre, en el punto de cruce, una brecha infinitesimal entre la posibilidad y la actualidad. Entre lo que podría ocurrir y lo que ocurre. Entre la trayectoria que se aproxima y el momento en que colapsa en hecho.
 
-> La micro-brecha no es un amplio campo de posibilidad. Es el espacio más delgado concebible. Pero es suficiente para el sí o el no. Suficiente para la atención o la distracción. Suficiente para el amor.
+Ahí es donde vive la libertad humana.
+
+Esta no es una afirmación poética. Es una afirmación estructural. Si el mañana colapsara completamente en el hoy sin resto alguno — si la brecha desapareciera del todo — entonces cada evento estaría predeterminado. La posibilidad equivaldría a la actualidad. El futuro se desplegaría simplemente en el presente como un guión que se lee en voz alta, y el lector no tendría más agencia que una voz. La asíntota lo impide. Porque el mañana nunca llega perfectamente como mañana, siempre existe una región — infinitesimal pero real — donde las trayectorias pueden redirigirse antes de convertirse en coordenadas fijas del pasado.
+
+La micro-brecha no es grande. No es un amplio campo de posibilidad abierta donde la persona humana examina infinitas opciones desde una distancia cómoda. Es el espacio más delgado concebible — la distancia entre este aliento y el siguiente, entre esta palabra y la que sigue, entre el impulso de hablar y la decisión sobre qué decir. Pero es suficiente. Suficiente para el sí o el no. Suficiente para la atención o la distracción. Suficiente para la puerta abierta o la puerta que permanece cerrada. Suficiente para el amor.
+
+La tradición siempre ha conocido esta brecha, incluso sin el lenguaje geométrico. Los Padres del Desierto construyeron toda una arquitectura de disciplina espiritual alrededor del cultivo de la conciencia en este umbral — la capacidad de advertir el pensamiento antes de que se convierta en acción, de estar en el punto de cruce con suficiente presencia para elegir en lugar de simplemente reaccionar. La *nepsis* — la vigilancia — es el nombre que dieron a la práctica de permanecer en el cruce, de habitar la micro-brecha conscientemente, de resistir la deriva automática hacia los lazos.
+
+> *La micro-brecha no es un amplio campo de posibilidad. Es el espacio más delgado concebible. Pero es suficiente para el sí o el no. Suficiente para la atención o la distracción. Suficiente para el amor.*
 
 ### V. Travesía Infinita Dentro de lo Finito
 
-Un único punto de cruce — un único momento de atención genuina, amor real, oración honesta, encuentro verdadero — contiene en sí mismo la profundidad completa de lo que la existencia ofrece. No una fracción de ella. No un anticipo de algo que solo estará completo más tarde. La profundidad completa, ahora, en el espacio finito de este momento particular.
+Existe la tentación, al confrontarse con la delgadez del momento presente, de concluir que la existencia humana es por lo tanto empobrecida — un filo de navaja entre dos vastos territorios que ninguno puede habitarse. El pasado no puede volver a habitarse. El futuro todavía no puede alcanzarse. El punto de cruce es infinitesimalmente delgado. ¿Qué contiene entonces una vida humana?
 
-Giovanni Papini observó que los años felices pasaban como días mientras que los días tristes se extendían como años — no solo por psicología, sino por la atención. La alegría comprime el tiempo percibido porque la persona está plenamente presente. El sufrimiento lo estira porque la atención está dividida entre el lazo del pasado y el lazo del futuro.
+Todo. El punto de cruce contiene todo — no a pesar de su finitud, sino a través de ella.
+
+La lemniscata es una curva finita que el viajero recorre indefinidamente. Cada paso por el punto de cruce es distinto — la curva no repite exactamente el mismo camino, las coordenadas que se aproximan desde el lazo futuro no son idénticas a las ya fijadas en el lazo del pasado, la persona que llega al cruce nunca es exactamente la misma que lo dejó. Y sin embargo el punto de cruce permanece. El centro sostiene. El umbral está siempre presente, siempre disponible, siempre el mismo espacio infinitesimal entre lo que ha sido y lo que aún puede ser.
+
+Lo que esto significa, práctica y teológicamente, es que el espacio finito de una vida humana no es una limitación de lo que puede encontrarse dentro de ella. Un único punto de cruce — un único momento de atención genuina, amor real, oración honesta, encuentro verdadero con otra persona — contiene en sí mismo la profundidad completa de lo que la existencia ofrece. No una fracción de ella. No un anticipo de algo que solo estará completo más tarde. La profundidad completa, ahora, en el espacio finito de este momento particular.
+
+La tradición monástica comprendió esto con gran precisión. El monje que vive en una celda del tamaño de una habitación, que come la misma comida sencilla, que reza las mismas horas en la misma capilla durante décadas — ese monje no vive una vida disminuida. Demuestra que lo infinito está disponible dentro de lo finito, que el punto de cruce recorrido con plena atención contiene más que los lazos recorridos en distracción. El tamaño de la vida no es lo que determina la profundidad de la travesía.
+
+Giovanni Papini vio esto desde la otra dirección — desde la experiencia del sufrimiento más que de la contemplación. Observó que los años felices pasaban tan rápido que parecían días, mientras que los días tristes se extendían tan lentamente que parecían años. La observación parece a primera vista ser sobre psicología — sobre cómo la emoción distorsiona nuestra percepción de la duración. Pero es también, y más profundamente, sobre la atención. La alegría comprime el tiempo percibido porque la persona en la alegría está plenamente presente — el punto de cruce se habita completamente, y la travesía es tan rica que ningún momento se siente desperdiciado o vacío. El sufrimiento estira el tiempo porque la persona que sufre está a menudo dividida — parte de su atención en el punto de cruce, parte en el lazo del pasado del arrepentimiento o en el lazo del futuro del temor, el momento presente experimentado como delgado e inadecuado porque no se está habitando plenamente.
+
+El espacio finito de una vida humana no es un deslizamiento temporal hacia la disolución. Es una comunión de encuentros. Cada punto de cruce es completo en sí mismo — no un paso hacia alguna plenitud futura, no un residuo de alguna plenitud pasada, sino un encuentro entero con la existencia, íntegro y suficiente, aquí mismo. Cada uno, una eternidad completa en miniatura. Inagotable dentro de lo finito.
+
+> *La plenitud de la existencia está disponible ahora, en el espacio finito de este Jueves en particular.*
 
 ### VI. Los Cinco Axiomas
 
-El marco descansa sobre cinco afirmaciones estructurales:
+El marco descansa sobre cinco afirmaciones estructurales. No se prueban aquí a la manera de un teorema matemático — el argumento de este monográfico es filosófico y teológico, no formal. Pero se enuncian con claridad para que el lector pueda contrastarlos con la experiencia y seguir el razonamiento que se construye sobre ellos.
 
-**I. El Principio del Cruce.** Todo evento que se vuelve real debe pasar por el cruce presente. Solo el punto de cruce contiene agencia.
+**I. El Principio del Cruce.** Todo evento que se vuelve real debe pasar por el cruce presente. Ningún evento existe como actualidad hasta que intersecta el ahora. El pasado consiste en coordenadas fijas — eventos que ya han pasado por el cruce y ya no son accesibles. El futuro consiste en potenciales que se aproximan — coordenadas aún no alcanzadas. Solo el punto de cruce contiene agencia.
 
-**II. El Futuro Asintótico.** El futuro se aproxima al presente asintóticamente. El mañana, considerado como mañana, es permanentemente inaccesible. Esto no es una limitación del conocimiento humano. Es la estructura del tiempo.
+**II. El Futuro Asintótico.** El futuro se aproxima al presente asintóticamente. El mañana siempre se acerca. Pero en el momento en que alcanza el cruce, ya no es mañana — es ahora, e instantáneamente pasado. El futuro, considerado como futuro, es permanentemente inaccesible. Esto no es una limitación del conocimiento humano. Es la estructura del tiempo.
 
-**III. Coordenadas de Oportunidad.** Las posibilidades existen como coordenadas en la curva del lazo futuro. Algunas son recurrentes; otras son singulares. Cuando el punto de cruce se aleja de ellas, quedan fijadas en el lazo del pasado.
+**III. Coordenadas de Oportunidad.** Las posibilidades existen como coordenadas en la curva del lazo futuro. Cuando el punto de cruce pasa cerca de estas coordenadas, la oportunidad se vuelve accesible. Algunas oportunidades son recurrentes — aparecen cerca del punto de cruce repetidamente, y un encuentro perdido puede corregirse en la siguiente aproximación. Otras son singulares — ligadas a etapas específicas del desarrollo o a convergencias irrepetibles de circunstancias. Cuando el punto de cruce se aleja de estas coordenadas, quedan fijadas en el lazo del pasado. La oportunidad no es olvidada por la Providencia. Pero ya no puede aproximarse en su forma original.
 
-**IV. El Eco Armónico.** Las oportunidades perdidas no desaparecen de la estructura de una vida. La energía funcional de una posibilidad no realizada puede regresar en un punto de cruce posterior en forma alterada — la misma frecuencia, una nueva puerta.
+**IV. El Eco Armónico.** Las oportunidades perdidas no desaparecen de la estructura de una vida. La energía funcional de una posibilidad no realizada — la universidad nunca cursada, el amor nunca recibido, la dignidad nunca restaurada — puede regresar en un punto de cruce posterior en forma alterada. No como repetición del evento original. No como una segunda oportunidad que se mide contra la primera. Sino como un eco armónico: la misma frecuencia, una nueva puerta, una forma que el momento original nunca habría podido tomar. Lo que se perdió no es la última palabra.
 
-**V. La Brecha de la Agencia.** Porque el futuro nunca colapsa perfectamente en el presente, siempre existe una brecha infinitesimal entre la posibilidad y la actualidad. Esta brecha es el lugar de la libertad humana y, al mismo tiempo, el lugar de receptividad a la gracia.
+**V. La Brecha de la Agencia.** Porque el futuro nunca colapsa perfectamente en el presente, siempre existe una brecha infinitesimal entre la posibilidad y la actualidad. Esta brecha es el lugar de la libertad humana. No es grande. Es suficiente. Dentro de este espacio microscópico, las trayectorias pueden redirigirse antes de convertirse en coordenadas fijas del pasado. Esta brecha es donde ocurre toda elección humana genuina — y donde la gracia, llegando ortogonalmente desde fuera del plano de la lemniscata completamente, entra en la estructura de una vida.
 
 ### VII. Por Qué Ni la Línea Ni el Círculo
 
-El modelo **lineal** captura la irreversibilidad pero no tiene mecanismo para el eco armónico, ni punto de cruce donde el pasado y el futuro presionen simultáneamente contra el mismo momento.
+El marco se sitúa en contraste con dos modelos dominantes del tiempo que han dado forma tanto a la filosofía como a la teología, y que ambos, de maneras diferentes, no logran dar cuenta de la estructura completa de la experiencia temporal humana.
 
-El modelo **circular** captura la recurrencia pero no tiene punto de cruce en el sentido de la lemniscata — ningún lugar de transformación, solo de recurrencia. El eterno retorno de Nietzsche enfrenta a la persona con la perspectiva de vivir esta vida exacta infinitamente sin la esperanza de transformación.
+El modelo lineal — el tiempo como una línea recta que avanza del pasado a través del presente hacia el futuro — tiene la ventaja de capturar la irreversibilidad. El pasado no puede deshacerse. Los eventos tienen consecuencias que se acumulan hacia adelante. La flecha del tiempo apunta en una dirección y no se invierte. Estas son observaciones verdaderas, y la lemniscata no las contradice. Pero el modelo lineal no tiene mecanismo para el eco armónico — para la reaparición de posibilidades no realizadas en nuevas formas. No tiene punto de cruce, ningún lugar donde el pasado y el futuro presionen simultáneamente contra el mismo momento. Reduce la existencia humana a un paso en un solo sentido del nacimiento a la muerte, sin nada que decir sobre la profundidad disponible en cualquier punto del camino.
 
-La lemniscata ofrece lo que ni la línea ni el círculo pueden: un modelo irreversible y no repetitivo, que lleva el pasado hacia adelante sin quedar aprisionado en él, y que sitúa la agencia humana y la gracia divina en el mismo punto.
+El modelo circular — el tiempo como retorno eterno, la historia repitiéndose en ciclos, el momento presente como un punto en una rueda que volverá a girar — tiene la ventaja de capturar la recurrencia. Las estaciones regresan. Los patrones se repiten. Los seres humanos encuentran las mismas tentaciones, los mismos cruces, las mismas elecciones fundamentales a través de las generaciones. Estas también son observaciones verdaderas. Pero el modelo circular no tiene punto de cruce en el sentido de la lemniscata — ningún lugar de transformación, solo un lugar de recurrencia. El eterno retorno de Nietzsche, la formulación filosófica más rigurosa del tiempo circular, enfrenta a la persona humana con la perspectiva de vivir esta vida exacta infinitamente — no como consuelo sino como la prueba suprema de si se puede afirmar la existencia sin la esperanza de transformación. La lemniscata rechaza esa prueba. No porque la transformación esté garantizada, sino porque el punto de cruce la hace estructuralmente posible.
+
+La lemniscata ofrece lo que ni la línea ni el círculo pueden: un modelo del tiempo que es irreversible y no repetitivo, que lleva el pasado hacia adelante sin quedar aprisionado en él, que se aproxima al futuro sin poder habitarlo prematuramente, y que sitúa la agencia humana y la gracia divina en el mismo punto — el cruce, el ahora, el umbral infinitesimal donde lo posible se vuelve real.
 
 ### VIII. El Centro Que Sostiene
 
-La lemniscata tiene un centro de simetría. En la interpretación teológica, ese centro no está vacío. Cristo no se aproxima al punto de cruce a lo largo de la curva humana. Entra desde fuera de la asíntota completamente — perpendicular al plano del tiempo humano. La gracia no viaja a lo largo de la curva. Llega perpendicular a ella. Entra a través de la brecha.
+La lemniscata tiene un centro de simetría. Ambos lazos existen debido a ese centro. Sin él, la curva no sería una lemniscata — colapsaría en algo completamente distinto. El punto de cruce no es simplemente una característica de la geometría. Es la condición de la existencia de la geometría.
 
-> La micro-brecha entre hoy y mañana es donde vive la libertad humana. Es también donde entra la gracia. El mismo espacio infinitesimal. El mismo umbral. El punto de cruce.
+En la interpretación teológica de este marco, ese centro no está vacío. La tradición cristiana siempre ha comprendido a Cristo como el centro de la historia — aquel alrededor de quien se dobla toda la curva de la salvación, aquel cuya entrada en el tiempo humano le da a ese tiempo su forma definitiva. Pero la Encarnación, como argumentó el primer monográfico, no es simplemente otro evento en la línea del tiempo — el punto de cruce más grande, el momento más significativo, el pico del desarrollo histórico. Es una entrada en la línea del tiempo desde fuera de ella completamente. Un atravesamiento ortogonal. Dios no se aproxima al punto de cruce a lo largo de la curva humana. Dios entra en el plano del tiempo humano en ángulo recto con él — desde una dimensión que la curva misma no puede generar.
 
+Esta entrada ortogonal es estructuralmente diferente del cruce humano en un sentido preciso. La persona humana se aproxima al punto de cruce asintóticamente — acercándose siempre, sin llegar nunca perfectamente, viviendo en la micro-brecha entre el mañana y el ahora. Cristo no se aproxima a lo largo de la asíntota. Entra desde fuera de la asíntota completamente. No cierra la brecha viajando hacia ella. Atraviesa el plano en el que existe la brecha.
+
+Esto significa que la gracia — el movimiento de la vida divina hacia la existencia humana — no viaja a lo largo de la curva. Llega perpendicular a ella. Entra a través de la brecha. Y la micro-brecha que es el lugar de la libertad humana es también, en el sentido estructural más preciso, el lugar de receptividad a la gracia. El espacio infinitesimal entre la posibilidad y la actualidad — el espacio donde ocurre toda elección humana genuina — es el mismo espacio donde la entrada ortogonal de la gracia se vuelve accesible.
+
+> *La micro-brecha entre hoy y mañana es donde vive la libertad humana. Es también donde entra la gracia. El mismo espacio infinitesimal. El mismo umbral. El punto de cruce.*
+
+### IX. La Pregunta Regresa
+
+La geometría está ahora en su lugar. Los dos lazos — pasado y futuro. El único punto de cruce — el ahora. La aproximación asintótica del mañana. La micro-brecha donde se encuentran libertad y gracia. La travesía infinita disponible dentro del espacio finito de una vida plenamente habitada en el cruce.
+
+Lo que resta es seguir el marco hacia el territorio que ilumina: las zonas de desplazamiento que alejan a la persona del cruce, el eco armónico de las posibilidades no realizadas, el punto de cruce como evento biográfico en la Escritura y en la literatura, y la condición — silenciosamente devastadora, más extendida de lo que la tradición ha sabido nombrar todavía — en la que la persona no puede alcanzar el punto de cruce en absoluto.
+
+Pero antes que todo eso, la pregunta viene primero. Siempre lo hace. Porque la pregunta no espera al final del argumento. Espera en el punto de cruce — lo que es decir, espera ahora, en el espacio finito de cualquier momento en que esto se esté leyendo.
+
+*¿Qué hiciste con este momento?*
 ---
 
 ## Capítulo Segundo: Zonas de Desplazamiento

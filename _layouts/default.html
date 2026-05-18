@@ -16,7 +16,8 @@
   {% elsif page.lang == "es" %}
     <link rel="alternate" hreflang="en" href="https://ogait001.github.io{{ page.translation_url }}">
   {% endif %}
-{% endif %} 
+{% endif %}
+
   {% if page.doi %}
     <meta name="citation_title" content="{{ page.title }}">
     <meta name="citation_author" content="Oscar Gaitan">
@@ -28,7 +29,7 @@
     {% endif %}
 
     {% if page.pdf_url %}
-     <meta name="citation_pdf_url" content="{{ page.pdf_url }}">
+      <meta name="citation_pdf_url" content="{{ page.pdf_url }}">
     {% endif %}
 
     <script type="application/ld+json">
@@ -47,7 +48,9 @@
       {% endif %}
     }
     </script>
+
   {% else %}
+
     <script type="application/ld+json">
     {
       "@context":"https://schema.org",
@@ -71,19 +74,47 @@
       ]
     }
     </script>
+
   {% endif %}
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    .back-to-top {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      background: #222;
+      color: white;
+      text-decoration: none;
+      padding: 10px 14px;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      z-index: 999;
+    }
+
+    .back-to-top:hover {
+      background: #444;
+    }
+  </style>
 </head>
 
-<body>
-    {% include header.html %}
-    <main class="page-content" aria-label="Content">
+<body id="top">
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
     </div>
   </main>
+
+  <a href="#top" class="back-to-top" aria-label="Back to top">↑</a>
 
   {% include footer.html %}
 </body>

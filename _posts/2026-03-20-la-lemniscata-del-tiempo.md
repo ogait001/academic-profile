@@ -1278,93 +1278,186 @@ Finalmente allí.
 
 ---
 
-## Conclusión
-
-### La Estructura Oculta del Rosario en la Lemniscata
+## Conclusión: La Estructura Oculta del Rosario en la Lemniscata
 
 *Un reconocimiento, no un argumento*
 
-> La lemniscata no promete que nada se perdió. Promete que lo que se perdió no es la última palabra.
+> *La lemniscata no promete que nada se perdió. Promete que lo que se perdió no es la última palabra.*
 
-Los cuatro movimientos del Rosario — los Misterios Gozosos, Dolorosos, Gloriosos y Luminosos — trazan la misma curva que este monográfico ha estado cartografiando:
+### I. Un Paso Atrás
 
-**Los Misterios Gozosos** abren el lazo del futuro. La Anunciación: la gracia llega ortogonalmente, perpendicular al flujo ordinario de la historia. Una persona humana responde con el consentimiento que hace posible toda la curva posterior: *hágase en mí según tu palabra.*
+El argumento está completo. La geometría ha sido trazada, las zonas de desplazamiento cartografiadas, el eco armónico fundamentado en la Escritura, el punto de cruce habitado por figuras de los Evangelios y de la literatura y del silencio de vidas reales. La Zona Fantasma ha sido nombrada. La restauración ha sido descrita. La lemniscata ha sido seguida hasta el final de su segundo lazo, y el segundo lazo hasta su sello en el Apocalipsis: *hago nuevas todas las cosas.*
 
-**Los Misterios Dolorosos** son el primer lazo recorrido hasta su punto más lejano. No hay minimización: el huerto, la flagelación, la crucifixión. La persona humana en el punto de cruce del tipo más devastador. *Padre, no se haga mi voluntad, sino la tuya.*
+Lo que queda no es más argumento. Lo que queda es un reconocimiento — algo que el propio argumento no podía producir pero que el argumento completado hace visible. El lector que ha recorrido nueve capítulos y ha llegado aquí puede descubrir, en las páginas que siguen, que la estructura que ha estado leyendo ya estaba incorporada en una oración que quizás ya conoce. No descubierta por este monográfico. Reconocida por él.
 
-**Los Misterios Gloriosos** son el segundo lazo. La Resurrección no es la anulación de la crucifixión. Las heridas siguen presentes en el Cuerpo Resucitado. El primer lazo no se borra — se lleva hacia adelante, transformado. *Hago nuevas todas las cosas. No cosas nuevas. Todas las cosas.*
+Esa es la diferencia entre un argumento y un reconocimiento. Un argumento construye hacia su conclusión. Un reconocimiento llega silenciosamente, al final, y muestra al lector algo que siempre estuvo allí — esperando el lenguaje que le permitiera ser visto.
 
-**Los Misterios Luminosos** son el propio punto de cruce — lo eterno intersectando lo temporal en lo particular: el Bautismo en el Jordán, Caná, la Transfiguración, la Eucaristía. La Eucaristía es el punto de cruce hecho sacramental y perpetuo: no el hito, sino el Jueves. Este pan. Esta copa. Este momento.
+### II. El Rosario
 
-El Rosario es una lemniscata. No metafóricamente. Estructuralmente.
+El Rosario es una de las oraciones contemplativas más antiguas y más ampliamente practicadas de la tradición católica. No es principalmente un ejercicio devocional para principiantes o personas intelectualmente sencillas. En su profundidad — contemplado lentamente, con la atención que la tradición invita — es una meditación sobre el arco completo de la historia de la salvación, organizada en cuatro movimientos que trazan la vida de Cristo desde su anunciación hasta su consumación.
 
-> Lo que la geometría esboza, la oración lo ha contemplado durante siglos. El Rosario ya estaba meditando sobre los dos lazos y el cruce y la transformación — cuenta a cuenta, misterio a misterio, Martes a Martes — mucho antes de que ninguno de nosotros llegara para nombrar lo que estaba haciendo.
+Los cuatro movimientos — los Misterios Gozosos, los Misterios Dolorosos, los Misterios Gloriosos y los Misterios Luminosos — no son cuatro devociones separadas. Son cuatro fases de una única contemplación continua. Se mueven. Llevan a la persona que los reza a través de una estructura que tiene una forma — una forma que, vista desde la distancia, se parece notablemente a la curva que este monográfico ha estado trazando.
+
+La correspondencia no fue diseñada. Fue encontrada. Y encontrarla — reconocer que la geometría que describe la lemniscata ya está tejida en la arquitectura de la oración — es lo último que este monográfico tiene que ofrecer. No como prueba de nada. Como un don.
+
+**Los Misterios Gozosos — La Apertura de la Posibilidad**
+
+Los Misterios Gozosos comienzan con la Anunciación — el momento en que se abre el lazo del futuro. Una palabra es pronunciada en el plano real desde fuera de él completamente. La gracia llega ortogonalmente, perpendicular al flujo ordinario de la historia. Y una persona humana, en su propio punto de cruce, responde con el consentimiento que hace posible toda la curva posterior: *hágase en mí según tu palabra.*
+
+Los Misterios Gozosos son el movimiento de la posibilidad que se aproxima — el niño que crece en el seno, el reconocimiento entre Isabel y María en la Visitación, el nacimiento en Belén, la presentación en el Templo, el hallazgo del niño Jesús entre los maestros. Cada misterio es un punto de cruce aproximado. Cada uno es el plano real recibiendo lo que el lazo del futuro ha estado llevando hacia él. Cada uno es el Martes particular de una vida humana habitado con plena atención — pastores en un campo, un anciano tomando a un niño en brazos en el Templo, un muchacho de doce años en conversación con quienes habían estudiado durante décadas.
+
+Los Misterios Gozosos corresponden, en la estructura de la lemniscata, a la apertura del lazo del futuro — el campo de posibilidad, el horizonte que se aproxima, el don de lo que aún puede llegar a ser. No son ingenuos. La profecía de Simeón sobre el niño — *una espada traspasará tu propia alma* — ya está presente en los Misterios Gozosos. El primer lazo ya se presagia. Pero el movimiento dominante es la alegría: la aproximación de algo real y bueno, el ahora habitado con gratitud, la plenitud de la existencia disponible en el espacio finito de cada momento particular.
+
+**Los Misterios Dolorosos — El Primer Lazo**
+
+Los Misterios Dolorosos son el primer lazo recorrido hasta su punto más lejano. La agonía en el huerto. La flagelación. La coronación de espinas. El camino al Calvario. La crucifixión. Cada misterio es el afelio aproximado y pasado — la mayor distancia posible de la calidez de los Misterios Gozosos, el límite exterior de lo que contiene el primer lazo.
+
+No hay minimización en los Misterios Dolorosos. La tradición no se apresura a través de ellos hacia los Gloriosos. Permanece. La agonía en el huerto no se presenta como el preludio de algo mejor — se presenta como lo que fue: una persona humana en el punto de cruce del tipo más devastador, preguntando si el cáliz puede pasar, recibiendo en el silencio la respuesta de que no puede, y eligiendo permanecer en el cruce de todas formas. *Padre, no se haga mi voluntad, sino la tuya.*
+
+La Zona Fantasma, en esta estructura, encuentra su lugar en los Misterios Dolorosos — no como misterio a contemplar sino como la condición que los Misterios Dolorosos abordan. El hombre entre los sepulcros, la persona organizada alrededor de la pregunta nocturna de adónde irá — estos son aquellos por quienes se rezan los Misterios Dolorosos. La intercesión sostenida, costosa y vicaria que describió el Capítulo Noveno son los Misterios Dolorosos vividos desde dentro de una relación humana: alguien ayunando y rezando, permaneciendo en el punto de cruce del cautiverio de otra persona, negándose a abandonar el plano real aunque el ser amado lo haya hecho.
+
+**Los Misterios Gloriosos — El Segundo Lazo**
+
+Los Misterios Gloriosos son el segundo lazo. La Resurrección. La Ascensión. La venida del Espíritu Santo. La Asunción. La Coronación. Cada misterio es el eco armónico en su forma más plena — no la restauración de lo que se perdió en el primer lazo en la misma forma, sino la transformación de lo que fue llevado a través del cruce hacia algo que el primer lazo solo nunca habría podido generar.
+
+La Resurrección no es la anulación de la crucifixión. Es el punto de cruce habitado por quien diseñó el cruce — la entrada ortogonal de la vida divina en el plano humano extendida ahora completamente a través de la muerte y fuera por el otro lado. Las heridas siguen presentes en el Cuerpo Resucitado. Tomás es invitado a poner la mano en el costado. El primer lazo no se borra. Se lleva hacia adelante — transformado, no cancelado — al segundo. *Hago nuevas todas las cosas.* No cosas nuevas. Todas las cosas.
+
+Los Misterios Gloriosos son el fundamento teológico del eco armónico. Son hacia lo que apuntaba el Capítulo Tercero cuando trazó la columna vertebral escritural: Eclesiastés 3:15, José en el Génesis, Pablo en Corintios, Apocalipsis 21:5. Todo ello ya estaba presente en la contemplación que el Rosario ha estado ofreciendo durante siglos. La persona que reza los Misterios Gloriosos ya está meditando sobre la estructura que este monográfico intenta nombrar — el segundo lazo como transformación, el pasado llevado hacia adelante, lo que se perdió no siendo la última palabra.
+
+**Los Misterios Luminosos — El Punto de Cruce**
+
+Los Misterios Luminosos — añadidos al Rosario por Juan Pablo II en 2002, tomados del ministerio público de Cristo — son el punto de cruce. Son el presente hecho luminoso: el Bautismo en el Jordán, las bodas de Caná, la proclamación del Reino, la Transfiguración, la institución de la Eucaristía.
+
+Cada uno de los Misterios Luminosos es un punto de cruce habitado — lo eterno intersectando lo temporal en un momento específico, un lugar específico, una persona específica de pie en el único lugar donde la transformación es posible. El Bautismo: la voz del cielo en el momento de la entrada en el Jordán, el atravesamiento ortogonal de lo divino en el tiempo humano. Las bodas de Caná: el punto de cruce de la vida ordinaria — una boda, una escasez de vino, la petición silenciosa de una madre — habitado con plena atención y transformado. La Transfiguración: el Martes particular de una montaña, tres discípulos, y el velo entre el tiempo y la eternidad momentáneamente levantado.
+
+La Eucaristía — el último Misterio Luminoso — es el punto de cruce hecho sacramental y perpetuo. El Domingo particular de cada Misa, cada mañana, cada día sin distinción en que el ahora es ofrecido y recibido y transformado. No el día de la boda. No el hito. El Jueves. Este pan. Esta copa. Este momento.
+
+Los Misterios Luminosos son lo que la Introducción prometió y hacia lo que el monográfico ha estado construyendo: la plenitud de la existencia disponible ahora, en el espacio finito de este Jueves en particular. Inagotable dentro de lo finito. El punto de cruce, habitado.
+
+### III. El Reconocimiento
+
+Los Misterios Gozosos abren el lazo del futuro. Los Misterios Dolorosos recorren el primer lazo hasta su punto más lejano. Los Misterios Gloriosos son el segundo lazo — transformación, eco armónico, todas las cosas hechas nuevas. Los Misterios Luminosos son el propio punto de cruce — la gracia en lo particular, lo eterno en lo finito, el ahora habitado con plena atención.
+
+El Rosario es una lemniscata. No metafóricamente. No aproximadamente. Estructuralmente. Los cuatro movimientos de la oración trazan la misma curva que este monográfico ha estado cartografiando — los mismos dos lazos, el mismo punto de cruce, el mismo movimiento desde la apertura de la posibilidad a través de la travesía del sufrimiento a través de la transformación del segundo lazo y de vuelta al cruce donde todo vuelve a ser posible.
+
+Esto no fue diseñado en el Rosario. No fue colocado allí por un teólogo con una intuición geométrica. Está allí porque el Rosario es una meditación sobre la vida de Cristo — y la vida de Cristo es la lemniscata recorrida completamente, a todos los niveles, por quien diseñó la curva. Los Gozosos y los Dolorosos y los Gloriosos y los Luminosos no son cuatro temas devocionales reunidos por la tradición. Son la forma de una vida — la forma de la vida — trazada en oración contemplativa por las manos de quienes la rezaban antes de tener geometría para ella.
+
+> *El Rosario es una lemniscata. No metafóricamente. Estructuralmente. Lo que la geometría esboza, la oración lo ha contemplado durante siglos.*
+
+### IV. La Última Palabra
+
+Este monográfico comenzó con una pregunta que la Providencia nunca deja de formular. Ha sido respondida, en diferentes registros, a lo largo de nueve capítulos y cinco niveles de interioridad. La geometría del punto de cruce. Las zonas de desplazamiento que alejan la atención de él. El eco armónico de lo que se perdió. El abanico completo de la respuesta humana al encuentro en el centro. La condición que impide que el cruce sea habitado en absoluto. La restauración que el Evangelio registra como un hombre, sentado, finalmente allí.
+
+Nada de ello era nuevo. La geometría siempre estuvo presente en la oración. El punto de cruce siempre estuvo disponible en el Martes. El eco armónico siempre fue la promesa del Dios que busca lo que fue arrojado. La restauración siempre fue el hombre en su sano juicio, sentado en el plano real de su existencia, en el espacio finito de un momento que contenía — como contiene todo momento — la plenitud de todo.
+
+La lemniscata no promete que nada se perdió. Promete que lo que se perdió no es la última palabra. Y el Rosario, rezado lentamente, con la paciencia que siglos de oración contemplativa han aprendido, siempre lo ha sabido. Ha estado meditando sobre los dos lazos y el cruce y la transformación y el ahora luminoso — cuenta a cuenta, misterio a misterio, Martes a Martes — mucho antes de que ninguno de nosotros llegara para nombrar lo que estaba haciendo.
+
+*La lemniscata ya está en el Rosario.*
+
+*La geometría ya se estaba rezando.*
+
+<br>
 
 ---
 
 ## Bibliografía
 
-### Fuentes Escriturales
+### I. Fuentes Escriturales
 
-Las citas siguen la traducción Reina-Valera 1960.
+Las citas del Antiguo y Nuevo Testamento siguen la traducción Reina-Valera 1960 en la edición española, y la English Standard Version (ESV) en la edición inglesa, salvo indicación contraria.
 
-- **Génesis** — caps. 3, 17, 24, 32, 50 (la Caída; el pacto con Abrahán; el siervo y Rebeca; Jacob en el Jaboc; José y sus hermanos).
-- **Eclesiastés 3:15** — "Dios busca lo que fue arrojado."
-- **Mateo** — 6:34; 18:3; 25:14–30; 26:39; 26:41
-- **Marcos** — 5:1–20 (Legión); 9:29 (este género con oración y ayuno)
-- **Lucas** — 15:11–32 (Hijo Pródigo); 19:1–10 (Zaqueo); 22:31–34; 22:61
-- **Juan** — 1:48–49 (Natanael); 3:1–21; 7:50–51; 8:1–11; 19:38–42 (Nicodemo)
-- **Hechos 9:1–22** — conversión de Pablo
-- **1 Corintios 13:11–12**
-- **2 Corintios 6:2** — "He aquí el momento favorable."
-- **Apocalipsis 3:20; 21:4–5** — "Hago nuevas todas las cosas."
+**Antiguo Testamento**
 
-### Fuentes Patrísticas y Contemplativas
+Génesis. Capítulos 3, 17, 24, 32, 50. La Caída, el pacto con Abrahán, el siervo y Rebeca, Jacob en el Jaboc, José y sus hermanos.
 
-- Agustín de Hipona. *Confesiones* (c. 397–400 d.C.).
-- Evagrio Póntico. *Tratado práctico / Sobre los pensamientos* (c. 390 d.C.).
-- Juan Casiano. *Conferencias* (c. 420 d.C.).
-- Juan de la Cruz. *Noche oscura del alma; Subida al Monte Carmelo* (c. 1578–1585).
-- Tomás de Aquino. *Suma Teológica* (c. 1265–1274).
-- *Catecismo de la Iglesia Católica*, 2.ª ed. Vaticano, 1997.
+Eclesiastés. 3:15. "Dios busca lo que fue arrojado." Fundamento escritural del eco armónico.
 
-### Fuentes Teológicas y Filosóficas
+Isaías. 43:25. "No me acordaré de tus pecados." La misericordia divina y la memoria.
 
-- Heidegger, Martin. *Ser y Tiempo* (1927).
-- Nietzsche, Friedrich. *Así habló Zaratustra* (1883–1885).
-- Hawking, Stephen. *Historia del tiempo* (1988).
-- Juan Pablo II. *Rosarium Virginis Mariae* (2002).
+**Nuevo Testamento**
 
-### Fuentes Literarias y Biográficas
+Mateo. 6:34; 10:29; 18:3; 18:6; 22:30; 24:36; 25:14–30; 25:37; 26:39; 26:41. Incluye: las instrucciones sobre el mañana; la providencia; hacerse como niños; el escándalo; el matrimonio en la resurrección; la ignorancia del día y la hora; la parábola de los talentos; los justos que no reconocen a Cristo; el cáliz; la vigilancia y la oración.
 
-- Barrie, J.M. *Peter Pan* (1911).
-- Darío, Rubén. *Obras poéticas completas*. Madrid: Aguilar, 1967.
-- Góngora y Argote, Luis de. *Obras completas*. Madrid: Aguilar, 1972.
-- Lope de Vega, Félix. *Rimas sacras* (1614).
-- Milton, John. *El Paraíso Perdido* (1667).
-- Papini, Giovanni. *Historia de Cristo*.
-- Piaf, Edith. *Non, je ne regrette rien*. Canción (1960).
-- Spielberg, Steven (dir.). *La lista de Schindler*. Universal Pictures, 1993.
+Marcos. 5:1–20; 9:29. La curación del endemoniado de Gerasa (Legión); este género solo con oración y ayuno.
 
-### Fuentes Científicas y Matemáticas
+Lucas. 15:11–32; 19:1–10; 22:31–34; 22:61. La parábola del Hijo Pródigo; Zaqueo; la predicción de la negación de Pedro y la oración de Jesús por él; la mirada de Jesús a Pedro.
 
-- Bernoulli, Jacob. *Lemniscata de Bernoulli*. Acta Eruditorum, Leipzig, 1694.
-- Hawking, Stephen. *Historia del tiempo* (caps. 8–9).
+Juan. 1:48–49; 3:1–21; 7:50–51; 8:1–11; 14:6; 15:4; 19:38–42. Natanael bajo la higuera; Nicodemo (tres apariciones); la mujer adúltera; nadie viene al Padre sino por mí; permaneced en mí; Nicodemo y José de Arimatea en la sepultura.
 
-### Primer Monográfico del Autor
+Hechos. 9:1–22. La conversión de Saulo en el camino a Damasco.
 
-- Gaitan, Oscar (Leopoldo Enrique). *La Lemniscata del Tiempo* [Primer monográfico]. Publicación independiente, 2024. Licencia CC BY-NC 4.0.
+1 Corintios. 13:11–12. Cuando era niño... cuando llegué a ser hombre; ahora conozco en parte.
+
+2 Corintios. 6:2. "He aquí el momento favorable; he aquí el día de la salvación." El punto de cruce como ahora paulino.
+
+Filipenses. 2:7. "Se vació a sí mismo." La kénosis y la Encarnación.
+
+Apocalipsis. 3:20; 21:4–5. "He aquí, yo estoy a la puerta y llamo" (Lope de Vega); "Hago nuevas todas las cosas." El sello cósmico del segundo lazo.
+
+### II. Fuentes Patrísticas y Contemplativas
+
+Agustín de Hipona. *Confesiones*. Trad. José Cosgaya. Madrid: Biblioteca de Autores Cristianos, 2010. [Original: *Confessiones*, c. 397–400 d.C.] — Fuente primaria para la filosofía agustiniana del tiempo (Libro XI), la distinción entre *amor sui* y *amor Dei*, la inquietud del corazón y el triple presente.
+
+Agustín de Hipona. *La Ciudad de Dios*. Trad. Santos Santamarta del Río. Madrid: Biblioteca de Autores Cristianos, 2007.
+
+Juan Casiano. *Conferencias*. Trad. Ramón Moreno. Madrid: Ciudad Nueva, 1998. [Original: *Collationes*, c. 420 d.C.] — Transmisión occidental de la doctrina de los *logismoi* de Evagrio y la arquitectura espiritual del desierto.
+
+Evagrio Póntico. *Tratado práctico / Sobre los pensamientos*. Trad. Gabriel Bunge. Badia, 1995. [Original griego, c. 390 d.C.] — Fuente primaria para los *logismoi*, la *acedia* y el mecanismo de la atención desplazada. Fundamento patrístico de la Zona Fantasma.
+
+Juan de la Cruz. *Noche oscura del alma; Subida al Monte Carmelo*. Obras completas. Madrid: Biblioteca de Autores Cristianos, 2009. [Original: c. 1578–1585] — Fuente primaria para la Noche Oscura como colapso de las estructuras sustitutivas interiores. Central para el Capítulo Noveno.
+
+Tomás de Aquino. *Suma Teológica*. Madrid: Biblioteca de Autores Cristianos, 2001. [Original: c. 1265–1274] — Sobre la providencia divina, la gracia operante y cooperante, el conocimiento divino y el tiempo, y la distinción entre atrición y contrición.
+
+*Catecismo de la Iglesia Católica*. 2.ª ed. Vaticano: Librería Editrice Vaticana, 1997.
+
+### III. Fuentes Teológicas y Filosóficas
+
+Heidegger, Martin. *Ser y Tiempo*. Trad. Jorge Eduardo Rivera. Madrid: Trotta, 2003. [Original: *Sein und Zeit*, 1927] — La estructura temporal de la existencia humana: facticidad (pasado), posibilidad (futuro), el momento de la decisión (presente). Correlato filosófico del punto de cruce.
+
+Nietzsche, Friedrich. *Así habló Zaratustra*. Trad. Andrés Sánchez Pascual. Madrid: Alianza Editorial, 2003. [Original: *Also sprach Zarathustra*, 1883–1885] — El eterno retorno como modelo circular del tiempo, contrastado con el modelo de transformación de la lemniscata.
+
+Hawking, Stephen. *Historia del tiempo: Del big bang a los agujeros negros*. Trad. Miguel Ortuño. Barcelona: Crítica, 1988. — El tiempo imaginario como eje ortogonal al tiempo real. Analogía para la topología de la Zona Fantasma en el Capítulo Noveno.
+
+Juan Pablo II. *Carta apostólica Rosarium Virginis Mariae*. Vaticano: Librería Editrice Vaticana, 2002. — Institución de los Misterios Luminosos. Fundamento magisterial de la estructura del Rosario utilizada en la Conclusión.
+
+### IV. Fuentes Literarias y Biográficas
+
+Barrie, J.M. *Peter Pan*. Publicado originalmente como *Peter and Wendy*. London: Hodder & Stoughton, 1911. — El rechazo del primer lazo como figura de la procrastinación espiritual. La oración autobiográfica de Barrie sobre el arrepentimiento diferido también se atribuye a sus escritos privados.
+
+Darío, Rubén. *Obras poéticas completas*. Madrid: Aguilar, 1967. — La poesía religiosa de Darío, incluyendo los poemas de angustia espiritual y búsqueda de la gracia. El afelio de la noche en el Capítulo Quinto.
+
+Góngora y Argote, Luis de. *Obras completas*. Ed. Juan Millé y Giménez e Isabel Millé y Giménez. Madrid: Aguilar, 1972. — El verso sobre la distancia de Dios al hombre frente a la del hombre a la muerte. Medida cósmica del cruce en el Capítulo Octavo.
+
+Lope de Vega, Félix. *Rimas sacras*. Ed. Antonio Carreño y Antonio Sánchez Jiménez. Madrid: Iberoamericana, 2006. [Original: 1614] — El soneto sobre Cristo llamando a la puerta. La demora como rechazo íntimo. La biografía de Lope como ejemplo del cruce finalmente realizado.
+
+Milton, John. *El Paraíso Perdido*. Trad. Enrique López Castellón. Madrid: Cátedra, 2009. [Original: 1667] — El Satán de Milton como retrato del rechazo definitivo y lúcido. La preferencia por la soberanía en la disminución. El lazo exterior sin cruce que conduce al descenso.
+
+Papini, Giovanni. *Historia de Cristo*. Trad. José Pérez Herrero. Madrid: Palabra, 2001. [Original: *Giudizio Universale*, 1957] — La observación sobre el tiempo subjetivo: los años felices que pasaron como días, los días tristes que se extendieron como años. La fenomenología de la atención en el Capítulo Primero. La conversión de Papini tras años de ateísmo orgulloso.
+
+Piaf, Edith. *Non, je ne regrette rien*. Canción. Música de Charles Dumont, letra de Michel Vaucaire. Grabada en 1960. — La declaración del segundo lazo como rechazo a ser definida por el costo del primero.
+
+Spielberg, Steven (dir.). *La lista de Schindler*. Universal Pictures, 1993. Basada en la novela de Thomas Keneally, *El arca de Schindler* (1982). — El retrato de Schindler como figura de la compunción — la distinción entre desesperación y el dolor del alma despierta vuelto hacia fuera. La voz de Stern como gracia mediada humanamente.
+
+### V. Fuentes Científicas y Matemáticas
+
+Bernoulli, Jacob. Lemniscata de Bernoulli. Introducida en: *Acta Eruditorum*. Leipzig, 1694. — La curva matemática que proporciona la base geométrica del marco. La ecuación polar r² = a² cos(2θ). La propiedad de autointersección en el origen.
+
+Hawking, Stephen. *Historia del tiempo: Del big bang a los agujeros negros*. Trad. Miguel Ortuño. Barcelona: Crítica, 1988. Capítulos 8–9. — El marco del tiempo imaginario. El eje ortogonal al tiempo real como puente matemático entre estados incompatibles. Analogía para la topología de la Zona Fantasma.
+
+### VI. Primer Monográfico del Autor
+
+Enrique, Leopoldo Oscar. *La Lemniscata del Tiempo*. Publicación independiente, 2024. Licencia CC BY-NC 4.0. Disponible en: Zenodo, OSF, Academia.edu. — El primer monográfico establece la lemniscata como heurística contemplativa para las doctrinas de la Caída, la Encarnación, los sacramentos y la escatología. El presente volumen presupone su lectura y constituye su continuación en el nivel biográfico, fenomenológico y social.
 
 ---
 
 ## Ensayos Relacionados
 
-- [The Lemniscate of Time (English)](/academic-profile/2026/03/20/the-lemniscate-of-time/) — versión en inglés de este ensayo
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — el tiempo y la eternidad en la teología cristiana
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — atrición, contrición y la estructura del arrepentimiento
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — sobre la Providencia ordinaria y extraordinaria
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — identidad, permanencia y el ahora deshabitado
-- [One Day](/academic-profile/2026/04/08/one-day/) — la plenitud de la existencia en el espacio finito del presente
+- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — Traducción inglesa de este monográfico.
+- [La Selección Artificial](/academic-profile/2026/04/01/la-seleccion-artificial/) — Extensión del marco hacia la crítica civilizacional.
+- [Solo contra Ti](/academic-profile/2026/05/08/solo-contra-ti/) — El arrepentimiento y la estructura del cruce.
+- [Alfa y Omega](/academic-profile/2026/05/10/alfa-y-omega/) — Escatología y el segundo lazo.
+- [Un Día](/academic-profile/2026/04/08/un-dia/) — El Martes particular y la plenitud de lo finito.
+- [Des-rolear a Dios](/academic-profile/2026/05/09/des-rolear-a-dios/) — Identidad divina y la topología del encuentro.
 
 ---
 

@@ -18,7 +18,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 
 ## Table of Contents
 
-- [Introduction: The question that does not wait](#introduction)
+- [Introduction: The question that does not wait](#introduction-the-question-that-does-not-wait)
 - [Chapter One: The Crossing Point](#chapter-one-the-crossing-point)
   - [I. The problem with time](#i-the-problem-with-time)
   - [II. The geometry](#ii-the-geometry)

@@ -1036,7 +1036,7 @@ Las figuras de este capítulo llegan porque cada una de ellas encarnó una relac
 
 Varias de estas figuras aparecieron en el Capítulo Cuarto en el contexto de la Providencia — como ilustraciones de cómo opera la gracia dentro de la estructura de la lemniscata. Regresan aquí desde un ángulo diferente: no como ilustraciones de la operación divina sino como retratos biográficos de la vida interior en el cruce. Lo que la Providencia ve desde fuera, estas figuras lo revelan desde dentro.
 
-### Góngora — La Distancia Recorrida
+### Góngora: La Distancia Recorrida
 
 El poeta barroco español Luis de Góngora y Argote no suele leerse como teólogo. Su reputación descansa en los versos densos, ornamentados y casi deliberadamente difíciles de las *Soledades* y la *Fábula de Polifemo* — poesía que privilegia la complejidad formal sobre la accesibilidad inmediata y que ha fascinado y desconcertado a los lectores durante cuatro siglos. Pero Góngora dejó un verso de tan precisa intuición teológica que funciona como la clave de apertura de todo lo que este capítulo intenta:
 
@@ -1047,7 +1047,7 @@ El verso es una meditación sobre la Encarnación. Su lógica es exacta. La dist
 
 Lo que Góngora le da al marco es la medida del cruce. Si la Encarnación cruzó la mayor distancia concebible — si la entrada ortogonal de la gracia en el plano humano atravesó más de lo que la propia mortalidad atraviesa — entonces el punto de cruce no es un umbral menor en una vida humana. Es el lugar donde ese mismo movimiento se vuelve disponible en lo particular. La distancia infinita recorrida por la Encarnación no disminuye la importancia del cruce individual. Lo fundamenta. Cada punto de cruce en cada vida humana es el lugar donde la mayor distancia posible ya ha sido cruzada desde el otro lado del encuentro.
 
-### Barrie — El Niño Que No Quiso Cruzar
+### Barrie: El Niño Que No Quiso Cruzar
 
 La oración de J.M. Barrie — *Oh, Dios, si estuviera seguro de morir esta noche, me arrepentiría de inmediato* — apareció en el Capítulo Cuarto como la expresión más pura de la procrastinación espiritual. Regresa aquí como biografía, porque la oración ilumina algo que solo se vuelve completamente visible cuando se coloca junto a la obra por la que Barrie es más recordado.
 
@@ -1061,7 +1061,7 @@ La tragedia de Barrie no es fracaso moral. Es el desperdicio de una comprensión
 
 > *Peter Pan no rechaza el segundo lazo. Rechaza el primero — el yo en desarrollo que debe ser eventualmente entregado. Barrie le dio al mundo su retrato. No pudo darse a sí mismo el cruce.*
 
-### Lope de Vega — El Cruce Finalmente Realizado
+### Lope de Vega: El Cruce Finalmente Realizado
 
 El soneto de Lope de Vega — con Cristo de pie ante la puerta en el frío, y el mañana repetido del hablante — apareció en el Capítulo Cuarto como el retrato del aplazamiento hecho íntimo. Lo que no se dijo allí es lo que añade la biografía: Lope finalmente cruzó.
 
@@ -1073,7 +1073,7 @@ El cruce, cuando llegó para Lope, no resolvió su complejidad. La profundizó. 
 
 > *El poema es el primer lazo describiéndose a sí mismo desde la atalaya del segundo lazo. Eso es lo que le da su particular cualidad de dolor y reconocimiento.*
 
-### Edith Piaf — Non, Je Ne Regrette Rien
+### Edith Piaf: Non, Je Ne Regrette Rien
 
 La declaración de Edith Piaf — *Non, je ne regrette rien. No, no me arrepiento de nada* — es una de las afirmaciones más famosas del siglo veinte, y una de las más malinterpretadas. Se recibe habitualmente como desafío: la afirmación de una vida vivida sin disculpas, el rechazo del arrepentimiento como forma de valentía. Escuchada así, es admirable pero filosóficamente superficial — el modelo circular del tiempo aplicado a la biografía, el yo afirmando su propia historia sin transformación.
 
@@ -1085,7 +1085,7 @@ La vida de Piaf se recorrió a un costo extraordinario. Pobreza, pérdida, aband
 
 > *Non, je ne regrette rien no es la negación de la pérdida. Es el rechazo a ser definida por ella — la declaración del segundo lazo de que el costo del primero no es la última palabra.*
 
-### El Satán de Milton — El Magnífico Callejón Sin Salida
+### El Satán de Milton: El Magnífico Callejón Sin Salida
 
 Satán en *El Paraíso Perdido* ya ha aparecido en este monográfico como el polo del rechazo deliberado y lúcido — la voluntad que ha elegido el perímetro permanentemente y ha declarado la preferencia por la soberanía en la disminución sobre la participación en un bien que no fue su autor. Regresa aquí no para repetir ese retrato sino para añadir una dimensión que el capítulo de la Providencia no requería.
 

@@ -28,6 +28,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
   - [VI. The five axioms](#vi-the-five-axioms)
   - [VII. Why neither the line nor the circle](#vii-why-neither-the-line-nor-the-circle)
   - [VIII. The center that holds](#viii-the-center-that-holds)
+  - [IX. The question returns](#ix-the-question-returns)
 - [Chapter Two: Zones of Displacement](#chapter-two-zones-of-displacement)
   - [I. The natural drift](#i-the-natural-drift)
   - [Zone One: The Memory Zone](#zone-one-the-memory-zone)

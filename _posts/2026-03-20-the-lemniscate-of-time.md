@@ -17,7 +17,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 ---
 
 ## Table of Contents
-- [Preface](#preface)
+- [Preface: On Continuity and Descent into the Concrete](#preface-on-continuity-and-descent-into-the-concrete)
 - [Introduction: The question that does not wait](#introduction-the-question-that-does-not-wait)
 - [Chapter One: The Crossing Point](#chapter-one-the-crossing-point)
   - [I. The problem with time](#i-the-problem-with-time)

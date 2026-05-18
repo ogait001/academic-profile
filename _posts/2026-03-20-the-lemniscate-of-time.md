@@ -721,83 +721,117 @@ Either way, the question is the same. And it is always now.
 > *The crossing point has two modes — one approached, one given. Both are real crossings. Both require the soul to pass through. In one, the soul walks to the center. In the other, the center arrives.*
 
 ---
+## Chapter Five: The Individual Lemniscate
 
+*On growing up, the two aphelions, and discovering that the center is not yours*
 
-CHAPTER FIVE
-The Individual Lemniscate
+> *When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways.*
+> — 1 Corinthians 13:11
 
-On growing up, the two aphelions, and discovering that the center is not yours
+> *Unless you turn and become like children, you will never enter the kingdom of heaven.*
+> — Matthew 18:3
 
+> *He must increase, but I must decrease.*
+> — John 3:30
 
-When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways.
-	— 1 Corinthians 13:11
-Unless you turn and become like children, you will never enter the kingdom of heaven.
-	— Matthew 18:3
-He must increase, but I must decrease.
-	— John 3:30
+### I. The Shape of a Life
 
+The lemniscate is not only a map of time. It is the shape of a life — the particular curve that a single human person traces from the expansion of the self outward into the world, through the crisis at the furthest point of that expansion, and back toward the center where growth and surrender meet. This is not a universal law imposed from outside. It is an observation from within — a pattern that appears, in different forms and at different speeds, in virtually every life that has had the honesty to examine itself.
 
-I.  The Shape of a Life
-The lemniscate is not only a map of time. It is the shape of a life — the particular curve that a single human person traces from the expansion of the self-outward into the world, through the crisis at the furthest point of that expansion, and back toward the center where growth and surrender meet. This is not a universal law imposed from outside. It is an observation from within — a pattern that appears, in different forms and at different speeds, in virtually every life that has had the honesty to examine itself.
- 
 Every human life begins in dependence. The infant at the center — fully present, fully receptive, unable to project into the future loop or inhabit the past loop, alive entirely in the crossing point of each successive moment. There is no outer loop yet. There is only the crossing, and the immediate world it offers: warmth, hunger, light, the face of another person, the first curriculum of the real.
+
 Then the first loop opens. The self begins to expand — outward into language, into identity, into the capacity for independent action. This is not the beginning of the fall. It is the beginning of personhood. The development of the self, the accumulation of experience and skill and confidence, the gradual taking of responsibility for one's own trajectory — all of this is necessary and good. Paul says it plainly: when I became a man, I gave up childish things. The expansion is required. The first loop must be traversed.
+
 But the first loop has an outer limit — the aphelion, the point of furthest distance from the center. Every life that is expanding outward will eventually reach it. And what happens there, and how the person responds to what they find there, is the pivotal question of the individual lemniscate.
-II.  The Two Aphelions
+
+### II. The Two Aphelions
+
 The lemniscate has two outer points — the furthest reach of each loop from the center. In the individual life, both of these outer points represent different modes of distance from the crossing, and both of them can initiate the movement back.
-The first aphelion is the aphelion of expansion. It is reached through growth — through achievement, through the accumulation of competence and confidence, through the construction of an identity that feels solid and sufficient. The person at the first aphelion has, in many respects, succeeded. They have built something. They have become someone. The outer loop has been traversed with energy and purpose. And then, at the furthest point of that traversal, something begins to feel insufficient. The horizon that achievement was supposed to reach keeps receding. The identity that was supposed to provide stability begins to feel like a performance. The self that was  
-supposed to be the center of its own story discovers, with varying degrees of discomfort, that it is not the center of anything.
+
+The first aphelion is the aphelion of expansion. It is reached through growth — through achievement, through the accumulation of competence and confidence, through the construction of an identity that feels solid and sufficient. The person at the first aphelion has, in many respects, succeeded. They have built something. They have become someone. The outer loop has been traversed with energy and purpose. And then, at the furthest point of that traversal, something begins to feel insufficient. The horizon that achievement was supposed to reach keeps receding. The identity that was supposed to provide stability begins to feel like a performance. The self that was supposed to be the center of its own story discovers, with varying degrees of discomfort, that it is not the center of anything.
+
 This is not failure. It is the aphelion functioning exactly as it should — as the point at which the outward movement reaches its natural limit and the curve begins to turn. The crisis at the first aphelion is the crisis of a self that has expanded as far as expansion alone can take it and is now being invited to discover that the center it has been moving away from is the only center that will hold.
+
 The second aphelion is often reached by a different route. It is the aphelion of collapse — the furthest point of distance from the center that is reached not through the success of the self but through its disintegration. Suffering, failure, loss, the shattering of the identity that was constructed in the first loop — these can carry a person to the outer limit of the second loop as surely as pride carries them to the outer limit of the first. The person at the second aphelion is not proud. They are broken. And the distance from the center feels, from inside that brokenness, infinite — not because the center is far away but because the person cannot conceive of being worthy of returning to it.
+
 What is striking — and what the lemniscate makes visible — is that both aphelions return through the same crossing point. The person who arrives at the center from the aphelion of pride and the person who arrives from the aphelion of collapse do not find different centers. They find the same one. The architecture does not discriminate between the routes. The crossing receives both. What changes is not the destination but the posture of arrival.
-Both aphelions return through the same crossing point. The architecture does not discriminate between the routes. What changes is not the destination but the posture of arrival.
 
- 
-III.  The Paradox of Maturity
+> *Both aphelions return through the same crossing point. The architecture does not discriminate between the routes. What changes is not the destination but the posture of arrival.*
+
+### III. The Paradox of Maturity
+
 Paul's two statements, placed side by side, describe what sounds like a contradiction. In the first letter to the Corinthians, he praises the putting away of childish things — the development of the self, the assumption of adult responsibility, the maturation of understanding. In Matthew's Gospel, Christ calls the crowd to become like children — receptive, humble, dependent, trusting. How are both true simultaneously? How does one grow up in order to become, in some essential sense, small again?
+
 The apparent contradiction resolves when the lemniscate makes the sequence visible. The maturity Paul describes is the first loop: the necessary expansion, the development of the person capable of genuine responsibility, the movement from the dependence of childhood into the agency of adulthood. This must happen. A person who has never developed the self has nothing to surrender. A person who has never built anything has nothing to release. The first loop is not a mistake to be avoided. It is the necessary condition for what the second loop makes possible.
+
 The childlikeness Christ calls for in Matthew is not a return to the dependence of infancy. It is not a reversal of the first loop. It is the childlikeness that only the person who has traversed the first loop can genuinely practice — the humility that knows what it is surrendering because it has something to surrender, the trust that is chosen rather than assumed because it has faced the alternative and found it insufficient. The child is trusting because it has no other option. The adult who becomes childlike again is trusting because they have tried every other option and arrived, at the crossing point, at the discovery that dependence on God is not the consolation of the weak but the freedom of the mature.
-John the Baptist names this movement with a precision that no systematic theology quite matches: He must increase, but I must decrease. The statement is not self-deprecation. It is not the confession of inadequacy. It is the description of what the crossing point requires of the person who has developed enough self to have something to decrease. The decrease is only  
-possible because the increase happened. The surrender is only real because there was something to surrender.
-You must grow up to have the capacity to bow down. Christian maturity is not pride in achievement but the freedom to surrender to God.
-IV.  Pride and the Outer Loop
+
+John the Baptist names this movement with a precision that no systematic theology quite matches: *He must increase, but I must decrease.* The statement is not self-deprecation. It is not the confession of inadequacy. It is the description of what the crossing point requires of the person who has developed enough self to have something to decrease. The decrease is only possible because the increase happened. The surrender is only real because there was something to surrender.
+
+> *You must grow up to have the capacity to bow down. Christian maturity is not pride in achievement but the freedom to surrender to God.*
+
+### IV. Pride and the Outer Loop
+
 If the individual lemniscate describes the natural arc from expansion to surrender, pride is the force that keeps the curve from completing that arc. Not pride in the simple sense of vanity or boasting — those are symptoms rather than the condition itself. Pride in the deeper sense the tradition names: the disordered insistence that the self is the center of its own universe, the refusal to accept that the crossing requires a displacement of the self from the center it has been occupying.
+
 Pride does not prevent the first loop. It encourages it — fills it with energy and direction and the satisfying sense of a self being built. The problem arises at the aphelion, where the curve is designed to turn back toward the center. Pride resists the turn. It keeps the curve moving outward even when the outer loop has reached its natural limit. It constructs further expansions to avoid the return — new projects, new identities, new achievements that defer the moment of reckoning. The circle rather than the lemniscate. Repetition rather than transformation.
+
 What pride cannot protect the self from indefinitely is reality. The outer loop has limits that pride does not set and cannot negotiate. Mortality is one of them. Failure is another. The discovery that the people and projects and identities the self has constructed its expansion around are finite, fragile, and unable to bear the weight of a center — this discovery arrives whether the self is ready for it or not. Pride can delay the aphelion. It cannot prevent it.
-And here the tradition offers something unexpected: the aphelion of pride, reached honestly, contains within it the seed of the return. The moment at which the self discovers that  
-it is not the center — that the horizon keeps receding, that the identity it built is insufficient, that the expanding loop cannot sustain itself indefinitely — is precisely the moment at which the threshold becomes visible. Not as defeat. As invitation.
-V.  Nicodemus: A Person in Motion
+
+And here the tradition offers something unexpected: the aphelion of pride, reached honestly, contains within it the seed of the return. The moment at which the self discovers that it is not the center — that the horizon keeps receding, that the identity it built is insufficient, that the expanding loop cannot sustain itself indefinitely — is precisely the moment at which the crossing becomes visible. Not as defeat. As invitation.
+
+### V. Nicodemus: A Person in Motion
+
 Nicodemus appears three times in the Gospel of John. He is not a type, not a fixed figure, not a lesson pinned to a single meaning. He is a person in motion — moving through the individual lemniscate at a pace and in a manner that is entirely his own, and that the Gospel records with unusual patience and specificity.
-When we first encounter him, in the third chapter of John, he is a Pharisee and a member of the Sanhedrin — a person of standing and learning and genuine intellectual seriousness. The first loop in full development: identity built, position achieved, the self-expanded into a role that carries real authority and real responsibility. He comes to Jesus at night.
+
+When we first encounter him, in the third chapter of John, he is a Pharisee and a member of the Sanhedrin — a person of standing and learning and genuine intellectual seriousness. The first loop in full development: identity built, position achieved, the self expanded into a role that carries real authority and real responsibility. He comes to Jesus at night.
+
 The night matters, but not in the way popular reading sometimes fixes it. It is not the symbol of hypocrisy — of someone hiding a shameful interest. In John's Gospel, darkness is consistently the condition of the person who is genuinely searching but has not yet found the light — not because they are morally deficient but because the light has not yet arrived in a form their understanding can receive. Nicodemus comes at night because that is where he is. He is a serious person in partial darkness, approaching a crossing point he can sense but cannot yet see clearly.
-His opening line is generous and respectful: Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him. He is not flattering. He is offering his best theological assessment. And Jesus responds not to the compliment but to the person — addressing not what Nicodemus said but what Nicodemus needs: Truly, truly, I say to you, unless one is born again, he cannot see the kingdom of God.
- 
+
+His opening line is generous and respectful: *Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.* He is not flattering. He is offering his best theological assessment. And Jesus responds not to the compliment but to the person — addressing not what Nicodemus said but what Nicodemus needs: *Truly, truly, I say to you, unless one is born again, he cannot see the kingdom of God.*
+
 The response stops Nicodemus completely. Not because he is obtuse — he is anything but. Because the language Jesus is using cannot be processed by the intellectual framework he has spent his life developing. Born again? How can a man be born when he is old? Can he enter a second time into his mother's womb and be born? The questions are not stupid. They are the honest responses of a first-loop mind encountering a second-loop reality. He is trying to understand new wine in old wineskins, not because the wineskins are bad but because the wine requires something different.
+
 The conversation ends without resolution for Nicodemus. He disappears from the text. The crossing has been indicated but not yet made. The person is still in the approach.
-He reappears in John 7, during a heated debate among the Pharisees about whether Jesus should be arrested. Nicodemus speaks — cautiously, precisely, within the limits of his position: Does our law judge a man without first giving him a hearing and learning what he does? It is not a confession. It is not a declaration of discipleship. It is a procedural observation — but it is made in a room full of people who are hostile to Jesus, at personal risk, by someone who had no obligation to make it. Something has shifted. The approach continues. The crossing has not yet been made, but the direction of movement has changed.
+
+He reappears in John 7, during a heated debate among the Pharisees about whether Jesus should be arrested. Nicodemus speaks — cautiously, precisely, within the limits of his position: *Does our law judge a man without first giving him a hearing and learning what he does?* It is not a confession. It is not a declaration of discipleship. It is a procedural observation — but it is made in a room full of people who are hostile to Jesus, at personal risk, by someone who had no obligation to make it. Something has shifted. The approach continues. The crossing has not yet been made, but the direction of movement has changed.
+
 He appears for the last time in John 19, after the crucifixion. He comes with Joseph of Arimathea to take the body of Jesus down from the cross and prepare it for burial. He brings a hundred pounds of myrrh and aloes — an extravagant amount, a public gesture, a declaration made at the moment of greatest apparent defeat. The one he came to see in secret at night he now honors openly in the dark of the tomb.
-The crossing, when it finally comes, does not look like what the third chapter promised. There is no dramatic rebirth scene, no moment of declared faith, no testimony. There is a man with a hundred pounds of burial spices, doing the most intimate and costly service available to him, for a teacher the world considers a criminal and a failure. It is quiet. It is complete. The individual lemniscate has traced its full arc —  
-not in a moment, not in a crisis, but across years, in the ordinary accumulation of small movements toward the center.
-The crossing, when it comes, does not always look like what was promised. Sometimes it is a man with burial spices, in the dark, doing the only thing left to do.
-VI.  The Aphelion of Night
+
+The crossing, when it finally comes, does not look like what the third chapter promised. There is no dramatic rebirth scene, no moment of declared faith, no testimony. There is a man with a hundred pounds of burial spices, doing the most intimate and costly service available to him, for a teacher the world considers a criminal and a failure. It is quiet. It is complete. The individual lemniscate has traced its full arc — not in a moment, not in a crisis, but across years, in the ordinary accumulation of small movements toward the center.
+
+> *The crossing, when it comes, does not always look like what was promised. Sometimes it is a man with burial spices, in the dark, doing the only thing left to do.*
+
+### VI. The Aphelion of Night
+
 Not everyone approaches the crossing from the aphelion of success. Some arrive at the outer limit from a different direction entirely — not from the expansion of the self into achievement but from the collapse of the self under the weight of what it could not sustain. The night Nicodemus moves through is the darkness of the searching mind. There is another darkness — the darkness of the person who has glimpsed the morning and is not sure they will reach it.
-The Nicaraguan poet Ruben Dario — perhaps the greatest voice of Spanish modernism, a man whose life was as turbulent as his verse was luminous — left behind a poem that reaches the outer limit of the second aphelion and turns toward the center from there. It is a prayer, though it arrives dressed as a poem, and it contains one of the most honest confessions in the literature of spiritual searching:
-Tell me that this dreadful horror of agony that obsesses me, is nothing but my wicked guilt, that upon dying I will find the light of a new day and that then I will hear my 'Rise and walk!'  Rubén Darío
-The agony Dario describes is not the agony of doubt in the philosophical sense — not the detached questioning of a mind examining propositions. It is the agony of the person at the furthest point of the outer loop, looking back toward the center and not knowing if the curve will complete. The guilt is real. The distance feels infinite. And yet the very fact that the prayer exists — the very fact that Dario is asking for the assurance rather than abandoning the asking — is itself the  
-sign that the movement has not stopped. The aphelion has been reached. The curve is beginning to turn.
-Rise and walk. The words he asks to hear are the words Christ spoke to the paralytic — to the person who had been at the outer limit for thirty-eight years, immobile, unable to reach the healing water before someone else stepped in. The healing that arrives is not the one the paralytic had been waiting for. It arrives in a form he could not have predicted. And the crossing it requires is simply the act of standing up — which is, for someone who has been lying down for thirty-eight years, the whole of everything.
-Dario is asking, from the aphelion of his own darkness, whether the same thing is possible for him. The poem does not answer the question. It asks it honestly, from the place where honest asking is possible — the aphelion, the outer limit, the point where the self has nothing left to offer and the only movement available is toward the center it cannot reach under its own power.
+
+The Nicaraguan poet Rubén Darío — perhaps the greatest voice of Spanish modernism, a man whose life was as turbulent as his verse was luminous — left behind a poem that reaches the outer limit of the second aphelion and turns toward the center from there. It is a prayer, though it arrives dressed as a poem, and it contains one of the most honest confessions in the literature of spiritual searching:
+
+*Tell me that this dreadful horror of agony that obsesses me, is nothing but my wicked guilt, that upon dying I will find the light of a new day and that then I will hear my 'Rise and walk!'*
+— Rubén Darío
+
+The agony Darío describes is not the agony of doubt in the philosophical sense — not the detached questioning of a mind examining propositions. It is the agony of the person at the furthest point of the outer loop, looking back toward the center and not knowing if the curve will complete. The guilt is real. The distance feels infinite. And yet the very fact that the prayer exists — the very fact that Darío is asking for the assurance rather than abandoning the asking — is itself the sign that the movement has not stopped. The aphelion has been reached. The curve is beginning to turn.
+
+*Rise and walk.* The words he asks to hear are the words Christ spoke to the paralytic — to the person who had been at the outer limit for thirty-eight years, immobile, unable to reach the healing water before someone else stepped in. The healing that arrives is not the one the paralytic had been waiting for. It arrives in a form he could not have predicted. And the crossing it requires is simply the act of standing up — which is, for someone who has been lying down for thirty-eight years, the whole of everything.
+
+Darío is asking, from the aphelion of his own darkness, whether the same thing is possible for him. The poem does not answer the question. It asks it honestly, from the place where honest asking is possible — the aphelion, the outer limit, the point where the self has nothing left to offer and the only movement available is toward the center it cannot reach under its own power.
+
 That asking is itself a form of crossing. Not the dramatic crossing that Paul experienced on the road to Damascus. Not the quiet years-long crossing that Nicodemus traced through three Gospel appearances. But the crossing of the person who has reached the outer limit of what the self can sustain and has turned, in the only direction remaining, toward something beyond the self. Giovanni Papini, reflecting on his own conversion after years of proud atheism, described this same movement from the other side: he had arrived, through the exhaustion of every alternative, at the place where the only honest response was surrender. The sad days had been very long. And then, somehow, they ended.
-VII.  The Center That Is Not Yours
+
+### VII. The Center That Is Not Yours
+
 The individual lemniscate culminates in a discovery that the first loop could not have predicted and that the second loop makes inevitable: the center is not the self.
-This discovery arrives differently for different people. For those who reach the aphelion through success, it arrives as the insufficiency of everything that success promised — the  
-realization that the horizon keeps receding, that the self at the center of its own story is not large enough to be the center of anything that matters. For those who reach the aphelion through collapse, it arrives as the discovery that there is a ground beneath the self that holds even when the self cannot hold itself — that the distance from the center, however it was measured, was never as absolute as it felt.
-In either case, what is discovered is not diminishment but reorientation. The self does not disappear at the crossing point. It is placed — correctly, for the first time — in relation to the center that was always there. This is what John the Baptist meant: He must increase, not I must disappear. The decrease of the self is not the annihilation of the person. It is the person finding their actual size — which is not the size of the universe, and not nothing. It is the size of a creature made in the image of its Creator, dependent and free, finite and inexhaustible within that finitude.
+
+This discovery arrives differently for different people. For those who reach the aphelion through success, it arrives as the insufficiency of everything that success promised — the realization that the horizon keeps receding, that the self at the center of its own story is not large enough to be the center of anything that matters. For those who reach the aphelion through collapse, it arrives as the discovery that there is a ground beneath the self that holds even when the self cannot hold itself — that the distance from the center, however it was measured, was never as absolute as it felt.
+
+In either case, what is discovered is not diminishment but reorientation. The self does not disappear at the crossing point. It is placed — correctly, for the first time — in relation to the center that was always there. This is what John the Baptist meant: *He must increase*, not *I must disappear*. The decrease of the self is not the annihilation of the person. It is the person finding their actual size — which is not the size of the universe, and not nothing. It is the size of a creature made in the image of its Creator, dependent and free, finite and inexhaustible within that finitude.
+
 The individual lemniscate, fully traversed, does not end in self-erasure. It ends in what the tradition has always called — in different vocabularies, across different centuries and cultures — the freedom of the child who has grown up enough to choose dependence, the maturity that discovers its fulfillment in surrender, the person who has arrived, after the full traversal of the curve, at the crossing point with open hands.
+
 The fullness of existence is available there. Not despite the finitude of the self. Through it. At the crossing. In the particular Tuesday of whatever moment this is being read — which is, if the curve has been traversed honestly, the only Tuesday that has ever mattered.
-We must grow up to have the capacity to bow down. Not I must disappear — but He must increase. The self finds its actual size at the crossing point.
 
-
+> *We must grow up to have the capacity to bow down. Not I must disappear — but He must increase. The self finds its actual size at the crossing point.*
 
 ---
 

@@ -1283,54 +1283,182 @@ Finally there.
 
 *A recognition, not an argument*
 
-The argument is complete. What remains is a recognition — something the completed argument makes visible. The reader who has traveled through nine chapters may find that the structure they have been reading was already embedded in a prayer they may already know.
+> *The lemniscate does not promise that nothing was lost. It promises that what was lost is not the final word.*
 
-**The Rosary is a lemniscate. Not metaphorically. Structurally.**
+### I. Stepping Back
 
-The **Joyful Mysteries** — the Annunciation, the Visitation, the Nativity, the Presentation, the Finding in the Temple — open the future loop. Grace arrives orthogonally. A human person at her crossing point responds: *be it done to me according to your word.* The approach of something real and good. The now inhabited with gratitude.
+The argument is complete. The geometry has been laid out, the zones of displacement mapped, the harmonic echo grounded in Scripture, the crossing point inhabited by figures from the Gospels and from literature and from the silence of actual lives.
 
-The **Sorrowful Mysteries** — the Agony in the Garden, the Scourging, the Crowning with Thorns, the Carrying of the Cross, the Crucifixion — are the first loop traversed to its furthest point. The tradition dwells. The Ghost Zone finds its place here — those for whom the Sorrowful Mysteries are prayed; the sustained, costly, vicarious intercession of someone fasting and praying at another person's captivity.
+The Ghost Zone has been named. The restoration has been described. The lemniscate has been followed all the way to its second loop, and the second loop all the way to its seal in Revelation: *I make all things new.*
 
-The **Glorious Mysteries** — the Resurrection, the Ascension, Pentecost, the Assumption, the Coronation — are the second loop. The harmonic echo at its fullest. The wounds are still present in the Risen Body. Thomas is invited to place his hand in the side. The first loop is not erased. It is carried forward, transformed, not cancelled. *I make all things new. Not new things. All things.*
+What remains is not more argument. What remains is a recognition — something that the argument itself could not produce but that the completed argument makes visible. The reader who has traveled through nine chapters and arrived here may find, in the pages that follow, that the structure they have been reading was already embedded in a prayer they may already know. Not discovered by this monograph. Recognized by it.
 
-The **Luminous Mysteries** — the Baptism, the Wedding at Cana, the Proclamation of the Kingdom, the Transfiguration, the Institution of the Eucharist — are the crossing point. The present made luminous. The eternal intersecting the temporal in specific moments, specific places. **The Eucharist — the final Luminous Mystery — is the crossing point made sacramental and perpetual. The particular Tuesday of every Mass. This bread. This cup. This moment.**
+That is the difference between an argument and a recognition. An argument builds toward its conclusion. A recognition arrives quietly, at the end, and shows the reader something that was always there — waiting for the language that would let it be seen.
 
-The Rosary is a lemniscate. The geometry was already being prayed. The four movements of the prayer trace the same curve this monograph has been mapping — the same two loops, the same crossing point, the same movement from the opening of possibility through the traversal of suffering through the transformation of the second loop and back to the crossing where everything becomes possible again.
+### II. The Rosary
 
-This was not designed into the Rosary. It is there because the Rosary is a meditation on the life of Christ — and the life of Christ is the lemniscate traversed completely, at every level, by the one who designed the curve.
+The Rosary is one of the oldest and most widely prayed contemplative prayers in the Catholic tradition. It is not primarily a devotional exercise for beginners or the intellectually simple. At its depth — contemplated slowly, with the attention the tradition invites — it is a meditation on the entire arc of salvation history, organized into four movements that trace the life of Christ from its announcement to its completion.
+
+The four movements — the Joyful Mysteries, the Sorrowful Mysteries, the Glorious Mysteries, and the Luminous Mysteries — are not four separate devotions. They are four phases of a single continuous contemplation. They move. They carry the person who prays them through a structure that has a shape — a shape that, stepped back from, looks remarkably like the curve this monograph has been tracing.
+
+The correspondence was not designed. It was found. And finding it — recognizing that the geometry the lemniscate describes is already woven into the architecture of the prayer — is the last thing this monograph has to offer. Not as proof of anything. As a gift.
+
+**The Joyful Mysteries — The Opening of Possibility**
+
+The Joyful Mysteries begin with the Annunciation — the moment at which the future loop opens. A word is spoken into the real plane from outside it entirely. Grace arrives orthogonally, perpendicular to the ordinary flow of history. And a human person, at her own crossing point, responds with the consent that makes the entire subsequent curve possible: *be it done to me according to your word.*
+
+The Joyful Mysteries are the movement of approaching possibility — the child growing in the womb, the recognition between Elizabeth and Mary at the Visitation, the birth in Bethlehem, the presentation in the Temple, the finding of the child Jesus among the teachers. Each mystery is a crossing point approached. Each one is the real plane receiving what the future loop has been carrying toward it. Each one is the particular Tuesday of a human life inhabited with full attention — shepherds in a field, an old man taking a child in his arms in the Temple, a twelve-year-old in conversation with those who had studied for decades.
+
+The Joyful Mysteries correspond, in the structure of the lemniscate, to the opening of the future loop — the field of possibility, the approaching horizon, the gift of what may yet become. They are not naive. Simeon's prophecy over the child — *a sword will pierce your own soul* — is already present in the Joyful Mysteries. The first loop is already foreshadowed. But the dominant movement is joy: the approach of something real and good, the now inhabited with gratitude, the fullness of existence available in the finite space of each particular moment.
+
+**The Sorrowful Mysteries — The First Loop**
+
+The Sorrowful Mysteries are the first loop traversed to its furthest point. The agony in the garden. The scourging. The crowning with thorns. The carrying of the cross. The crucifixion. Each mystery is the aphelion approached and passed — the furthest possible distance from the warmth of the Joyful Mysteries, the outer limit of what the first loop contains.
+
+There is no minimization in the Sorrowful Mysteries. The tradition does not hasten through them toward the Glorious. It dwells. The agony in the garden is not presented as the prelude to something better — it is presented as what it was: a human person at the crossing point of the most devastating kind, asking if the cup can pass, receiving in the silence the answer that it cannot, and choosing to remain at the crossing anyway. *Father, not my will but yours.*
+
+The Ghost Zone, in this structure, finds its place in the Sorrowful Mysteries — not as a mystery to be contemplated but as the condition the Sorrowful Mysteries address. The man among the tombs, the person organized around the nightly question of where they will go — these are the ones for whom the Sorrowful Mysteries are prayed. The sustained, costly, vicarious intercession that Chapter Nine described is the Sorrowful Mysteries lived from the inside of a human relationship: someone fasting and praying, remaining at the crossing point of another person's captivity, refusing to abandon the real plane even when the one they love has.
+
+**The Glorious Mysteries — The Second Loop**
+
+The Glorious Mysteries are the second loop. The Resurrection. The Ascension. The descent of the Holy Spirit. The Assumption. The Coronation. Each mystery is the harmonic echo at its fullest — not the restoration of what was lost in the first loop in the same form, but the transformation of what was carried through the crossing into something the first loop alone could never have generated.
+
+The Resurrection is not the undoing of the crucifixion. It is the crossing point inhabited by the one who designed the crossing — the orthogonal entry of divine life into the human plane now extended all the way through death and out the other side. The wounds are still present in the Risen Body. Thomas is invited to place his hand in the side. The first loop is not erased. It is carried forward — transformed, not cancelled — into the second. *I make all things new.* Not new things. All things.
+
+The Glorious Mysteries are the theological ground of the harmonic echo. They are what Chapter Three was pointing toward when it laid out the scriptural spine: Ecclesiastes 3:15, Joseph in Genesis, Paul in Corinthians, Revelation 21:5. All of it was already present in the contemplation the Rosary has been offering for centuries. The person who prays the Glorious Mysteries is already meditating on the structure this monograph attempts to name — the second loop as transformation, the past carried forward, what was lost not the final word.
+
+**The Luminous Mysteries — The Crossing Point**
+
+The Luminous Mysteries — added to the Rosary by John Paul II in 2002, drawn from the public ministry of Christ — are the crossing point. They are the present made luminous: the Baptism in the Jordan, the wedding at Cana, the proclamation of the Kingdom, the Transfiguration, the institution of the Eucharist.
+
+Each of the Luminous Mysteries is a crossing point inhabited — the eternal intersecting the temporal in a specific moment, a specific place, a specific person standing at the only location where transformation is possible. The Baptism: the voice from heaven at the moment of entry into the Jordan, the orthogonal piercing of the divine into human time. The wedding at Cana: the crossing point of ordinary life — a wedding, a shortage of wine, a mother's quiet request — inhabited with full attention and transformed. The Transfiguration: the particular Tuesday of a mountain, three disciples, and the veil between time and eternity momentarily lifted.
+
+The Eucharist — the final Luminous Mystery — is the crossing point made sacramental and perpetual. The particular Tuesday of every Mass, every morning, every unremarkable day in which the now is offered and received and transformed. Not the wedding day. Not the milestone. The Tuesday. This bread. This cup. This moment.
+
+The Luminous Mysteries are what the Introduction promised and what the monograph has been building toward: the fullness of existence available now, in the finite space of this particular Tuesday. Inexhaustible within the finite. The crossing point, inhabited.
+
+### III. The Recognition
+
+The Joyful Mysteries open the future loop. The Sorrowful Mysteries traverse the first loop to its furthest point. The Glorious Mysteries are the second loop — transformation, harmonic echo, all things made new. The Luminous Mysteries are the crossing point itself — grace in the particular, the eternal in the finite, the now inhabited with full attention.
+
+The Rosary is a lemniscate. Not metaphorically. Not approximately. Structurally. The four movements of the prayer trace the same curve this monograph has been mapping — the same two loops, the same crossing point, the same movement from the opening of possibility through the traversal of suffering through the transformation of the second loop and back to the crossing where everything becomes possible again.
+
+This was not designed into the Rosary. It was not placed there by a theologian with a geometric intuition. It is there because the Rosary is a meditation on the life of Christ — and the life of Christ is the lemniscate traversed completely, at every level, by the one who designed the curve. The Joyful and the Sorrowful and the Glorious and the Luminous are not four devotional themes assembled by tradition. They are the shape of a life — the shape of the life — traced in contemplative prayer by the hands of those who prayed it before they had geometry for it.
+
+> *The Rosary is a lemniscate. Not metaphorically. Structurally. What the geometry sketches, the prayer has been contemplating for centuries.*
+
+### IV. The Last Word
+
+This monograph began with a question that Providence never stops asking. It has been answered, in different registers, across nine chapters and five levels of interiority. The geometry of the crossing point. The zones of displacement that pull attention away from it. The harmonic echo of what was lost. The full range of human response to the encounter at the center. The condition that prevents the crossing from being inhabited at all. The restoration that the Gospel records as a man, sitting, finally there.
+
+None of it was new. The geometry was always present in the prayer. The crossing point was always available in the Tuesday. The harmonic echo was always the promise of the God who seeks what has been driven away. The restoration was always the man in his right mind, seated at the real plane of his existence, in the finite space of a moment that contained — as every moment contains — the fullness of everything.
+
+The lemniscate does not promise that nothing was lost. It promises that what was lost is not the final word. And the Rosary, prayed slowly, with the patience that centuries of contemplative prayer have learned, has always known this. It has been meditating on the two loops and the crossing and the transformation and the luminous now — bead by bead, mystery by mystery, Tuesday by Tuesday — longer than any of us have been here to name what it was doing.
+
+*The lemniscate is already in the Rosary.*
+
+*The geometry was already being prayed.*
 
 ---
 
-*The lemniscate does not promise that nothing was lost. It promises that what was lost is not the final word. And is encountered only at the crossing — in the moment that is always now.*
+## Bibliography
 
-**What did you do with this moment?**
+### I. Scriptural Sources
+
+Scriptural citations follow the English Standard Version (ESV) unless otherwise noted. The Spanish edition follows the Reina-Valera 1960.
+
+**Old Testament**
+
+Genesis. Chapters 3, 17, 24, 32, 50. The Fall, the covenant with Abraham, the servant and Rebekah, Jacob at the Jabbok, Joseph and his brothers.
+
+Ecclesiastes. 3:15. "God seeks what has been driven away." Scriptural ground of the harmonic echo.
+
+Isaiah. 43:25. "I will not remember your sins." Divine mercy and memory.
+
+**New Testament**
+
+Matthew. 6:34; 10:29; 18:3; 18:6; 22:30; 24:36; 25:14–30; 25:37; 26:39; 26:41. Includes: instruction on tomorrow; providence; becoming like children; scandal; marriage in the resurrection; ignorance of the day and hour; the parable of the talents; the righteous who do not recognize Christ; the cup; watch and pray.
+
+Mark. 5:1–20; 9:29. The healing of the Gerasene demoniac (Legion); this kind only by prayer and fasting.
+
+Luke. 15:11–32; 19:1–10; 22:31–34; 22:61. The Parable of the Prodigal Son; Zacchaeus; prediction of Peter's denial and Jesus's prayer for him; the Lord's look at Peter.
+
+John. 1:48–49; 3:1–21; 7:50–51; 8:1–11; 14:6; 15:4; 19:38–42. Nathanael under the fig tree; Nicodemus (three appearances); the adulterous woman; no one comes to the Father except through me; abide in me; Nicodemus and Joseph of Arimathea at the burial.
+
+Acts. 9:1–22. The conversion of Saul on the road to Damascus.
+
+1 Corinthians. 13:11–12. When I was a child... when I became a man; now I know in part.
+
+2 Corinthians. 6:2. "Behold, now is the acceptable time; now is the day of salvation." The crossing point as Pauline now.
+
+Philippians. 2:7. "He emptied himself." The kenosis and the Incarnation.
+
+Revelation. 3:20; 21:4–5. "Behold, I stand at the door and knock" (Lope de Vega); "I make all things new." The cosmic seal of the second loop.
+
+### II. Patristic and Contemplative Sources
+
+Augustine of Hippo. *Confessions*. Trans. Henry Chadwick. Oxford: Oxford University Press, 1991. [Original: *Confessiones*, c. 397–400 AD] — Primary source for Augustine's philosophy of time (Book XI), the distinction between *amor sui* and *amor Dei*, the restlessness of the heart, and the threefold present.
+
+Augustine of Hippo. *The City of God*. Trans. Henry Bettenson. London: Penguin Classics, 2003.
+
+John Cassian. *The Conferences*. Trans. Boniface Ramsey. New York: Paulist Press, 1997. [Original: *Collationes*, c. 420 AD] — Western transmission of Evagrius's doctrine of the logismoi and the spiritual architecture of the desert.
+
+Evagrius Ponticus. *The Praktikos / On Thoughts*. Trans. A.M. Casiday. Yonkers, NY: St. Vladimir's Seminary Press, 2006. [Original Greek, c. 390 AD] — Primary source for the logismoi, acedia, and the mechanism of displaced attention. Patristic foundation of the Ghost Zone.
+
+John of the Cross. *Dark Night of the Soul; Ascent of Mount Carmel*. Trans. Kieran Kavanaugh and Otilio Rodriguez. Washington, DC: ICS Publications, 1991. [Original: c. 1578–1585] — Primary source for the Dark Night as the collapse of interior substitute structures. Central to Chapter Nine.
+
+Thomas Aquinas. *Summa Theologiae*. Trans. Fathers of the English Dominican Province. New York: Benziger Brothers, 1947. [Original: c. 1265–1274] — On divine providence, operative and cooperative grace, divine knowledge and time, and the distinction between attrition and contrition.
+
+*Catechism of the Catholic Church*. 2nd ed. Vatican City: Libreria Editrice Vaticana, 1997.
+
+### III. Theological and Philosophical Sources
+
+Heidegger, Martin. *Being and Time*. Trans. John Macquarrie and Edward Robinson. New York: Harper & Row, 1962. [Original: *Sein und Zeit*, 1927] — The temporal structure of human existence: thrownness (past), possibility (future), the moment of decision (present). Philosophical correlate of the crossing point.
+
+Nietzsche, Friedrich. *Thus Spoke Zarathustra*. Trans. Walter Kaufmann. New York: Viking Press, 1966. [Original: *Also sprach Zarathustra*, 1883–1885] — The eternal recurrence as the circular model of time, contrasted with the lemniscate's model of transformation.
+
+Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. — Imaginary time as an orthogonal axis to real time. Analogy for the Ghost Zone topology in Chapter Nine.
+
+John Paul II. *Apostolic Letter Rosarium Virginis Mariae*. Vatican City: Libreria Editrice Vaticana, 2002. — Institution of the Luminous Mysteries. Magisterial foundation for the Rosary structure used in the Conclusion.
+
+### IV. Literary and Biographical Sources
+
+Barrie, J.M. *Peter Pan*. Originally published as *Peter and Wendy*. London: Hodder & Stoughton, 1911. — The refusal of the first loop as a figure of spiritual procrastination. Barrie's autobiographical prayer on deferred repentance is attributed to his private writings.
+
+Darío, Rubén. *Complete Poetic Works*. Translated selections in various anthologies. See: *Selected Poems of Rubén Darío*, trans. Lysander Kemp. Austin: University of Texas Press, 1965. — Darío's religious poetry, including poems of spiritual anguish and the search for grace. The aphelion of night in Chapter Five.
+
+Góngora y Argote, Luis de. *Complete Works*. Partial translations available in various anthologies of Spanish Baroque poetry. — The verse on the distance from God to man versus man to death. Cosmic measure of the crossing in Chapter Eight.
+
+Lope de Vega, Félix. *Sacred Rhymes*. Partial translations in various anthologies. The sonnet beginning "¿Qué tengo yo, que mi amistad procuras?" is widely anthologized. — The sonnet on Christ knocking at the door. Deferral as intimate refusal. Lope's biography as the crossing finally made.
+
+Milton, John. *Paradise Lost*. Ed. Merritt Y. Hughes. New York: Odyssey Press, 1935. [Original: 1667] — Milton's Satan as the portrait of definitive, lucid refusal. The preference for sovereignty in diminishment. The outer loop without a crossing leading to descent.
+
+Papini, Giovanni. *Life of Christ*. Trans. Dorothy Canfield Fisher. New York: Harcourt, Brace, 1923. [Original: *Giudizio Universale*, 1957] — The observation on subjective time: happy years passing like days, sad days stretching like years. The phenomenology of attention in Chapter One. Papini's conversion after years of proud atheism.
+
+Piaf, Edith. *Non, je ne regrette rien*. Song. Music by Charles Dumont, lyrics by Michel Vaucaire. Recorded 1960. — The second loop's declaration as refusal to be defined by the first loop's cost. The distinction between defiance and the lived harmonic echo.
+
+Spielberg, Steven (dir.). *Schindler's List*. Universal Pictures, 1993. Based on the novel by Thomas Keneally, *Schindler's Ark* (1982). — Schindler as a figure of compunction — the distinction between despair and the grief of the awakened conscience turned outward. Stern's voice as humanly mediated grace.
+
+### V. Scientific and Mathematical Sources
+
+Bernoulli, Jacob. Lemniscate of Bernoulli. Introduced in: *Acta Eruditorum*. Leipzig, 1694. — The mathematical curve providing the geometric foundation of the framework. The polar equation r² = a² cos(2θ). The self-intersection property at the origin.
+
+Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. Chapters 8–9. — The imaginary time framework. The orthogonal axis to real time as a mathematical bridge between incompatible states. Analogy for the Ghost Zone topology.
+
+### VI. Author's First Monograph
+
+Gaitan, Oscar. *The Lemniscate of Time*. Independent publication, 2024. License CC BY-NC 4.0. Available at: Zenodo, OSF, Academia.edu. — The first monograph establishes the lemniscate as a contemplative heuristic for the doctrines of the Fall, the Incarnation, the sacraments, and eschatology. The present volume presupposes it and constitutes its continuation at the biographical, phenomenological, and social level.
 
 ---
 
-*Oscar Gaitan (Leopoldo Enrique) — March 20, 2026*
+## Related Essays
 
-*From the Gaitan Topology — Second Monograph*
-
-*License: CC BY-NC 4.0*
-
----
-
-### References
-
-**Scripture:** Genesis 3, 17, 24, 32, 50; Ecclesiastes 3:15; Matthew 6:34; 18:3; 25:14–30; Mark 5:1–20; 9:29; Luke 15:11–32; 19:1–10; 22:31–34; John 1:48–49; 3:1–21; 8:1–11; 19:38–42; Acts 9:1–22; 1 Corinthians 13:11; 2 Corinthians 6:2; Revelation 3:20; 21:4–5.
-
-**Patristic and Contemplative:** Augustine of Hippo, *Confessions*; John Cassian, *The Conferences*; Evagrius Ponticus, *The Praktikos*; John of the Cross, *Dark Night of the Soul*; Thomas Aquinas, *Summa Theologiae.*
-
-**Philosophical:** Heidegger, Martin. *Being and Time.* Harper & Row, 1962. Nietzsche, Friedrich. *Thus Spoke Zarathustra.* Hawking, Stephen. *A Brief History of Time.*
-
-**Literary and Biographical:** Barrie, J.M. *Peter Pan.* Darío, Rubén. *Complete Poetic Works.* Góngora y Argote, Luis de. *Complete Works.* Lope de Vega, Félix. *Sacred Rhymes.* Milton, John. *Paradise Lost.* Papini, Giovanni. *Giudizio Universale.* Piaf, Edith. *Non, je ne regrette rien.* Spielberg, Steven (dir.). *Schindler's List.*
-
-**Related Works by the Author**
-- Gaitan, Oscar. *One Day: The Opportunity That Never Arrives.* [Read on this site](/academic-profile/2026/04/08/one-day-the-opportunity-that-never-arrives/)
-- Gaitan, Oscar. *De-Roling God.* [Read on this site](/academic-profile/2026/05/09/de-roling-god/)
-- Gaitan, Oscar. *Against You Alone.* [Read on this site](/academic-profile/2026/05/08/against-you-alone/)
-- Gaitan, Oscar. *Alpha and Omega.* [Read on this site](/academic-profile/2026/05/10/alpha-and-omega/)
-- Gaitan, Oscar. *The Artificial Selection.* [Read on this site](/academic-profile/2026/04/01/the-artificial-selection/)
+- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/) — Spanish translation of this monograph.
+- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — Extension of the framework into civilizational critique.
+- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — Repentance and the structure of the crossing.
+- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — Eschatology and the second loop.
+- [One Day](/academic-profile/2026/04/08/one-day/) — The particular Tuesday and the fullness of the finite.
+- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — Divine identity and the topology of encounter.
 
 ---
 

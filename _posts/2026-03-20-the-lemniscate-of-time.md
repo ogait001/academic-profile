@@ -5,7 +5,7 @@ date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, memory, grace, ghost-zone, harmonic-echo, providence, phenomenology, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, rosary, incarnation, self-and-identity]
 lang: en
-excerpt: "A full monograph from the Gaitan Topology descending into the interior of the lemniscate framework — mapping the zones of displacement that pull human attention from the crossing point, the harmonic echo of unrealized possibility, and the Ghost Zone where millions live in silence, separated from the only moment where genuine life is possible."
+excerpt: "Human life may unfold like a lemniscate: two loops joined by a single crossing where freedom, grace, and decision meet. The Lemniscate of Time follows this interior topology through scripture, literature, and philosophy, bringing Nathanael, Peter, Nicodemus, J.M. Barrie, Milton, Papini, and Rubén Darío into a meditation on memory, unrealized possibility, and providential return. The study concludes by identifying a structural correspondence between the lemniscate and the Rosary’s four mysteries: Joyful, Sorrowful, Glorious, Luminous. The topology was already inscribed in prayer."
 doi: "10.5281/zenodo.19121110"
 record_url: "https://zenodo.org/records/19121110"
 pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
@@ -18,7 +18,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction:-the=question=that=does=not=wait)
 - [Chapter One: The Crossing Point](#chapter-one-the-crossing-point)
   - [I. The problem with time](#i-the-problem-with-time)
   - [II. The geometry](#ii-the-geometry)

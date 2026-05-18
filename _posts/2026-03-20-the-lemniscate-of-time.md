@@ -218,65 +218,125 @@ That recognition, if it comes, is itself a kind of crossing.
 
 *On the geometry of the now, the asymptote of tomorrow, and the infinitesimal gap where freedom lives*
 
-> *What then is time? If no one asks me, I know. If I wish to explain it, I do not.* — Augustine of Hippo
+> *What then is time? If no one asks me, I know. If I wish to explain it, I do not.*
+> — Augustine of Hippo, Confessions
 
-> *Now is the acceptable time. Now is the day of salvation.* — 2 Corinthians 6:2
+> *Now is the acceptable time. Now is the day of salvation.*
+> — 2 Corinthians 6:2
 
 ### I. The Problem with Time
 
-Every serious attempt to think about time arrives at the same bewildering discovery: the only time that exists is the one that cannot be held. The past is real but closed. The future is real but not yet. And the present — the only moment where anything actually happens — turns out, under examination, to be vanishingly thin.
+Every serious attempt to think about time arrives at the same bewildering discovery: the only time that exists is the one that cannot be held. The past is real but closed. The future is real but not yet. And the present — the only moment where anything actually happens — turns out, under examination, to be vanishingly thin. Attempt to measure it and it has already become past. Attempt to inhabit it and the future is already pressing in.
 
-Augustine knew this. What he did know — one of the most penetrating observations in the history of philosophy — was that only three things exist: the present of past things, which is memory; the present of present things, which is attention; and the present of future things, which is expectation. Everything is encountered only in the present. There is nowhere else.
+Augustine knew this. Standing in the fourth century with the full weight of Platonic philosophy behind him and the full weight of Christian revelation before him, he asked the question with the honesty that made him great: what is time? And then answered it with even greater honesty: he did not know. What he did know — and what remained one of the most penetrating observations in the history of philosophy — was that the past and the future do not exist in themselves. Only three things exist: the present of past things, which is memory; the present of present things, which is attention; and the present of future things, which is expectation. Everything, in other words, is encountered only in the present. There is nowhere else.
 
-The lemniscate gives Augustine's insight a geometry. Two loops, joined at a single crossing point. A continuous path that never breaks and never simply repeats. And at the center, the crossing — the only place the traveler actually is, at every moment of the journey.
+The lemniscate gives Augustine's insight a geometry. It does not resolve the mystery of time — nothing does. But it makes the structure visible in a way that pure philosophical analysis cannot quite achieve. Two loops, joined at a single crossing point. A continuous path that never breaks and never simply repeats. And at the center, the crossing — the only place the traveler actually is, at every moment of the journey.
 
 ### II. The Geometry
 
-The curve forms two symmetric loops joined at a single point of self-intersection — the origin, the center, the crossing. The crossing point is not a place *between* the loops. It is the place where both loops are present at once. The traveler standing at the crossing is, in the most precise geometric sense, on both paths simultaneously.
+The lemniscate of Bernoulli is a mathematical curve discovered in the seventeenth century. Its equation in polar coordinates is elegant: r² = a² cos(2θ). But the equation is not what matters here. What matters is the shape it produces and the behavior it encodes.
 
-The left loop represents the past — fixed coordinates, events that cannot be re-entered. The right loop represents the future — the approaching horizon of possibility, coordinates not yet reached. And the center — the crossing point — is the present. The now. The only place where the past and the future simultaneously press against the same moment.
+The curve forms two symmetric loops joined at a single point of self-intersection — the origin, the center, the crossing. The path is continuous: a traveler moving along the lemniscate never leaves the curve, never jumps, never retraces the same path exactly. They pass through the crossing, traverse one loop, return through the crossing again, and enter the second loop. The crossing is the only point shared by both loops. It is the only place on the entire curve that belongs, simultaneously, to both trajectories.
 
-**We do not live in the loops. We live at the crossing — the only place where both trajectories are present, and the only place where anything can be done.**
+This is the first thing to understand about the crossing point: it is not a place between the loops. It is the place where both loops are present at once. The traveler standing at the crossing is, in the most precise geometric sense, on both paths simultaneously — the path that leads back into the past loop and the path that leads forward into the future loop. The crossing is where both movements co-inhabit the same coordinate.
+
+The philosophical interpretation follows naturally. The left loop represents the past — what has already been traversed, the fixed coordinates of a life, the events that cannot be re-entered. The right loop represents the future — the approaching horizon of possibility, the coordinates not yet reached, the crossings not yet inhabited. And the center — the crossing point — is the present. The now. The only place where the past and the future simultaneously press against the same moment.
+
+> *We do not live in the loops. We live at the crossing — the only place where both trajectories are present, and the only place where anything can be done.*
 
 ### III. The Asymptote of Tomorrow
 
-Tomorrow approaches the crossing point asymptotically — always drawing near, never perfectly arriving. The moment it reaches the crossing, it is no longer tomorrow. It has become now. And in the same instant, it has become yesterday.
+The future loop of the lemniscate approaches the crossing point from the right. But it approaches in a specific way — asymptotically. This mathematical term describes a curve that draws ever closer to a line or point without ever perfectly reaching it. The distance decreases continuously. The arrival never comes.
 
-This is why the ancient spiritual tradition speaks with such insistence about the present moment. The person living primarily in memory is over-inhabiting the past loop. The person living primarily in anticipation is attempting to occupy a crossing point they have not yet reached. Both are absent from the only place where their life is actually occurring.
+Tomorrow behaves exactly this way. It is always approaching the present. It is always drawing near, always almost here, always about to arrive. And yet it never arrives as tomorrow. The moment it reaches the crossing point, it is no longer tomorrow. It has become today. It has become now. And in the same instant, it has become yesterday.
 
-St. Paul compressed the entire argument into a single sentence: *Now is the acceptable time. Now is the day of salvation.* Not yesterday's acceptable time, already closed. Not tomorrow's day of salvation, not yet accessible. Now — the crossing point of the lemniscate, the only moment that is ever actually available.
+This is not wordplay. It is a structural feature of time with profound consequences for how we understand human existence. Tomorrow, considered as tomorrow, is permanently inaccessible. It can be anticipated, planned for, feared, desired, and imagined in extraordinary detail. But it cannot be inhabited as tomorrow. The only coordinate available for habitation is the crossing point — the now that tomorrow is always approaching but never reaches.
+
+This is why the ancient spiritual tradition speaks with such insistence about the present moment. Not because the past and future are unimportant — they are woven into the very structure of the lemniscate — but because the crossing point is the only location where a human being actually exists. The person who is living primarily in memory is over-inhabiting the past loop. The person who is living primarily in anticipation is attempting to occupy a crossing point they have not yet reached. Both are absent from the only place where their life is actually occurring.
+
+St. Paul understood the geometry before the geometry existed. Writing to the Corinthians, he compressed the entire argument into a single sentence: Now is the acceptable time. Now is the day of salvation. Not yesterday's acceptable time, already closed. Not tomorrow's day of salvation, not yet accessible. Now — the crossing point of the lemniscate, the threshold where the past loop ends and the future loop begins, the only moment that is ever actually available.
 
 ### IV. The Micro-Gap: Where Freedom Lives
 
-Because tomorrow approaches the present asymptotically, there is always, at the crossing point, a vanishing interval between possibility and actuality. Between what could happen and what does. Between the approaching trajectory and the moment it collapses into fact.
+Because tomorrow approaches the present asymptotically — always drawing near, never perfectly arriving — there is always, at the crossing point, a vanishing interval between possibility and actuality. Between what could happen and what does. Between the approaching trajectory and the moment it collapses into fact.
 
-**That gap is where human freedom lives.**
+That gap is where human freedom lives.
 
-The micro-gap is not large. It is the thinnest conceivable space — the distance between this breath and the next, between this word and the one that follows, between the impulse to speak and the decision about what to say.
+This is not a poetic claim. It is a structural one. If tomorrow ever fully collapsed into today without remainder — if the gap disappeared entirely — then every event would be predetermined. Possibility would equal actuality. The future would simply unfold into the present like a script being read aloud, and the reader would have no more agency than a voice.
 
-But it is enough. Enough for yes or no. Enough for attention or distraction. Enough for love.
+The asymptote prevents this. Because tomorrow never perfectly arrives as tomorrow, there is always a narrow threshold — infinitesimal but real — where trajectories can be redirected before they become fixed coordinates of the past.
 
-The Desert Fathers built an entire architecture of spiritual discipline around the cultivation of awareness at this threshold. *Nepsis* — watchfulness — is the name they gave to the practice of remaining at the crossing, inhabiting the micro-gap consciously, refusing the automatic drift into the loops.
+The micro-gap is not large. It is not a wide field of open possibility where the human person surveys infinite options from a comfortable distance. It is the thinnest conceivable space — the distance between this breath and the next, between this word and the one that follows, between the impulse to speak and the decision about what to say.
 
-### V. The Five Axioms
+But it is enough. Enough for yes or no. Enough for attention or distraction. Enough for the door opened or the door kept shut. Enough for love.
 
-The framework rests on five structural claims:
+The tradition has always known this gap, even without the geometric language. The Desert Fathers built an entire architecture of spiritual discipline around the cultivation of awareness at this threshold — the capacity to notice the thought before it becomes the action, to stand in the crossing point with enough presence to choose rather than simply react. *Nepsis* — watchfulness — is the name they gave to the practice of remaining at the crossing, inhabiting the micro-gap consciously, refusing the automatic drift into the loops.
 
-**I. The Crossing Principle.** All events that become real must pass through the present crossing. Only the crossing point contains agency.
+> *The micro-gap is not a wide field of possibility. It is the thinnest conceivable space. But it is enough for yes or no. Enough for attention or distraction. Enough for love.*
 
-**II. The Asymptotic Future.** The future approaches the present asymptotically. The future, considered as future, is permanently inaccessible. This is not a limitation of human knowledge. It is the structure of time.
+### V. Infinite Traversal Within the Finite
 
-**III. Opportunity Coordinates.** Some opportunities are recurring — they appear near the crossing point repeatedly. Others are singular — tied to specific stages of development or unrepeatable convergences of circumstance. When the crossing point moves past these coordinates, they become fixed in the past loop.
+There is a temptation, when confronted with the thinness of the present moment, to conclude that human existence is therefore impoverished — a razor's edge between two vast territories neither of which can be inhabited. The past cannot be re-entered. The future cannot yet be reached. The crossing point is nearly without duration. What then does a human life actually contain?
 
-**IV. Harmonic Return.** Missed opportunities do not disappear from the structure of a life. The functional energy of an unrealized possibility may return at a later crossing point in altered form — not as repetition of the original event, but as a harmonic echo: the same frequency, a new gate.
+Everything. The crossing point contains everything — not despite its finitude, but through it.
 
-**V. The Gap of Agency.** Because the future never perfectly collapses into the present, there is always a minimal interval between possibility and actuality. This interval is the location of human freedom. It is also where grace, arriving orthogonally from outside the plane of the lemniscate entirely, enters the structure of a life.
+The lemniscate is a finite curve that the traveler traverses indefinitely. Each pass through the crossing point is distinct — the curve does not retrace itself exactly, the coordinates approached from the future loop are not identical to those already fixed in the past loop, the person arriving at the crossing is never quite the same person who left it. And yet the crossing point itself remains. The center holds. The threshold is always present, always available, always the same narrow threshold between what has been and what may yet be.
 
-### VI. Why Neither the Line Nor the Circle
+What this means, practically and theologically, is that the finite space of a human life is not a constraint on what can be encountered within it. A single crossing point — a single moment of genuine attention, real love, honest prayer, true encounter with another person — contains within it the full depth of what existence offers. Not a fraction of it. Not a foretaste of something that will only be complete later. The full depth, now, in the finite space of this particular moment.
 
-The linear model has no mechanism for harmonic return — no crossing point where the past and future simultaneously press against the same moment. The circular model has no crossing point in the lemniscate sense — no place of transformation, only recurrence.
+The monastic tradition understood this with great precision. The monk who sits in a cell the size of a room, who eats the same simple food, who prays the same hours in the same chapel for decades — that monk is not living a diminished life. They are demonstrating that the infinite is available within the finite, that the crossing point traversed with full attention contains more than the loops traversed in distraction. The size of the life is not what determines the depth of the traversal.
 
-**The lemniscate offers what neither the line nor the circle can:** a model of time that is irreversible and non-repeating, that carries the past forward without being imprisoned by it, and that locates human agency and divine grace at the same point — the crossing, the now, the threshold where the possible becomes real.
+Giovanni Papini captures this with particular clarity in *Giudizio Universale*, in the section devoted to Abelard and Heloise, where the experience of time stretches and contracts with the weight of suffering and love: the happy years passed so quickly they felt like days, while the sad days stretched so slowly they felt like years. The observation seems at first to be about psychology — about how emotion distorts our perception of duration. But it is also, and more profoundly, about attention. Joy compresses perceived time because the person in joy is fully present — the crossing point is inhabited completely, and the traversal is rich enough that no moment feels wasted or empty. Suffering stretches time because the person in suffering is often split — part of their attention at the crossing point, part in the past loop of regret or the future loop of dread, the present moment experienced as thin and inadequate because it is not being fully inhabited.
+
+The finite space of a human life is not a temporal slide toward dissolution. It is a communion of encounters. Each crossing point is complete in itself — not a step toward some future completion, not a residue of some past fullness, but a whole encounter with existence, entire and sufficient, right here. Each one a complete eternity in miniature. Inexhaustible within the finite.
+
+> *The fullness of existence is available now, in the finite space of this particular Tuesday.*
+
+### VI. The Five Axioms
+
+The framework rests on five structural claims. They are not proven here in the manner of a mathematical theorem — the argument of this monograph is philosophical and theological, not formal. But they are stated plainly so that the reader can test them against experience and follow the reasoning that builds on them.
+
+**I. The Crossing Principle.** All events that become real must pass through the present crossing. No event exists as actuality until it intersects the now. The past consists of fixed coordinates — events that have already passed through the crossing and are no longer accessible. The future consists of approaching potentials — coordinates not yet reached. Only the crossing point contains agency.
+
+**II. The Asymptotic Future.** The future approaches the present asymptotically. Tomorrow is always drawing near. But the moment it reaches the crossing, it is no longer tomorrow — it is now, and instantly past. The future, considered as future, is permanently inaccessible. This is not a limitation of human knowledge. It is the structure of time.
+
+**III. Opportunity Coordinates.** Possibilities exist as coordinates on the curve of the future loop. When the crossing point passes near these coordinates, the opportunity becomes accessible. Some opportunities are recurring — they appear near the crossing point repeatedly, and a missed encounter can be corrected at the next approach. Others are singular — tied to specific stages of development or unrepeatable convergences of circumstance. When the crossing point moves past these coordinates, they become fixed in the past loop. The opportunity is not forgotten by Providence. But it is no longer approachable in its original form.
+
+**IV. Harmonic Return.** Missed opportunities do not disappear from the structure of a life. The functional energy of an unrealized possibility — the college never attended, the love never received, the dignity never restored — may return at a later crossing point in altered form. Not as repetition of the original event. Not as a second chance that measures itself against the first. But as a harmonic echo: the same frequency, a new gate, a form the original moment could never have taken. What was lost is not the final word.
+
+**V. The Gap of Agency.** Because the future never perfectly collapses into the present, there is always a minimal interval between possibility and actuality. This interval is the location of human freedom. It is not large. It is enough. Within this microscopic space, trajectories can be redirected before they become fixed coordinates of the past. This gap is where every genuine human choice occurs — and where grace, arriving orthogonally from outside the plane of the lemniscate entirely, enters the structure of a life.
+
+### VII. Why Neither the Line Nor the Circle
+
+The framework situates itself in contrast to two dominant models of time that have shaped both philosophy and theology, and both of which, in different ways, fail to account for the full structure of human temporal experience.
+
+The linear model — time as a straight line moving from past through present to future — has the advantage of capturing irreversibility. The past cannot be undone. Events have consequences that compound forward. The arrow of time points in one direction and does not reverse. These are true observations, and the lemniscate does not contradict them. But the linear model has no mechanism for harmonic return — for the reappearance of unrealized possibilities in new forms. It has no crossing point, no place where the past and future simultaneously press against the same moment. It reduces human existence to a one-way passage from birth to death, with nothing to say about the depth available at any point along the way.
+
+The circular model — time as an eternal return, history repeating in cycles, the present moment as one point on a wheel that will come around again — has the advantage of capturing recurrence. Seasons return. Patterns repeat. Human beings encounter the same temptations, the same crossings, the same fundamental choices across generations. These too are true observations. But the circular model has no crossing point in the lemniscate sense — no place of transformation, only a place of recurrence. Nietzsche's eternal recurrence, the most rigorous philosophical formulation of circular time, confronts the human person with the prospect of living this exact life infinitely — not as consolation but as the ultimate test of whether one can affirm existence without the hope of transformation. The lemniscate rejects that test. Not because transformation is guaranteed, but because the crossing point makes it structurally possible.
+
+The lemniscate offers what neither the line nor the circle can: a model of time that is irreversible and non-repeating, that carries the past forward without being imprisoned by it, that approaches the future without being able to inhabit it prematurely, and that locates human agency and divine grace at the same point — the crossing, the now, the threshold where the possible becomes real.
+
+### VIII. The Center That Holds
+
+The lemniscate has a center of symmetry. Both loops exist because of that center. Without it, the curve would not be a lemniscate — it would collapse into something else entirely. The crossing point is not merely a feature of the geometry. It is the condition of the geometry's existence.
+
+In the theological interpretation of this framework, that center is not empty. The Christian tradition has always understood Christ as the center of history — the one around whom the entire curve of salvation bends, the one whose entry into human time gives that time its definitive shape. But the Incarnation, as the first monograph argued, is not simply another event on the timeline — the largest crossing point, the most significant moment, the peak of historical development. It is an entry into the timeline from outside it entirely. An orthogonal piercing. God does not approach the crossing point along the human curve. God enters the plane of human time at right angles to it — from a dimension the curve itself cannot generate.
+
+This orthogonal entry is structurally different from the human crossing in a precise way. The human person approaches the crossing point asymptotically — always drawing near, never perfectly arriving, living in the micro-gap between tomorrow and now. Christ does not approach along the asymptote. He enters from outside the asymptote entirely. He does not close the gap by traveling toward it. He pierces the plane in which the gap exists.
+
+This means that grace — the movement of divine life into human existence — does not travel along the curve. It arrives perpendicular to it. It enters through the gap. And the micro-gap that is the location of human freedom is therefore also, in the most precise structural sense, the location of receptivity to grace. The narrow space between possibility and actuality — the space where every human choice occurs — is the same space where the orthogonal entry of grace becomes accessible.
+
+> *The micro-gap between today and tomorrow is where human freedom lives. It is also where grace enters. The same threshold. The crossing point.*
+
+### IX. The Question Returns
+
+The geometry is now in place. The two loops — past and future. The single crossing point — the now. The asymptotic approach of tomorrow. The micro-gap where freedom and grace meet. The infinite traversal available within the finite space of a life fully inhabited at the crossing.
+
+What remains is to follow the framework into the territory it illuminates: the zones of displacement that pull the person away from the crossing, the harmonic return of unrealized possibilities, the crossing point as biographical event in Scripture and in literature, and the condition — silently devastating, more widespread than the tradition has yet adequately named — in which the person cannot reach the crossing point at all.
+
+But before all of that, the question comes first. It always does. Because the question is not waiting at the end of the argument. It is waiting at the crossing point — which is to say, it is waiting now, in the finite space of whatever moment this is being read.
+
+*What did you do with this moment?*
 
 ---
 

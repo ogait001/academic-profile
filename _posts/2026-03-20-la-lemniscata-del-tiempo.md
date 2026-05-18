@@ -316,6 +316,9 @@ Lo que resta es seguir el marco hacia el territorio que ilumina: las zonas de de
 Pero antes que todo eso, la pregunta viene primero. Siempre lo hace. Porque la pregunta no espera al final del argumento. Espera en el punto de cruce — lo que es decir, espera ahora, en el espacio finito de cualquier momento en que esto se esté leyendo.
 
 *¿Qué hiciste con este momento?*
+
+<br>
+
 ---
 
 ## Capítulo Segundo: Zonas de Desplazamiento

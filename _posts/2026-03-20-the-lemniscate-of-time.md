@@ -1039,7 +1039,7 @@ The figures in this chapter arrive because they each embodied a relationship to 
 
 Several of these figures appeared in Chapter Four in the context of Providence — as illustrations of how grace operates within the structure of the lemniscate. They return here from a different angle: not as illustrations of divine operation but as biographical portraits of the interior life at the crossing. What Providence sees from outside, these figures reveal from within.
 
-### Góngora — The Distance Traversed
+### Góngora: The Distance Traversed
 
 The Spanish Baroque poet Luis de Góngora y Argote is not usually read as a theologian. His reputation rests on the dense, ornate, almost willfully difficult verse of the *Soledades* and the *Fábula de Polifemo* — poetry that prizes formal complexity over immediate accessibility and has fascinated and frustrated readers for four centuries. But Góngora left one line of such precise theological intuition that it functions as the opening key to everything this chapter attempts:
 
@@ -1050,7 +1050,7 @@ The line is a meditation on the Incarnation. Its logic is exact. The distance be
 
 What Góngora gives the framework is the measure of the crossing. If the Incarnation crossed the greatest conceivable distance — if the orthogonal entry of grace into the human plane traversed more than mortality itself traverses — then the crossing point is not a minor threshold in a human life. It is the location where that same movement becomes available in the particular. The infinite distance traversed by the Incarnation does not diminish the importance of the individual crossing. It grounds it. Every crossing point in every human life is the site where the greatest possible distance has already been crossed on the other side of the meeting.
 
-### Barrie — The Boy Who Would Not Cross
+### Barrie: The Boy Who Would Not Cross
 
 J.M. Barrie's prayer — *Oh, God, if I were sure I were to die tonight, I would repent at once* — appeared in Chapter Four as the purest expression of spiritual procrastination. It returns here as biography, because the prayer illuminates something that only becomes fully visible when it is placed alongside the work Barrie is most remembered for.
 
@@ -1064,7 +1064,7 @@ The tragedy of Barrie is not moral failure. It is the waste of a genuine underst
 
 > *Peter Pan does not refuse the second loop. He refuses the first — the developing self that must eventually be surrendered. Barrie gave the world its portrait. He could not give himself the crossing.*
 
-### Lope de Vega — The Crossing Finally Made
+### Lope de Vega: The Crossing Finally Made
 
 Lope de Vega's sonnet — with Christ standing outside the door in the cold, and the speaker's repeated tomorrow — appeared in Chapter Four as the portrait of deferral made intimate. What was not said there is what the biography adds: Lope actually crossed.
 
@@ -1076,7 +1076,7 @@ The crossing, when it came for Lope, did not resolve his complexity. It deepened
 
 > *The poem is the first loop describing itself from the second loop's vantage point. That is what gives it its particular quality of grief and recognition.*
 
-### Edith Piaf — Non, Je Ne Regrette Rien
+### Edith Piaf: Non, Je Ne Regrette Rien
 
 Edith Piaf's declaration — *Non, je ne regrette rien. No, I regret nothing* — is one of the most famous statements of the twentieth century, and one of the most misread. It is routinely received as defiance: the assertion of a life lived without apology, the refusal of regret as a form of courage. Heard that way, it is admirable but philosophically shallow — the circle model of time applied to biography, a life curved back toward the self, measured against its unrealized possibilities.
 
@@ -1088,7 +1088,7 @@ Piaf's life was traversed at extraordinary cost. Poverty, loss, abandonment, add
 
 > *Non, je ne regrette rien is not the denial of loss. It is the refusal to be defined by it — the second loop's declaration that the first loop's cost is not the final word.*
 
-### Milton's Satan — The Magnificent Dead End
+### Milton's Satan: The Magnificent Dead End
 
 Satan in *Paradise Lost* has already appeared in this monograph as the pole of deliberate, lucid refusal — the will that has chosen the perimeter permanently and declared the preference for sovereignty in diminishment over participation in a good it did not author. He returns here not to repeat that portrait but to add one dimension that the Providence chapter did not require.
 

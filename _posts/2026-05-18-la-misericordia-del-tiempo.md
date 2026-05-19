@@ -177,4 +177,4 @@ Heidegger, Martin. *Ser y tiempo (Being and Time / Sein und Zeit).* Traducción 
 - [Un Día](/academic-profile/2026/04/08/one-day/) — Sobre la presencia temporal y el momento habitado
 - [Alfa y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — Sobre el marco escatológico y los fines del tiempo
 - [Solo Contra Ti](/academic-profile/2026/05/08/against-you-alone/) — Sobre la soledad moral y la estructura de la responsabilidad
-- [Des-roleando a Dios](/academic-profile/2026/05/09/de-roling-god/) — Sobre la personalidad divina y los límites de la proyección teológica
+- [Desplazando a Dios](/academic-profile/2026/05/09/de-roling-god/) — Sobre la personalidad divina y los límites de la proyección teológica

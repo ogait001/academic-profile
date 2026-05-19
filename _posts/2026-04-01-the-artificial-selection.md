@@ -12,7 +12,7 @@ pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html"
 ---
 
-*From the Gaitan Topology*
+
 
 ---
 

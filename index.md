@@ -42,7 +42,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <tr>
 <td><a href="/ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.html">A Letter to an Atheist</a></td>
-<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html">La Selección Artificial</a></td>
+<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a></td>
 </tr>
 </table>
 

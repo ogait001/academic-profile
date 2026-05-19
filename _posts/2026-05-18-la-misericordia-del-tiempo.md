@@ -25,7 +25,7 @@ tags:
 
 lang: es
 
-excerpt: "La existencia temporal es la preservación misericordiosa de la plasticidad moral. El alma funciona como una doble barrera mediadora: impide, por un lado, la fijación ontológica inmediata (condemnatio in continenti) y, por el otro, la glorificación prematura, manteniendo al espíritu en suspensión el tiempo suficiente para que la voluntad haga lo que solo ella puede hacer. Porque la temporalidad es el intervalo en el que el “non serviam” aún puede invertirse."
+excerpt: "La existencia temporal es la preservación misericordiosa de la plasticidad moral. El alma funciona como una doble barrera mediadora: impide, por un lado, la fijación ontológica inmediata (condemnatio in continenti) y, por el otro, la glorificación prematura, manteniendo al espíritu en suspensión el tiempo suficiente para que la voluntad haga lo que solo ella puede hacer: elegir, una y otra vez, a lo largo de una vida, en presencia de la gracia ofrecida en cada punto de cruce."
 
 doi: "10.5281/zenodo.20277874"
 record_url: "https://zenodo.org/records/20277874"

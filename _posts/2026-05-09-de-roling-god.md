@@ -35,7 +35,7 @@ pdf_url: "https://zenodo.org/records/20099894/files/de-roling-god.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html
 ---
 
-*From the Gaitan Topology*
+
 
 > "The concept of sin does not need to be prohibited. It only needs to become quaint."
 

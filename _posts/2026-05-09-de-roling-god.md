@@ -46,6 +46,21 @@ The modern system has accomplished, through frictionless architectural means, wh
 
 ---
 
+---
+
+## Table of Contents
+
+- [I. Prologue: The Wrong Battle](#i-prologue-the-wrong-battle)
+- [II. What God Actually Does](#ii-what-god-actually-does)
+- [III. Community and Multitude](#iii-community-and-multitude)
+- [IV. Three Modes of Attack — and Why Only One Works](#iv-three-modes-of-attack--and-why-only-one-works)
+- [V. The Machinery of Evacuation](#v-the-machinery-of-evacuation)
+- [VI. The Self That Cannot Be Reached](#vi-the-self-that-cannot-be-reached)
+- [VII. The Three Modes and the Topology of the Now](#vii-the-three-modes-and-the-topology-of-the-now)
+- [VIII. Conclusion: The Ground That Cannot Be Made Uninhabitable](#viii-conclusion-the-ground-that-cannot-be-made-uninhabitable)
+
+---
+
 ## Abstract
 
 This essay argues that the primary threat to religious community in the modern world is not the denial of God's existence but the systematic displacement of His ontological function. Drawing on the Gaitan Topology — a philosophical framework grounded in the lemniscate, the crossing point, and the sustaining ground of the Now — the essay identifies three historical modes of attack against the non-derivative Being: physical elimination, ideological displacement, and the evacuation of the Now. Only the third succeeds. It succeeds not by arguing against God but by ensuring that the self is never present long enough at the crossing point to feel what holds it open. The essay traces this operation across three registers: the individual self, the social field, and the ontological structure of the present moment. It draws on Lope de Vega's *Fuenteovejuna*, the television series *Britannia*, the film *Ben-Hur*, the film *The Scarlet and the Black*, Heidegger's Das Man, the figure of Legion, and the Faustian bargain as restructured by the data economy. The central thesis: modern systems do not fight the existence of God. They make the crossing point uninhabitable.

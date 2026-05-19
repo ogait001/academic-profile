@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene"
+title: "¿Dónde Está Dios? El sufrimiento, el momento presente y el fundamento que no interviene"
 date: 2026-05-05
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, time-and-eternity, eschatology]

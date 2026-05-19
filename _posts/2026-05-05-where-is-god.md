@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where Is God? Suffering, the Present Moment, and the Ground That Does Not Intervene"
+title: "Where Is God? Suffering, the present moment, and the Ground that does not intervene"
 date: 2026-05-05
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [crossing-point, gaitan-topology, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]

@@ -33,6 +33,22 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre
 
 ---
 
+## Contents
+
+1. [The Word and What It Carries](#i-the-word-and-what-it-carries)
+2. [The Metaphysical Model](#ii-the-metaphysical-model)
+3. [Residency and Reference: Why Suffering Feels Longer](#iii-residency-and-reference-why-suffering-feels-longer)
+4. [Three Words, Three Frameworks](#iv-three-words-three-frameworks)
+5. [Presence and Acceptance](#v-presence-and-acceptance)
+6. [Gideon's Three Hundred: A Philosophical Reading](#vi-gideons-three-hundred-a-philosophical-reading)
+7. [What Qohelet's Text Permits](#vii-what-qohelets-text-permits)
+8. [A Brief Comparison with Buddhist Diagnosis](#viii-a-brief-comparison-with-buddhist-diagnosis)
+9. [Beatitudo and Structural Inertia](#ix-beatitudo-and-structural-inertia)
+10. [What Duration Happiness Actually Has](#x-what-duration-happiness-actually-has)
+
+---
+
+
 ## A Note on Method
 
 This essay argues that what ordinary language calls happiness is insufficient as an account of what human beings are actually seeking when they use the word. The argument moves across three registers: philosophical, scriptural, and theological. These are not treated as equivalent and the essay does not present them as such.
@@ -49,20 +65,6 @@ One terminological note: the self, as used throughout, refers to the soul and wi
 
 ---
 
-## Contents
-
-1. [The Word and What It Carries](#i-the-word-and-what-it-carries)
-2. [The Metaphysical Model](#ii-the-metaphysical-model)
-3. [Residency and Reference: Why Suffering Feels Longer](#iii-residency-and-reference-why-suffering-feels-longer)
-4. [Three Words, Three Frameworks](#iv-three-words-three-frameworks)
-5. [Presence and Acceptance](#v-presence-and-acceptance)
-6. [Gideon's Three Hundred: A Philosophical Reading](#vi-gideons-three-hundred-a-philosophical-reading)
-7. [What Qohelet's Text Permits](#vii-what-qohelets-text-permits)
-8. [A Brief Comparison with Buddhist Diagnosis](#viii-a-brief-comparison-with-buddhist-diagnosis)
-9. [Beatitudo and Structural Inertia](#ix-beatitudo-and-structural-inertia)
-10. [What Duration Happiness Actually Has](#x-what-duration-happiness-actually-has)
-
----
 
 ## I. The Word and What It Carries
 

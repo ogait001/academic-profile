@@ -15,8 +15,7 @@ tags:
   - atheism
   - metaphysics
 lang: en
-excerpt: >
-  An infinite regress of existentially dependent realities fails to account for existence. This essay examines contingency, explanatory termination, and necessary being, and argues that a necessary ground of being offers a more coherent stopping point than a brute contingent universe.
+excerpt: "An infinite regress of existentially dependent realities fails to account for existence. This essay examines contingency, explanatory termination, and necessary being, and argues that a necessary ground of being offers a more coherent stopping point than a brute contingent universe."
 doi: "10.5281/zenodo.19870600"
 record_url: "https://zenodo.org/records/19870600"
 pdf_url: "https://zenodo.org/records/19870892/files/a-letter-to-an-atheist.pdf"
@@ -28,6 +27,7 @@ translation_url: /catholic-theology/ontology/2026/04/28/carta-a-un-ateo.html
 **Keywords:** God; contingency; necessary being; metaphysics; divine simplicity; atheism; philosophy of religion; Thomas Aquinas
 
 <br>
+
 ---
 
 To ask what would count as proof already raises the question of what kind of reality God would have to be. God is often conceived as immaterial, outside space, and not subject to time. If so, the standards of proof appropriate to material and measurable objects may be insufficient to the subject under consideration.

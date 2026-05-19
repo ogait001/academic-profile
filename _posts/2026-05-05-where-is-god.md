@@ -34,6 +34,14 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 
 ---
 
+---
+
+## Note on Sources and Method
+
+This essay is the fourth in a sequence of works that develops a broader topology of time, identity, and divine sustaining. The earlier works — [*Does Time Need Me, or Do I Need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html), [*Zero Returned*](https://oscargaitan.org/ontology/philosophy-of-time/2026/04/29/zero-returned.html), and [*The Infinite Interior*](https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html) — prepare the conceptual framework extended here into theological anthropology and the economy of salvation. — establish the ontological framework on which the present argument depends, extending it here into theological anthropology and the economy of salvation. The theological references — Augustine, Aquinas, Job, the Gospel of John, the Psalms, Exodus — are not authorities invoked to settle the argument but witnesses who have approached the same structural questions from within their own traditions. The argument stands or falls by its own structural coherence. The theological and philosophical references are cited as parallel witnesses, not as proofs. Analogies across domains — when used — are offered as illustrations of structure, not as assertions of identity between domains.
+
+---
+
 ## I. The Assumption Inside the Question
 
 The question arrives at the worst possible moment — in the wreckage of a hospital, at the edge of a grave, in the silence after a disaster. *Where is God?* It is asked with clenched fists as often as with open hands, and it deserves something better than comfort that does not hold.

@@ -41,7 +41,7 @@ Este ensayo examina la pregunta *¿Dónde está Dios?* no como un desafío retó
 
 ## Nota sobre Fuentes y Método
 
-Este ensayo es el cuarto en una secuencia de obras que desarrolla una topología más amplia del tiempo, la identidad y el sustento divino. Los trabajos previos — [¿Necesita el tiempo que yo exista?](/academic-profile/2026/04/08/does-time-need-me/), El Cero que Regresa y El Interior Infinito — establecen el marco ontológico del que depende el presente argumento. Las referencias teológicas — Agustín, Aquino, Job, el Evangelio de Juan, los Salmos, Éxodo — no son autoridades citadas para zanjar el argumento sino testigos que han llegado más cerca de las mismas preguntas estructurales desde dentro de sus propias tradiciones. El argumento se sostiene o cae por su propia coherencia estructural. Las referencias teológicas y filosóficas se citan como testigos paralelos, no como pruebas. Las analogías entre dominios — cuando se usan — se ofrecen como ilustraciones de estructura, no como afirmaciones de identidad entre dominios.
+Este ensayo es el cuarto en una secuencia de obras que desarrolla una topología más amplia del tiempo, la identidad y el sustento divino. Los trabajos previos — [¿Necesito yo al tiempo, o necesita el tiempo de mí? ](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html), El Cero que Regresa y El Interior Infinito — establecen el marco ontológico del que depende el presente argumento. Las referencias teológicas — Agustín, Aquino, Job, el Evangelio de Juan, los Salmos, Éxodo — no son autoridades citadas para zanjar el argumento sino testigos que han llegado más cerca de las mismas preguntas estructurales desde dentro de sus propias tradiciones. El argumento se sostiene o cae por su propia coherencia estructural. Las referencias teológicas y filosóficas se citan como testigos paralelos, no como pruebas. Las analogías entre dominios — cuando se usan — se ofrecen como ilustraciones de estructura, no como afirmaciones de identidad entre dominios.
 
 ---
 
@@ -67,7 +67,7 @@ El Ahora es el punto de actualización: el lugar donde el potencial se vuelve re
 
 Esto significa que el Ahora no es un momento entre muchos. Es la condición que hace posible cualquier momento. No se puede salir del Ahora para observarlo. Todo recuerdo se recupera ahora. Toda anticipación se forma ahora. Todo acto de conciencia, toda decisión, toda respiración ocurre ahora. El Ahora no es donde ocurren algunos eventos. Es el único modo de existencia que es alguna vez actual.
 
-Como se estableció en el trabajo previo [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/), el Ahora es completamente dependiente. No tiene grosor, ni reservas, ni profundidad autosustentante. Es la cosa más frágil y más fundamental de la existencia. Todo lo actual depende de él. Y él depende de algo que no puede proveer por sí mismo.
+Como se estableció en el trabajo previo [¿Necesito yo al tiempo, o necesita el tiempo de mí?](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html), el Ahora es completamente dependiente. No tiene grosor, ni reservas, ni profundidad autosustentante. Es la cosa más frágil y más fundamental de la existencia. Todo lo actual depende de él. Y él depende de algo que no puede proveer por sí mismo.
 
 > El Ahora es donde Dios y la criatura se encuentran — no porque Dios ocupe un momento en el tiempo, sino porque Dios es lo que mantiene abierto el momento.
 

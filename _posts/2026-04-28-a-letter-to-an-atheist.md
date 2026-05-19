@@ -16,7 +16,7 @@ tags:
   - metaphysics
 lang: en
 excerpt: >
-  A concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. An infinite regress of existentially dependent realities fails to explain existence; a necessary ground of being provides a more coherent terminus. The question that never goes away is not only a doubt — it is a knock.
+  An infinite regress of existentially dependent realities fails to account for existence. This essay examines contingency, explanatory termination, and necessary being, and argues that a necessary ground of being offers a more coherent stopping point than a brute contingent universe.
 doi: "10.5281/zenodo.19870600"
 record_url: "https://zenodo.org/records/19870600"
 pdf_url: "https://zenodo.org/records/19870892/files/a-letter-to-an-atheist.pdf"

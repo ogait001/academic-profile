@@ -32,7 +32,7 @@ record_url: "https://zenodo.org/records/20277874"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277874"
 
 translation_url: "/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html"
-
+---
 
 > *Nota: Las siguientes proposiciones se ofrecen como ensayo filosófico, no como pronunciamiento doctrinal. Se comprometen con la tradición —y expresan profundo respeto por ella—, en particular por las contribuciones de Henri de Lubac y Karl Rahner sobre la relación entre naturaleza y gracia, y sobre la distinción entre alma y espíritu, al tiempo que proponen un marco que el autor reconoce como parcial, exploratorio y sujeto a corrección.*
 

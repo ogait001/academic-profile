@@ -25,7 +25,7 @@ tags:
 
 lang: es
 
-excerpt: "La existencia temporal es la preservación misericordiosa de la plasticidad moral. El alma, como doble barrera mediadora, difiere la condemnatio in continenti —la fijación ontológica instantánea e irrevocable de la orientación moral de la criatura— el tiempo suficiente para que la voluntad elija repetidamente, a lo largo de una vida, en presencia de la gracia ofrecida en cada punto de cruce."
+excerpt: "La existencia temporal es la preservación misericordiosa de la plasticidad moral. El alma funciona como una doble barrera mediadora: impide, por un lado, la fijación ontológica inmediata (condemnatio in continenti) y, por el otro, la glorificación prematura, manteniendo al espíritu en suspensión el tiempo suficiente para que la voluntad haga lo que solo ella puede hacer."
 
 doi: "10.5281/zenodo.20277874"
 record_url: "https://zenodo.org/records/20277874"

@@ -17,6 +17,8 @@ lang: es
 
 **Palabras clave:** Dios; contingencia; ser necesario; metafísica; simplicidad divina; ateísmo; filosofía de la religión; Tomás de Aquino
 
+<br>
+
 ---
 
 Preguntar qué contaría como prueba ya plantea la cuestión de qué tipo de realidad tendría que ser Dios. Dios es concebido frecuentemente como inmaterial, fuera del espacio y no sujeto al tiempo. De ser así, los estándares de prueba apropiados para los objetos materiales y mensurables pueden ser insuficientes para el tema en consideración.

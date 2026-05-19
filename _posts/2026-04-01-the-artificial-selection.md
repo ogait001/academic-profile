@@ -16,6 +16,20 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/29/la-se
 
 ---
 
+
+## Table of Contents
+
+- [I. The Thesis](#i-the-thesis)
+- [II. What Darwin Actually Found](#ii-what-darwin-actually-found)
+- [III. Nature's Honesty and Its Limits](#iii-natures-honesty-and-its-limits)
+- [IV. The Redirection of Pressure](#iv-the-redirection-of-pressure)
+- [V. The Ship of Theseus — A Criterion](#v-the-ship-of-theseus--a-criterion)
+- [VI. The Lemniscate of Loss](#vi-the-lemniscate-of-loss)
+- [VII. The Uninhabited Now](#vii-the-uninhabited-now)
+- [VIII. What Remains](#viii-what-remains)
+
+---
+
 ## I. The Thesis
 
 There is a question beneath the surface of many contemporary anxieties about technology, ecology, and the character of modern life — a question rarely stated directly because stating it directly sounds either naïve or reactionary. The question is this: is endurance necessary for identity?

@@ -64,7 +64,7 @@ The Now is the point of actualization: the place where potential becomes real. B
 
 This means the Now is not one moment among many. It is the condition that makes any moment possible at all. You cannot step outside the Now to observe it. Every memory is retrieved now. Every anticipation is formed now. Every act of consciousness, every decision, every breath occurs now. The Now is not where some events happen. It is the only mode of existence that is ever actual.
 
-As established in the prior work [*Does Time Need Me, or Do I Need Time?*](/academic-profile/2026/04/08/does-time-need-me/), the Now is entirely dependent. It has no thickness, no reserves, no self-sustaining depth. It is the most fragile and most fundamental thing in existence. Everything actual depends on it. And it depends on something it cannot provide for itself.
+As established in the prior work [*Does Time Need Me, or Do I Need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html), the Now is entirely dependent. It has no thickness, no reserves, no self-sustaining depth. It is the most fragile and most fundamental thing in existence. Everything actual depends on it. And it depends on something it cannot provide for itself.
 
 > The Now is where God and creature meet — not because God occupies a moment in time, but because God is what holds the moment open.
 

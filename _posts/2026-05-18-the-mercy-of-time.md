@@ -29,7 +29,7 @@ doi: "10.5281/zenodo.20277539"
 record_url: "https://zenodo.org/records/20277539"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277539"
 
-translation_url: /"catholic-theology/ontology/philosophy-of-time/2026/05/18/la-misericordia-del-tiempo.html"
+translation_url: "/catholic-theology/ontology/philosophy-of-time/2026/05/18/la-misericordia-del-tiempo.html"
 excerpt: "Temporal existence is the merciful preservation of moral plasticity. The soul functions as a double mediating barrier: preventing immediate ontological fixation (condemnatio in continenti) on one side and premature glorification on the other, holding the spirit in suspension long enough for the will to do what only it can do. For temporality is the interval in which the “non serviam” can still be reversed."
 ---
 

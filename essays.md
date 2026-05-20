@@ -43,6 +43,7 @@ A complete archive of philosophical essays by Oscar Gaitan.
 
 <ul style="list-style: none; padding-left: 0;">
 {% for post in site.posts %}
+  {% if post.lang == "en" %}
   <li style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;">
 
     <a href="{{ post.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
@@ -78,5 +79,6 @@ A complete archive of philosophical essays by Oscar Gaitan.
     {% endif %}
 
   </li>
+    {% endif %}
 {% endfor %}
 </ul>

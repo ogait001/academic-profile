@@ -99,26 +99,26 @@ Many essays are available in both **English and Spanish**.
 
 ## Recent Publications
 
-<ul>
+<div class="recent-pubs">
 {% for post in site.posts limit: 10 %}
-  <li style="margin-bottom: 2rem;">
-    <a href="{{ post.url | relative_url }}">
-      <strong>{{ post.title }}</strong>
-    </a><br>
-    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  <details class="pub-item">
+    <summary>
+      <a href="{{ post.url | relative_url }}">
+        <strong>{{ post.title }}</strong>
+      </a><br>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </summary>
 
-    {% if post.excerpt %}
-      <p style="margin-top: 0.5rem; line-height: 1.5; color: #555;">
+    <div class="pub-abstract">
+      {% if post.excerpt %}
         {{ post.excerpt }}
-      </p>
-    {% else %}
-      <p style="margin-top: 0.5rem; line-height: 1.5; color: #555;">
+      {% else %}
         {{ post.content | strip_html | truncatewords: 35 }}
-      </p>
-    {% endif %}
-  </li>
+      {% endif %}
+    </div>
+  </details>
 {% endfor %}
-</ul>
+</div>
 
 ## About
 

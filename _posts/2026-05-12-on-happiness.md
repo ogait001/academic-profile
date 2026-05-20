@@ -21,7 +21,7 @@ tags:
   - acceptance
   - beatitudes
 lang: en
-excerpt: "Non sumus Deus tuus; quaere super nos. A philosophical and theological inquiry into happiness, arguing that what human beings seek is not fleeting satisfaction but enduring fullness, and that finite goods cannot satisfy the deeper desire for permanence that structures human longing."
+excerpt: "Non sumus Deus tuus; quaere super nos. A philosophical and theological inquiry into happiness, arguing that human longing seeks enduring fullness rather than fleeting satisfaction, and that finite goods cannot satisfy the desire for permanence."
 doi: "10.5281/zenodo.20146258"
 record_url: "https://zenodo.org/records/20146258"
 pdf_url: "https://zenodo.org/records/20146275/files/on-happiness.pdf"

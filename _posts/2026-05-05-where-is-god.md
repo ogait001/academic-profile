@@ -5,7 +5,7 @@ date: 2026-05-05
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [crossing-point, gaitan-topology, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
 lang: en
-excerpt: "This essay examines the question Where is God? not as a rhetorical challenge to evade but as a structural inquiry to be answered with precision. It argues that the question, as it is usually formulated, rests on a mistaken assumption: that God’s presence should be visible as intervention within events. God is not an agent within events. God is the sustaining ground of the present moment in which events occur."
+excerpt: "A philosophical and theological reflection on suffering and divine presence, arguing that God is not found as intervention within events, but as the sustaining ground of the present itself."
 doi: "10.5281/zenodo.20044781"
 record_url: "https://zenodo.org/records/20044781"
 pdf_url: "https://zenodo.org/records/20044785/files/where-is-god.pdf"

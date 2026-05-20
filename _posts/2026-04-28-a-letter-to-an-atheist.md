@@ -15,7 +15,7 @@ tags:
   - atheism
   - metaphysics
 lang: en
-excerpt: "An infinite regress of existentially dependent realities fails to account for existence. This essay examines contingency, explanatory termination, and necessary being, and argues that a necessary ground of being offers a more coherent stopping point than a brute contingent universe."
+excerpt: "A metaphysical inquiry arguing that contingent existence ultimately points toward a necessary ground of being."
 doi: "10.5281/zenodo.19870600"
 record_url: "https://zenodo.org/records/19870600"
 pdf_url: "https://zenodo.org/records/19870892/files/a-letter-to-an-atheist.pdf"

@@ -10,11 +10,23 @@ doi: "10.5281/zenodo.19870770"
 record_url: "https://zenodo.org/records/19870770"
 pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html
----
-
-
 
 ---
+
+## Table of Contents
+
+- [I. The Thesis](#i-the-thesis)
+- [II. What Darwin Actually Found](#ii-what-darwin-actually-found)
+- [III. Nature's Honesty and Its Limits](#iii-natures-honesty-and-its-limits)
+- [IV. The Redirection of Pressure](#iv-the-redirection-of-pressure)
+- [V. The Ship of Theseus — A Criterion](#v-the-ship-of-theseus--a-criterion)
+- [VI. The Lemniscate of Loss](#vi-the-lemniscate-of-loss)
+- [VII. The Uninhabited Now](#vii-the-uninhabited-now)
+- [VIII. What Remains](#viii-what-remains)
+- [References](#references)
+- [Note on Sources and Method](#note-on-sources-and-method)
+
+
 
 
 

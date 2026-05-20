@@ -24,7 +24,7 @@ doi: "10.5281/zenodo.19121592"
 record_url: "https://zenodo.org/records/19121592"
 pdf_url: "https://zenodo.org/records/19121592/files/la-lemniscata-del-tiempo.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
-excerpt: "La vida humana puede desplegarse como una lemniscata: dos bucles unidos por un único cruce donde se encuentran la libertad, la gracia y la decisión. La Lemniscata del Tiempo sigue esta topología interior a través de la Escritura, la literatura y la filosofía, reuniendo a Natanael, Pedro, Nicodemo, J. M. Barrie, Milton, Papini y Rubén Darío en una meditación sobre la memoria, la posibilidad no realizada y el retorno providencial. El estudio concluye al identificar una correspondencia estructural entre la lemniscata y los cuatro misterios del Rosario — Gozosos, Dolorosos, Gloriosos, Luminosos. La topología ya estaba inscrita en la oración."
+excerpt: "Una exploración filosófica y teológica del tiempo a través de la lemniscata como una topología de la memoria, la posibilidad, la libertad, la gracia y el retorno providencial."
 ---
 
 > La plenitud de la existencia está disponible ahora, en el espacio finito de este Jueves en particular. Inagotable dentro de lo finito.

@@ -39,7 +39,7 @@ permalink: /essays/
 
 # Essays
 
-A complete archive of philosophical essays by Oscar Gaitan.
+A bilingual archive of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 <ul style="list-style: none; padding-left: 0;">
 {% for post in site.posts %}

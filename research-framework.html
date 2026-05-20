@@ -1,0 +1,365 @@
+---
+layout: default
+title: Research Framework
+permalink: /research-framework/
+description: "The Gaitan Topology — an interactive reference of key terms and structural propositions in Oscar Gaitan's philosophy of time, ontology, and Catholic thought."
+---
+
+<style>
+.rf-wrap{max-width:760px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
+.rf-header{margin-bottom:2.5rem;padding-bottom:1.5rem;border-bottom:1px solid #e8e6e0}
+.rf-eyebrow{font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:#999;margin-bottom:8px}
+.rf-title{font-size:28px;font-weight:400;color:#1a1a1a;line-height:1.25;margin-bottom:10px}
+.rf-sub{font-size:15px;color:#666;line-height:1.65}
+.rf-hint{font-size:12px;color:#aaa;margin-top:8px}
+.section-label{font-size:11px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#aaa;margin-bottom:14px}
+.tier{margin-bottom:3rem}
+
+.legend{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;align-items:center}
+.legend-label{font-size:11px;color:#aaa;margin-right:2px}
+.ltag{font-size:10px;padding:2px 9px;border-radius:20px;font-weight:500}
+.tag-o{background:#EEEDFE;color:#534AB7}
+.tag-t{background:#E1F5EE;color:#0F6E56}
+.tag-s{background:#F1EFE8;color:#5F5E5A}
+.tag-c{background:#FAECE7;color:#993C1D}
+
+.terms-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+@media(max-width:640px){.terms-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:400px){.terms-grid{grid-template-columns:1fr}}
+
+.term-chip{position:relative;background:#fff;border:0.5px solid #e0ddd6;border-radius:8px;padding:12px 13px;cursor:pointer;transition:border-color 0.15s,background 0.15s}
+.term-chip:hover{border-color:#bbb;background:#fafaf8}
+.term-chip.open{border-color:#888;background:#fafaf8}
+.chip-top{display:flex;align-items:flex-start;gap:7px}
+.chip-num{font-size:10px;font-weight:600;color:#bbb;min-width:14px;padding-top:1px}
+.chip-name{font-size:12px;font-weight:500;color:#1a1a1a;line-height:1.3}
+.chip-tag-wrap{margin-top:8px}
+.ctag{font-size:10px;padding:2px 8px;border-radius:20px;font-weight:500;display:inline-block}
+
+.expand-body{overflow:hidden;max-height:0;transition:max-height 0.3s ease}
+.expand-body.open{max-height:500px}
+.expand-inner{padding-top:10px;border-top:0.5px solid #e8e6e0;margin-top:10px}
+.expand-def{font-size:12px;color:#555;line-height:1.65;margin-bottom:8px}
+.expand-fn{font-size:11px;color:#999;line-height:1.5;border-left:2px solid #e0ddd6;padding-left:8px}
+
+.divider{height:0.5px;background:#e8e6e0;margin:2.5rem 0}
+
+.props-list{display:flex;flex-direction:column;gap:6px}
+.prop-item{background:#fff;border:0.5px solid #e0ddd6;border-radius:8px;overflow:hidden;cursor:pointer;transition:border-color 0.15s}
+.prop-item:hover{border-color:#bbb}
+.prop-item.open{border-color:#888}
+.prop-header{display:flex;align-items:center;gap:10px;padding:12px 16px}
+.prop-num{font-size:10px;font-weight:600;color:#bbb;min-width:24px}
+.prop-name{font-size:13px;font-weight:500;color:#1a1a1a;flex:1}
+.prop-chevron{font-size:13px;color:#bbb;transition:transform 0.2s;flex-shrink:0}
+.prop-item.open .prop-chevron{transform:rotate(180deg)}
+.prop-body{max-height:0;overflow:hidden;transition:max-height 0.3s ease}
+.prop-body.open{max-height:300px}
+.prop-inner{padding:0 16px 14px;border-top:0.5px solid #e8e6e0}
+.prop-text{font-size:13px;color:#555;line-height:1.65;padding-top:12px;margin-bottom:12px}
+.relies-label{font-size:10px;font-weight:600;letter-spacing:0.07em;text-transform:uppercase;color:#bbb;margin-bottom:6px}
+.relies-tags{display:flex;flex-wrap:wrap;gap:4px}
+.relies-tag{font-size:11px;padding:3px 10px;border-radius:20px;background:#f5f4f0;color:#666;border:0.5px solid #e0ddd6}
+
+.rf-footer{font-size:11px;color:#ccc;text-align:center;padding-top:2rem;letter-spacing:0.04em}
+</style>
+
+<div class="rf-wrap">
+
+  <div class="rf-header">
+    <p class="rf-eyebrow">Gaitan Topology · Research Framework</p>
+    <h1 class="rf-title">Key terms &amp; structural propositions</h1>
+    <p class="rf-sub">A systematic reference for the ontological and topological concepts developed across the essays. Terms form the foundational layer; propositions are structural claims built from them.</p>
+    <p class="rf-hint">Hover a term to preview · click to expand</p>
+  </div>
+
+  <div class="tier">
+    <div class="section-label">Key terms — foundational layer</div>
+    <div class="legend">
+      <span class="legend-label">Type:</span>
+      <span class="ltag tag-o">Ontological</span>
+      <span class="ltag tag-t">Topological</span>
+      <span class="ltag tag-s">Structural</span>
+      <span class="ltag tag-c">Civilizational</span>
+    </div>
+    <div class="terms-grid">
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="The invariant point of actualization where every being becomes actual.">
+        <div class="chip-top"><span class="chip-num">1</span><span class="chip-name">Now (ontological)</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-o">Ontological</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The invariant point of actualization where every being becomes actual. It does not flow, does not move, and belongs to no one — the metaphysical condition simultaneously sustaining every event in the cosmos.</p>
+            <p class="expand-fn">The crossing of the lemniscate: site of freedom, identity, and the reorientation of the will.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
+        <div class="chip-top"><span class="chip-num">2</span><span class="chip-name">Nonderivative</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-s">Structural</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">That whose being depends on nothing else in order to exist. It does not receive actualization — it gives it. The self-sustaining foundation of the Now: the I AM.</p>
+            <p class="expand-fn">The only reality that does not participate in becoming but sustains it.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="The ontological thickness of a moment, determined by the depth of change within it.">
+        <div class="chip-top"><span class="chip-num">3</span><span class="chip-name">Temporal density</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-o">Ontological</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The ontological thickness of a moment, determined by the depth of the change that occurs within it. An act of reorientation of the will can be denser than years of superficial repetition.</p>
+            <p class="expand-fn">Explains why human life is measured by crossings of the Now, not by duration.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="The ontological resistance to change arising from repeated acts in the Now.">
+        <div class="chip-top"><span class="chip-num">4</span><span class="chip-name">Structural inertia</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-s">Structural</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The ontological resistance to change arising from the repetition of acts in the Now. Each decision leaves a trace that facilitates or hinders the next, generating a trajectory that may consolidate into orientation or deviation.</p>
+            <p class="expand-fn">Explains habit, fall, fixation, and the increasing difficulty of reorientation without grace.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="Fullness depends not on the gift's content but on the position from which it is received.">
+        <div class="chip-top"><span class="chip-num">5</span><span class="chip-name">Relativity of fullness</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-t">Topological</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">Fullness does not depend on the content of the gift but on the position from which it is received. At the center (the crossing point), gifts are inexhaustible; away from the center, they generate renewed thirst.</p>
+            <p class="expand-fn">Allows hope, desire, and satisfaction to be reinterpreted through spiritual topology.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="The variation of meaning and fullness according to one's position within the lemniscatic structure.">
+        <div class="chip-top"><span class="chip-num">6</span><span class="chip-name">Topological relativity</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-t">Topological</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The variation of meaning, fullness, and orientation according to position within the lemniscatic structure. Not relativism — structural dependence. The same reality changes its effect depending on proximity to the center.</p>
+            <p class="expand-fn">Explains why the same grace can be fullness, erosion, or rejection depending on the orientation of the will.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="Not two moments but the single eternal self-declaration of the foundation of being.">
+        <div class="chip-top"><span class="chip-num">7</span><span class="chip-name">Alpha and Omega</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-o">Ontological</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">Not two moments but the single eternal self-declaration of the foundation of being. Alpha precedes all becoming; Omega is the fullness toward which it is oriented. Both are simultaneous — they belong to the nonderivative order.</p>
+            <p class="expand-fn">Names the foundation that sustains the Now and keeps the arc of becoming open.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="term-chip" onclick="toggleTerm(this)" title="Modern systems that prioritize persistence of forms through external support over genuine transformation.">
+        <div class="chip-top"><span class="chip-num">8</span><span class="chip-name">Compatibility with maintenance</span></div>
+        <div class="chip-tag-wrap"><span class="ctag tag-c">Civilizational</span></div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The condition by which modern systems — technological, economic, cultural — prioritize persistence of forms through external support over genuine transformation through real constraint.</p>
+            <p class="expand-fn">Produces the Uninhabited Now: a present filled with persistent yet hollow forms, enduring without crossing the lemniscatic threshold where identity is renewed.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="tier">
+    <div class="section-label">Structural propositions — derived layer</div>
+    <div class="props-list">
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P1</span>
+          <span class="prop-name">The Gaitan Topology</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">A structural model of temporality in which the lemniscate represents two loops — past and future — intersecting at a singular Now, the only point where actualization occurs. Time is not a flow but a continuous traversal through this invariant crossing point.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Now (ontological)</span>
+              <span class="relies-tag">Nonderivative</span>
+              <span class="relies-tag">Alpha and Omega</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P2</span>
+          <span class="prop-name">The Now (crossing point)</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">The Now is a zero-thickness moment where potential becomes actual — the fixed locus of all events. Human agency, freedom, and grace operate exclusively here, within a microgap between possibility and actuality.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Now (ontological)</span>
+              <span class="relies-tag">Temporal density</span>
+              <span class="relies-tag">Nonderivative</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P3</span>
+          <span class="prop-name">Harmonic echo</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">Unrealized possibilities do not vanish but return at later moments in transformed form. Divine providence reconfigures lost opportunities — challenging linear views of time and fate.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Now (ontological)</span>
+              <span class="relies-tag">Temporal density</span>
+              <span class="relies-tag">Alpha and Omega</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P4</span>
+          <span class="prop-name">The Uninhabited Now</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">A condition in modern life where the present is filled with persistence — digital, biological, institutional — without genuine depth or transformation. Arises from artificial selection: systems that prioritize maintenance over real becoming.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Now (ontological)</span>
+              <span class="relies-tag">Structural inertia</span>
+              <span class="relies-tag">Compatibility with maintenance</span>
+              <span class="relies-tag">Temporal density</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P5</span>
+          <span class="prop-name">The Ghost Zone</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">A parallel interior topology where the self functions detached from reality — through rehearsed success or anticipated defeat. A state of displacement accelerated by algorithmic culture, rendering the crossing point functionally uninhabitable.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Topological relativity</span>
+              <span class="relies-tag">Structural inertia</span>
+              <span class="relies-tag">Now (ontological)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P6</span>
+          <span class="prop-name">Alternate lemniscate</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">When the self abandons the true center, it constructs a false topology around a displaced center — pride, deferral, trauma, or illusion. These alternate lemniscates generate moral and existential collapse.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Topological relativity</span>
+              <span class="relies-tag">Relativity of fullness</span>
+              <span class="relies-tag">Structural inertia</span>
+              <span class="relies-tag">Nonderivative</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P7</span>
+          <span class="prop-name">Artificial selection</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">A critique of modern systems that replace natural transformation with engineered continuity. Unlike Darwinian selection — which reveals being through constraint — artificial selection simulates endurance without depth.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Compatibility with maintenance</span>
+              <span class="relies-tag">Structural inertia</span>
+              <span class="relies-tag">Now (ontological)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prop-item" onclick="toggleProp(this)">
+        <div class="prop-header">
+          <span class="prop-num">P8</span>
+          <span class="prop-name">Topological relativity (proposition)</span>
+          <span class="prop-chevron">&#8964;</span>
+        </div>
+        <div class="prop-body">
+          <div class="prop-inner">
+            <p class="prop-text">Identical experiences yield opposite outcomes depending on their relation to the center. At the crossing point, reception is inexhaustible; off-center, every fulfillment generates renewed lack.</p>
+            <p class="relies-label">Draws on</p>
+            <div class="relies-tags">
+              <span class="relies-tag">Topological relativity</span>
+              <span class="relies-tag">Relativity of fullness</span>
+              <span class="relies-tag">Now (ontological)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="divider"></div>
+  <p class="rf-footer">Gaitan Topology · Oscar Gaitan · oscargaitan.org</p>
+
+</div>
+
+<script>
+function toggleTerm(el){
+  var body=el.querySelector('.expand-body');
+  var isOpen=body.classList.contains('open');
+  document.querySelectorAll('.term-chip.open').forEach(function(c){
+    c.classList.remove('open');
+    c.querySelector('.expand-body').classList.remove('open');
+  });
+  if(!isOpen){el.classList.add('open');body.classList.add('open');}
+}
+function toggleProp(el){
+  var body=el.querySelector('.prop-body');
+  var isOpen=body.classList.contains('open');
+  document.querySelectorAll('.prop-item.open').forEach(function(p){
+    p.classList.remove('open');
+    p.querySelector('.prop-body').classList.remove('open');
+  });
+  if(!isOpen){el.classList.add('open');body.classList.add('open');}
+}
+</script>

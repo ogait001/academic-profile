@@ -5,7 +5,7 @@ date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, memory, grace, ghost-zone, harmonic-echo, providence, phenomenology, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, rosary, incarnation, self-and-identity]
 lang: en
-excerpt: "Human life may unfold like a lemniscate: two loops joined by a single crossing where freedom, grace, and decision meet. The Lemniscate of Time follows this interior topology through scripture, literature, and philosophy, bringing Nathanael, Peter, Nicodemus, J.M. Barrie, Milton, Papini, and Rubén Darío into a meditation on memory, unrealized possibility, and providential return. The study concludes by identifying a structural correspondence between the lemniscate and the Rosary’s four mysteries: Joyful, Sorrowful, Glorious, Luminous. The topology was already inscribed in prayer."
+excerpt: "A philosophical and theological exploration of time through the lemniscate as a topology of memory, possibility, freedom, grace, and providential return."
 doi: "10.5281/zenodo.19121110"
 record_url: "https://zenodo.org/records/19121110"
 pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"

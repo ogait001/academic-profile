@@ -23,7 +23,7 @@ tags:
   - legion
 lang: en
 excerpt: >
-  When the self walks away from the crossing point, it does not cease to loop — it begins looping around something else. The structure of devotion is preserved. What changes is the axis. This essay maps the taxonomy of false centers, the mechanics of rupture, and the one fixed point that remains when everything else has moved.
+  A philosophical meditation on displacement and false centers, arguing that devotion survives the loss of the true center by reorganizing around another axis.
 doi: "10.5281/zenodo.19410632"
 record_url: "https://zenodo.org/records/19410632"
 pdf_url: "https://zenodo.org/records/19410477/files/the-alternate-lemniscate.pdf"

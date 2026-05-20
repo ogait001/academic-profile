@@ -59,7 +59,7 @@ title: Oscar Gaitan — Philosophy & Catholic Thought
 }
 
 .about-photo img{
-  width:220px;
+  width:190px;
   border-radius:10px;
   display:block;
   border:1px solid #d1d5db;
@@ -236,13 +236,20 @@ Many essays are available in both **English and Spanish**.
     <h2>About</h2>
 
     <p>
-      Oscar Gaitan is a Nicaraguan-American independent philosophical researcher whose work explores ontology, temporality, metaphysical anthropology, phenomenology, philosophy of time, and Catholic thought through publicly accessible scholarship.
-    </p>
+Oscar Gaitan is a Nicaraguan-American independent philosophical researcher
+whose work explores ontology, temporality, metaphysical anthropology,
+phenomenology, philosophy of time, and Catholic thought.
+</p>
+
+<p>
+His essays develop an original philosophical framework made publicly
+available through open scholarship.
+</p>
 
     <h3>Contact</h3>
 
     <p>
-      For scholarly correspondence, citation inquiries, or collaboration:
+      For scholarly correspondence, collaboration, or citation inquiries:
     </p>
 
     <p>

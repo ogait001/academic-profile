@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.20032897"
 record_url: "https://zenodo.org/records/20032897"
 pdf_url: "https://zenodo.org/records/20032897/files/el-interior-infinito.pdf"
 translation_url: /ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html
-excerpt: "El reemplazo requiere un límite. La continuidad no admite ninguno. Este ensayo propone que la identidad — la persistencia del ser a través del cambio — no es un problema filosófico que requiere una solución. Es un hecho geométrico que requiere un nombre: el interior infinito, el espacio asintótico continuo entre dos estados cualesquiera de un ser, necesariamente ininterrumpido y por lo tanto preservador del que lo atraviesa."
+excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el cambio, que propone el interior infinito como la estructura ininterrumpida que preserva al yo a través de la transformación."
 ---
 
 ## Indice

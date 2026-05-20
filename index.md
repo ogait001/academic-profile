@@ -48,6 +48,27 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
+## Research Framework
+
+My work develops an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+
+### Original Concepts & Structural Propositions
+
+- The Gaitan Topology
+- The Ontological Now
+- Structural Inertia
+- Harmonic Echo
+- The Ghost Zone
+- Alternate Lemniscates
+- Topological Relativity
+- Temporal Density
+- The Uninhabited Now
+- Artificial Selection
+
+[Explore the full Research Framework →](/research-framework/)
+
+---
+
 ## Research Areas
 
 ### Ontology

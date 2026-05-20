@@ -1,16 +1,16 @@
------
-
-## layout: post
-title: “The Artificial Selection: On Endurance, Identity, and the Engineering of an Uninhabited Now”
+---
+layout: post
+title: "The Artificial Selection: On Endurance, Identity, and the Engineering of an Uninhabited Now"
 date: 2026-04-29
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, identity, endurance, uninhabited-now, ship-of-theseus, darwin, natural-selection, ecology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology]
 lang: en
-excerpt: “A philosophical meditation on identity and endurance, arguing that resistance is structurally necessary for inhabitation, and that modern replacement culture engineers the Uninhabited Now.”
-doi: “10.5281/zenodo.19870770”
-record_url: “https://zenodo.org/records/19870770”
-pdf_url: “https://zenodo.org/records/19870789/files/the-artificial-selection.pdf”
-translation_url: “/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html”
+excerpt: "A philosophical meditation on identity and endurance, arguing that resistance is structurally necessary for inhabitation, and that modern replacement culture engineers the Uninhabited Now."
+doi: "10.5281/zenodo.19870770"
+record_url: "https://zenodo.org/records/19870770"
+pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"
+translation_url: "/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html"
+---
 
 *From the Gaitan Topology*
 

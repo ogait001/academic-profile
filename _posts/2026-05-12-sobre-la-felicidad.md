@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.20146381"
 record_url: "https://zenodo.org/records/20146381"
 pdf_url: "https://zenodo.org/records/20146381/files/sobre-la-felicidad.pdf"
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html
-excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y teológica sobre la felicidad, argumentando que lo que el ser humano busca no es una satisfacción pasajera, sino una plenitud perdurable, y que los bienes finitos no pueden satisfacer el deseo más profundo de permanencia que estructura el anhelo humano."
+excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y teológica sobre la felicidad, que sostiene que el anhelo humano busca una plenitud perdurable más que una satisfacción fugaz, y que los bienes finitos no pueden colmar el deseo de permanencia."
 ---
 
 *Non sumus Deus tuus; quaere super nos.*

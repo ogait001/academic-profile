@@ -5,7 +5,7 @@ date: 2026-05-10
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, alpha-and-omega, crossing-point, cosmos, actualization, time-and-eternity, non-derivative-being, eschatology, phenomenology, philosophy-of-religion, theological-anthropology]
 lang: en
-excerpt: "The Now in which you stand is the only Now that exists. This essay extends the lemniscate topology to a cosmic scale: from the expansion of the universe to the decimal system, from life finding its way to Alpha and Omega — the sole foundation that holds the open line from outside the line."
+excerpt: "A philosophical and theological meditation on the Now, the cosmos, and Alpha and Omega as the sustaining foundation of temporality and existence."
 doi: "10.5281/zenodo.20112294"
 record_url: "https://zenodo.org/records/20112294"
 pdf_url: "https://zenodo.org/records/20112452/files/alpha-and-omega.pdf"

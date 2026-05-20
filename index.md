@@ -3,6 +3,55 @@ layout: default
 title: Oscar Gaitan — Philosophy & Catholic Thought
 ---
 
+<style>
+.recent-pubs {
+  margin-top: 1.5rem;
+}
+
+.pub-item {
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1rem;
+  background: #ffffff;
+}
+
+.pub-item summary {
+  cursor: pointer;
+  list-style: none;
+  outline: none;
+}
+
+.pub-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-item summary::before {
+  content: "▸ ";
+  color: #6b7280;
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.pub-item[open] summary::before {
+  content: "▾ ";
+}
+
+.pub-item a {
+  text-decoration: none;
+}
+
+.pub-item a strong {
+  font-size: 1.05rem;
+}
+
+.pub-abstract {
+  margin-top: 1rem;
+  line-height: 1.65;
+  color: #374151;
+}
+</style>
+
 # Oscar Gaitan — Philosophy & Catholic Thought
 
 *Independent philosophical researcher exploring ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.*

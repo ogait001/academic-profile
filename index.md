@@ -120,11 +120,13 @@ Many essays are available in both **English and Spanish**.
 {% endfor %}
 </div>
 
+
 ## About
 
 Oscar Gaitan is a Nicaraguan-American independent philosophical researcher whose work explores ontology, temporality, metaphysical anthropology, phenomenology, and Catholic thought through publicly accessible scholarship.
 
 ---
+
 
 ## Contact
 

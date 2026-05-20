@@ -5,7 +5,7 @@ date: 2026-04-12
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, time-and-eternity, eschatology]
 lang: es
-excerpt: "La primera pregunta de Dios a un hombre caído no es una acusación. Es un llamado. Este ensayo examina la geometría de la voluntad en el punto de cruce — a través de Adán, Caín y David — y argumenta que el arrepentimiento no es la causa de la misericordia sino su recepción: la voluntad habiendo agotado sus propios bucles y encontrándose, finalmente, sin nada más que el giro."
+excerpt: "Una meditación teológica sobre la misericordia y la voluntad, que sostiene que la dirección divina precede a la acusación y que la penitencia es la forma en que la misericordia es recibida."
 doi: "10.5281/zenodo.19559034"
 record_url: "https://zenodo.org/records/19559034"
 pdf_url: "https://zenodo.org/records/19559034/files/donde-estas.pdf"

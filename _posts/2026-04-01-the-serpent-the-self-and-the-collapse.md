@@ -5,7 +5,7 @@ date: 2026-04-01 00:00:00 +0000
 categories: [ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, self-and-identity, phenomenology, theological-anthropology, philosophy-of-religion, eschatology]
 lang: en
-excerpt: "The serpent's curve is the counterfeit lemniscate: it loops, it bends, it appears to go somewhere — but it never crosses. This essay traces the topological structure of identity-dissolution from the Garden through Legion to the digital mimetic chain, and asks what restoration of the center requires."
+excerpt: "A philosophical and topological meditation on identity dissolution, where counterfeit loops preserve movement while severing the self from the crossing point."
 doi: "10.5281/zenodo.19379289"
 record_url: "https://zenodo.org/records/19379289"
 pdf_url: "https://zenodo.org/records/19376518/files/the-serpent-the-self-and-the-collapse.pdf"

@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.19599225"
 record_url: "https://zenodo.org/records/19599225"
 pdf_url: "https://zenodo.org/records/19599225/files/no-puedes-anadir-una-hora.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html
-excerpt: "No todo tiempo es igualmente denso. Los momentos de mayor realidad temporal son los momentos de mayor compromiso ontológico — donde la voluntad está plenamente operativa, plenamente interpelada, plenamente capaz del giro que constituye el cambio más denso disponible para un ser humano. Y el número de cruces es finito. No puedes añadir una hora. Pero cada hora dada es entera."
+excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la voluntad, que sostiene que la vida humana consiste en cruces finitos cuyos momentos difieren en densidad ontológica."
 ---
 
 

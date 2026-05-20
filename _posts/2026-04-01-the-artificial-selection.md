@@ -5,7 +5,7 @@ date: 2026-04-29
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, identity, endurance, uninhabited-now, ship-of-theseus, darwin, natural-selection, ecology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology]
 lang: en
-excerpt: "Is resistance necessary for identity? This essay argues that it is — not as a moral prescription but as a structural description of how beings come to be what they are. A being that is systematically shielded from the pressures that would otherwise constitute what it becomes occupies a form. It does not inhabit it. Through Darwin, ecology, the Ship of Theseus, and the ontology of the Now, the essay diagnoses the culture of replacement as an engineering of the Uninhabited Now."
+excerpt: "A philosophical meditation on identity and endurance, arguing that resistance is structurally necessary for inhabitation, and that modern replacement culture engineers the Uninhabited Now."
 doi: "10.5281/zenodo.19870770"
 record_url: "https://zenodo.org/records/19870770"
 pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"

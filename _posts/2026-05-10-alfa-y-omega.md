@@ -5,7 +5,7 @@ date: 2026-05-10
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
 lang: es
-excerpt: "El Ahora en el que estás es el único Ahora que existe. Este ensayo extiende la topología lemniscata a escala cósmica: desde la expansión del universo hasta el sistema decimal, desde la vida que encuentra su camino hasta Alfa y Omega — el único fundamento que sostiene la línea abierta desde fuera de la línea."
+excerpt: "Una meditación filosófica y teológica sobre el Ahora, el cosmos y Alfa y Omega como el fundamento sustentante de la temporalidad y de la existencia."
 doi: "10.5281/zenodo.20112562"
 record_url: "https://zenodo.org/records/20112562"
 pdf_url: "https://zenodo.org/records/20112562/files/alfa-y-omega.pdf"

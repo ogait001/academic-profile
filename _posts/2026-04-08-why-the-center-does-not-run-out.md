@@ -5,7 +5,7 @@ date: 2026-04-08
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, theological-anthropology, philosophy-of-religion, self-and-identity, time-and-eternity]
 lang: en
-excerpt: "Hope is the last thing that dies — but the topology reveals a second, darker reading: hope is the last thing that dies because the loop needs it to survive. This essay traces three scriptural positions — the Samaritan woman, the widow of Zarephath, and Christ at the well — to ask why the center does not run out."
+excerpt: "A meditation on hope, thirst, and the topology of desire, asking why the center does not run out and what kind of source keeps human longing alive."
 doi: "10.5281/zenodo.19476335"
 record_url: "https://zenodo.org/records/19476335"
 pdf_url: "https://zenodo.org/records/19476348/files/why-the-center-does-not-run-out.pdf"

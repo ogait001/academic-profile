@@ -5,7 +5,7 @@ date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity]
 lang: en
-excerpt: "“Not all time is equally dense. The moments of greatest temporal reality are the moments of greatest ontological commitment — where the will is fully operative, fully addressed, fully capable of the turn that constitutes the densest change available to a human being. And the number of crossings is finite. You cannot add an hour. But every hour given is entire."
+excerpt: "A philosophical meditation on temporality, finitude, and the will, arguing that human life consists of finite crossings whose moments differ in ontological density."
 doi: "10.5281/zenodo.19599170"
 record_url: "https://zenodo.org/records/19599170"
 pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"

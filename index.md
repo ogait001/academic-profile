@@ -96,6 +96,7 @@ Symbolic structures, abstraction, number, and ontological interpretation.
 Many essays are available in both **English and Spanish**.
 
 ---
+
 ## Recent Publications
 
 <ul>

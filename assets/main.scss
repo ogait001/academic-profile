@@ -33,7 +33,7 @@
 
 .site-footer {
   border-top: 1px solid #d1d5db;
-  margin-top: 4rem;
+  margin-top: 2.5rem;
   padding: 2.5rem 0;
   text-align: center;
   color: #6b7280;
@@ -46,6 +46,10 @@
   font-size: 0.95rem;
 }
 
+.site-footer p:last-child {
+  font-size: 0.9rem;
+}
+
 .site-footer a {
   color: #2563eb;
   text-decoration: none;
@@ -54,6 +58,7 @@
 .site-footer a:hover {
   text-decoration: underline;
 }
+
 .site-intro {
   font-size: 1.15rem;
   line-height: 1.8;

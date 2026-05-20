@@ -5,7 +5,7 @@ date: 2026-05-05
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, time-and-eternity, eschatology]
 lang: es
-excerpt: "Este ensayo examina la pregunta ¿Dónde está Dios? no como un desafío retórico a esquivar sino como una indagación estructural a responder con precisión. Argumenta que la pregunta, tal como se formula habitualmente, descansa sobre un supuesto equivocado: que la presencia de Dios debería ser visible como intervención dentro de los eventos. Dios no es un agente dentro de los eventos. Dios es el fundamento sustentante del momento presente en el que los eventos ocurren."
+excerpt: "Una reflexión filosófica y teológica sobre el sufrimiento y la presencia divina, que sostiene que Dios no se encuentra como intervención dentro de los acontecimientos, sino como el fundamento sustentante del propio presente."
 doi: "10.5281/zenodo.20044903"
 record_url: "https://zenodo.org/records/20044903"
 pdf_url: "https://zenodo.org/records/20044903/files/donde-esta-dios.pdf"

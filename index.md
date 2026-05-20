@@ -99,7 +99,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ## Research Framework
 
-My work develops an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+The essays collected here develop an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 ### Original Concepts & Structural Propositions
 

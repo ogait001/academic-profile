@@ -172,13 +172,4 @@ Many essays are available in both **English and Spanish**.
 
 <hr style="margin: 3rem 0 0.75rem; border: 0; border-top: 1px solid #d1d5db;">
 
-<h2 style="margin-top: 0.5rem;">About</h2>
 
-Oscar Gaitan is a Nicaraguan-American independent philosophical researcher whose work explores ontology, temporality, metaphysical anthropology, phenomenology, and Catholic thought through publicly accessible scholarship.
----
-
-## Contact
-
-For scholarly correspondence, citation inquiries, or collaboration, please contact:
-
-ogaitan.research@gmail.com

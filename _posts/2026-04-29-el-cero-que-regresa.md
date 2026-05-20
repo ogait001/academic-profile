@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19894007"
 record_url: "https://zenodo.org/records/19894007"
 pdf_url: "https://zenodo.org/records/19894007/files/el-cero-que-regresa.pdf"
-excerpt: "La cuenta humana codifica inconscientemente dos intuiciones a la vez: la lineal y la cíclica. Este ensayo propone que la recta numérica decimal contiene una geometría a la que nunca se le ha pedido mostrarse — y que, cuando se le pide, lo que aparece es la lemniscata. Los dígitos no parten. Regresan. Y cada regreso es más alto que el anterior."
+excerpt: "Una meditación filosófica sobre el número, la repetición y el infinito, que propone que la notación decimal revela una geometría lemniscática oculta de retorno y ascenso."
 translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 ---
 

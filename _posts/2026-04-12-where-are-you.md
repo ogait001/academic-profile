@@ -5,7 +5,7 @@ date: 2026-04-12
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
 lang: en
-excerpt: "God's first question to a fallen man is not an accusation. It is an address. Through Adam, Cain, and David, this essay traces the two fundamental geometries of the will at the crossing point—and argues that repentance is not the cause of mercy, but the shape of its reception."
+excerpt: "A theological meditation on mercy and the will, arguing that divine address precedes accusation, and that repentance is the form by which mercy is received."
 doi: "10.5281/zenodo.19558895"
 record_url: "https://zenodo.org/records/19558895"
 pdf_url: "https://zenodo.org/records/19558910/files/where-are-you.pdf"

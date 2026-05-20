@@ -15,7 +15,7 @@ tags:
   - asymptotic-life
 lang: en
 excerpt: >
-  There is a zone that exists alongside ordinary life — not in the past, not in the future, not even in the realm of possibility. It runs parallel to reality, close enough to mimic presence, but never fully making contact with it. This essay is the first in The Ghost Zone Series, an exploration of the asymptotic life: a way of existing that approaches reality, but never fully touches it.
+  A philosophical exploration of the Ghost Zone: an asymptotic mode of existence in which inner life runs parallel to reality, mimicking presence without ever fully inhabiting it.
 doi: "10.5281/zenodo.19100268"
 record_url: "https://zenodo.org/records/19100268"
 pdf_url: "https://zenodo.org/records/19420195/files/the-ghost-zone.pdf"

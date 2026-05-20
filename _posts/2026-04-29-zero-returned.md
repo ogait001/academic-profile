@@ -5,7 +5,7 @@ date: 2026-04-29
 categories: [ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, self-and-identity, time-and-eternity]
 lang: en
-excerpt: "Human counting unconsciously encodes two intuitions at once: the linear and the cyclical. This essay proposes that the decimal number line contains a geometry it has never been asked to show — and that when it is asked, what appears is the lemniscate. The digits do not depart. They return. And each return is higher than the last."
+excerpt: "A philosophical meditation on number, repetition, and infinity, proposing that decimal notation reveals a hidden lemniscate geometry of return and ascent."
 doi: "10.5281/zenodo.19893877"
 record_url: "https://zenodo.org/records/19893877"
 pdf_url: "https://zenodo.org/records/19893906/files/zero-returned.pdf"

@@ -27,7 +27,7 @@ tags:
 
 lang: en
 
-excerpt: "This essay argues that the principal threat to religious community in the modern world is not the denial of God’s existence, but the systematic displacement of His ontological function. The modern system has achieved, through frictionless architectural means, what no empire ever accomplished by force: the voluntary departure of the self from the crossing point, scroll after scroll, without any awareness of loss."
+excerpt: "A philosophical reflection on how modern systems displace both divine presence and the self from the Now through frictionless architectures of voluntary distraction."
 
 doi: "10.5281/zenodo.20100162"
 record_url: "https://zenodo.org/records/20100162"

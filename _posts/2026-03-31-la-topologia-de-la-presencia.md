@@ -9,7 +9,7 @@ doi: "10.5281/zenodo.19358491"
 record_url: "https://zenodo.org/records/19358491"
 pdf_url: "https://zenodo.org/records/19358491/files/la-topologia-de-la-presencia.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/01/the-topology-of-presence.html
-excerpt: "Un ensayo de trabajo en antropología teológica que propone un marco ontológico de cuatro cuadrantes (la Topología de Gaitán) mapeado sobre la lemniscata. El ensayo desarrolla una topología de la presencia organizada en torno al punto de cruce de la curva en forma de ocho como el lugar del Ahora, de la gracia y del encuentro. Introduce el eje gramatical (el presente de Dios frente al futuro de la serpiente), la distinción referencia/residencia, la fenomenología de la presencia, tres mecánicas de la postergación y la Zona Fantasma como estado de desplazamiento existencial. Compañero de La Lemniscata del Tiempo: Una topología de la memoria, la posibilidad y la gracia."
+excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gaitán: un marco ontológico de cuatro cuadrantes organizado en torno al punto de cruce del Ahora, la presencia, la gracia y el desplazamiento existencial."
 ---
 
 *Compañero de* [La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)

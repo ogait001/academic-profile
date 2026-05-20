@@ -4,6 +4,37 @@ title: Essays
 permalink: /essays/
 ---
 
+<style>
+.lang-links{
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.lang-pill{
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.85rem;
+  color: #374151;
+  background: #ffffff;
+  transition: all 0.15s ease;
+}
+
+.lang-pill:hover{
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+.lang-pill.active{
+  background: #2563eb;
+  color: white;
+  border-color: #2563eb;
+}
+</style>
+
 <div id="top"></div>
 
 # Essays
@@ -34,12 +65,18 @@ A complete archive of philosophical essays by Oscar Gaitan.
       </p>
     {% endif %}
 
-    {% if post.lang == "es" %}
-      <small><em>Spanish edition</em></small>
+    {% if post.translation_url %}
+      <div class="lang-links">
+        {% if post.lang == "en" %}
+          <a href="{{ post.url | relative_url }}" class="lang-pill active">English</a>
+          <a href="{{ post.translation_url }}" class="lang-pill">Español</a>
+        {% elsif post.lang == "es" %}
+          <a href="{{ post.translation_url }}" class="lang-pill">English</a>
+          <a href="{{ post.url | relative_url }}" class="lang-pill active">Español</a>
+        {% endif %}
+      </div>
     {% endif %}
 
   </li>
 {% endfor %}
 </ul>
-
-

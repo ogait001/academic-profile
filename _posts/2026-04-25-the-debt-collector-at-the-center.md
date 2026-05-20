@@ -22,7 +22,7 @@ tags:
   - justice
 lang: en
 excerpt: >
-  Any vision of reality governed only by return, repayment, and exact consequence can account for the stones. It cannot account for the voice. This essay argues that karma places the wrong thing at the center of reality — and that the ground of the Now is not a mechanism of proportional return but a person who holds accounts open.
+ A reflection on karma and grace, arguing that reality is grounded not in exact repayment, but in a personal presence who keeps accounts open.
 doi: "10.5281/zenodo.19702597"
 record_url: "https://zenodo.org/records/19702597"
 pdf_url: "https://zenodo.org/records/19702585/files/the-debt-collector-at-the-center.pdf"

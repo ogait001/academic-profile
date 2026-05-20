@@ -21,7 +21,7 @@ doi: "10.5281/zenodo.20242868"
 record_url: "https://zenodo.org/records/20242868"
 pdf_url: "https://zenodo.org/records/20242868/files/non_te_egeo.pdf"
 translation_url: /philosophy-of-time/ontology/2026/05/16/no-te-necesito.html
-excerpt: "A reflection on how digital culture supplies answers before real questions can form, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the gradual loss of the capacity to ask at all."
+excerpt: "A reflection on digital culture’s preemptive supply of answers, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the erosion of the capacity to ask."
 ---
 
 > A question that feels redundant is never asked. And a subject who never asks is, in the most exact philosophical sense, uninhabited.

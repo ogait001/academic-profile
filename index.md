@@ -169,6 +169,13 @@ Many essays are available in both **English and Spanish**.
 {% endfor %}
 </div>
 
+</div>
+
+<hr style="margin: 3rem 0 2.5rem; border: 0; border-top: 1px solid #d1d5db;">
+
+## About
+
+Oscar Gaitan is a Nicaraguan-American independent philosophical researcher...
 
 ## About
 

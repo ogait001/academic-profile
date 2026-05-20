@@ -5,7 +5,7 @@ date: 2026-04-28
 categories: [catholic-theology, ontology]
 tags: [gaitan-topology, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity]
 lang: es
-excerpt: "Una regresión infinita de realidades existencialmente dependientes no logra explicar la existencia. Este ensayo examina la contingencia, la terminación explicativa y el ser necesario, y sostiene que un fundamento necesario del ser ofrece un punto de llegada más coherente que un universo contingente bruto."
+excerpt: "Una investigación metafísica que sostiene que la existencia contingente apunta, en última instancia, hacia un fundamento necesario del ser."
 doi: "10.5281/zenodo.19871019"
 record_url: "https://zenodo.org/records/19871019"
 pdf_url: "https://zenodo.org/records/19871019/files/carta-a-un-ateo.pdf"

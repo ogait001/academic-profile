@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19684135"
 record_url: "https://zenodo.org/records/19684135"
 pdf_url: "https://zenodo.org/records/19684135/files/dos-significados-del-es.pdf"
-excerpt: "Heidegger recuperó correctamente la pregunta por el Ser, pero el horizonte temporal no basta como fundamento ontológico. Este ensayo examina el punto estructural preciso en el que ambos modelos divergen — la inteligibilidad basada en el horizonte frente a la actualización basada en el centro — y sigue la cadena de dependencias hasta su término."
+excerpt: "Una reflexión filosófica sobre Heidegger y el fundamento ontológico, que sostiene que el horizonte temporal explica la inteligibilidad pero no la actualización del ser."
 translation_url: /ontology/philosophy-of-time/2026/04/21/two-meanings-of-is.html
 ---
 

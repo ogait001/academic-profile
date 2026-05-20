@@ -5,7 +5,7 @@ date: 2026-04-21
 categories: [philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, theological-anthropology, philosophy-of-religion]
 lang: es
-excerpt: "Existe una forma de discurso en que nadie habla. No se. Dicen. Todo el mundo sabe. Este ensayo examina Das Man de Heidegger a través de Andersen, Kafka, Lope de Vega y la antropología bíblica, y sostiene que la comunión auténtica requiere yos previamente recogidos en la presencia."
+excerpt: "Una meditación filosófica sobre el anonimato y la comunión, que sostiene que la relación auténtica requiere yos reunidos en presencia, en lugar de disueltos en una existencia colectiva e impersonal."
 doi: "10.5281/zenodo.19685712"
 record_url: "https://zenodo.org/records/19685712"
 pdf_url: "https://zenodo.org/records/19685712/files/das-man-y-la-primera-persona-del-singular.pdf"

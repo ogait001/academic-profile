@@ -232,21 +232,11 @@ The gift is already as large as it needs to be. It is exactly the size of the No
 - Papini, Giovanni. *Giudizio Universale*. Florence: Vallecchi, 1923.
 - Payne Smith, R. *Thesaurus Syriacus*. Oxford: Clarendon Press, 1879.
 
-### Author's Prior Works
-
-- Gaitan, Oscar. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-- Gaitan, Oscar. The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul. Zenodo, 2026.
-- Gaitan, Oscar. [The Topology of Presence: Four Planes of Existence on the Lemniscate](https://doi.org/10.5281/zenodo.19684052). Zenodo, 2026.
-- Gaitan, Oscar. [De-Roling God](/academic-profile/2026/05/09/de-roling-god/). Zenodo, 2026.
-- Gaitan, Oscar. The Infinite Interior: On Space, Change, and the Integrity of the Self. Zenodo, 2026. [https://doi.org/10.5281/zenodo.20032817](https://doi.org/10.5281/zenodo.20032817)
 
 ---
 
-*Related essays on this site:*
+*Further reading in this research program:*
+
 - [Does Time Need Me, or Do I Need Time?](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html)
-- [The Lemniscate of Time](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html)
-- [Alpha and Omega](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html)
-- [Against You Alone](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html)
 - [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
-- [Das Man and the First Person Singular](https://oscargaitan.org/ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html)
 - [The Artificial Selection](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html)

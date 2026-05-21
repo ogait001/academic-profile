@@ -89,7 +89,7 @@ A skeptical reader may press harder. Are there not forms of development that pro
 
 By this criterion, the replacement culture at issue is the systematic insulation of beings from pressures that would otherwise constitute their identity. The anti-aging maintenance culture that refuses the body’s arc not to restore a capacity interrupted by illness but to prevent the diminishment that makes a different kind of depth possible. The spiritual subscription service that delivers contemplative practice without demanding transformation – replacing engagement with its simulation. The city that tears down what was earned through centuries of actual habitation and installs construction legible to investors but not to the history of the people who lived there.
 
-**Preserve the shape while destroying the witness.** That is the structure of replacement in the sense that matters. The original ship of Theseus was not merely a collection of planks. It was a record of passage – the particular wear of particular seas, the repairs made under particular circumstances, the grain of wood tested by weight and weather. Its age was its testimony. A fully replaced ship looks the same. It has never been anywhere.
+Preserve the shape while destroying the witness.** That is the structure of replacement in the sense that matters. The original ship of Theseus was not merely a collection of planks. It was a record of passage – the particular wear of particular seas, the repairs made under particular circumstances, the grain of wood tested by weight and weather. Its age was its testimony. A fully replaced ship looks the same. It has never been anywhere.
 
 ## VI. The Lemniscate of Loss
 
@@ -143,9 +143,7 @@ That question is not a verdict. It is a diagnostic instrument. A civilization th
 
 **The Now is not ours. What we place in it is.**
 
-*Oscar Gaitan – Los Angeles, April 2026*
 
-*From the Gaitan Topology*
 
 ## References
 

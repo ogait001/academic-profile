@@ -10,6 +10,7 @@ doi: "10.5281/zenodo.20330645"
 record_url: "https://zenodo.org/records/20330645"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
+excerpt: "La tentación de Eva fue ontológica antes que moral; el algoritmo simplemente aprendió a industrializar esa propuesta."
 ---
 
 *El scroll no creo la estructura. La industrializo.*

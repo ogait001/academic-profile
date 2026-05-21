@@ -22,19 +22,10 @@ excerpt: "Eve’s temptation was ontological before it was moral; the algorithm 
 > "My name is Legion, for we are many."
 > -- Mark 5:9
 
+
 Original temptation offered counterfeit ontology. Original sin accepted it.
 
 This essay is not a critique of technology in the ordinary sense, nor a work of biblical exegesis in the strict sense. It is a philosophical-theological reading of a structural resemblance: the possibility that contemporary algorithmic systems have not invented a new temptation, but industrialized an ancient one. What follows is an argument about perception, mediation, and the architectures within which human willing takes shape.
-
-There is a moment in Genesis 3 that tends to be read as the climax of a moral drama -- the choosing of disobedience, the violation of a prohibition. But if you read more slowly, what strikes you is not the drama. It is the absence of drama. There is no recorded anguish. No moment of visible struggle. The text does not say Eve argued with herself and lost. It says she *saw* -- and the rest followed.
-
-Saw. Desired. Took. Ate. Gave.
-
-Five steps. Each one frictionless. No gap between them large enough to be called a decision.
-
-The same five steps now run, at industrial scale, billions of times a day. The feed appears. The reel arrests attention. The content is consumed. The share button is pressed. A tragedy, an advertisement, and a friend's vacation photo occupy identical uniform boxes. Everything flattened to the same plane. Nothing requiring the kind of pause in which a genuine choice might form.
-
-The scroll did not invent this sequence. It inherited it. What the following essay argues is that the original temptation was not primarily a moral event -- a test of obedience that humanity failed. It was a topological proposal: a reorganization of the creature's relationship to reality, to perception, and to the site where genuine encounter with the divine becomes possible. The algorithm is the most efficient instrument ever built for accepting that proposal at scale.
 
 ## Table of Contents
 
@@ -45,6 +36,18 @@ The scroll did not invent this sequence. It inherited it. What the following ess
 - [V. The Node That Is Not a Center](#v-the-node-that-is-not-a-center)
 - [VI. The Return](#vi-the-return)
 - [References](#references)
+
+  
+There is a moment in Genesis 3 that tends to be read as the climax of a moral drama -- the choosing of disobedience, the violation of a prohibition. But if you read more slowly, what strikes you is not the drama. It is the absence of drama. There is no recorded anguish. No moment of visible struggle. The text does not say Eve argued with herself and lost. It says she *saw* -- and the rest followed.
+
+Saw. Desired. Took. Ate. Gave.
+
+Five steps. Each one frictionless. No gap between them large enough to be called a decision.
+
+The same five steps now run, at industrial scale, billions of times a day. The feed appears. The reel arrests attention. The content is consumed. The share button is pressed. A tragedy, an advertisement, and a friend's vacation photo occupy identical uniform boxes. Everything flattened to the same plane. Nothing requiring the kind of pause in which a genuine choice might form.
+
+The scroll did not invent this sequence. It inherited it. What the following essay argues is that the original temptation was not primarily a moral event -- a test of obedience that humanity failed. It was a topological proposal: a reorganization of the creature's relationship to reality, to perception, and to the site where genuine encounter with the divine becomes possible. The algorithm is the most efficient instrument ever built for accepting that proposal at scale.
+
 
 ## I. The Juridical Reading -- An Interpretive Wager
 

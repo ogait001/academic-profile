@@ -166,7 +166,6 @@ This essay extends the lemniscate framework developed in *Does Time Need Me, or 
 
 *See also:*
 
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
+- [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
+- [Non Te Egeo](https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html)
+- [The Infinite Interior](https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html)

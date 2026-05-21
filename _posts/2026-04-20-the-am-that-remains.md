@@ -202,13 +202,6 @@ And when the thinking ends, the am remains — and for the first time without in
 - Aquinas, Thomas. *Summa Theologiae*. I, qq. 75–89 (on the soul and its faculties); I, q. 54 (on angelic knowledge).
 - Descartes, René. *Meditations on First Philosophy.*
 
-### Author's Prior Works in the Series
-
-- Gaitan, Oscar. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-- Gaitan, Oscar. Where Are You? On Mercy, Will, and the Crossing Point. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19559034](https://doi.org/10.5281/zenodo.19559034)
-- Gaitan, Oscar. Where Does Time End? The Three Nows — Forever. Never. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
-- Gaitan, Oscar. You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19599170](https://doi.org/10.5281/zenodo.19599170)
-
 ---
 
 *Related essays on this site:*

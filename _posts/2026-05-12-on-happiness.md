@@ -243,7 +243,7 @@ The gift is already as large as it needs to be. It is exactly the size of the No
 ---
 
 *Related essays on this site:*
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
+- [Does Time Need Me, or Do I Need Time?](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html)
 - [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
 - [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
 - [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)

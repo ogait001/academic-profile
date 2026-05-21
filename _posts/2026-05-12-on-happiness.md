@@ -244,9 +244,9 @@ The gift is already as large as it needs to be. It is exactly the size of the No
 
 *Related essays on this site:*
 - [Does Time Need Me, or Do I Need Time?](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html)
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)
+- [The Lemniscate of Time](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html)
+- [Alpha and Omega](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html)
+- [Against You Alone](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html)
+- [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
+- [Das Man and the First Person Singular](https://oscargaitan.org/ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html)
+- [The Artificial Selection](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html)

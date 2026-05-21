@@ -22,19 +22,10 @@ excerpt: "La tentación de Eva fue ontológica antes que moral; el algoritmo sim
 > "Mi nombre es Legion, porque somos muchos."
 > -- Marcos 5:9
 
+
 La tentacion original propuso una ontologia falsa. El pecado original la asumio.
 
 Este ensayo no es una critica a la tecnologia en el sentido ordinario, ni un ejercicio de exegesis biblica en el sentido estricto. Es una lectura filosofico-teologica de una semejanza estructural: la posibilidad de que los sistemas algoritmicos contemporaneos no hayan inventado una nueva tentacion, sino que hayan industrializado una antigua. Lo que sigue es un argumento sobre la percepcion, la mediacion y las arquitecturas dentro de las cuales toma forma la voluntad humana.
-
-Hay un momento en Genesis 3 que suele leerse como el climax de un drama moral -- la eleccion de la desobediencia, la violacion de una prohibicion. Pero si se lee mas despacio, lo que llama la atencion no es el drama. Es la ausencia de drama. No se registra ningun tormento. Ningun momento de lucha visible. El texto no dice que Eva discutio consigo misma y perdio. Dice que ella *vio* -- y el resto siguio.
-
-Vio. Deseo. Tomo. Comio. Dio.
-
-Cinco pasos. Cada uno sin friccion. Ningun intervalo entre ellos lo suficientemente grande como para llamarse decision.
-
-Esos mismos cinco pasos se ejecutan ahora, a escala industrial, miles de millones de veces al dia. El feed aparece. El reel detiene la atencion. El contenido es consumido. Se presiona el boton de compartir. Una tragedia, un anuncio publicitario y una foto de vacaciones de un amigo ocupan cuadros uniformes e identicos. Todo aplanado al mismo plano. Nada que requiera la clase de pausa en la que podria formarse una eleccion genuina.
-
-El scroll no invento esta secuencia. La heredo. Lo que el siguiente ensayo sostiene es que la tentacion original no fue primariamente un evento moral -- una prueba de obediencia que la humanidad fallo. Fue una propuesta topologica: una reorganizacion de la relacion de la criatura con la realidad, con la percepcion, y con el lugar donde el encuentro genuino con lo divino es posible. El algoritmo es el instrumento mas eficiente jamas construido para aceptar esa propuesta a escala.
 
 ## Indice
 
@@ -45,6 +36,17 @@ El scroll no invento esta secuencia. La heredo. Lo que el siguiente ensayo sosti
 - [V. El Nodo que No Es un Centro](#v-el-nodo-que-no-es-un-centro)
 - [VI. El Retorno](#vi-el-retorno)
 - [Referencias](#referencias)
+
+  
+Hay un momento en Genesis 3 que suele leerse como el climax de un drama moral -- la eleccion de la desobediencia, la violacion de una prohibicion. Pero si se lee mas despacio, lo que llama la atencion no es el drama. Es la ausencia de drama. No se registra ningun tormento. Ningun momento de lucha visible. El texto no dice que Eva discutio consigo misma y perdio. Dice que ella *vio* -- y el resto siguio.
+
+Vio. Deseo. Tomo. Comio. Dio.
+
+Cinco pasos. Cada uno sin friccion. Ningun intervalo entre ellos lo suficientemente grande como para llamarse decision.
+
+Esos mismos cinco pasos se ejecutan ahora, a escala industrial, miles de millones de veces al dia. El feed aparece. El reel detiene la atencion. El contenido es consumido. Se presiona el boton de compartir. Una tragedia, un anuncio publicitario y una foto de vacaciones de un amigo ocupan cuadros uniformes e identicos. Todo aplanado al mismo plano. Nada que requiera la clase de pausa en la que podria formarse una eleccion genuina.
+
+El scroll no invento esta secuencia. La heredo. Lo que el siguiente ensayo sostiene es que la tentacion original no fue primariamente un evento moral -- una prueba de obediencia que la humanidad fallo. Fue una propuesta topologica: una reorganizacion de la relacion de la criatura con la realidad, con la percepcion, y con el lugar donde el encuentro genuino con lo divino es posible. El algoritmo es el instrumento mas eficiente jamas construido para aceptar esa propuesta a escala.
 
 ## I. La Lectura Juridica -- Una Apuesta Interpretativa
 

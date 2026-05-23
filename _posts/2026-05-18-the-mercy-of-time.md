@@ -167,13 +167,3 @@ Boethius. *The Consolation of Philosophy.* Translated by Victor Watts. London: P
 
 Heidegger, Martin. *Being and Time (Sein und Zeit).* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
----
-
-*See also:*
-
-- [The Lemniscate of Time](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html) — The foundational framework: nature's rhythm as figure-eight, the self at each crossing point
-- [The Artificial Selection](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html) — Civilizational critique of identity erosion and the engineering of an uninhabited now
-- [One Day](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/08/one-day-the-opportunity-that-never-arrives.html) — On temporal presence and the inhabited moment
-- [Alpha and Omega](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html) — On the eschatological frame and the ends of time
-- [Against You Alone](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html) — On moral solitude and the structure of accountability
-- [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html) — On divine personhood and the limits of theological projection

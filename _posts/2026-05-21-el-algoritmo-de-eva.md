@@ -134,12 +134,3 @@ Jesus le pidio a Legion un nombre. El algoritmo solo pide actividad, no identida
 - Gaitan, Oscar. *La Misericordia del Tiempo.* 2026.
 - Gaitan, Oscar. *El Lemniscata Alternativo.* 2026.
 
-*Oscar Gaitan escribe sobre teologia filosofica, temporalidad y antropologia metafisica. Es autor de* La Misericordia del Tiempo *y* El Lemniscata Alternativo.
-
-*Vease tambien:*
-
-- [La Misericordia del Tiempo](https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/05/18/la-misericordia-del-tiempo.html)
-- [Desplazando a Dios](https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html)
-- [La Seleccion Artificial](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html)
-- [El Lemniscata del Tiempo](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html)
-- [Alfa y Omega](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html)

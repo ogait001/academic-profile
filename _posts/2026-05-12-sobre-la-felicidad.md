@@ -228,5 +228,3 @@ Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 - [No puedes añadir una hora](/academic-profile/2026/04/15/no-puedes-anadir-una-hora/)
 - [Por qué el centro no se agota](/academic-profile/2026/04/08/porque-el-centro-no-se-agota/)
 
----
-

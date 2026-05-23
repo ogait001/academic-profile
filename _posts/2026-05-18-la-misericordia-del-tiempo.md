@@ -168,13 +168,3 @@ Boecio. *La consolación de la filosofía (The Consolation of Philosophy).* Trad
 
 Heidegger, Martin. *Ser y tiempo (Being and Time / Sein und Zeit).* Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 
----
-
-*Véase también:*
-
-- [El Lemniscato del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — El marco fundacional: el ritmo de la naturaleza como figura en ocho, el yo en cada punto de cruce
-- [La Selección Artificial](/academic-profile/2026/04/01/the-artificial-selection/) — Crítica civilizatoria de la erosión de la identidad y la ingeniería de un ahora deshabitado
-- [Un Día](/academic-profile/2026/04/08/one-day/) — Sobre la presencia temporal y el momento habitado
-- [Alfa y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — Sobre el marco escatológico y los fines del tiempo
-- [Solo Contra Ti](/academic-profile/2026/05/08/against-you-alone/) — Sobre la soledad moral y la estructura de la responsabilidad
-- [Desplazando a Dios](/academic-profile/2026/05/09/de-roling-god/) — Sobre la personalidad divina y los límites de la proyección teológica

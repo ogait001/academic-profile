@@ -351,22 +351,6 @@ Solo requiere, para que la pregunta surja, un yo lo suficientemente presente par
 - London, Jerry (director). *La escarlata y el negro*. CBS, 1983.
 - Wyler, William (director). *Ben-Hur*. MGM, 1959.
 
-### Obras previas del autor
-
-- Gaitan, Oscar. [¿Necesita el tiempo, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.15302684>
-- Gaitan, Oscar. [Desplazando a Dios](/academic-profile/2026/05/09/desplazando-a-dios/) Zenodo, 2026.
-- Gaitan, Oscar. El cero devuelto: una lectura ontológica de la estructura decimal. Zenodo, 2026. <https://doi.org/10.5281/zenodo.19893877>
-- Gaitan, Oscar. El interior infinito: sobre el espacio, el cambio y la integridad del yo. Zenodo, 2026. <https://doi.org/10.5281/zenodo.20032817>
-- Gaitan, Oscar. [Carta a un ateo.](/academic-profile/2026/05/08/against-you-alone/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.19870600>
-- Gaitan, Oscar. El AM que permanece: una crítica de Descartes y una metafísica del alma. Zenodo, 2026.
-- Gaitan, Oscar. [La topología de la presencia: cuatro planos de existencia en la lemniscata.](/academic-profile/2026/03/20/lemniscate-of-time/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.19684052>
-- Gaitan, Oscar. La lemniscata alterna: sobre la geometría del desplazamiento. Zenodo, 2026.
-- Gaitan, Oscar. La serpiente, el yo y el colapso del 'yo'. Zenodo, 2026.
-- Gaitan, Oscar. Das Man y la primera persona del singular. Zenodo, 2026.
-- Gaitan, Oscar. Dos significados del 'es': el horizonte de Heidegger y el punto de cruce. Zenodo, 2026.
-- Gaitan, Oscar. El 'es' y el SOY: presencia, identidad y el fundamento que sostiene. Zenodo, 2026.
-- Gaitan, Oscar. ¿Dónde está Dios? El sufrimiento, el momento presente y el fundamento que no interviene. Zenodo, 2026.
-
 ---
 
 *Ver también:*

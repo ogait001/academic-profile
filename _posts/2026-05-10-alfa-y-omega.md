@@ -14,7 +14,9 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha
 
 ---
 
-**Nota sobre el método:** Este ensayo opera como metafísica especulativa, no como filosofía analítica ni como ciencia empírica. Procede por analogía estructural y lectura ontológica, no por deducción estricta ni demostración física. Donde las afirmaciones tocan la física o las matemáticas, se enmarcan explícitamente como interpretaciones metafísicas y no como conclusiones científicas. El argumento avanza por resonancia entre dominios — cosmológico, teológico, matemático — e invita al lector a evaluar la coherencia del marco en su conjunto, no el estatus demostrativo de cada afirmación individual. La coherencia es el estándar que se ofrece, no la demostración. Un marco coherente no establece así la ontología — ese costo se acepta, y el marco se sostiene o cae como propuesta estructural.
+## Nota sobre el método
+
+Este ensayo opera como metafísica especulativa, no como filosofía analítica ni como ciencia empírica. Procede por analogía estructural y lectura ontológica, no por deducción estricta ni demostración física. Donde las afirmaciones tocan la física o las matemáticas, se enmarcan explícitamente como interpretaciones metafísicas y no como conclusiones científicas. El argumento avanza por resonancia entre dominios — cosmológico, teológico, matemático — e invita al lector a evaluar la coherencia del marco en su conjunto, no el estatus demostrativo de cada afirmación individual. La coherencia es el estándar que se ofrece, no la demostración. Un marco coherente no establece así la ontología — ese costo se acepta, y el marco se sostiene o cae como propuesta estructural.
 
 ---
 

@@ -237,6 +237,6 @@ The gift is already as large as it needs to be. It is exactly the size of the No
 
 *Further reading in this research program:*
 
-- [Does Time Need Me, or Do I Need Time?](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html) — on the invariance    of presence, the ontology of the Now, and the being that sustains temporal existence
+- [Does Time Need Me, or Do I Need Time?](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html) — on the invariant Now, the ontology of the Now, and the being that sustains temporal existence
 - [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html) — on the multitude and the displacement of the self from the now
 - [The Artificial Selection](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html) — on endurance, identity, and the engineering of an uninhabited now

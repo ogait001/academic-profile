@@ -153,16 +153,15 @@ The room is full. The door is open. And we do not even miss the silence, because
 
 ---
 
-## Related Essays
+## Further reading in this research program:
 
 - [The Lemniscate of Time](/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html) — the crossing-point as the only coordinate where the subject genuinely exists
 - [De-Roling God](/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html) — on the multitude and the displacement of the self from the now
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — on the God who holds both ends of the cosmos
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — on judgment, the soul's self-witness, and the two responses that remain
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — on endurance, identity, and the engineering of an uninhabited now
-- [One Day](/academic-profile/2026/04/08/one-day/) — on the fullness of existence available in the finite space of the present
-- [On Happiness](/academic-profile/2026/05/12/on-happiness/) — on its duration, its name, and what endures
+- [Alpha and Omega](/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html) — on the God who holds both ends of the cosmos
+- [Against You Alone](catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html) — on judgment, the soul's self-witness, and the two responses that remain
+- [The Artificial Selection](/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html) — on endurance, identity, and the engineering of an uninhabited now
+- [One Day](/philosophy-of-time/ontology/catholic-theology/2026/04/08/one-day-the-opportunity-that-never-arrives.html) — on the fullness of existence available in the finite space of the present
+- [On Happiness](/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html) — on its duration, its name, and what endures
 
 ---
 
-*© Oscar Gaitan, 2026. Published under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). For commercial use or special permissions, contact the author.*

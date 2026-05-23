@@ -175,12 +175,3 @@ None of them invented the crossing point.
 - Cantor, G. *Contributions to the Founding of the Theory of Transfinite Numbers.* Dover, 1955.
 - Dehaene, S. *The Number Sense.* Oxford University Press, 1997.
 
-**Related Works by the Author**
-- Gaitan, Oscar. *One Day: The Opportunity That Never Arrives.* [Read on this site](/academic-profile/2026/04/08/one-day-the-opportunity-that-never-arrives/)
-- Gaitan, Oscar. *De-Roling God.* [Read on this site](/academic-profile/2026/05/09/de-roling-god/)
-- Gaitan, Oscar. *Against You Alone.* [Read on this site](/academic-profile/2026/05/08/against-you-alone/)
-- Gaitan, Oscar. *Does Time Need Me, or Do I Need Time?* Zenodo. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-
----
-
-**Cite this work:** Gaitan, O. (2026). *Alpha and Omega: On the Cosmos, the Now, and the God Who Holds Both Ends.* Zenodo.

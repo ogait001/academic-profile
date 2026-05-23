@@ -163,5 +163,3 @@ The room is full. The door is open. And we do not even miss the silence, because
 - [One Day](/philosophy-of-time/ontology/catholic-theology/2026/04/08/one-day-the-opportunity-that-never-arrives.html) — on the fullness of existence available in the finite space of the present
 - [On Happiness](/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html) — on its duration, its name, and what endures
 
----
-

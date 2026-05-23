@@ -164,8 +164,10 @@ Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducci
 
 ## Lecturas complementarias en este programa de investigación:
 
-- [Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora](/catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html) 
-- [Alfa y Omega: Sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos](/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html) 
-- [Solo Contra Ti: Sobre el Juicio, el Alma como Testigo de Sí Misma, y las Dos Respuestas que Permanecen](/catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html) 
-- [Sobre la Felicidad: Su Duración, Su Nombre, y Lo Que Perdura](/catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html) 
-- [La Selección Artificial: Sobre la Perduración, la Identidad y la Ingeniería de un Ahora Deshabitado](/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html) 
+- [La Lemniscata del Tiempo](/philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html) — el punto de cruce como la unica coordenada donde el sujeto existe genuinamente
+- [Desplazando a Dios](/catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html) — sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora
+- [Alfa y Omega](/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html) — sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos
+- [Solo Contra Ti](/catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html) — dobre el juicio, el alma como testigo de sí Misma, y las dos respuestas que permanecen
+- - [La Selección Artificial](/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html)  — sobre la perduración, la identidad y la ingeniería de un Ahora deshabitado
+- [Un Dia](/philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html) — sobre la plenitud de la existencia disponible en el espacio finito del presente
+- [Sobre la Felicidad](/catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html)  — su duración, du nombre, y lo que perdura

@@ -12,7 +12,7 @@ pdf_url: "https://zenodo.org/records/20112452/files/alpha-and-omega.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html
 ---
 
-*From the Gaitan Topology*
+
 
 ---
 

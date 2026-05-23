@@ -162,10 +162,10 @@ Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducci
 
 ---
 
-## Publicaciones Relacionadas
+## Lecturas complementarias en este programa de investigación:
 
-- [Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora](/academic-profile/2026/05/09/desplazando-a-dios/) (9 de mayo de 2026)
-- [Alfa y Omega: Sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos](/academic-profile/2026/05/10/alfa-y-omega/) (10 de mayo de 2026)
-- [Solo Contra Ti: Sobre el Juicio, el Alma como Testigo de Sí Misma, y las Dos Respuestas que Permanecen](/academic-profile/2026/05/08/solo-contra-ti/) (8 de mayo de 2026)
-- [Sobre la Felicidad: Su Duración, Su Nombre, y Lo Que Perdura](/academic-profile/2026/05/12/sobre-la-felicidad/) (12 de mayo de 2026)
-- [La Selección Artificial: Sobre la Perduración, la Identidad y la Ingeniería de un Ahora Deshabitado](/academic-profile/2026/04/01/la-seleccion-artificial/) (1 de abril de 2026)
+- [Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora](/catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html) 
+- [Alfa y Omega: Sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos](/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html) 
+- [Solo Contra Ti: Sobre el Juicio, el Alma como Testigo de Sí Misma, y las Dos Respuestas que Permanecen](/catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html) 
+- [Sobre la Felicidad: Su Duración, Su Nombre, y Lo Que Perdura](/catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html) 
+- [La Selección Artificial: Sobre la Perduración, la Identidad y la Ingeniería de un Ahora Deshabitado](/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html) 

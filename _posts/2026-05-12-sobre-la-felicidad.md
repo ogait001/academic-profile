@@ -219,18 +219,6 @@ Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
 
 Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 
-**Obras Anteriores del Autor**
-
-Gaitan, Oscar. [*¿Necesito yo al tiempo, o necesita el tiempo de mí?*](/academic-profile/2026/04/01/necesito-yo-al-tiempo/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-
-Gaitan, Oscar. *The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul.* Zenodo, 2026.
-
-Gaitan, Oscar. [*La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata.*](/academic-profile/2026/03/31/la-topologia-de-la-presencia/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19684052](https://doi.org/10.5281/zenodo.19684052)
-
-Gaitan, Oscar. *De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now.* Zenodo, 2026.
-
-Gaitan, Oscar. *The Infinite Interior: On Space, Change, and the Integrity of the Self.* Zenodo, 2026. [https://doi.org/10.5281/zenodo.20032817](https://doi.org/10.5281/zenodo.20032817)
-
 ---
 
 **Ensayos relacionados:**
@@ -242,6 +230,3 @@ Gaitan, Oscar. *The Infinite Interior: On Space, Change, and the Integrity of th
 
 ---
 
-*Oscar Gaitan · Los Angeles, 12 de mayo de 2026*
-
-CC BY-NC 4.0

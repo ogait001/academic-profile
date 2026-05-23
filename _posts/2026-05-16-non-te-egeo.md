@@ -155,7 +155,7 @@ The room is full. The door is open. And we do not even miss the silence, because
 
 ## Related Essays
 
-- [The Lemniscate of Time](/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html) — the crossing-point as the only coordinate where the subject genuinely exists
+- [The Lemniscate of Time](/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html) — the crossing-point as the only coordinate where the subject genuinely exists
 - [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — on the multitude and the displacement of the self from the now
 - [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — on the God who holds both ends of the cosmos
 - [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — on judgment, the soul's self-witness, and the two responses that remain

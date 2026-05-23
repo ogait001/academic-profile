@@ -132,15 +132,4 @@ Jesus asked Legion for a name. The algorithm asks only for activity, not identit
 - Han, Byung-Chul. *In the Swarm: Digital Prospects.* Translated by Erik Butler. Cambridge, MA: MIT Press, 2017.
 - Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 - McLuhan, Marshall. *Understanding Media: The Extensions of Man.* Cambridge, MA: MIT Press, 1994.
-- Gaitan, Oscar. *The Mercy of Time.* 2026.
-- Gaitan, Oscar. *The Alternate Lemniscate.* 2026.
 
-*Oscar Gaitan writes on philosophical theology, temporality, and metaphysical anthropology. He is the author of* The Mercy of Time *and* The Alternate Lemniscate.
-
-*Further reading in this research program:*
-
-- [The Mercy of Time](https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html)
-- [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
-- [The Artificial Selection](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html)
-- [The Lemniscate of Time](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html)
-- [Alpha and Omega](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html)

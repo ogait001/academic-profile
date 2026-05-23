@@ -168,6 +168,6 @@ Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducci
 - [Desplazando a Dios](/catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html) — sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora
 - [Alfa y Omega](/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html) — sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos
 - [Solo Contra Ti](/catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html) — sobre el juicio, el alma como testigo de sí Misma, y las dos respuestas que permanecen
-- [La Selección Artificial](/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html)  — sobre la perduración, la identidad y la ingeniería de un Ahora deshabitado
+- [La Selección Artificial](ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html)  — sobre la perduración, la identidad y la ingeniería de un Ahora deshabitado
 - [Un Dia](/philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html) — sobre la plenitud de la existencia disponible en el espacio finito del presente
 - [Sobre la Felicidad](/catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html)  — su duración, su nombre, y lo que perdura

@@ -12,8 +12,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369064"
 ---
 
 *Pentecost Sunday*
+
 *Mary Help of Christians*
+
 *They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.*
+
 -- Acts 1:14
 
 

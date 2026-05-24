@@ -5,7 +5,7 @@ date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]
 lang: es
-excerpt: "«Una meditación sobre el cero, el uno y el fundamento invisible que sostiene la identidad a través de los umbrales del devenir."
+excerpt: "Una meditación sobre el cero, el uno y el fundamento invisible que sostiene la identidad a través de los umbrales del devenir."
 doi: "10.5281/zenodo.20369087"
 record_url: "https://zenodo.org/records/20369087"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369087"

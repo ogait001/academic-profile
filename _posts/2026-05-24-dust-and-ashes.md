@@ -6,9 +6,9 @@ categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]
 lang: en
 excerpt: "A meditation on zero, one, and the unseen ground that carries identity across the thresholds of becoming."
-doi: "10.5281/zenodo.20330645"
-record_url: "https://zenodo.org/records/20330645"
-pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
+doi: "10.5281/zenodo.20369064"
+record_url: "https://zenodo.org/records/20369064"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369064"
 ---
 
 *Pentecost Sunday*

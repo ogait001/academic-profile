@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Donde Vive la Misericordia: Volviendo en si"
+title: "Donde Vive la Misericordia: Volviendo en sí"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, grace, mercy, reconciliation, prodigal-son, three-moments]

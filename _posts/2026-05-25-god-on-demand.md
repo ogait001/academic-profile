@@ -5,7 +5,7 @@ date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, das-man, uninhabited-now, ghost-zone, sacred, liturgy, tabernacle, platform, simulation, accessus]
 lang: en
-excerpt: "A theological critique of sacred displacement, digital mediation, and the erosion of embodied encounter in contemporary Christian practice."
+excerpt: "When tabernacles move and screens replace pilgrimage, sacred presence risks becoming representation rather than embodied encounter."
 doi: "10.5281/zenodo.20385839"
 record_url: "https://zenodo.org/records/20385839"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385839"

@@ -5,7 +5,7 @@ date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, das-man, uninhabited-now, ghost-zone, sacred, liturgy, tabernacle, platform, simulation, accessus]
 lang: es
-excerpt: "La simulacion de un encuentro suprime la busqueda del encuentro real. Donde a un alma se le ofrece una representacion de lo que necesita, la representacion puede saciar el hambre que habria llevado al alma hacia la cosa real. Este ensayo diagnostica el desorden estructural por el cual la Iglesia ha confundido, en ciertos dominios, el acceso con el accessus -- y propone la recuperacion que solo la Iglesia puede hacer."
+excerpt: "Una crítica teológica del desplazamiento de lo sagrado, la mediación digital y la erosión del encuentro religioso encarnado."
 doi: "10.5281/zenodo.20385891"
 record_url: "https://zenodo.org/records/20385891"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385891"

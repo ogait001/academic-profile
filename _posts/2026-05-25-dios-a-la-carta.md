@@ -5,11 +5,11 @@ date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, das-man, uninhabited-now, ghost-zone, sacred, liturgy, tabernacle, platform, simulation, accessus]
 lang: es
-excerpt: "Una crítica teológica del desplazamiento de lo sagrado, la mediación digital y la erosión del encuentro religioso encarnado."
+excerpt: "Cuando el tabernáculo se desplaza y la pantalla reemplaza la peregrinación, la presencia sagrada corre el riesgo de volverse representación."
 doi: "10.5281/zenodo.20385891"
 record_url: "https://zenodo.org/records/20385891"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385891"
-translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/god-on-demand.html#references"
+translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/god-on-demand.html"
 ---
 
 > "Alli donde el tabernáculo deja de ser el centro, la Santa Misa adopta la forma de un circulo druidico: el celebrante se convierte, por estructura, en un shaman ritual, y no en ministro del Santisimo Sacramento."

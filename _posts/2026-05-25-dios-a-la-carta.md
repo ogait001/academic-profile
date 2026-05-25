@@ -9,7 +9,7 @@ excerpt: "Cuando el tabernáculo se desplaza y la pantalla reemplaza la peregrin
 doi: "10.5281/zenodo.20385891"
 record_url: "https://zenodo.org/records/20385891"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385891"
-translation_url: ""
+translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/god-on-demand.html"
 ---
 
 > "Alli donde el tabernáculo deja de ser el centro, la Santa Misa adopta la forma de un circulo druidico: el celebrante se convierte, por estructura, en un shaman ritual, y no en ministro del Santisimo Sacramento."

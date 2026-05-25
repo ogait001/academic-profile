@@ -9,6 +9,7 @@ excerpt: "A theological critique of sacred displacement, digital mediation, and 
 doi: "10.5281/zenodo.20385839"
 record_url: "https://zenodo.org/records/20385839"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385839"
+translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/dios-a-la-carta.html"
 ---
 
 > "Where the tabernacle ceases to be the center, the Holy Mass takes on the form of a druidic circle: the celebrant becomes -- by structure -- a ritual shaman rather than a minister of the Most Blessed Sacrament."

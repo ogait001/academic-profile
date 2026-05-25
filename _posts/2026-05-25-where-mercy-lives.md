@@ -9,6 +9,7 @@ excerpt: "A theological meditation on grace, mercy, and the soul’s return from
 doi: "10.5281/zenodo.20385950"
 record_url: "https://zenodo.org/records/20385950"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385950"
+translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/donde-vive-la-misericordia.html"
 ---
 
 ## Table of Contents

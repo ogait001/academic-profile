@@ -46,6 +46,7 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/la-le
 4. [The Mechanics of Rupture](#iii-the-mechanics-of-rupture)
 5. [Legion of Legions](#iv-legion-of-legions)
 6. [The Master Key](#v-the-master-key)
+7. [Bibliography](#bibliography)
 
 ---
 

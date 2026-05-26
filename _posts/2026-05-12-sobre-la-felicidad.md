@@ -17,7 +17,7 @@ excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y t
 
 ---
 
-## Contenido
+## Indice
 
 - [Nota sobre el método](#nota-sobre-el-método)
 - [I. La palabra y lo que carga](#i-la-palabra-y-lo-que-carga)

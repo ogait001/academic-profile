@@ -371,9 +371,3 @@ Y está esperando — con una paciencia que el sistema no puede calcular y que e
 - Lutero, Martín. *Lecciones sobre Romanos*. 1515–1516. (Fuente de la frase *incurvatus in se*, derivada de la teología agustiniana.)
 
 
-
-
-*Ver también:*
-- [¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene](/academic-profile/2026/05/05/donde-esta-dios/) — el mismo fundamento no-derivado leído desde el problema del sufrimiento
-- [¿Dónde termina el tiempo?](/academic-profile/2026/04/01/donde-termina-el-tiempo/) — los estados finales como modos permanentes de orientación en el punto de cruce
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico de bucles, punto de cruce y fundamento

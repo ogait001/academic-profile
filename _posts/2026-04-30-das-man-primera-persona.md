@@ -12,11 +12,27 @@ pdf_url: "https://zenodo.org/records/19685712/files/das-man-y-la-primera-persona
 translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html
 ---
 
+## Indice
+
+- [Resumen](#resumen)
+- [Nota sobre la relacion con trabajos anteriores](#nota-sobre-la-relacion-con-trabajos-anteriores)
+- [I. La gramática del anónimo](#i-la-gramática-del-anónimo)
+- [II. El traje nuevo del emperador](#ii-el-traje-nuevo-del-emperador)
+- [III. Fuenteovejuna — La contraimagen](#iii-fuenteovejuna--la-contraimagen)
+- [IV. El yo útil: Gregor Samsa](#iv-el-yo-útil-gregor-samsa)
+- [V. La máquina anónima](#v-la-máquina-anónima)
+- [VI. El yo en órbita: Jenny Curran](#vi-el-yo-en-órbita-jenny-curran)
+- [VII. Los dos se hacen uno / Legión](#vii-los-dos-se-hacen-uno--legión)
+- [VIII. El retorno de la primera persona del singular](#viii-el-retorno-de-la-primera-persona-del-singular)
+- [Referencias](#references)
+
+---
+
 **Resumen:** Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.
 
 ---
 
-**Nota sobre la relación con trabajos anteriores:** Los ensayos que preceden a este — *The Topology of Presence*, *The Lemniscate of Time*, *The Alternate Lemniscate*, *The Serpent, the Self, and the Collapse of the "I"*, *One Day* y *You Cannot Add One Hour* — desarrollaron el vocabulario que este ensayo presupone: el lemniscata, el punto de cruce, la Zona Fantasma, la curva de la serpiente, los centros falsos y Legión. Un lector no familiarizado con esas obras puede seguir el argumento presente, aunque algunas de sus referencias estructurales más profundas podrían perderse.
+**Nota sobre la relación con trabajos anteriores:** Los ensayos que preceden a este desarrollaron el vocabulario que este ensayo presupone: el lemniscata, el punto de cruce, la Zona Fantasma, la curva de la serpiente, los centros falsos y Legión. Un lector no familiarizado con esas obras puede seguir el argumento presente, aunque algunas de sus referencias estructurales más profundas podrían perderse.
 
 Lo que este ensayo añade no es una continuación de la serie sino un movimiento lateral: un encuentro con el concepto de *Das Man* de Martin Heidegger como mecanismo social por el que el desplazamiento se normaliza, se refuerza y se vuelve invisible. Los ensayos anteriores trazaron el desplazamiento dentro del individuo — a través del tiempo, el hábito, la adicción, la mimética y el aplazamiento. Este lo traza dentro del campo social: la multitud anónima, la ilusión colectiva y las frágiles condiciones de la comunión auténtica.
 
@@ -24,18 +40,7 @@ Las figuras empleadas aquí — Hans Christian Andersen, Lope de Vega, Franz Kaf
 
 ---
 
-## Índice
 
-1. [La gramática del anónimo](#i-la-gramática-del-anónimo)
-2. [El traje nuevo del emperador](#ii-el-traje-nuevo-del-emperador)
-3. [Fuenteovejuna — La contraimagen](#iii-fuenteovejuna--la-contraimagen)
-4. [El yo útil: Gregor Samsa](#iv-el-yo-útil-gregor-samsa)
-5. [La máquina anónima](#v-la-máquina-anónima)
-6. [El yo en órbita: Jenny Curran](#vi-el-yo-en-órbita-jenny-curran)
-7. [Los dos se hacen uno / Legión](#vii-los-dos-se-hacen-uno--legión)
-8. [El retorno de la primera persona del singular](#viii-el-retorno-de-la-primera-persona-del-singular)
-
----
 
 ## I. La gramática del anónimo
 
@@ -188,39 +193,18 @@ La primera persona del singular es la condición mínima de toda forma de vida h
 ## Referencias
 
 **Sagrada Escritura**
-
 - Génesis 2:24 — la fórmula de la alianza del hacerse una sola carne; el requisito ontológico de la comunión genuina.
 - Génesis 3:1–7 — la tentación de la Serpiente como gramática primordial del desplazamiento; el futuro subjuntivo contra el presente indicativo.
 - Marcos 5:1–20 — el endemoniado de Gerasa; Legión; el hombre restaurado en su sano juicio. Central en las secciones VII y VIII.
-
 **Fuentes literarias y filosóficas**
-
 - Andersen, Hans Christian. "El traje nuevo del emperador." En *Cuentos contados para niños* [*Eventyr, fortalte for Børn*]. Copenhague: C.A. Reitzel, 1837.
 - Heidegger, Martin. *Ser y tiempo* [*Sein und Zeit*]. Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962. Publicado originalmente en 1927.
 - Kafka, Franz. *La metamorfosis* [*Die Verwandlung*]. Traducción de Stanley Corngold. Nueva York: Bantam, 1972. Publicado originalmente en 1915.
 - Vega, Lope de. *Fuente Ovejuna.* h. 1612–1614.
-
 **Referencias cinematográficas**
-
 - London, Jerry (Director). (1983). *La sotana roja* [*The Scarlet and the Black*] [Película]. CBS.
 - Zemeckis, Robert (Director). (1994). *Forrest Gump* [Película]. Paramount Pictures.
-
 **Referencia histórica**
-
 - Kappler, Herbert. SS-Obersturmbannführer; jefe de la Policía de Seguridad alemana en Roma, 1942–1944. Responsable de la masacre de las Fosas Ardeatinas (24 de marzo de 1944).
 
-**Trabajos anteriores del autor en la serie**
 
-- Oscar Gaitan. *The Topology of Presence: Four Planes of Existence on the Lemniscate.* Zenodo, 2026. [https://doi.org/10.5281/zenodo.19684052](https://doi.org/10.5281/zenodo.19684052)
-- Oscar Gaitan. *Dos significados del 'es': El horizonte de Heidegger y el punto de cruce.* Zenodo, 2026. [https://doi.org/10.5281/zenodo.19684135](https://doi.org/10.5281/zenodo.19684135)
-- Oscar Gaitan. [The Lemniscate of Time.](/academic-profile/2026/03/20/the-lemniscate-of-time/) Zenodo, 2026.
-- Oscar Gaitan. [You Cannot Add One Hour.](/academic-profile/2026/04/20/you-cannot-add-one-hour/) Zenodo, 2026.
-
----
-
-*Ensayos relacionados:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — El marco fundacional
-- [You Cannot Add One Hour](/academic-profile/2026/04/20/you-cannot-add-one-hour/) — Densidad temporal, la formación de la voluntad y la finitud del cruce
-- [Where Are You?](/academic-profile/2026/04/12/where-are-you/) — La geometría de la voluntad en el punto de cruce
-- [Why the Center Does Not Run Out](/academic-profile/2026/04/08/why-the-center-does-not-run-out/) — La esperanza, la sed y la fuente que no se agota
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — Sobre la identidad, la perduración y el Ahora deshabitado

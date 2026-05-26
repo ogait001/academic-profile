@@ -144,27 +144,18 @@ Agustín de Hipona. *La Trinidad (De Trinitate).* Traducción de Edmund Hill, O.
 
 ### Fuentes Teológicas
 
-de Lubac, Henri. *El misterio de lo sobrenatural (The Mystery of the Supernatural).* Traducción de Rosemary Sheed. Nueva York: Herder and Herder, 1967.
-
-de Lubac, Henri. *Surnaturel: Études historiques.* París: Aubier, 1946.
-
-Rahner, Karl. *Espíritu en el mundo (Spirit in the World / Geist in Welt).* Traducción de William Dych. Nueva York: Herder and Herder, 1968.
-
-Rahner, Karl. *Fundamentos de la fe cristiana (Foundations of Christian Faith).* Traducción de William Dych. Nueva York: Crossroad, 1978.
-
-Rahner, Karl. "La teología de la muerte" (*The Theology of Death*). En *On the Theology of Death.* Traducción de Charles H. Henkey. Nueva York: Herder and Herder, 1961.
-
-Ratzinger, Joseph (Benedicto XVI). *Escatología: muerte y vida eterna (Eschatology: Death and Eternal Life).* Traducción de Michael Waldstein. Washington, DC: Catholic University of America Press, 1988.
-
-Gregorio de Nisa. *Sobre el alma y la resurrección (On the Soul and the Resurrection).* Traducción de Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
+- de Lubac, Henri. *El misterio de lo sobrenatural (The Mystery of the Supernatural).* Traducción de Rosemary Sheed. Nueva York: Herder and Herder, 1967.
+- de Lubac, Henri. *Surnaturel: Études historiques.* París: Aubier, 1946.
+- Rahner, Karl. *Espíritu en el mundo (Spirit in the World / Geist in Welt).* Traducción de William Dych. Nueva York: Herder and Herder, 1968.
+- Rahner, Karl. *Fundamentos de la fe cristiana (Foundations of Christian Faith).* Traducción de William Dych. Nueva York: Crossroad, 1978.
+- Rahner, Karl. "La teología de la muerte" (*The Theology of Death*). En *On the Theology of Death.* Traducción de Charles H. Henkey. Nueva York: Herder and Herder, 1961.
+- Ratzinger, Joseph (Benedicto XVI). *Escatología: muerte y vida eterna (Eschatology: Death and Eternal Life).* Traducción de Michael Waldstein. Washington, DC:       Catholic University of America Press, 1988.
+- Gregorio de Nisa. *Sobre el alma y la resurrección (On the Soul and the Resurrection).* Traducción de Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
 
 ### Fuentes Filosóficas
 
-Aristóteles. *Ética a Nicómaco (Nicomachean Ethics).* Traducción de Terence Irwin. Indianapolis: Hackett Publishing, 1999.
-
-Aristóteles. *De Anima (Sobre el alma).* Traducción de Christopher Shields. Oxford: Clarendon Press, 2016.
-
-Boecio. *La consolación de la filosofía (The Consolation of Philosophy).* Traducción de Victor Watts. Londres: Penguin Classics, 1999.
-
-Heidegger, Martin. *Ser y tiempo (Being and Time / Sein und Zeit).* Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
+- Aristóteles. *Ética a Nicómaco (Nicomachean Ethics).* Traducción de Terence Irwin. Indianapolis: Hackett Publishing, 1999.
+- Aristóteles. *De Anima (Sobre el alma).* Traducción de Christopher Shields. Oxford: Clarendon Press, 2016.
+- Boecio. *La consolación de la filosofía (The Consolation of Philosophy).* Traducción de Victor Watts. Londres: Penguin Classics, 1999.
+- Heidegger, Martin. *Ser y tiempo (Being and Time / Sein und Zeit).* Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 

@@ -19,15 +19,15 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 ## Table of Contents
 
 - [Abstract](#abstract)
-- [The Assumption Inside the Question](#i-the-assumption-inside-the-question)
-- [What the Now Is](#ii-what-the-now-is)
-- [What Sustains the Now](#iii-what-sustains-the-now)
-- [Good and Evil at the Same Crossing Point](#iv-good-and-evil-at-the-same-crossing-point)
-- [The Cry from the Cross](#v-the-cry-from-the-cross)
-- [Four Kinds of Suffering, Four Different Roots](#vi-four-kinds-of-suffering-four-different-roots)
-- [The Contingent Chain](#vii-the-contingent-chain)
-- [The Self-Refuting Objection](#viii-the-self-refuting-objection)
-- [Where Is God?](#ix-where-is-god)
+- [I. The Assumption Inside the Question](#i-the-assumption-inside-the-question)
+- [II. What the Now Is](#ii-what-the-now-is)
+- [III. What Sustains the Now](#iii-what-sustains-the-now)
+- [IV. Good and Evil at the Same Crossing Point](#iv-good-and-evil-at-the-same-crossing-point)
+- [V. The Cry from the Cross](#v-the-cry-from-the-cross)
+- [VI. Four Kinds of Suffering, Four Different Roots](#vi-four-kinds-of-suffering-four-different-roots)
+- [VII. The Contingent Chain](#vii-the-contingent-chain)
+- [VIII. The Self-Refuting Objection](#viii-the-self-refuting-objection)
+- [IX. Where Is God?](#ix-where-is-god)
 - [References](#references)
 
 ---

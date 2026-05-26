@@ -20,6 +20,7 @@ translation_url: /ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior
 
 ## Table of Contents
 
+- [Abstract](#abstract)
 - [I. The Problem of Change](#i-the-problem-of-change)
 - [II. Space as Condition, Not Container](#ii-space-as-condition-not-container)
 - [III. The Infinite Interior](#iii-the-infinite-interior)
@@ -31,6 +32,8 @@ translation_url: /ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior
 - [References](#references)
 
 ---
+
+## Abstract
 
 Space is not the container of change. It is the condition of it. Without distance there is no transition. Without transition there is no time. And without the infinite recursive distance that exists between every two states of a self, there would be no self — only a series of replacements, each one erasing what came before. The self persists because the distance it must cross is inexhaustible.
 
@@ -216,17 +219,4 @@ Plutarch. *Life of Theseus*. Translated by John Dryden. Modern Library, 2001.
 
 Thomas Aquinas. *Summa Theologiae*. Translated by the Fathers of the English Dominican Province. Benziger Bros., 1947.
 
----
 
-*Note on Sources and Method: Oscar Gaitan develops this framework as part of a broader topology of time, change, and identity in which the self is the irreducible ontological unit — preserved through change not by resistance but by the continuous infinite interior that every genuine transition necessarily requires. This essay is the third in a sequence that includes [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) and [Zero Returned: An Ontological Reading of Decimal Structure](/academic-profile/2026/04/08/zero-returned/). The philosophical references — Bergson, Hume, Deleuze, Aristotle, Aquinas — are not sources for the argument but interlocutors whose proximity to the problem clarifies what this proposition is claiming and what it is not. The argument stands or falls on its own structural coherence.*
-
----
-
-### Related Essays
-
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework of cyclical return and crossing-point topology
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — On civilizational replacement versus genuine transformation
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On the self-sustaining ground of the Now
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — On moral interiority and the irreducible witness
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — On divine presence and the structure of genuine relation
-- [One Day](/academic-profile/2026/04/08/one-day/) — On the inhabited Now and temporal presence

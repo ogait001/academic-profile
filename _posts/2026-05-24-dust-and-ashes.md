@@ -158,10 +158,8 @@ To count is already to believe in what one has not seen. To rise from nine to te
 
 - Ifrah, Georges. *The Universal History of Numbers: From Prehistory to the Invention of the Computer.* Translated by David Bellos et al. London: Harvill Press, 1998.
 *(Excellent for numeral systems, zero, and historical notation development.)*
-
 - Menninger, Karl. *Number Words and Number Symbols: A Cultural History of Numbers.* Translated by Paul Broneer. New York: Dover Publications, 1992.
 *(Strong support for positional notation history.)*
-
 - Cajori, Florian. *A History of Mathematical Notations.* 2 vols. New York: Dover Publications, 1993.
 *(Classic historical reference for notation systems.)*
 
@@ -169,10 +167,8 @@ To count is already to believe in what one has not seen. To rise from nine to te
 
 - Aristotle. *Metaphysics.* Translated by Joe Sachs. Santa Fe: Green Lion Press, 1999.
 *(For being, substance, form, identity.)*
-
 - Aristotle. *De Anima (On the Soul).* Translated by Christopher Shields. Oxford: Clarendon Press, 2016.
 *(For soul, form, animation, and the structure of the self.)*
-
 - Boethius. *The Consolation of Philosophy.* Translated by Victor Watts. London: Penguin Classics, 1999.
 *(For time, eternity, continuity, metaphysical dependence.)*
 
@@ -180,7 +176,6 @@ To count is already to believe in what one has not seen. To rise from nine to te
 
 - Husserl, Edmund. *Philosophy of Arithmetic.* Translated by Dallas Willard. Dordrecht: Springer, 2003.
 *(Important because your method resembles phenomenological disclosure through formal structures.)*
-
 - Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 *(For ontology, temporality, and phenomenological structural analysis.)*
 
@@ -188,10 +183,8 @@ To count is already to believe in what one has not seen. To rise from nine to te
 
 - Augustine of Hippo. *Confessions.* Translated by Henry Chadwick. Oxford: Oxford University Press, 1991.
 *(Creaturely dependence and metaphysical interiority.)*
-
 - Augustine of Hippo. *The Trinity (De Trinitate).* Translated by Edmund Hill, O.P. Hyde Park, NY: New City Press, 1991.
-
 - Gregory of Nyssa. *On the Soul and the Resurrection.* Translated by Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
-
 - Aquinas, Thomas. *Summa Theologiae.* Translated by the Fathers of the English Dominican Province. Westminster, MD: Christian Classics, 1981.
+
 

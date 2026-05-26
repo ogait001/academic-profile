@@ -16,7 +16,7 @@ lang: es
 > Nel mezzo del cammin di nostra vita  
 > mi ritrovai per una selva oscura,  
 > ché la diritta via era smarrita.  
-> — Dante Alighieri, *Divina Commedia*, Inferno, I, 1–3.
+> — Dante Alighieri, *La Divina Commedia*, Inferno, I, 1–3.
 
 *Escrito en el Segundo Domingo de Pascua — Domingo de la Divina Misericordia.*
 
@@ -284,13 +284,3 @@ La pregunta es solo si estás mirando hacia ella.
 - Catecismo de la Iglesia Católica. CCC 633, 637, 1026–1029, 1992–2001.
 - Dante Alighieri. *Divina Commedia*. Inferno, Canto I.
 
-### Obras previas del autor
-
-- Gaitan, Oscar. [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.15302684>
-
----
-
-*Ver también:*
-- [¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene](/academic-profile/2026/05/05/donde-esta-dios/) — el argumento ontológico del que depende este ensayo
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico (lemniscata, punto de cruce, bucles de memoria y anticipación)
-- [Desplazando a Dios](/academic-profile/2026/05/09/desplazando-a-dios/) — el mismo punto de cruce en el registro civilizacional

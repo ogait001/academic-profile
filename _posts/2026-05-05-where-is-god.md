@@ -18,29 +18,26 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 
 ## Table of Contents
 
-1. [The Assumption Inside the Question](#i-the-assumption-inside-the-question)
-2. [What the Now Is](#ii-what-the-now-is)
-3. [What Sustains the Now](#iii-what-sustains-the-now)
-4. [Good and Evil at the Same Crossing Point](#iv-good-and-evil-at-the-same-crossing-point)
-5. [The Cry from the Cross](#v-the-cry-from-the-cross)
-6. [Four Kinds of Suffering, Four Different Roots](#vi-four-kinds-of-suffering-four-different-roots)
-7. [The Contingent Chain](#vii-the-contingent-chain)
-8. [The Self-Refuting Objection](#viii-the-self-refuting-objection)
-9. [Where Is God?](#ix-where-is-god)
+- [Abstract](#abstract)
+- [The Assumption Inside the Question](#i-the-assumption-inside-the-question)
+- [What the Now Is](#ii-what-the-now-is)
+- [What Sustains the Now](#iii-what-sustains-the-now)
+- [Good and Evil at the Same Crossing Point](#iv-good-and-evil-at-the-same-crossing-point)
+- [The Cry from the Cross](#v-the-cry-from-the-cross)
+- [Four Kinds of Suffering, Four Different Roots](#vi-four-kinds-of-suffering-four-different-roots)
+- [The Contingent Chain](#vii-the-contingent-chain)
+- [The Self-Refuting Objection](#viii-the-self-refuting-objection)
+- [Where Is God?](#ix-where-is-god)
+- [References](#references)
 
 ---
+
+## Abstract
 
 *This essay examines the question* Where is God? *not as a rhetorical challenge to be deflected but as a structural inquiry to be answered with precision. It argues that the question, as commonly posed, rests on a mistaken assumption: that God's presence should be visible as intervention within events. Once that assumption is examined, a different answer becomes available. God is not an agent within events. God is the sustaining ground of the present moment in which events occur. Without that ground, there is no moment to intervene in — no event that could occur, no freedom that could be exercised, no suffering that could be named. The question of where God is cannot be answered from within the assumption it presupposes. It must be answered from the structure of what the present moment is, and what it requires.*
 
 ---
 
----
-
-## Note on Sources and Method
-
-This essay is the fourth in a sequence of works that develops a broader topology of time, identity, and divine sustaining. The earlier works — [*Does Time Need Me, or Do I Need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html), [*Zero Returned*](https://oscargaitan.org/ontology/philosophy-of-time/2026/04/29/zero-returned.html), and [*The Infinite Interior*](https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html) — prepare the conceptual framework extended here into theological anthropology and the economy of salvation. — establish the ontological framework on which the present argument depends, extending it here into theological anthropology and the economy of salvation. The theological references — Augustine, Aquinas, Job, the Gospel of John, the Psalms, Exodus — are not authorities invoked to settle the argument but witnesses who have approached the same structural questions from within their own traditions. The argument stands or falls by its own structural coherence. The theological and philosophical references are cited as parallel witnesses, not as proofs. Analogies across domains — when used — are offered as illustrations of structure, not as assertions of identity between domains.
-
----
 
 ## I. The Assumption Inside the Question
 
@@ -187,21 +184,6 @@ Suffering is not the silence of God. It is what it sounds like when the Now is b
 - Darío, Rubén. *Lo Fatal.* Cantos de Vida y Esperanza. 1905.
 - Aquinas, Thomas. *Summa Theologiae.* I, Q.2–3; Q.44–45.
 - Augustine of Hippo. *Enchiridion on Faith, Hope, and Love.* Chapters III–IV.
-- Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-- Oscar Gaitan. Zero Returned: An Ontological Reading of Decimal Structure. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19893877](https://doi.org/10.5281/zenodo.19893877)
-- Oscar Gaitan. The Infinite Interior: On Space, Change, and the Integrity of the Self. Zenodo, 2026. [https://doi.org/10.5281/zenodo.20032817](https://doi.org/10.5281/zenodo.20032817)
 
----
 
-### Note on Sources and Method
 
-This essay is the fourth in a sequence of works developing a broader topology of time, identity, and divine sustaining. The prior works — *Does Time Need Me, or Do I Need Time?*, *Zero Returned*, and *The Infinite Interior* — establish the ontological framework on which the present argument depends. The theological references — Augustine, Aquinas, Job, the Gospel of John, the Psalms, Exodus — are not authorities cited to settle the argument but witnesses who have pressed closest to the same structural questions from within their own traditions. The argument stands or falls on its own structural coherence. Theological and philosophical references are cited as parallel witnesses, not as grounds of proof. Cross-domain analogies — where used — are offered as illustrations of structure, not as identity claims between domains.
-
----
-
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — The Now and its dependence
-- [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) — The geometry of the will at the Now
-- [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) — The three final states as permanent orientations of the will
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On Christ as the axis of all time

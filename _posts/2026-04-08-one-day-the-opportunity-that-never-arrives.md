@@ -12,7 +12,21 @@ pdf_url: "https://zenodo.org/records/19475956/files/one-day-the-opportunity-that
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html
 ---
 
-*From the Gaitan Topology — Part of The Ghost Zone Essay Series*
+---
+
+## Table of Contents
+
+- [I. "One Day"](#one-day)
+- [II. The Serpent's Manifestation](#the-serpent's-manifestation)
+- [III. The Two Evenings](#the-two-evenings)
+- [IV. The Audience That Never Arrives](#the-audience-that-never-arrives)
+- [V. The Geometry of Regret](#the-geometry-of-regret)
+- [VI. "It Was Not Meant To Be"](#it-was-not-meant-to-be)
+- [VII. The Heroic Illusion](#the-heroic-illusion)
+- [VIII. Two Poets, Two Witnesses](#two-poets-two-witnesses)
+- [IX. Two Characters, Two Geometries](#two-characters-two-geometries)
+- [X. The Sorrow That Absolution Does Not Erase](#the-sorrow-that-absolution-does-not-erase)
+- [References](#references)
 
 ---
 
@@ -178,10 +192,6 @@ By walking. Present tense. Now. The only moment that is complete in itself—not
 
 ---
 
-*Oscar Gaitan — Los Angeles, 08 April 2026*
-
-*Part of The Ghost Zone Essay Series*
-
 ---
 
 ### References
@@ -195,6 +205,3 @@ By walking. Present tense. Now. The only moment that is complete in itself—not
 - Penrose, Roger. "A Generalized Inverse for Matrices." *Proceedings of the Cambridge Philosophical Society*, 1955.
 - Zemeckis, Robert, director. *Forrest Gump*. Paramount Pictures, 1994.
 
----
-
-**Cite this work:** Gaitan, O. (2026). *One Day: The Opportunity That Never Arrives*. Zenodo. [https://doi.org/10.5281/zenodo.19475979](https://doi.org/10.5281/zenodo.19475979)

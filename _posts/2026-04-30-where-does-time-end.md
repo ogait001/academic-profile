@@ -18,13 +18,13 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/30/donde
 
 ## Table of Contents
 
-- [The Preface of This Inquiry](#i-the-preface-of-this-inquiry)
-- [What the End of Time Would Mean](#ii-what-the-end-of-time-would-mean)
-- [Heaven: The Now Without End](#iii-heaven-the-now-without-end)
-- [Purgatory: Outside the Now, Oriented Toward It](#iv-purgatory-outside-the-now-oriented-toward-it)
-- [Hell: The Inverted Now](#v-hell-the-inverted-now)
-- [The Three Nows](#vi-the-three-nows)
-- [The Resurrection Body and the End of the Argument](#vii-the-resurrection-body-and-the-end-of-the-argument)
+- [I. The Preface of This Inquiry](#i-the-preface-of-this-inquiry)
+- [II. What the End of Time Would Mean](#ii-what-the-end-of-time-would-mean)
+- [III. Heaven: The Now Without End](#iii-heaven-the-now-without-end)
+- [IV. Purgatory: Outside the Now, Oriented Toward It](#iv-purgatory-outside-the-now-oriented-toward-it)
+- [V. Hell: The Inverted Now](#v-hell-the-inverted-now)
+- [VI. The Three Nows](#vi-the-three-nows)
+- [VII. The Resurrection Body and the End of the Argument](#vii-the-resurrection-body-and-the-end-of-the-argument)
 - [References](#references)
 
 ---

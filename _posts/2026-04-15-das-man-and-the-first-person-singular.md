@@ -32,14 +32,14 @@ translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona
 
 - [Abstract](#abstract)
 - [Note on Relation to previous works](#note-on-relation-to-previous-works)
-- [The Grammar of the Anonymous](#i-the-grammar-of-the-anonymous)
-- [The Emperor's New Clothes](#ii-the-emperors-new-clothes)
-- [Fuenteovejuna — The Counter-Image](#iii-fuenteovejuna--the-counter-image)
-- [The Useful Self: Gregor Samsa](#iv-the-useful-self-gregor-samsa)
-- [The Anonymous Machine](#v-the-anonymous-machine)
-- [The Orbiting Self: Jenny Curran](#vi-the-orbiting-self-jenny-curran)
-- [Two Become One / Legion](#vii-two-become-one--legion)
-- [The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
+- [I. The Grammar of the Anonymous](#i-the-grammar-of-the-anonymous)
+- [II. The Emperor's New Clothes](#ii-the-emperors-new-clothes)
+- [III. Fuenteovejuna — The Counter-Image](#iii-fuenteovejuna--the-counter-image)
+- [IV. The Useful Self: Gregor Samsa](#iv-the-useful-self-gregor-samsa)
+- [V. The Anonymous Machine](#v-the-anonymous-machine)
+- [VI. The Orbiting Self: Jenny Curran](#vi-the-orbiting-self-jenny-curran)
+- [VII. Two Become One / Legion](#vii-two-become-one--legion)
+- [VII. The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
 - [References](#references)
 
 ---

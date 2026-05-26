@@ -41,6 +41,7 @@ translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-p
 6. [The Cogito Revisited](#vi-the-cogito-revisited)
 7. [What the Series Has Built](#vii-what-the-series-has-built)
 8. [The Am That Remains](#viii-the-am-that-remains)
+9. [References](#references)
 
 ---
 
@@ -202,13 +203,3 @@ And when the thinking ends, the am remains — and for the first time without in
 - Aquinas, Thomas. *Summa Theologiae*. I, qq. 75–89 (on the soul and its faculties); I, q. 54 (on angelic knowledge).
 - Descartes, René. *Meditations on First Philosophy.*
 
----
-
-*Related essays on this site:*
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [The Alternate Lemniscate](/academic-profile/2026/04/03/the-alternate-lemniscate/)
-- [On Happiness: Its Duration, Its Name, and What Endures](/academic-profile/2026/05/12/on-happiness/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [A Letter to an Atheist](/academic-profile/2026/04/28/a-letter-to-an-atheist/)

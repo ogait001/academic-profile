@@ -1446,19 +1446,7 @@ Hawking, Stephen. *Historia del tiempo: Del big bang a los agujeros negros*. Tra
 
 ### VI. Primer Monográfico del Autor
 
-Enrique, Leopoldo Oscar. *La Lemniscata del Tiempo*. Publicación independiente, 2024. Licencia CC BY-NC 4.0. Disponible en: Zenodo, OSF, Academia.edu. — El primer monográfico establece la lemniscata como heurística contemplativa para las doctrinas de la Caída, la Encarnación, los sacramentos y la escatología. El presente volumen presupone su lectura y constituye su continuación en el nivel biográfico, fenomenológico y social.
+Gaitan, Oscar. *La Lemniscata del Tiempo*. Publicación independiente, 2024. Licencia CC BY-NC 4.0. Disponible en: Zenodo, OSF, Academia.edu. — El primer monográfico establece la lemniscata como heurística contemplativa para las doctrinas de la Caída, la Encarnación, los sacramentos y la escatología. El presente volumen presupone su lectura y constituye su continuación en el nivel biográfico, fenomenológico y social.
 
----
 
-## Ensayos Relacionados
 
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — Traducción inglesa de este monográfico.
-- [La Selección Artificial](/academic-profile/2026/04/01/la-seleccion-artificial/) — Extensión del marco hacia la crítica civilizacional.
-- [Solo contra Ti](/academic-profile/2026/05/08/solo-contra-ti/) — El arrepentimiento y la estructura del cruce.
-- [Alfa y Omega](/academic-profile/2026/05/10/alfa-y-omega/) — Escatología y el segundo lazo.
-- [Un Día](/academic-profile/2026/04/08/un-dia/) — El Martes particular y la plenitud de lo finito.
-- [Des-rolear a Dios](/academic-profile/2026/05/09/des-rolear-a-dios/) — Identidad divina y la topología del encuentro.
-
----
-
-*© Oscar Gaitan (Leopoldo Enrique), 2026. Publicado bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Para uso comercial o permisos especiales, contactar al autor.*

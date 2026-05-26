@@ -182,21 +182,14 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 
 ## Referencias
 
-Aristóteles. *Física.*
-
-Agustín de Hipona. *Confesiones.*
-
-Tomás de Aquino. *Summa Theologiae.*
-
-Boecio. *La consolación de la filosofía.*
-
-Martin Heidegger. *Ser y tiempo.*
-
-Henri Bergson. *Tiempo y libre albedrío.*
-
-Albert Einstein. *La relatividad: La teoría especial y general.*
-
-*La Santa Biblia.* Libro de Eclesiastés · Libro del Éxodo · Evangelio de Juan
+- Aristóteles. *Física.*
+- Agustín de Hipona. *Confesiones.*
+- Tomás de Aquino. *Summa Theologiae.*
+- Boecio. *La consolación de la filosofía.*
+- Martin Heidegger. *Ser y tiempo.*
+- Henri Bergson. *Tiempo y libre albedrío.*
+- Albert Einstein. *La relatividad: La teoría especial y general.*
+- La Santa Biblia. Libro de Eclesiastés · Libro del Éxodo · Evangelio de Juan
 
 ---
 

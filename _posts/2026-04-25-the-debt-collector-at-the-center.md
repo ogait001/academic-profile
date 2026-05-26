@@ -31,7 +31,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/25/el-re
 
 ## Contents
 
-- [Prelude — The Stone and the Sentence](#prelude-the-stone-and-the-sentence)
+- [Prelude — The Stone and the Sentence](#prelude--the-stone-and-the-sentence)
 - [I. The Closed System](#i-the-closed-system)
 - [II. The Debt Collector at the Center](#ii-the-debt-collector-at-the-center)
 - [III. The Wound That Does Not Wait](#iii-the-wound-that-does-not-wait)

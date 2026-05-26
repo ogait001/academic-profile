@@ -38,6 +38,8 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 8. [The Question the Now Raises](#viii-the-question-the-now-raises)
 9. [I AM](#ix-i-am)
 10. [Back to the Question](#x-back-to-the-question)
+11. [References](#references)
+12. [Notes on Sources and Method](#notes-on-sources-and-method)
 
 ---
 

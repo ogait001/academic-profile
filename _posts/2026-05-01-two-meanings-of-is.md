@@ -68,23 +68,9 @@ The classical tradition names such self-sustaining actuality in the language of 
 
 ## References
 
-Aristotle. *Physics*. Various editions.
+- Aristotle. *Physics*. Various editions.
+- Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
+- The Holy Bible. Book of Exodus; Gospel of Luke.
+- Aquinas, Thomas. *Summa Theologiae*. Various editions.
 
-Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
-*The Holy Bible*. Book of Exodus; Gospel of Luke.
-
-Aquinas, Thomas. *Summa Theologiae*. Various editions.
-
----
-
-### Related Essays
-
-- [The Topology of Presence](/academic-profile/2026/03/01/the-topology-of-presence/) — The full four-plane framework; the Heidegger Turn first introduced
-- [The Is and the AM](/academic-profile/2026/05/01/the-is-and-the-am/) — Extended treatment of the crossing point, the Now, and the AM of Exodus
-- [The Infinite Interior](/academic-profile/2026/05/01/the-infinite-interior/) — On the continuous interior of every transition and the self it preserves
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational topology of memory, possibility, and the crossing point
-- [The Serpent, the Self, and the Collapse of the "I"](/academic-profile/2026/04/01/the-serpent-the-self-and-the-collapse/) — On the serpent's curve as the counterfeit of the lemniscate
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On the self-sustaining ground of the Now
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — On moral interiority and the irreducible witness
-- [One Day](/academic-profile/2026/04/08/one-day/) — On the inhabited Now and temporal presence

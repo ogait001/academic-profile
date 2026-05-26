@@ -12,7 +12,28 @@ excerpt: "Una meditación filosófica sobre el número, la repetición y el infi
 translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 ---
 
-> **5 + 5 ≡ 0 (mod 10)**
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/return-to-zero.jpeg" alt="Return to Zero sketch" width="500">
+</div>
+
+*Lo que la notación decimal sugiere sobre la repetición, la identidad y el infinito*
+
+                             5 + 5 ≡ 0 (mod 10)
+
+## Indice
+
+- [Resumen](#resumen)
+- [I. La Flecha y su Supuesto](#i-la-flecha-y-su-supuesto)
+- [II. El Punto de Cruce](#ii-el-punto-de-cruce)
+- [III. El Afelio en el Cinco](#iii-el-afelio-en-el-cinco)
+- [IV. El Infinito como Frecuencia](#iv-el-infinito-como-frecuencia)
+- [V. Objeciones y Límites](#v-objeciones-y-límites)
+- [VI. Lo que el Boceto Ya Sabía](#vi-lo-que-el-boceto-ya-sabía)
+- [Referencias](#referencias)
+
+-----
+
+## Resumen
 
 El conteo humano codifica inconscientemente dos intuiciones a la vez. La primera es lineal: la cantidad aumenta sin límite, cada número sucede al anterior, el conteo se extiende para siempre hacia un horizonte que nunca se cierra. La segunda es cíclica: los símbolos que llevan el conteo regresan, década tras década, escala tras escala, en un patrón ininterrumpido de recurrencia que ninguna acumulación logra interrumpir. Estas dos intuiciones han coexistido siempre dentro del sistema decimal. Rara vez han sido examinadas juntas.
 
@@ -23,18 +44,6 @@ La dualidad incorporada en la notación decimal refleja tensiones metafísicas p
 Lo que sigue es una meditación metafísica sobre la recurrencia incorporada en la representación numérica. No desafía la estructura formal de la aritmética. No propone un nuevo fundamento para las matemáticas. Propone algo más modesto y, creo, más interesante: que la recta numérica decimal contiene una geometría que nunca se le ha pedido mostrar, y que cuando se le pide, lo que aparece es la lemniscata — la curva en forma de ocho de cruces infinitos dentro de un espacio acotado, la forma del retorno sin fin.
 
 > Los dígitos no parten. Regresan. Y cada regreso es más alto que el anterior.
-
------
-
-## Índice
-
-- [I. La Flecha y su Supuesto](#i-la-flecha-y-su-supuesto)
-- [II. El Punto de Cruce](#ii-el-punto-de-cruce)
-- [III. El Afelio en el Cinco](#iii-el-afelio-en-el-cinco)
-- [IV. El Infinito como Frecuencia](#iv-el-infinito-como-frecuencia)
-- [V. Objeciones y Límites](#v-objeciones-y-límites)
-- [VI. Lo que el Boceto Ya Sabía](#vi-lo-que-el-boceto-ya-sabía)
-- [Referencias](#referencias)
 
 -----
 

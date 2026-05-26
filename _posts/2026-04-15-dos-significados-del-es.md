@@ -12,6 +12,7 @@ excerpt: "Una reflexión filosófica sobre Heidegger y el fundamento ontológico
 translation_url: /ontology/philosophy-of-time/2026/04/21/two-meanings-of-is.html
 ---
 
+
 ## Nota sobre la relación con trabajos anteriores
 
 Este ensayo continúa temas desarrollados en trabajos anteriores sobre presencia, temporalidad y fundamento ontológico, pero no es una repetición de esos argumentos. Donde el ensayo previo abarcaba ampliamente la fenomenología, la metafísica y la reflexión teológica, el presente estudio estrecha su enfoque a un único interlocutor: Martin Heidegger. Su propósito es examinar, de forma más concentrada, si el relato de Heidegger sobre el Ser tal como se revela a través de la temporalidad aborda de manera suficiente la pregunta distinta del fundamento ontológico.
@@ -93,15 +94,9 @@ La tradición clásica nombra tal actualidad autosustentada en el lenguaje del �
 - Heidegger, Martin. *Ser y tiempo*. Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 - La Santa Biblia. Libro del Éxodo; Evangelio de Lucas.
 
-### Obras relacionadas del autor
 
-- Gaitan, Oscar. [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.15302684>
-- Gaitan, Oscar. [¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene](/academic-profile/2026/05/05/donde-esta-dios/)
-- Gaitan, Oscar. [¿Dónde estás? Sobre la Misericordia, la Voluntad y el Punto de Cruce](/academic-profile/2026/04/12/donde-estas/)
+  
 
------
-
-*Ver también:*
 
 - [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico del punto de cruce e invariante del Ahora
 - [Desplazando a Dios](/academic-profile/2026/05/09/desplazando-a-dios/) — incluye una nota metodológica explícita sobre los límites del diagnóstico de *Das Man* de Heidegger

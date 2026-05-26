@@ -195,28 +195,15 @@ Space is not the container of change. It is the condition of it. And the continu
 
 ## References
 
-Aristotle. *Physics*. Translated by Robin Waterfield. Oxford University Press, 1996.
-
-Augustine of Hippo. *Confessions*. Translated by Henry Chadwick. Oxford University Press, 1991.
-
-Bergson, Henri. *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Translated by F. L. Pogson. Allen & Unwin, 1910.
-
-Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. Allen & Unwin, 1911.
-
-Deleuze, Gilles. *Difference and Repetition*. Translated by Paul Patton. Columbia University Press, 1994.
-
-Deleuze, Gilles. *Bergsonism*. Translated by Hugh Tomlinson and Barbara Habberjam. Zone Books, 1988.
-
-Gaitan, Oscar. *Does Time Need Me, or Do I Need Time?* Zenodo, 2026. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-
-Gaitan, Oscar. *Zero Returned: An Ontological Reading of Decimal Structure*. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19893877](https://doi.org/10.5281/zenodo.19893877)
-
-Hume, David. *A Treatise of Human Nature*. Oxford University Press, 2000.
-
-Locke, John. *An Essay Concerning Human Understanding*. Oxford University Press, 1975.
-
-Plutarch. *Life of Theseus*. Translated by John Dryden. Modern Library, 2001.
-
-Thomas Aquinas. *Summa Theologiae*. Translated by the Fathers of the English Dominican Province. Benziger Bros., 1947.
+- Aristotle. *Physics*. Translated by Robin Waterfield. Oxford University Press, 1996.
+- Augustine of Hippo. *Confessions*. Translated by Henry Chadwick. Oxford University Press, 1991.
+- Bergson, Henri. *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Translated by F. L. Pogson. Allen & Unwin, 1910.
+- Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. Allen & Unwin, 1911.
+- Deleuze, Gilles. *Difference and Repetition*. Translated by Paul Patton. Columbia University Press, 1994.
+- Deleuze, Gilles. *Bergsonism*. Translated by Hugh Tomlinson and Barbara Habberjam. Zone Books, 1988.
+- Hume, David. *A Treatise of Human Nature*. Oxford University Press, 2000.
+- Locke, John. *An Essay Concerning Human Understanding*. Oxford University Press, 1975.
+- Plutarch. *Life of Theseus*. Translated by John Dryden. Modern Library, 2001.
+- Thomas Aquinas. *Summa Theologiae*. Translated by the Fathers of the English Dominican Province. Benziger Bros., 1947.
 
 

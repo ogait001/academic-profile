@@ -12,7 +12,6 @@ pdf_url: "https://zenodo.org/records/19684023/files/two-meanings-of-is.pdf"
 translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-significados-del-es.html
 ---
 
-*Heidegger's Horizon and the Crossing Point*
 
 ---
 

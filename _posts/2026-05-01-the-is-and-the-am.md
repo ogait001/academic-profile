@@ -9,13 +9,13 @@ excerpt: "A philosophical and theological meditation on existence, presence, and
 doi: "10.5281/zenodo.19654743"
 record_url: "https://zenodo.org/records/19654743"
 pdf_url: "https://zenodo.org/records/19654927/files/the-is-and-the-am.pdf"
-translation_url: /ontology/philosophy-of-time/catholic-theology/2026/05/01/el-es-y-el-soy.html
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es-y-el-soy.html
 ---
 
 ## Table of Contents
 
 - [A Note on Method and Genre](#a-note-on-method-and-genre)
-- [Key Terms(#key-terms)
+- [Key Terms](#key-terms)
 - [Prologue](#prologue)
 - [Movement I: The Structure of the Is](#movement-i-the-structure-of-the-is)
 - [Movement II: The Communal Is](#the-communal-is)

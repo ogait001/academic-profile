@@ -22,7 +22,7 @@ translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and
 - [II. La Gramática de la Deriva](#ii-la-gramática-de-la-deriva)
 - [III. La Cadena Mimética](#iii-la-cadena-mimética)
 - [IV. Legión Revisitado: El Colapso del «Yo»](#iv-legión-revisitado-el-colapso-del-yo)
-- [V. La Raíz Desarrollista](#v-la-raíz-desarrollista)
+- [V. La Raíz del Desarrollo](#v-la-raíz-del-desarrollo)
 - [VI. El Abandono sin Oposición](#vi-el-abandono-sin-oposición)
 - [VII. El Otro como Vector de Desplazamiento](#vii-el-otro-como-vector-de-desplazamiento)
 - [VIII. La Restauración del Centro](#viii-la-restauración-del-centro)
@@ -101,11 +101,11 @@ Observe lo que Legión ha perdido. No ha perdido inteligencia — el endemoniado
 
 ---
 
-## V. La Raíz Desarrollista
+## V. La Raíz del Desarrollo
 
 ¿Por qué es el «Yo» vulnerable a esta disolución en primer lugar? ¿Por qué la cadena mimética se apodera?
 
-La respuesta, como argumenté en *La Topología de la Presencia*, es desarrollista. La Zona Fantasma tiene una raíz, y la raíz es la ausencia — específicamente, la ausencia de presencia durante los años formativos de la vida de una persona. El padre que estaba en la habitación pero no *ahí*. El cuidador que no modeló lo que significa habitar el Ahora. Porque nadie estaba presente en el punto de cruce, el niño nunca aprendió que el punto de cruce existe. Y porque el niño nunca experimentó el «Yo soy» modelado por otro ser humano, el propio «Yo» del niño nunca fue plenamente consolidado.
+La respuesta, como argumenté en *La Topología de la Presencia*, es desarrollativa. La Zona Fantasma tiene una raíz, y la raíz es la ausencia — específicamente, la ausencia de presencia durante los años formativos de la vida de una persona. El padre que estaba en la habitación pero no *ahí*. El cuidador que no modeló lo que significa habitar el Ahora. Porque nadie estaba presente en el punto de cruce, el niño nunca aprendió que el punto de cruce existe. Y porque el niño nunca experimentó el «Yo soy» modelado por otro ser humano, el propio «Yo» del niño nunca fue plenamente consolidado.
 
 Lo que el niño construye en cambio es una arquitectura compensatoria — un universo interior paralelo, elaborado a lo largo de años, poblado por seres imaginados e identidades prestadas. Esta es la proto-Zona Fantasma. En la infancia, los materiales eran analógicos: amigos imaginarios, la casa del árbol, el héroe deportivo. En la adultez, los materiales son digitales: el influencer, el feed curado, el suministro interminable de vidas alternativas del algoritmo. Pero la estructura es la misma. La persona construye un ser a partir de fragmentos porque el ser dado en el punto de cruce nunca fue recibido como real.
 

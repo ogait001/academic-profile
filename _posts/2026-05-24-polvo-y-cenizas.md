@@ -155,32 +155,24 @@ Contar es ya creer en lo que no se ha visto. Alzarse del nueve al diez es ya hab
 ### Filosofia de las Matematicas / Historia Matematica
 
 - Ifrah, Georges. *The Universal History of Numbers: From Prehistory to the Invention of the Computer.* Traducido por David Bellos et al. Londres: Harvill Press, 1998.
-
 - Menninger, Karl. *Number Words and Number Symbols: A Cultural History of Numbers.* Traducido por Paul Broneer. Nueva York: Dover Publications, 1992.
-
 - Cajori, Florian. *A History of Mathematical Notations.* 2 vols. Nueva York: Dover Publications, 1993.
 
 ### Filosofia / Metafisica
 
 - Aristoteles. *Metafisica (Metaphysics).* Traduccion de Joe Sachs. Santa Fe: Green Lion Press, 1999.
-
 - Aristoteles. *De Anima (Sobre el alma).* Traduccion de Christopher Shields. Oxford: Clarendon Press, 2016.
-
 - Boecio. *La consolacion de la filosofia (The Consolation of Philosophy).* Traduccion de Victor Watts. Londres: Penguin Classics, 1999.
 
 ### Fenomenologia / Metodo Filosofico
 
 - Husserl, Edmund. *Philosophy of Arithmetic.* Traduccion de Dallas Willard. Dordrecht: Springer, 2003.
-
 - Heidegger, Martin. *Ser y tiempo (Being and Time).* Traduccion de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 
 ### Teologia / Metafisica Simbolica
 
 - Agustin de Hipona. *Confesiones (Confessions).* Traduccion de Henry Chadwick. Oxford: Oxford University Press, 1991.
-
 - Agustin de Hipona. *La Trinidad (De Trinitate).* Traduccion de Edmund Hill, O.P. Hyde Park, NY: New City Press, 1991.
-
 - Gregorio de Nisa. *Sobre el alma y la resurreccion (On the Soul and the Resurrection).* Traduccion de Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
-
 - Tomas de Aquino. *Suma Teologica (Summa Theologiae).* Traduccion de los Padres de la Provincia Dominicana Inglesa. Westminster, MD: Christian Classics, 1981.
 

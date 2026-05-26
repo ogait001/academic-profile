@@ -14,25 +14,29 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha
 
 ---
 
-## Nota sobre el método
+## Indice
+
+- [Nota sobre el metodo](#nota-sobre-el-metodo)
+- [El universo que no podemos ver entero](#i-el-universo-que-no-podemos-ver-entero)
+- [Orbitar alrededor o cruzar a través](#ii-orbitar-alrededor-o-cruzar-a-través)
+- [La vida encuentra su camino](#iii-la-vida-encuentra-su-camino)
+- [Lo que la expansión infinita no puede mantener](#iv-lo-que-la-expansión-infinita-no-puede-mantener)
+- [El cero que retorna](#v-el-cero-que-retorna)
+- [Alfa y Omega](#vi-alfa-y-omega)
+- [La intervención es actualización](#vii-la-intervención-es-actualización)
+- [Lejos de aquí, cerca de allá](#viii-lejos-de-aquí-cerca-de-allá)
+- [La geometría de todo lo que perdure](#ix-la-geometría-de-todo-lo-que-perdure)
+- [Referencias](#references)
+
+---
+
+## Nota sobre el metodo
 
 Este ensayo opera como metafísica especulativa, no como filosofía analítica ni como ciencia empírica. Procede por analogía estructural y lectura ontológica, no por deducción estricta ni demostración física. Donde las afirmaciones tocan la física o las matemáticas, se enmarcan explícitamente como interpretaciones metafísicas y no como conclusiones científicas. El argumento avanza por resonancia entre dominios — cosmológico, teológico, matemático — e invita al lector a evaluar la coherencia del marco en su conjunto, no el estatus demostrativo de cada afirmación individual. La coherencia es el estándar que se ofrece, no la demostración. Un marco coherente no establece así la ontología — ese costo se acepta, y el marco se sostiene o cae como propuesta estructural.
 
 ---
 
-## Indice
 
-1. [El universo que no podemos ver entero](#i-el-universo-que-no-podemos-ver-entero)
-2. [Orbitar alrededor o cruzar a través](#ii-orbitar-alrededor-o-cruzar-a-través)
-3. [La vida encuentra su camino](#iii-la-vida-encuentra-su-camino)
-4. [Lo que la expansión infinita no puede mantener](#iv-lo-que-la-expansión-infinita-no-puede-mantener)
-5. [El cero que retorna](#v-el-cero-que-retorna)
-6. [Alfa y Omega](#vi-alfa-y-omega)
-7. [La intervención es actualización](#vii-la-intervención-es-actualización)
-8. [Lejos de aquí, cerca de allá](#viii-lejos-de-aquí-cerca-de-allá)
-9. [La geometría de todo lo que perdure](#ix-la-geometría-de-todo-lo-que-perdure)
-
----
 
 ## I. El universo que no podemos ver entero
 
@@ -188,17 +192,5 @@ El alma perdura. El cosmos perdura. La enumeración perdura. Los tres cruzan el 
 - Tomás de Aquino. *Suma Teológica.* I, q. 8 (sobre la omnipresencia divina); I, q. 10 (sobre la eternidad).
 - Cantor, G. *Contribuciones a la fundamentación de la teoría de los números transfinitos.* Dover, 1955.
 - Dehaene, S. *El sentido numérico.* Oxford University Press, 1997.
-- Oscar Gaitan. [Zero Returned: Una lectura ontológica de la estructura decimal.](/academic-profile/2026/04/29/zero-returned/) 2026.
-- Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-- Oscar Gaitan. [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
-- Oscar Gaitan. The Am That Remains. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19842987](https://doi.org/10.5281/zenodo.19842987)
 
----
 
-*Ensayos relacionados:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — El marco fundacional
-- [Zero Returned](/academic-profile/2026/04/29/zero-returned/) — La lectura ontológica de la estructura decimal
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — El Ahora y su dependencia
-- [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) — Los tres estados finales como orientaciones permanentes de la voluntad
-- [Where Is God?](/academic-profile/2026/05/05/where-is-god/) — El sufrimiento, el momento presente y el fundamento que no interviene
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — Versión en inglés de este ensayo

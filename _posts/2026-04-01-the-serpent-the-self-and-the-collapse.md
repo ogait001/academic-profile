@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Serpent, the Self, and the Collapse of the \'I\'"
+title: "The Serpent, the Self, and the Collapse of the 'I'"
 date: 2026-04-01 00:00:00 +0000
 categories: [ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, self-and-identity, phenomenology, theological-anthropology, philosophy-of-religion, eschatology]

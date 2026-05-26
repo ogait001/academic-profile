@@ -29,6 +29,22 @@ pdf_url: "https://zenodo.org/records/19702585/files/the-debt-collector-at-the-ce
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/25/el-recaudador-en-el-centro.html
 ---
 
+## Contents
+
+-[Prelude — The Stone and the Sentence](#prelude-the-stone-and-the-sentence)
+- [I. The Closed System](#i-the-closed-system)
+- [II. The Debt Collector at the Center](#ii-the-debt-collector-at-the-center)
+- [III. The Wound That Does Not Wait](#iii-the-wound-that-does-not-wait)
+- [IV. David — The Murderer Who Turned](#iv-david--the-murderer-who-turned)
+- [V. Paul — The Persecutor Who Was Addressed](#v-paul--the-persecutor-who-was-addressed)
+- [VI. The Woman — The Stone That Was Not Thrown](#vi-the-woman--the-stone-that-was-not-thrown)
+- [VII. The Magdalene — The First Address at the Empty Tomb](#vii-the-magdalene--the-first-address-at-the-empty-tomb)
+- [VIII. The Argument](#viii-the-argument)
+- [IX. The Crossing Point](#ix-the-crossing-point)
+- [References](#references)
+
+---
+
 ## Prelude — The Stone and the Sentence
 
 A woman stands in public collapse. Her accusers hold stones. The moral arithmetic appears complete. An act has occurred. The law specifies consequence. The weight of what was done is ready to return in physical form.
@@ -47,19 +63,6 @@ This essay argues that any vision of reality governed only by return, repayment,
 
 ---
 
-## Contents
-
-1. [The Closed System](#i-the-closed-system)
-2. [The Debt Collector at the Center](#ii-the-debt-collector-at-the-center)
-3. [The Wound That Does Not Wait](#iii-the-wound-that-does-not-wait)
-4. [David — The Murderer Who Turned](#iv-david--the-murderer-who-turned)
-5. [Paul — The Persecutor Who Was Addressed](#v-paul--the-persecutor-who-was-addressed)
-6. [The Woman — The Stone That Was Not Thrown](#vi-the-woman--the-stone-that-was-not-thrown)
-7. [The Magdalene — The First Address at the Empty Tomb](#vii-the-magdalene--the-first-address-at-the-empty-tomb)
-8. [The Argument](#viii-the-argument)
-9. [The Crossing Point](#ix-the-crossing-point)
-
----
 
 ## I. The Closed System
 
@@ -404,16 +407,5 @@ And He is waiting — with a patience the system cannot calculate and the ledger
 - Aquinas, Thomas. *Summa Theologiae*. I-II, qq. 109–114 (Treatise on Grace).
 - *Catechism of the Catholic Church*. CCC 633, 637, 1026–1029, 1992–2001.
 - The Holy Bible: Genesis 3–4; 2 Samuel 11–12; Psalm 51; John 8:1–11; John 20:1–18; Acts 7:58–8:3, 9:1–19; Luke 8:2; Romans 5:20.
-- Gaitan, Oscar. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/) April 2026.
-- Gaitan, Oscar. Where Are You? On Mercy, Will, and the Crossing Point. April 2026.
 
----
 
-*Related essays on this site:*
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [The Alternate Lemniscate](/academic-profile/2026/04/03/the-alternate-lemniscate/)
-- [The Am That Remains](/academic-profile/2026/04/20/the-am-that-remains/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [A Letter to an Atheist](/academic-profile/2026/04/28/a-letter-to-an-atheist/)

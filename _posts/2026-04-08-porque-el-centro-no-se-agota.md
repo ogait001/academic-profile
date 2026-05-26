@@ -12,7 +12,6 @@ excerpt: "Una meditación sobre la esperanza, la sed y la topología del deseo, 
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/08/why-the-center-does-not-run-out.html
 ---
 
-*Desde la Topología Gaitan · Parte del corpus de la* [*Lemniscata del Tiempo*](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
 
 ---
 
@@ -174,17 +173,3 @@ Moore, E. H. «On the Reciprocal of the General Algebraic Matrix.» *Bulletin of
 
 Penrose, Roger. «A Generalized Inverse for Matrices.» *Proceedings of the Cambridge Philosophical Society*, 1955.
 
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [La Topología de la Presencia](/academic-profile/2026/03/31/la-topologia-de-la-presencia/)
-- [¿Necesito yo al tiempo, o necesita el tiempo de mí?](/academic-profile/2026/04/01/necesito-yo-al-tiempo/)
-- [No puedes añadir una hora](/academic-profile/2026/04/15/no-puedes-anadir-una-hora/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)
-
----
-
-*Oscar Gaitan · Los Ángeles, 8 de abril de 2026*
-
-CC BY-NC 4.0

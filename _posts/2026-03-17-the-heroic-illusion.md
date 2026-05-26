@@ -215,16 +215,6 @@ It is a crossing.
 
 And it is the only place where a life can begin again.
 
----
 
-*Part II of The Ghost Zone Series. Continues from [The Ghost Zone](/academic-profile/2026/03/15/the-ghost-zone/).*
 
----
 
-*Related essays on this site:*
-- [The Ghost Zone](/academic-profile/2026/03/15/the-ghost-zone/)
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [The Alternate Lemniscate](/academic-profile/2026/04/03/the-alternate-lemniscate/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [On Happiness: Its Duration, Its Name, and What Endures](/academic-profile/2026/05/12/on-happiness/)

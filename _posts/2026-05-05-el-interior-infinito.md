@@ -18,6 +18,7 @@ excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el ca
 
 ## Indice
 
+- [Resumen](#resumen)
 - [I. El Problema del Cambio](#i-el-problema-del-cambio)
 - [II. El Espacio como Condición, no como Contenedor](#ii-el-espacio-como-condición-no-como-contenedor)
 - [III. El Interior Infinito](#iii-el-interior-infinito)
@@ -32,6 +33,8 @@ excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el ca
 ---
 
 > El reemplazo requiere un límite. La continuidad no admite ninguno.
+
+## Resumen
 
 El espacio no es el contenedor del cambio. Es su condición. Sin distancia no hay transición. Sin transición no hay tiempo. Y sin la distancia recursiva infinita que existe entre cada dos estados de un ser, no habría ser alguno — solo una serie de reemplazos, cada uno borrando al anterior. El ser persiste porque la distancia que debe cruzar es inagotable.
 
@@ -197,8 +200,6 @@ El espacio no es el contenedor del cambio. Es su condición. Y el interior infin
 - Bergson, Henri. *Materia y Memoria*. Traducido por Nancy Margaret Paul y W. Scott Palmer. Allen & Unwin, 1911.
 - Deleuze, Gilles. *Diferencia y Repetición*. Traducido por Paul Patton. Columbia University Press, 1994.
 - Deleuze, Gilles. *El Bergsonismo*. Traducido por Hugh Tomlinson y Barbara Habberjam. Zone Books, 1988.
-- Gaitan, Oscar. *¿Necesita el tiempo que yo exista, o necesito yo el tiempo?* Zenodo, 2026. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-- Gaitan, Oscar. *El Cero que Regresa: Una Lectura Ontológica de la Estructura Decimal*. Zenodo, 2026. [https://doi.org/10.5281/zenodo.19894007](https://doi.org/10.5281/zenodo.19894007)
 - Hume, David. *Tratado de la Naturaleza Humana*. Oxford University Press, 2000.
 - Locke, John. *Ensayo sobre el Entendimiento Humano*. Oxford University Press, 1975.
 - Plutarco. *Vida de Teseo*. Traducido por John Dryden. Modern Library, 2001.

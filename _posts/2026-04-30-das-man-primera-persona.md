@@ -34,7 +34,7 @@ Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la
 
 ---
 
-## Nota sobre la relación con trabajos anteriores
+## Nota sobre la relacion con trabajos anteriores
 
 Los ensayos que preceden a este desarrollaron el vocabulario que este ensayo presupone: el lemniscata, el punto de cruce, la Zona Fantasma, la curva de la serpiente, los centros falsos y Legión. Un lector no familiarizado con esas obras puede seguir el argumento presente, aunque algunas de sus referencias estructurales más profundas podrían perderse.
 

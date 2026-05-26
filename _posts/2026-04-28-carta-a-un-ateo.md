@@ -47,10 +47,3 @@ El argumento de este ensayo no procede localizando un objeto observable en la na
 - Rowe, William L. *Can God Be Free?*
 - Éxodo 3:14.
 
----
-
-*Ensayos relacionados:*
-- [Alfa y Omega](/academic-profile/2026/05/10/alfa-y-omega/) — El cosmos, el Ahora y el Dios que sostiene ambos extremos
-- [Where Is God?](/academic-profile/2026/05/05/where-is-god/) — El sufrimiento, el momento presente y el fundamento que no interviene
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — El Ahora y su dependencia
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — El marco fundacional

@@ -42,12 +42,6 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde
 
 ## I. The Address
 
-> *Nel mezzo del cammin di nostra vita*
-> *mi ritrovai per una selva oscura,*
-> *ché la diritta via era smarrita.*
->
-> — Dante Alighieri, *The Divine Comedy*, Inferno, I, 1–3.
-
 God's first question to a fallen man is not an accusation. It is an address.
 
 *Where are you?*
@@ -278,5 +272,4 @@ The question is only whether you are facing it.
 - Thomas Aquinas. *Summa Theologiae*.
 - *Catechism of the Catholic Church*. CCC 633, 637, 1026–1029, 1992–2001.
 - *The Holy Bible*. Genesis 2–3; Psalm 51; 2 Samuel 12; Luke 16; Gospel of John.
-- Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) April 2026.
 

@@ -95,9 +95,3 @@ La tradición clásica nombra tal actualidad autosustentada en el lenguaje del �
 - La Santa Biblia. Libro del Éxodo; Evangelio de Lucas.
 
 
-  
-
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico del punto de cruce e invariante del Ahora
-- [Desplazando a Dios](/academic-profile/2026/05/09/desplazando-a-dios/) — incluye una nota metodológica explícita sobre los límites del diagnóstico de *Das Man* de Heidegger
-- [¿Dónde termina el tiempo?](/academic-profile/2026/04/01/donde-termina-el-tiempo/) — las implicaciones escatológicas del mismo argumento ontológico

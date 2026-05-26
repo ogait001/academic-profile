@@ -195,8 +195,3 @@ El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está 
 - Darío, Rubén. "Lo Fatal." *Cantos de Vida y Esperanza*. 1905.
 
 
-
-*Ver también:*
-- [Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora](/academic-profile/2026/05/09/desplazando-a-dios/) — sobre el desplazamiento sistemático de la función ontológica de Dios en la modernidad
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico del que depende este argumento
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — sobre la gramática del tiempo y el Ser no-derivado

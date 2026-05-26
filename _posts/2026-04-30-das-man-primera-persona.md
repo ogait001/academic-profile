@@ -24,15 +24,19 @@ translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person
 - [VI. El yo en órbita: Jenny Curran](#vi-el-yo-en-órbita-jenny-curran)
 - [VII. Los dos se hacen uno / Legión](#vii-los-dos-se-hacen-uno--legión)
 - [VIII. El retorno de la primera persona del singular](#viii-el-retorno-de-la-primera-persona-del-singular)
-- [Referencias](#references)
+- [Referencias](#referencias)
 
 ---
 
-**Resumen:** Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.
+## Resumen
+
+Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.
 
 ---
 
-**Nota sobre la relación con trabajos anteriores:** Los ensayos que preceden a este desarrollaron el vocabulario que este ensayo presupone: el lemniscata, el punto de cruce, la Zona Fantasma, la curva de la serpiente, los centros falsos y Legión. Un lector no familiarizado con esas obras puede seguir el argumento presente, aunque algunas de sus referencias estructurales más profundas podrían perderse.
+## Nota sobre la relación con trabajos anteriores
+
+Los ensayos que preceden a este desarrollaron el vocabulario que este ensayo presupone: el lemniscata, el punto de cruce, la Zona Fantasma, la curva de la serpiente, los centros falsos y Legión. Un lector no familiarizado con esas obras puede seguir el argumento presente, aunque algunas de sus referencias estructurales más profundas podrían perderse.
 
 Lo que este ensayo añade no es una continuación de la serie sino un movimiento lateral: un encuentro con el concepto de *Das Man* de Martin Heidegger como mecanismo social por el que el desplazamiento se normaliza, se refuerza y se vuelve invisible. Los ensayos anteriores trazaron el desplazamiento dentro del individuo — a través del tiempo, el hábito, la adicción, la mimética y el aplazamiento. Este lo traza dentro del campo social: la multitud anónima, la ilusión colectiva y las frágiles condiciones de la comunión auténtica.
 

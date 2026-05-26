@@ -12,19 +12,20 @@ pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/30/donde-termina-el-tiempo.html
 ---
 
-*A Meditation on Final States*
+*Forever. Never. A Meditation on Final States*
 
 ---
 
 ## Table of Contents
 
-1. [The Preface of This Inquiry](#i-the-preface-of-this-inquiry)
-2. [What the End of Time Would Mean](#ii-what-the-end-of-time-would-mean)
-3. [Heaven: The Now Without End](#iii-heaven-the-now-without-end)
-4. [Purgatory: Outside the Now, Oriented Toward It](#iv-purgatory-outside-the-now-oriented-toward-it)
-5. [Hell: The Inverted Now](#v-hell-the-inverted-now)
-6. [The Three Nows](#vi-the-three-nows)
-7. [The Resurrection Body and the End of the Argument](#vii-the-resurrection-body-and-the-end-of-the-argument)
+- [The Preface of This Inquiry](#i-the-preface-of-this-inquiry)
+- [What the End of Time Would Mean](#ii-what-the-end-of-time-would-mean)
+- [Heaven: The Now Without End](#iii-heaven-the-now-without-end)
+- [Purgatory: Outside the Now, Oriented Toward It](#iv-purgatory-outside-the-now-oriented-toward-it)
+- [Hell: The Inverted Now](#v-hell-the-inverted-now)
+- [The Three Nows](#vi-the-three-nows)
+- [The Resurrection Body and the End of the Argument](#vii-the-resurrection-body-and-the-end-of-the-argument)
+- [References](#references)
 
 ---
 
@@ -212,13 +213,5 @@ The difference is only the direction of the face.
 - C.S. Lewis. *The Great Divorce*.
 - Dante Alighieri. *The Divine Comedy*.
 - *Catechism of the Catholic Church*. CCC 1020–1060.
-- Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-- Oscar Gaitan. [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) Zenodo. [https://doi.org/10.5281/zenodo.19559034](https://doi.org/10.5281/zenodo.19559034)
 
----
 
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) — The geometry of the will at the crossing point
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On Christ as the axis of all time
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — On identity, endurance, and the Uninhabited Now

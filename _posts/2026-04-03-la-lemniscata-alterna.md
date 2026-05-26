@@ -174,18 +174,4 @@ Los siguientes pasajes son referenciados o evocados a lo largo del ensayo:
 - Moore, E.H. «On the reciprocal of the general algebraic matrix.» *Bulletin of the American Mathematical Society* 26 (1920): 394–395.
 - Penrose, Roger. «A generalized inverse for matrices.» *Mathematical Proceedings of the Cambridge Philosophical Society* 51, n.º 3 (1955): 406–413. La pseudoinversa de Moore-Penrose como análogo estructural del deseo.
 
-**Obras del Autor**
 
-- Gaitan, Oscar. *The Topology of Presence: Four Planes of Existence on the Lemniscate*. Zenodo, 2026. El monógrafo fundacional de la Topología Gaitan.
-- Gaitan, Oscar. *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace*. Zenodo, 2026. Desarrolla el punto de cruce, las cuatro zonas de desplazamiento, el eco armónico y la Zona Fantasma.
-
----
-
-*Ver también en este sitio:*
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — el modelo topológico de base
-- [La Selección Artificial](/academic-profile/2026/04/01/the-artificial-selection/) — el reemplazo como patología civilizatoria
-- [El Es y el SOY](/academic-profile/2026/04/19/el-es-y-el-soy/) — identidad, presencia y el fundamento que sostiene
-- [El Soy que Permanece](/academic-profile/2026/04/28/el-soy-que-permanece/) — el alma más allá del cogito
-- [Alpha y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — el fundamento eterno del Ahora
-- [Solo Contra Ti](/academic-profile/2026/05/08/against-you-alone/) — orientación de la voluntad y arrepentimiento

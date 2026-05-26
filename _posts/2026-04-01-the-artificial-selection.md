@@ -162,8 +162,3 @@ The Now is not ours. What we place in it is.
 
 This essay extends the lemniscate framework developed in *Does Time Need Me, or Do I Need Time?* (Gaitan, 2026), applying its ontological structure to ecology, political economy, and the philosophy of technology. The philosophical and scientific references are not sources for the argument but parallel witnesses to aspects of it. The timber plantation illustration draws on ecological literature concerning managed monocultures and biodiversity loss. The theological turn in Section VII is offered as one interpretive model for the structural question the argument raises, not as a conclusion the essay imposes. The argument stands or falls on its structural coherence independently of whether that model is accepted.
 
-*See also:*
-
-- [De-Roling God](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
-- [Non Te Egeo](https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html)
-- [The Infinite Interior](https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html)

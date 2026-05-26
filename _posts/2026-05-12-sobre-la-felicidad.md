@@ -202,20 +202,15 @@ El don ya es tan grande como necesita ser. Tiene exactamente el tamaño del Ahor
 ## Referencias
 
 **Sagrada Escritura**
-
-Eclesiastés 3:12–14 · Jueces 7:1–8 · Mateo 5:3–12 · Génesis 19:26
+- Eclesiastés 3:12–14 · Jueces 7:1–8 · Mateo 5:3–12 · Génesis 19:26
 
 **Fuentes Filosóficas y Teológicas**
+- Aquino, Tomás. *Summa Theologiae*, I-II, qq. 1–5. Trans. Padres de la Provincia Dominicana Inglesa. Benziger Bros., 1947.
+- Agustín de Hipona. *Confesiones.* Trans. Henry Chadwick. Oxford University Press, 1991.
+- Bergson, Henri. *Tiempo y Libre Albedrío.* Trans. F. L. Pogson. Allen & Unwin, 1910.
+- Husserl, Edmund. *Sobre la Fenomenología de la Conciencia Interna del Tiempo.* Trans. J. B. Brough. Kluwer, 1991.
+- Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
+- Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 
-Aquino, Tomás. *Summa Theologiae*, I-II, qq. 1–5. Trans. Padres de la Provincia Dominicana Inglesa. Benziger Bros., 1947.
 
-Agustín de Hipona. *Confesiones.* Trans. Henry Chadwick. Oxford University Press, 1991.
-
-Bergson, Henri. *Tiempo y Libre Albedrío.* Trans. F. L. Pogson. Allen & Unwin, 1910.
-
-Husserl, Edmund. *Sobre la Fenomenología de la Conciencia Interna del Tiempo.* Trans. J. B. Brough. Kluwer, 1991.
-
-Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
-
-Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 

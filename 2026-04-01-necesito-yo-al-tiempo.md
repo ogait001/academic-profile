@@ -191,6 +191,7 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 - Albert Einstein. *La relatividad: La teoría especial y general.*
 - La Santa Biblia. Libro de Eclesiastés · Libro del Éxodo · Evangelio de Juan
 
+
 ---
 
 ## Nota sobre Fuentes y Método

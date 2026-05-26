@@ -45,5 +45,5 @@ El argumento de este ensayo no procede localizando un objeto observable en la na
 - Aquino, Tomás. *De Ente et Essentia.*
 - Oppy, Graham. *Arguing About Gods.*
 - Rowe, William L. *Can God Be Free?*
-- Éxodo 3:14.
+- Exodo 3:14.
 

@@ -12,6 +12,10 @@ excerpt: "Una meditación filosófica y topológica sobre la disolución de la i
 translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html
 ---
 
+*Un ensayo topológico sobre Legión, la mímesis digital y la primera extracción*
+
+*En continuidad con* La Topología de la Presencia: Cuatro planos de existencia en la lemniscata
+
 ## Indice
 
 - [I. La Curva de la Serpiente](#i-la-curva-de-la-serpiente)
@@ -205,18 +209,4 @@ No proyectado hacia un futuro que nunca llega.
 
 - Girard, René. *Veo a Satanás caer como el relámpago*. Traducción de James G. Williams. Maryknoll, NY: Orbis Books, 2001.
 
-**Obras del Autor**
 
-- Gaitan, Oscar. *La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata*. Zenodo, 2026. CC BY-NC 4.0.
-- Gaitan, Oscar. *La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia*. Zenodo, 2025. CC BY-NC 4.0.
-
----
-
-*Ver también en este sitio:*
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — el modelo topológico de base
-- [La Lemniscata Alterna](/academic-profile/2026/04/03/la-lemniscata-alterna/) — la geometría del desplazamiento y los centros falsos
-- [El Es y el SOY](/academic-profile/2026/04/19/el-es-y-el-soy/) — identidad, presencia y el fundamento que sostiene
-- [El Soy que Permanece](/academic-profile/2026/04/28/el-soy-que-permanece/) — el alma más allá del cogito
-- [La Selección Artificial](/academic-profile/2026/04/29/la-seleccion-artificial/) — el reemplazo como patología civilizatoria
-- [El Interior Infinito](/academic-profile/2026/05/05/el-interior-infinito/) — la persistencia del ser a través del cambio

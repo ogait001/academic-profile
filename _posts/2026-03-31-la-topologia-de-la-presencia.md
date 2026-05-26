@@ -398,22 +398,3 @@ Heidegger, Martin. *Ser y Tiempo*. Traducción de John Macquarrie y Edward Robin
 
 Barrie, J. M. Atribuido. «Oh, Dios, si estuviera seguro de que voy a morir esta noche, me arrepentiría de inmediato. Es la oración más común en todas las lenguas.»
 
-**Obras del Autor**
-
-Gaitan, Oscar. [*La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia*](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/). Zenodo, 2025. CC BY-NC 4.0.
-
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-
----
-
-*Oscar Gaitan · Los Ángeles, 31 de marzo de 2026 · Martes Santo*
-
-*Por el Descanso Eterno de los fallecidos en el terremoto de Managua, un día como hoy, Martes Santo de 1931.*
-
-CC BY-NC 4.0

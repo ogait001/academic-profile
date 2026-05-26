@@ -132,7 +132,7 @@ Because the experience of arrival has already been generated internally, the ext
 
 ---
 
-## VIII. Two Poets, Two Witnesses
+## VIII. Two Poets, Two Witnesses — Dario and Machado
 
 > "Traveler, there is no road. The road is made by walking."
 > — Antonio Machado
@@ -147,7 +147,7 @@ Darío mourns what was missed. Machado names what was always available. One look
 
 ---
 
-## IX. Two Characters, Two Geometries
+## IX. Two Characters, Two Geometries — Forrest and Jenny
 
 > "And then in the desert, when the sun comes up, I couldn't tell where heaven stopped and the earth began. It's so beautiful."
 > — Forrest Gump

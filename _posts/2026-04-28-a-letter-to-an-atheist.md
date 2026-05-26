@@ -57,12 +57,3 @@ And the question that never goes away is not only a doubt — it is a knock.
 - Rowe, William L. *Can God Be Free?*
 - Exodus 3:14.
 
----
-
-*Related essays on this site:*
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/)
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)

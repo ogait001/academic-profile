@@ -188,7 +188,6 @@ No proyectado hacia un futuro que nunca llega.
 
 *Yo soy — porque me fue dado.*
 
-
 ---
 
 ## Bibliografía

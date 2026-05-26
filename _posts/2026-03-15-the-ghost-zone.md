@@ -185,16 +185,4 @@ There is a difference between being present in form — and being present in fac
 
 And that difference, though subtle, is where an entire life is either lived — or quietly replaced.
 
----
 
-*Part of [The Ghost Zone Series](/academic-profile/categories/ghost-zone-series/). A conceptual spin-off of a larger monograph in development.*
-
----
-
-*Related essays on this site:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [The Alternate Lemniscate](/academic-profile/2026/04/03/the-alternate-lemniscate/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
-- [On Happiness: Its Duration, Its Name, and What Endures](/academic-profile/2026/05/12/on-happiness/)

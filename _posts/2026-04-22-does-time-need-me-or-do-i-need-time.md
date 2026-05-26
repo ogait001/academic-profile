@@ -39,7 +39,7 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 9. [I AM](#ix-i-am)
 10. [Back to the Question](#x-back-to-the-question)
 11. [References](#references)
-12. [Notes on Sources and Method](#notes-on-sources-and-method)
+12. [Note on Sources and Method](#note-on-sources-and-method)
 
 ---
 
@@ -208,12 +208,3 @@ And yet neither of us — neither the creature nor the time within which the cre
 
 Oscar Gaitan develops this framework as part of a broader topology of time in which temporal experience is structured lemniscatically, with the present moment as the invariant crossing point between the loops of memory and anticipation. This essay addresses the ontological and theological dimensions of that structure. The philosophical references — Augustine, Aristotle, Heidegger, Bergson, Aquinas, Boethius, Einstein — are not sources for the argument but parallel witnesses to aspects of it. The argument stands or falls on its own structural coherence, not on their authority.
 
----
-
-*Related essays on this site:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)

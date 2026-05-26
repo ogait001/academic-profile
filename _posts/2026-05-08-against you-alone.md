@@ -12,7 +12,6 @@ pdf_url: "https://zenodo.org/records/20088283/files/against-you-alone.pdf"
 translation_url: /catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html
 ---
 
-*From the Gaitan Topology*
 
 ---
 
@@ -108,11 +107,6 @@ And every soul, at Judgement, stripped of the chain entirely, sees what these th
 
 *Against you alone* — or *Non Serviam.* There is no third response. There never was. The temporal life was the period in which the response was being formed. Judgement is the moment it is finally, fully, and forever known.
 
----
-
-*Oscar Gaitan, 2026*
-
-*From the Gaitan Topology*
 
 ---
 
@@ -125,11 +119,4 @@ And every soul, at Judgement, stripped of the chain entirely, sees what these th
 - Aquinas, Thomas. *Summa Theologiae.* I, qq. 75–89.
 - Zemeckis, Robert, director. *Forrest Gump.* Paramount Pictures, 1994.
 
-**Related Works by the Author**
-- Gaitan, Oscar. *One Day: The Opportunity That Never Arrives.* [Read on this site](/academic-profile/2026/04/08/one-day-the-opportunity-that-never-arrives/)
-- Gaitan, Oscar. *De-Roling God.* [Read on this site](/academic-profile/2026/05/09/de-roling-god/)
-- Gaitan, Oscar. *A Letter to an Atheist.* Zenodo. [https://doi.org/10.5281/zenodo.19870600](https://doi.org/10.5281/zenodo.19870600)
 
----
-
-**Cite this work:** Gaitan, O. (2026). *Against You Alone: On Judgement, the Soul's Self-Witness, and the Two Responses That Remain.* Zenodo.

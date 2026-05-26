@@ -23,6 +23,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-pu
 5. [You Cannot Add One Hour](#v-you-cannot-add-one-hour)
 6. [What the Four Insights Show Together](#vi-what-the-four-insights-show-together)
 7. [The Line That Closes the Series](#vii-the-line-that-closes-the-series)
+8. [References](#references)
 
 ---
 

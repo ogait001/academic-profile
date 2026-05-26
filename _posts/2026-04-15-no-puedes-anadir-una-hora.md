@@ -166,7 +166,8 @@ Aquí. Ahora. Enteramente.
 
 ## Referencias
 
--Escritura: Mateo 6:27; Lucas 12:25; Mateo 5:25–26; Génesis 3; 2 Samuel 12; Salmo 51.
--Aristóteles. Física.
--Agustín de Hipona. Confesiones.
--Tomás de Aquino. Suma Teológica. I–II, qq. 49–54 (sobre el hábito); I, q. 9 (sobre la inmutabilidad y el acto).
+- Escritura: Mateo 6:27; Lucas 12:25; Mateo 5:25–26; Génesis 3; 2 Samuel 12; Salmo 51.
+- Aristóteles. *Física.*
+- Agustín de Hipona. *Confesiones.*
+- Tomás de Aquino. *Suma Teológica.* I–II, qq. 49–54 (sobre el hábito); I, q. 9 (sobre la inmutabilidad y el acto).
+

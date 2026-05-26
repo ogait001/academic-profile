@@ -203,21 +203,4 @@ Augustine of Hippo. *Confessions*. Translated by Henry Chadwick. Oxford: Oxford 
 
 Girard, René. *I See Satan Fall Like Lightning*. Translated by James G. Williams. Maryknoll, NY: Orbis Books, 2001.
 
-**Works by the Author**
 
-Gaitan, Oscar. *The Topology of Presence: Four Planes of Existence on the Lemniscate*. Zenodo, 2026. CC BY-NC 4.0.
-
-Gaitan, Oscar. *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace*. Zenodo, 2026. CC BY-NC 4.0.
-
----
-
-### Related Essays
-
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework: the geometry of presence and the crossing point
-- [The Is and the AM](/academic-profile/2026/05/01/the-is-and-the-am/) — On the "I am" as the grammatical and ontological home of the self
-- [The Infinite Interior](/academic-profile/2026/05/01/the-infinite-interior/) — On the continuous interior of every transition and the identity it preserves
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — On civilizational replacement versus genuine transformation
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On the self-sustaining ground of the Now
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — On moral interiority and the irreducible witness
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — On divine presence and the structure of genuine relation
-- [One Day](/academic-profile/2026/04/08/one-day/) — On the inhabited Now and temporal presence

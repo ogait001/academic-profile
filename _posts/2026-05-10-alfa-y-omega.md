@@ -26,7 +26,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha
 - [La intervención es actualización](#vii-la-intervención-es-actualización)
 - [Lejos de aquí, cerca de allá](#viii-lejos-de-aquí-cerca-de-allá)
 - [La geometría de todo lo que perdure](#ix-la-geometría-de-todo-lo-que-perdure)
-- [Referencias](#references)
+- [Referencias](#referencias)
 
 ---
 

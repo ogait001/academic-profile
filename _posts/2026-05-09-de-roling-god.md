@@ -58,6 +58,7 @@ The modern system has accomplished, through frictionless architectural means, wh
 - [VI. The Self That Cannot Be Reached](#vi-the-self-that-cannot-be-reached)
 - [VII. The Three Modes and the Topology of the Now](#vii-the-three-modes-and-the-topology-of-the-now)
 - [VIII. Conclusion: The Ground That Cannot Be Made Uninhabitable](#viii-conclusion-the-ground-that-cannot-be-made-uninhabitable)
+- [References](#references)
 
 ---
 
@@ -261,12 +262,6 @@ It only requires, for the question to arise, a self present enough to ask it.
 
 ---
 
-*Oscar Gaitan — Los Angeles, May 9, 2026*
-
-*From the Gaitan Topology*
-
----
-
 ### References
 
 **Sacred Scripture**
@@ -289,11 +284,3 @@ It only requires, for the question to arise, a self present enough to ask it.
 - London, Jerry (director). *The Scarlet and the Black*. CBS, 1983.
 - Wyler, William (director). *Ben-Hur*. MGM, 1959.
 
-**Related Works by the Author**
-- Gaitan, Oscar. *One Day: The Opportunity That Never Arrives*. Zenodo, 2026. [Read on this site](/academic-profile/2026/04/08/one-day-the-opportunity-that-never-arrives/)
-- Gaitan, Oscar. *The Topology of Presence*. Zenodo. [https://doi.org/10.5281/zenodo.19684052](https://doi.org/10.5281/zenodo.19684052)
-- Gaitan, Oscar. *Does Time Need Me, or Do I Need Time?* Zenodo. [https://doi.org/10.5281/zenodo.15302684](https://doi.org/10.5281/zenodo.15302684)
-
----
-
-**Cite this work:** Gaitan, O. (2026). *De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now*. Zenodo.

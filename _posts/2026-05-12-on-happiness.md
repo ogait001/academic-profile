@@ -36,17 +36,17 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre
 ## Contents
 
 -  [A Note on Method](#a-note-on-method)
-1. [The Word and What It Carries](#i-the-word-and-what-it-carries)
-2. [The Metaphysical Model](#ii-the-metaphysical-model)
-3. [Residency and Reference: Why Suffering Feels Longer](#iii-residency-and-reference-why-suffering-feels-longer)
-4. [Three Words, Three Frameworks](#iv-three-words-three-frameworks)
-5. [Presence and Acceptance](#v-presence-and-acceptance)
-6. [Gideon's Three Hundred: A Philosophical Reading](#vi-gideons-three-hundred-a-philosophical-reading)
-7. [What Qohelet's Text Permits](#vii-what-qohelets-text-permits)
-8. [A Brief Comparison with Buddhist Diagnosis](#viii-a-brief-comparison-with-buddhist-diagnosis)
-9. [Beatitudo and Structural Inertia](#ix-beatitudo-and-structural-inertia)
-10. [What Duration Happiness Actually Has](#x-what-duration-happiness-actually-has)
-11. [References](#references)
+-  [The Word and What It Carries](#i-the-word-and-what-it-carries)
+-  [The Metaphysical Model](#ii-the-metaphysical-model)
+-  [Residency and Reference: Why Suffering Feels Longer](#iii-residency-and-reference-why-suffering-feels-longer)
+-  [Three Words, Three Frameworks](#iv-three-words-three-frameworks)
+-  [Presence and Acceptance](#v-presence-and-acceptance)
+-  [Gideon's Three Hundred: A Philosophical Reading](#vi-gideons-three-hundred-a-philosophical-reading)
+-  [What Qohelet's Text Permits](#vii-what-qohelets-text-permits)
+-  [A Brief Comparison with Buddhist Diagnosis](#viii-a-brief-comparison-with-buddhist-diagnosis)
+-  [Beatitudo and Structural Inertia](#ix-beatitudo-and-structural-inertia)
+-  [What Duration Happiness Actually Has](#x-what-duration-happiness-actually-has)
+-  [References](#references)
 
 ---
 

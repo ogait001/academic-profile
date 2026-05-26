@@ -28,7 +28,7 @@ excerpt: "A reflection on digital culture’s preemptive supply of answers, argu
 
 ---
 
-## Contents
+## Table of Contents
 
 - [I. The Question as Constitution of the Subject](#i-the-question-as-constitution-of-the-subject)
 - [II. The Mechanics of Satiation](#ii-the-mechanics-of-satiation)

@@ -143,27 +143,19 @@ Augustine of Hippo. *The Trinity (De Trinitate).* Translated by Edmund Hill, O.P
 
 ### Theological Sources
 
-de Lubac, Henri. *The Mystery of the Supernatural.* Translated by Rosemary Sheed. New York: Herder and Herder, 1967.
-
-de Lubac, Henri. *Surnaturel: Études historiques.* Paris: Aubier, 1946.
-
-Rahner, Karl. *Spirit in the World (Geist in Welt).* Translated by William Dych. New York: Herder and Herder, 1968.
-
-Rahner, Karl. *Foundations of Christian Faith.* Translated by William Dych. New York: Crossroad, 1978.
-
-Rahner, Karl. "The Theology of Death." In *On the Theology of Death.* Translated by Charles H. Henkey. New York: Herder and Herder, 1961.
-
-Ratzinger, Joseph (Benedict XVI). *Eschatology: Death and Eternal Life.* Translated by Michael Waldstein. Washington, DC: Catholic University of America Press, 1988.
-
-Gregory of Nyssa. *On the Soul and the Resurrection.* Translated by Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
+- de Lubac, Henri. *The Mystery of the Supernatural.* Translated by Rosemary Sheed. New York: Herder and Herder, 1967.
+- de Lubac, Henri. *Surnaturel: Études historiques.* Paris: Aubier, 1946.
+- Rahner, Karl. *Spirit in the World (Geist in Welt).* Translated by William Dych. New York: Herder and Herder, 1968.
+- Rahner, Karl. *Foundations of Christian Faith.* Translated by William Dych. New York: Crossroad, 1978.
+- Rahner, Karl. "The Theology of Death." In *On the Theology of Death.* Translated by Charles H. Henkey. New York: Herder and Herder, 1961.
+- Ratzinger, Joseph (Benedict XVI). *Eschatology: Death and Eternal Life.* Translated by Michael Waldstein. Washington, DC: Catholic University of America Press, 1988.
+- Gregory of Nyssa. *On the Soul and the Resurrection.* Translated by Catharine P. Roth. Crestwood, NY: St. Vladimir's Seminary Press, 1993.
 
 ### Philosophical Sources
 
-Aristotle. *Nicomachean Ethics.* Translated by Terence Irwin. Indianapolis: Hackett Publishing, 1999.
+- Aristotle. *Nicomachean Ethics.* Translated by Terence Irwin. Indianapolis: Hackett Publishing, 1999.
+- Aristotle. *De Anima (On the Soul).* Translated by Christopher Shields. Oxford: Clarendon Press, 2016.
+- Boethius. *The Consolation of Philosophy.* Translated by Victor Watts. London: Penguin Classics, 1999.
+- Heidegger, Martin. *Being and Time (Sein und Zeit).* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
-Aristotle. *De Anima (On the Soul).* Translated by Christopher Shields. Oxford: Clarendon Press, 2016.
-
-Boethius. *The Consolation of Philosophy.* Translated by Victor Watts. London: Penguin Classics, 1999.
-
-Heidegger, Martin. *Being and Time (Sein und Zeit).* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 

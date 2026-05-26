@@ -38,9 +38,14 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/la-le
 
 1. [The Loop Does Not Break — It Relocates](#i-the-loop-does-not-break--it-relocates)
 2. [A Taxonomy of False Centers](#ii-a-taxonomy-of-false-centers)
-3. [The Mechanics of Rupture](#iii-the-mechanics-of-rupture)
-4. [Legion of Legions](#iv-legion-of-legions)
-5. [The Master Key](#v-the-master-key)
+    - [Deferral](#deferral)
+    - [Desire](#pride)
+    - [Fusion](#fusion)
+    - [Epistemic Error](#epistemic-error)
+    - [Trauma](#trauma)
+4. [The Mechanics of Rupture](#iii-the-mechanics-of-rupture)
+5. [Legion of Legions](#iv-legion-of-legions)
+6. [The Master Key](#v-the-master-key)
 
 ---
 
@@ -185,18 +190,4 @@ Waiting.
 - Moore, E.H. "On the reciprocal of the general algebraic matrix." *Bulletin of the American Mathematical Society* 26 (1920): 394–395.
 - Penrose, Roger. "A generalized inverse for matrices." *Mathematical Proceedings of the Cambridge Philosophical Society* 51, no. 3 (1955): 406–413.
 
-### Author's Prior Works
 
-- Gaitan, Oscar. [The Topology of Presence: Four Planes of Existence on the Lemniscate](https://doi.org/10.5281/zenodo.19684052). Zenodo, 2026.
-- Gaitan, Oscar. [The Lemniscate of Time: A Topology of Memory, Possibility, and Grace](/academic-profile/2026/03/20/the-lemniscate-of-time/). Zenodo, 2026.
-
----
-
-*Related essays on this site:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [Das Man and the First Person Singular](/academic-profile/2026/04/15/das-man-and-the-first-person-singular/)
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/22/does-time-need-me-or-do-i-need-time/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)

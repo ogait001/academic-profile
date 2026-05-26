@@ -50,6 +50,8 @@ The modern system has accomplished, through frictionless architectural means, wh
 
 ## Table of Contents
 
+- [Abstract](#abstract)
+- [A Note on Method](#a-note-on-method)
 - [I. Prologue: The Wrong Battle](#i-prologue-the-wrong-battle)
 - [II. What God Actually Does](#ii-what-god-actually-does)
 - [III. Community and Multitude](#iii-community-and-multitude)

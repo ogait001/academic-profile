@@ -219,12 +219,3 @@ Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
 
 Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [La Topología de la Presencia](/academic-profile/2026/03/31/la-topologia-de-la-presencia/)
-- [¿Necesito yo al tiempo, o necesita el tiempo de mí?](/academic-profile/2026/04/01/necesito-yo-al-tiempo/)
-- [No puedes añadir una hora](/academic-profile/2026/04/15/no-puedes-anadir-una-hora/)
-- [Por qué el centro no se agota](/academic-profile/2026/04/08/porque-el-centro-no-se-agota/)
-

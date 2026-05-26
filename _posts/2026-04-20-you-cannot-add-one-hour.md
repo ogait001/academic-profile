@@ -170,16 +170,4 @@ Here. Now. Entirely.
 - Aristotle. *Physics.*
 - Augustine of Hippo. *Confessions.*
 - Thomas Aquinas. *Summa Theologiae.* I–II, qq. 49–54 (on habit); I, q. 9 (on immutability and act).
-- Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-- Oscar Gaitan. [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19559034](https://doi.org/10.5281/zenodo.19559034)
-- Oscar Gaitan. [Where Does Time End? The Three Nows — Forever. Never.](/academic-profile/2026/04/30/where-does-time-end/) Zenodo, 2026. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
 
----
-
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — The Now and its dependence
-- [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) — The geometry of the will at the Now
-- [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) — The three final states as permanent orientations of the will
-- [Why the Center Does Not Run Out](/academic-profile/2026/04/08/why-the-center-does-not-run-out/) — Hope, thirst, and the source that does not deplete
-- [Where Is God?](/academic-profile/2026/05/05/where-is-god/) — Suffering, the present moment, and the ground that does not intervene

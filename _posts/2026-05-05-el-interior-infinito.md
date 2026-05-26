@@ -28,7 +28,7 @@ excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el ca
 - [VII. El Ahora como Única Dirección del Cambio](#vii-el-ahora-como-única-dirección-del-cambio)
 - [VIII. El Fundamento](#viii-el-fundamento)
 - [Referencias](#referencias)
-- [Nota sobre Fuentes y Método](#nota-sobre-fuentes-y-método)
+
 
 ---
 

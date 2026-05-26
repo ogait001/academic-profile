@@ -28,15 +28,31 @@ pdf_url: "https://zenodo.org/records/19685599/files/das-man-and-the-first-person
 translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona.html
 ---
 
+## Contents
+
+- [Abstract](#abstract)
+- [Note on Relation to previous works](#note-on-relation-to-previous-works)
+- [The Grammar of the Anonymous](#i-the-grammar-of-the-anonymous)
+- [The Emperor's New Clothes](#ii-the-emperors-new-clothes)
+- [Fuenteovejuna — The Counter-Image](#iii-fuenteovejuna--the-counter-image)
+- [The Useful Self: Gregor Samsa](#iv-the-useful-self-gregor-samsa)
+- [The Anonymous Machine](#v-the-anonymous-machine)
+- [The Orbiting Self: Jenny Curran](#vi-the-orbiting-self-jenny-curran)
+- [Two Become One / Legion](#vii-two-become-one--legion)
+- [The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
+- [References](#references)
+
+---
+
 ## Abstract
 
 This essay examines Martin Heidegger's concept of *Das Man* through literature, theology, and contemporary social life. It argues that anonymity, conformity, and relational fragility emerge where the first person singular is displaced by impersonal collective forms. Through Hans Christian Andersen, Franz Kafka, Lope de Vega, and biblical anthropology, the essay proposes that authentic communion requires selves first gathered into presence.
 
 ---
 
-## Note on Relation to Previous Works
+## Note on relation to previous works
 
-The essays preceding this one — [The Topology of Presence](https://doi.org/10.5281/zenodo.19684052), [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/), The Alternate Lemniscate, The Serpent, the Self, and the Collapse of the "I", [One Day](/academic-profile/2026/04/08/one-day/), and You Cannot Add One Hour — developed the vocabulary this essay presupposes: the lemniscate, the crossing point, the Ghost Zone, the serpent's curve, false centers, and Legion. A reader unfamiliar with those works can still follow the present argument, though some of its deeper structural references may be missed.
+The essays preceding this one developed the vocabulary this essay presupposes: the lemniscate, the crossing point, the Ghost Zone, the serpent's curve, false centers, and Legion. A reader unfamiliar with those works can still follow the present argument, though some of its deeper structural references may be missed.
 
 What this essay adds is not a continuation of the series but a lateral movement: an engagement with Martin Heidegger's concept of *Das Man* as the social mechanism by which displacement is normalized, reinforced, and made invisible. Earlier essays traced displacement within the individual — through time, habit, addiction, mimicry, and deferral. This one traces it within the social field: the anonymous crowd, collective illusion, and the fragile conditions of authentic communion.
 
@@ -44,18 +60,6 @@ The figures employed here — Hans Christian Andersen, Lope de Vega, Franz Kafka
 
 ---
 
-## Contents
-
-1. [The Grammar of the Anonymous](#i-the-grammar-of-the-anonymous)
-2. [The Emperor's New Clothes](#ii-the-emperors-new-clothes)
-3. [Fuenteovejuna — The Counter-Image](#iii-fuenteovejuna--the-counter-image)
-4. [The Useful Self: Gregor Samsa](#iv-the-useful-self-gregor-samsa)
-5. [The Anonymous Machine](#v-the-anonymous-machine)
-6. [The Orbiting Self: Jenny Curran](#vi-the-orbiting-self-jenny-curran)
-7. [Two Become One / Legion](#vii-two-become-one--legion)
-8. [The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
-
----
 
 ## I. The Grammar of the Anonymous
 
@@ -209,25 +213,18 @@ The first person singular is the minimum condition of every form of authentic hu
 ## References
 
 ### Sacred Scripture
-
 - **Genesis 2:24** — the covenantal formula of becoming one flesh; the ontological prerequisite of genuine communion.
 - **Genesis 3:1–7** — the Serpent's temptation as the primordial grammar of displacement; the subjunctive future against the indicative present.
 - **Mark 5:1–20** — the Gerasene demoniac; Legion; the man restored to his right mind. Central to Sections VII and VIII.
-
 ### Literary and Philosophical Sources
-
 - Andersen, Hans Christian. "The Emperor's New Clothes." In *Fairy Tales Told for Children* [*Eventyr, fortalte for Børn*]. Copenhagen: C.A. Reitzel, 1837.
 - Heidegger, Martin. *Being and Time* [*Sein und Zeit*]. Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962. First published 1927.
 - Kafka, Franz. *The Metamorphosis* [*Die Verwandlung*]. Translated by Stanley Corngold. New York: Bantam, 1972. First published 1915.
 - Vega, Lope de. *Fuenteovejuna*. c. 1612–1614.
-
 ### Cinematic References
-
 - London, Jerry (Director). (1983). *The Scarlet and the Black* [Film]. CBS.
 - Zemeckis, Robert (Director). (1994). *Forrest Gump* [Film]. Paramount Pictures.
-
 ### Historical Reference
-
 - Kappler, Herbert. SS-Obersturmbannführer; chief of the German Security Police in Rome, 1942–1944. Responsible for the Ardeatine Caves massacre (March 24, 1944).
 
 

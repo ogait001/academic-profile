@@ -180,13 +180,3 @@ Pienso porque soy.
 - Gaitan, O. (2026c). *Where does time end? The three nows — Forever. Never.* Zenodo. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
 - Gaitan, O. (2026d). *You cannot add one hour: On temporal density, the formation of the will, and the finitude of the crossing.* Zenodo. [https://doi.org/10.5281/zenodo.19599170](https://doi.org/10.5281/zenodo.19599170)
 
----
-
-*Ver también en este sitio:*
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — el modelo topológico de base
-- [El Es y el SOY](/academic-profile/2026/04/19/el-es-y-el-soy/) — identidad, presencia y el fundamento que sostiene
-- [El Interior Infinito](/academic-profile/2026/05/05/el-interior-infinito/) — la persistencia del ser a través del cambio
-- [La Selección Artificial](/academic-profile/2026/04/01/the-artificial-selection/) — el reemplazo como patología civilizatoria
-- [Alpha y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — el fundamento eterno del Ahora
-- [Solo Contra Ti](/academic-profile/2026/05/08/against-you-alone/) — orientación de la voluntad y arrepentimiento

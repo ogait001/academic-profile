@@ -189,8 +189,7 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 - Martin Heidegger. *Ser y tiempo.*
 - Henri Bergson. *Tiempo y libre albedrío.*
 - Albert Einstein. *La relatividad: La teoría especial y general.*
-- La Santa Biblia. Libro de Eclesiastés · Libro del Éxodo · Evangelio de Juan
-
+- La Santa Biblia. Libro de Eclesiastés · Libro del Exodo · Evangelio de Juan
 
 ---
 

@@ -12,13 +12,12 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/08/again
 excerpt: "Una reflexión teológica sobre el juicio como la plena autorrevelación del alma, allí donde cesa toda interferencia temporal y la voluntad queda finalmente expuesta ante Dios."
 ---
 
-*Oscar Gaitan · 7 de mayo de 2026*
 
 ---
 
-**Resumen:** Este ensayo examina el momento del Juicio no como un veredicto externo impuesto al alma, sino como el primer testimonio completo del alma sobre sí misma — el momento en que la cadena de interferencia que oscureció la voluntad a lo largo de la vida temporal es eliminada de manera permanente, y el alma ve lo que construyó, lo que eligió y hacia dónde se orientó, exactamente como Dios siempre lo vio. Apoyándose en el Salmo 51, el Génesis 3, la parábola de los talentos y el personaje de Jenny Curran (*Forrest Gump*), sostiene que el lecho de muerte no es el momento crucial — cada cruce del Ahora fue el momento crucial. En el Juicio, las coartadas no colapsan porque sean refutadas, sino porque el ruido que las sostenía ha desaparecido. Dos respuestas permanecen: la confesión de David, *solo contra ti*, y la confirmación de la voluntad que no quiso servir. El ensayo sostiene además que todo pecado excepto el orgullo conlleva vergüenza — el reconocimiento parcial del alma a través de la interferencia de que su voluntad se apartó de aquello hacia lo que estaba ordenada — y que solo el orgullo llega al Juicio tal como vivió: sereno, seguro, y eligiendo todavía.
+## Resumen
 
-**Palabras clave:** Juicio · alma · voluntad · orgullo · coartada · David · Abraham · Non Serviam · contingencia · lemniscata · testigo de sí mismo · misericordia
+Este ensayo examina el momento del Juicio no como un veredicto externo impuesto al alma, sino como el primer testimonio completo del alma sobre sí misma — el momento en que la cadena de interferencia que oscureció la voluntad a lo largo de la vida temporal es eliminada de manera permanente, y el alma ve lo que construyó, lo que eligió y hacia dónde se orientó, exactamente como Dios siempre lo vio. Apoyándose en el Salmo 51, el Génesis 3, la parábola de los talentos y el personaje de Jenny Curran (*Forrest Gump*), sostiene que el lecho de muerte no es el momento crucial — cada cruce del Ahora fue el momento crucial. En el Juicio, las coartadas no colapsan porque sean refutadas, sino porque el ruido que las sostenía ha desaparecido. Dos respuestas permanecen: la confesión de David, *solo contra ti*, y la confirmación de la voluntad que no quiso servir. El ensayo sostiene además que todo pecado excepto el orgullo conlleva vergüenza — el reconocimiento parcial del alma a través de la interferencia de que su voluntad se apartó de aquello hacia lo que estaba ordenada — y que solo el orgullo llega al Juicio tal como vivió: sereno, seguro, y eligiendo todavía.
 
 ---
 
@@ -114,34 +113,14 @@ Y cada alma, en el Juicio, despojada de la cadena por completo, ve lo que estos 
 
 ## Referencias
 
-*La Santa Biblia.* Salmo 51 · Génesis 3 · Génesis 18:27 · Mateo 25:14–30 · Mateo 25:31–46 · Lucas 15:11–32 · Lucas 18:9–14 · Lucas 23:39–43
+- La Santa Biblia. Salmo 51 · Génesis 3 · Génesis 18:27 · Mateo 25:14–30 · Mateo 25:31–46 · Lucas 15:11–32 · Lucas 18:9–14 · Lucas 23:39–43
+- Agustín de Hipona. *Confesiones.*
+- Agustín de Hipona. *De Trinitate.*
+- Juan de la Cruz. *La Noche Oscura del Alma.*
+- Aquino, Tomás. *Suma Teológica.* I, qq. 75–89.
+- Forrest Gump. Dir. Robert Zemeckis. Paramount Pictures, 1994.
 
-Agustín de Hipona. *Confesiones.*
 
-Agustín de Hipona. *De Trinitate.*
-
-Juan de la Cruz. *La Noche Oscura del Alma.*
-
-Aquino, Tomás. *Suma Teológica.* I, qq. 75–89.
-
-*Forrest Gump.* Dir. Robert Zemeckis. Paramount Pictures, 1994.
-
-Gaitan, Oscar. *El Soy que Permanece.* Zenodo, 2026.
-
-Gaitan, Oscar. *Una Carta a un Ateo.* Zenodo, 2026. [https://doi.org/10.5281/zenodo.19871019](https://doi.org/10.5281/zenodo.19871019)
-
-Gaitan, Oscar. *Dónde Está Dios.* Zenodo, 2026.
-
-Gaitan, Oscar. *Estable sobre la Inestabilidad.* Zenodo, 2026.
-
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [La Topología de la Presencia](/academic-profile/2026/03/31/la-topologia-de-la-presencia/)
-- [No puedes añadir una hora](/academic-profile/2026/04/15/no-puedes-anadir-una-hora/)
-- [Sobre la Felicidad](/academic-profile/2026/05/12/sobre-la-felicidad/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
 
 ---
 

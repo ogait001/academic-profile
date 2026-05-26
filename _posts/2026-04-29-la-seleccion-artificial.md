@@ -178,13 +178,3 @@ El Ahora no es nuestro. Lo que ponemos en él sí lo es.
 
 Este ensayo extiende el marco lemniscático desarrollado en *¿Necesita el tiempo, o necesito yo el tiempo?* (Gaitan, 2026), aplicando su estructura ontológica a la ecología, la economía política y la filosofía de la tecnología. Las referencias filosóficas y científicas no son fuentes del argumento sino testigos paralelos de algunos de sus aspectos. La ilustración de la plantación forestal se apoya en la literatura ecológica sobre monocultivos gestionados y pérdida de biodiversidad. El giro teológico de la Sección VII se ofrece como un modelo interpretativo para la pregunta estructural que plantea el argumento, no como una conclusión que el ensayo impone. El argumento se sostiene o cae por su coherencia estructural independientemente de si ese modelo es aceptado.
 
----
-
-*Ver también en este sitio:*
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — el modelo topológico de base
-- [La Lemniscata Alterna](/academic-profile/2026/04/03/la-lemniscata-alterna/) — la geometría del desplazamiento
-- [El Es y el SOY](/academic-profile/2026/04/19/el-es-y-el-soy/) — identidad, presencia y el fundamento que sostiene
-- [El Soy que Permanece](/academic-profile/2026/04/28/el-soy-que-permanece/) — el alma más allá del cogito
-- [El Interior Infinito](/academic-profile/2026/05/05/el-interior-infinito/) — la persistencia del ser a través del cambio
-- [Alpha y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — el fundamento eterno del Ahora

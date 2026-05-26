@@ -217,15 +217,4 @@ Dante Alighieri. *La Divina Comedia*.
 
 *Catecismo de la Iglesia Católica.* CCC 1020–1060.
 
-Gaitan, O. (2026). *Does time need me, or do I need time?* Zenodo. <https://doi.org/10.5281/zenodo.19558895>
 
-Gaitan, O. (2026). *Where are you? On mercy, will, and the crossing point.* Zenodo. <https://doi.org/10.5281/zenodo.19559034>
-
------
-
-*See also:*
-
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [One Day](/academic-profile/2026/04/08/one-day/)

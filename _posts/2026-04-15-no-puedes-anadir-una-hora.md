@@ -174,21 +174,3 @@ Agustín de Hipona. *Confesiones.*
 
 Tomás de Aquino. *Suma Teológica.* I–II, qq. 49–54 (sobre el hábito); I, q. 9 (sobre la inmutabilidad y el acto).
 
-Gaitan, O. (2026a). *Does time need me, or do I need time?* Zenodo. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-
-Gaitan, O. (2026b). *Where are you? On mercy, will, and the crossing point.* Zenodo. [https://doi.org/10.5281/zenodo.19559034](https://doi.org/10.5281/zenodo.19559034)
-
-Gaitan, O. (2026c). *Where does time end? The three nows — Forever. Never.* Zenodo. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
-
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [¿Necesito yo al tiempo, o necesita el tiempo de mí?](/academic-profile/2026/04/01/necesito-yo-al-tiempo/)
-- [La Topología de la Presencia](/academic-profile/2026/03/31/la-topologia-de-la-presencia/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-
----
-
-*Oscar Gaitan · Los Angeles, 15 abril de 2026*
-

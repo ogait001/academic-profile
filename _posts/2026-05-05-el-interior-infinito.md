@@ -12,6 +12,10 @@ translation_url: /ontology/philosophy-of-time/2026/05/05/the-infinite-interior.h
 excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el cambio, que propone el interior infinito como la estructura ininterrumpida que preserva al yo a través de la transformación."
 ---
 
+*Una proposición sobre la distancia, la transición asintótica y el Uno irreducible*
+> El reemplazo requiere un límite. La continuidad no admite ninguno.
+
+
 ## Indice
 
 - [I. El Problema del Cambio](#i-el-problema-del-cambio)
@@ -200,18 +204,4 @@ El espacio no es el contenedor del cambio. Es su condición. Y el interior infin
 - Plutarco. *Vida de Teseo*. Traducido por John Dryden. Modern Library, 2001.
 - Tomás de Aquino. *Suma Teológica*. Traducido por los Padres de la Provincia Dominicana Inglesa. Benziger Bros., 1947.
 
----
 
-## Nota sobre Fuentes y Método
-
-Oscar Gaitan desarrolla este marco como parte de una topología más amplia del tiempo, el cambio y la identidad en la que el ser es la unidad ontológica irreducible — preservada a través del cambio no por resistencia sino por el interior infinito continuo que toda transición genuina requiere necesariamente. Este ensayo es el tercero en una secuencia que incluye *¿Necesita el tiempo que yo exista, o necesito yo el tiempo?* y *El Cero que Regresa: Una Lectura Ontológica de la Estructura Decimal*. Las referencias filosóficas — Deleuze, Aristóteles, Aquino — no son fuentes del argumento sino interlocutores cuya proximidad al problema aclara lo que esta proposición afirma y lo que no. El argumento se sostiene o cae por su propia coherencia estructural.
-
----
-
-*Ver también en este sitio:*
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/the-lemniscate-of-time/) — el modelo topológico de base
-- [El Es y el SOY](/academic-profile/2026/04/19/el-es-y-el-soy/) — identidad, presencia y el fundamento que sostiene
-- [La Selección Artificial](/academic-profile/2026/04/01/the-artificial-selection/) — el reemplazo como patología civilizatoria
-- [Alpha y Omega](/academic-profile/2026/05/10/alpha-and-omega/) — el fundamento eterno del Ahora
-- [Un Día](/academic-profile/2026/04/08/one-day/) — el cruce en la experiencia cotidiana

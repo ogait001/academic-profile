@@ -16,14 +16,14 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-pu
 
 ## Table of Contents
 
-1. [The Question Nobody Asks](#i-the-question-nobody-asks)
-2. [Temporal Density](#ii-temporal-density)
-3. [Two Orders of Change](#iii-two-orders-of-change)
-4. [Fall, Habit, and Fixation](#iv-fall-habit-and-fixation)
-5. [You Cannot Add One Hour](#v-you-cannot-add-one-hour)
-6. [What the Four Insights Show Together](#vi-what-the-four-insights-show-together)
-7. [The Line That Closes the Series](#vii-the-line-that-closes-the-series)
-8. [References](#references)
+- [I. The Question Nobody Asks](#i-the-question-nobody-asks)
+- [II. Temporal Density](#ii-temporal-density)
+- [III. Two Orders of Change](#iii-two-orders-of-change)
+- [IV. Fall, Habit, and Fixation](#iv-fall-habit-and-fixation)
+- [V. You Cannot Add One Hour](#v-you-cannot-add-one-hour)
+- [VI. What the Four Insights Show Together](#vi-what-the-four-insights-show-together)
+- [VII. The Line That Closes the Series](#vii-the-line-that-closes-the-series)
+- [References](#references)
 
 ---
 

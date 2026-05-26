@@ -182,8 +182,8 @@ Not projected into a future that never arrives.
 
 > *I am — because I was given.*
 
-
 ---
+
 ## References
 
 **Sacred Scripture**

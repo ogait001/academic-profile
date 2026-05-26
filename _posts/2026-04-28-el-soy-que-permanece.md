@@ -175,8 +175,5 @@ Pienso porque soy.
 - Juan de la Cruz. *Noche Oscura del Alma*.
 - Tomás de Aquino. *Suma Teológica*. I, qq. 75–89 (sobre el alma y sus facultades); I, q. 54 (sobre el conocimiento angélico).
 - René Descartes. *Meditaciones metafísicas*.
-- Gaitan, O. (2026a). *Does time need me, or do I need time?* Zenodo. [https://doi.org/10.5281/zenodo.19558895](https://doi.org/10.5281/zenodo.19558895)
-- Gaitan, O. (2026b). *Where are you? On mercy, will, and the crossing point.* Zenodo. [https://doi.org/10.5281/zenodo.19559034](https://doi.org/10.5281/zenodo.19559034)
-- Gaitan, O. (2026c). *Where does time end? The three nows — Forever. Never.* Zenodo. [https://doi.org/10.5281/zenodo.19581285](https://doi.org/10.5281/zenodo.19581285)
-- Gaitan, O. (2026d). *You cannot add one hour: On temporal density, the formation of the will, and the finitude of the crossing.* Zenodo. [https://doi.org/10.5281/zenodo.19599170](https://doi.org/10.5281/zenodo.19599170)
+
 

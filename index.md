@@ -238,7 +238,9 @@ Many essays are available in both **English and Spanish**.
     <p>
 Oscar Gaitan is a Nicaraguan-American independent philosophical researcher
 whose work explores ontology, temporality, metaphysical anthropology,
-phenomenology, philosophy of time, and Catholic thought.
+phenomenology, philosophy of time, and Catholic thought. He is the author
+of The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession (2026),
+a monograph proposing the lemniscate (∞) as a contemplative framework for understanding the relationship between time and eternity.
 </p>
 
 <p>

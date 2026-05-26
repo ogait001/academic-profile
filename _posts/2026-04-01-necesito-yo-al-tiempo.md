@@ -201,16 +201,3 @@ Albert Einstein. *La relatividad: La teoría especial y general.*
 
 Oscar Gaitan desarrolla este marco como parte de una topología más amplia del tiempo en la que la experiencia temporal está estructurada lemniscatáticamente, con el momento presente como el punto de cruce invariante entre los bucles de memoria y anticipación. Este ensayo aborda las dimensiones ontológicas y teológicas de esa estructura. Las referencias filosóficas — Agustín, Aristóteles, Heidegger, Bergson, Aquino, Boecio, Einstein — no son fuentes del argumento sino testigos paralelos de aspectos del mismo. El argumento se sostiene o cae por su propia coherencia estructural, no por la autoridad de ellos.
 
----
-
-**Ensayos relacionados:**
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
-- [La Topología de la Presencia](/academic-profile/2026/03/31/la-topologia-de-la-presencia/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-
----
-
-*Oscar Gaitan · Los Angeles, 22 abril de 2026*
-
-

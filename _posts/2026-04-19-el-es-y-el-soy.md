@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19655047"
 record_url: "https://zenodo.org/records/19655047"
 pdf_url: "https://zenodo.org/records/19655047/files/el-es-y-el-soy.pdf"
-translation_url: /ontology/philosophy-of-time/catholic-theology/2026/05/01/the-is-and-the-am.html
+translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/the-is-and-the-am.html
 excerpt: "Una meditación filosófica y teológica sobre la existencia, la presencia y la identidad, que sostiene que el ser contingente apunta más allá de sí mismo hacia el fundamento sustentante nombrado como el SOY."
 ---
 

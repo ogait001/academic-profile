@@ -12,7 +12,19 @@ pdf_url: "https://zenodo.org/records/20112452/files/alpha-and-omega.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html
 ---
 
+## Table of Contents
 
+- [A note on Method](#a-note-on-method)
+- [I. The Universe we cannot see](#i-the-universe-we-cannot-see-whole)
+- [II. Looping around or looping through](#ii-looping-around-or-looping-through)
+- [III. Life finds its way](#iii-life-finds-its-way)
+- [IV. What infinite expansion cannot sustain](#iv-what-infinite-expansion-cannot-sustain)
+- [V. Zero Returned](#v-zero-returned)
+- [VI. Alpha and Omega](#vi-alpha-and-omega)
+- [VII. Intervention is Actualization](#vii-intervention-is-actualization)
+- [VIII. Distant from Here, Near to There](#vii-distant-from-here-near-to-there)
+- [IX. The Geometry of anything that endures](#ix-the-geometry-of-anything-that-endures)
+- [Referencias](#references)
 
 ---
 
@@ -22,7 +34,7 @@ This essay operates as speculative metaphysics, not analytic philosophy or empir
 
 ---
 
-## I. The Universe We Cannot See Whole
+## I. The Universe we cannot see whole
 
 The Now you are in is the only Now there is.
 
@@ -36,7 +48,7 @@ We are told the universe is expanding. Galaxies are moving apart. Distances are 
 
 ---
 
-## II. Looping Around or Looping Through
+## II. Looping around or looping through
 
 The framework developed in the previous essays makes a distinction that now becomes decisive at cosmic scale.
 
@@ -52,7 +64,7 @@ A figure that loops through the Now crosses the center. At every crossing, somet
 
 ---
 
-## III. Life Finds Its Way
+## III. Life finds its way
 
 There is a phenomenon within the universe that makes this structure most visible.
 
@@ -64,7 +76,7 @@ What appears in living systems as persistence through obstruction reflects, with
 
 ---
 
-## IV. What Infinite Expansion Cannot Sustain
+## IV. What infinite expansion cannot sustain
 
 Follow the logic of infinite linear expansion to its terminus.
 
@@ -108,7 +120,7 @@ The universe expands because it was created by Alpha. It does not dissipate beca
 
 ---
 
-## VII. Intervention Is Actualization
+## VII. Intervention is Actualization
 
 The popular image of divine intervention is a God who stands outside events and occasionally reaches in — suspending the normal order, overriding natural law, inserting something from outside into a system that was otherwise running on its own. A God who intervenes is a God who is mostly absent and sometimes present.
 
@@ -142,7 +154,7 @@ This is what the folkloric wisdom names with more precision than most technical 
 
 ---
 
-## IX. The Geometry of Anything That Endures
+## IX. The Geometry of anything that endures
 
 The series that began with a question about time ends with a claim about the cosmos.
 
@@ -160,11 +172,6 @@ None of them invented the crossing point.
 
 ---
 
-*Oscar Gaitan — Los Angeles, May 10, 2026*
-
-*From the Gaitan Topology*
-
----
 
 ### References
 

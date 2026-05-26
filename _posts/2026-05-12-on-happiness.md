@@ -33,7 +33,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre
 
 ---
 
-## Contents
+## Table of Contents
 
 -  [A Note on Method](#a-note-on-method)
 -  [The Word and What It Carries](#i-the-word-and-what-it-carries)

@@ -13,13 +13,14 @@ translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/assets/images/return-to-zero.jpeg" alt="Return to Zero sketch" width="500">
+  <img src="/assets/images/return_to_zero.jpeg" alt="Return to Zero sketch" width="500">
 </div>
+
+*5 + 5 ≡ 0 (mod 10)*
 
 *Lo que la notación decimal sugiere sobre la repetición, la identidad y el infinito*
 
-                             5 + 5 ≡ 0 (mod 10)
-
+  
 ## Indice
 
 - [Resumen](#resumen)
@@ -156,14 +157,4 @@ La recta numérica nos dio la flecha. La lemniscata nos da el cruce. Ambas son v
 - Heidegger, Martin. *El Ser y el Tiempo*. Harper & Row, 1962.
 - Husserl, Edmund. *Filosofía de la Aritmética*. Kluwer, 2003.
 
-### Obras relacionadas del autor
 
-- Gaitan, Oscar. [La Lemniscata del Tiempo](/academic-profile/2026/03/20/lemniscate-of-time/) — el marco topológico del que parte la lectura geométrica de este ensayo.
-- Gaitan, Oscar. [Dos significados del ‘es’: El horizonte de Heidegger y el Punto de Cruce](/academic-profile/2026/04/15/dos-significados-del-es/) — el argumento sobre horizonte frente a centro que este ensayo ilustra en el dominio numérico.
-- Gaitan, Oscar. [¿Dónde termina el tiempo?](/academic-profile/2026/04/01/donde-termina-el-tiempo/) — los estados finales leídos a través de la misma geometría lemniscata.
-
------
-
-*Ver también:*
-
-- [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) — la dependencia ontológica del Ahora, argumento de fondo para la lectura del punto de cruce decimal.

@@ -121,7 +121,3 @@ Y cada alma, en el Juicio, despojada de la cadena por completo, ve lo que estos 
 - Forrest Gump. Dir. Robert Zemeckis. Paramount Pictures, 1994.
 
 
-
----
-
-CC BY-NC 4.0

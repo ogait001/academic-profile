@@ -14,7 +14,7 @@ translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and
 
 *Un ensayo topológico sobre Legión, la mímesis digital y la primera extracción*
 
-*En continuidad con* La Topología de la Presencia: Cuatro planos de existencia en la lemniscata
+*En continuidad con* La Topología de la Presencia: Cuatro planos de existencia en la Lemniscata
 
 ## Indice
 
@@ -188,9 +188,6 @@ No proyectado hacia un futuro que nunca llega.
 
 *Yo soy — porque me fue dado.*
 
----
-
-*Los Ángeles, 1 de abril de 2026 — Miércoles Santo*
 
 ---
 

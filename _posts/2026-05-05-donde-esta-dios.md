@@ -39,11 +39,6 @@ Este ensayo examina la pregunta *¿Dónde está Dios?* no como un desafío retó
 
 ---
 
-## Nota sobre Fuentes y Método
-
-Este ensayo es el cuarto en una secuencia de obras que desarrolla una topología más amplia del tiempo, la identidad y el sustento divino. Los trabajos previos — [¿Necesito yo al tiempo, o necesita el tiempo de mí?](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html), [El Cero que Regresa](https://oscargaitan.org/ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html), y [El Interior Infinito](https://oscargaitan.org/ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior-infinito.html) — preparan el marco conceptual que aquí se extiende hacia la antropología teológica y la economía de la salvación. — establecen el marco ontológico del que depende el presente argumento. Las referencias teológicas — Agustín, Aquino, Job, el Evangelio de Juan, los Salmos, Éxodo — no son autoridades citadas para zanjar el argumento sino testigos que han llegado más cerca de las mismas preguntas estructurales desde dentro de sus propias tradiciones. El argumento se sostiene o cae por su propia coherencia estructural. Las referencias teológicas y filosóficas se citan como testigos paralelos, no como pruebas. Las analogías entre dominios — cuando se usan — se ofrecen como ilustraciones de estructura, no como afirmaciones de identidad entre dominios.
-
----
 
 ## I. El Supuesto dentro de la Pregunta
 
@@ -199,13 +194,7 @@ El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está 
 - Catecismo de la Iglesia Católica. §309–314.
 - Darío, Rubén. "Lo Fatal." *Cantos de Vida y Esperanza*. 1905.
 
-### Obras previas del autor
 
-- Gaitan, Oscar. [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) Zenodo, 2026. <https://doi.org/10.5281/zenodo.15302684>
-- Gaitan, Oscar. El Cero que Regresa: Una Lectura Ontológica de la Estructura Decimal. Zenodo, 2026. <https://doi.org/10.5281/zenodo.19894007>
-- Gaitan, Oscar. El Interior Infinito: Sobre el Espacio, el Cambio y la Integridad del Ser. Zenodo, 2026. <https://doi.org/10.5281/zenodo.20032897>
-
----
 
 *Ver también:*
 - [Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora](/academic-profile/2026/05/09/desplazando-a-dios/) — sobre el desplazamiento sistemático de la función ontológica de Dios en la modernidad

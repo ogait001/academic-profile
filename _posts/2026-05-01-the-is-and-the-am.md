@@ -489,22 +489,18 @@ The Trinitarian section is explicitly marked as analogical theology, not deducti
 
 ## References
 
--Aristotle. *Physics.*
--Augustine of Hippo. *Confessions.*
--Boethius. *The Consolation of Philosophy.*
--Thomas Aquinas. *Summa Theologiae.*
--Heidegger, Martin. *Being and Time.*
--Husserl, Edmund. *On the Phenomenology of the Consciousness of Internal Time.*
--Bergson, Henri. *Time and Free Will.*
--Einstein, Albert. *Relativity: The Special and the General Theory.*
--Kierkegaard, Søren. *Either/Or; The Sickness Unto Death.*
--Wilde, Oscar. *The Picture of Dorian Gray.*
--Donne, John. *Devotions upon Emergent Occasions, Meditation XVII.*
--The Holy Bible — Book of Ecclesiastes; Book of Exodus; Gospel of John; Gospel of Luke; First Letter to the Corinthians; Second Letter of Peter; Gospel of Matthew.
- -Gladiator (dir. Ridley Scott).
-
----
-
-*Note on Sources and Method: Oscar Gaitan develops this framework as part of a broader topology of time and experience in which temporal existence is structured lemniscatically, with the present moment as the invariant crossing point between the loops of memory and anticipation. This essay addresses the ontological, relational, and theological dimensions of that structure as they bear on the question of identity and its ground. The philosophical and literary references — Heidegger, Husserl, Augustine, Aristotle, Aquinas, Boethius, Bergson, Kierkegaard, Einstein, Donne, Wilde — are not sources for the argument but parallel witnesses to aspects of it, or interlocutors with whom the argument is in dialogue. The argument stands or falls on its own structural coherence. The scriptural readings offered here are philosophical and contemplative rather than exegetical in the technical scholarly sense.*
+- Aristotle. *Physics.*
+- Augustine of Hippo. *Confessions.*
+- Boethius. *The Consolation of Philosophy.*
+- Thomas Aquinas. *Summa Theologiae.*
+- Heidegger, Martin. *Being and Time.*
+- Husserl, Edmund. *On the Phenomenology of the Consciousness of Internal Time.*
+- Bergson, Henri. *Time and Free Will.*
+- Einstein, Albert. *Relativity: The Special and the General Theory.*
+- Kierkegaard, Søren. *Either/Or; The Sickness Unto Death.*
+- Wilde, Oscar. *The Picture of Dorian Gray.*
+- Donne, John. *Devotions upon Emergent Occasions, Meditation XVII.*
+- The Holy Bible — Book of Ecclesiastes; Book of Exodus; Gospel of John; Gospel of Luke; First Letter to the Corinthians; Second Letter of Peter; Gospel of Matthew.
+- Gladiator (dir. Ridley Scott).
 
 

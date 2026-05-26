@@ -12,25 +12,31 @@ pdf_url: "https://zenodo.org/records/19558910/files/where-are-you.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde-estas.html
 ---
 
+> Nel mezzo del cammin di nostra vita  
+> mi ritrovai per una selva oscura,  
+> ché la diritta via era smarrita.  
+> — Dante Alighieri, *The Divine Comedy*, Inferno, I, 1–3.
+
 *Second Sunday of Easter — Divine Mercy Sunday*
 
 ---
 
 ## Table of Contents
 
-1. [The Address](#i-the-address)
-2. [The Second Question](#ii-the-second-question)
-3. [The Structure of the Will](#iii-the-structure-of-the-will)
-4. [The Turn](#iv-the-turn)
-5. [Psalm 51](#v-psalm-51)
-6. [What Adam and David Show Together](#vi-what-adam-and-david-show-together)
-7. [The Ground of Mercy](#vii-the-ground-of-mercy)
-8. [The Problem Calvary Raises](#viii-the-problem-calvary-raises)
-9. [What Was Always True](#ix-what-was-always-true)
-10. [What Calvary Opens](#x-what-calvary-opens)
-11. [The Christic Axis](#xi-the-christic-axis)
-12. [Adam, David, and the Axis](#xii-adam-david-and-the-axis)
-13. [The Conclusion](#xiii-the-conclusion)
+- [I. The Address](#i-the-address)
+- [II. The Second Question](#ii-the-second-question)
+- [III. The Structure of the Will](#iii-the-structure-of-the-will)
+- [IV. The Turn](#iv-the-turn)
+- [IV. Psalm 51](#v-psalm-51)
+- [VI. What Adam and David Show Together](#vi-what-adam-and-david-show-together)
+- [VII. The Ground of Mercy](#vii-the-ground-of-mercy)
+- [VIII. The Problem Calvary Raises](#viii-the-problem-calvary-raises)
+- [IX. What Was Always True](#ix-what-was-always-true)
+- [X. What Calvary Opens](#x-what-calvary-opens)
+- [XI. The Christic Axis](#xi-the-christic-axis)
+- [XII. Adam, David, and the Axis](#xii-adam-david-and-the-axis)
+- [XIII. The Conclusion](#xiii-the-conclusion)
+- [References](#references)
 
 ---
 
@@ -40,7 +46,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde
 > *mi ritrovai per una selva oscura,*
 > *ché la diritta via era smarrita.*
 >
-> — Dante Alighieri, *Divina Commedia*, Inferno, I, 1–3.
+> — Dante Alighieri, *The Divine Comedy*, Inferno, I, 1–3.
 
 God's first question to a fallen man is not an accusation. It is an address.
 
@@ -274,10 +280,3 @@ The question is only whether you are facing it.
 - *The Holy Bible*. Genesis 2–3; Psalm 51; 2 Samuel 12; Luke 16; Gospel of John.
 - Oscar Gaitan. [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) April 2026.
 
----
-
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — A companion reading of Psalm 51
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — On Christ as the axis of all time
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — On the non-transactional ground of grace

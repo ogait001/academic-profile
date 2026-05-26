@@ -24,7 +24,7 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-
 - [VII. Intervention is Actualization](#vii-intervention-is-actualization)
 - [VIII. Distant from Here, Near to There](#vii-distant-from-here-near-to-there)
 - [IX. The Geometry of anything that endures](#ix-the-geometry-of-anything-that-endures)
-- [Referencias](#references)
+- [References](#references)
 
 ---
 

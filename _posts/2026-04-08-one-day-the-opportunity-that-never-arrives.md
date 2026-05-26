@@ -17,14 +17,14 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-di
 ## Table of Contents
 
 - [I. "One Day"](#i-one-day)
-- [II. The Serpent's Manifestation](#ii-the-serpent's-manifestation)
+- [II. The Serpent's Manifestation](#ii-the-serpents-manifestation)
 - [III. The Two Evenings](#iii-the-two-evenings)
 - [IV. The Audience That Never Arrives](#iv-the-audience-that-never-arrives)
 - [V. The Geometry of Regret](#v-the-geometry-of-regret)
 - [VI. "It Was Not Meant To Be"](#vi-it-was-not-meant-to-be)
 - [VII. The Heroic Illusion](#vii-the-heroic-illusion)
-- [VIII. Two Poets, Two Witnesses - Dario and Machado](#viii-two-poets-two-witnesses--dario-and-machado)
-- [IX. Two Characters, Two Geometries - Forrest-and-Jenny](#ix-two-characters-two-geometries--forest-and-jenny)
+- [VIII. Two Poets, Two Witnesses —  Dario and Machado](#viii-two-poets-two-witnesses--dario-and-machado)
+- [IX. Two Characters, Two Geometries —  Forrest-and-Jenny](#ix-two-characters-two-geometries--forest-and-jenny)
 - [X. The Sorrow That Absolution Does Not Erase](#x-the-sorrow-that-absolution-does-not-erase)
 - [References](#references)
 

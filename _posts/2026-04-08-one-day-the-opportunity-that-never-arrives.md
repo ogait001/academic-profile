@@ -16,16 +16,16 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-di
 
 ## Table of Contents
 
-- [I. "One Day"](#one-day)
-- [II. The Serpent's Manifestation](#the-serpent's-manifestation)
-- [III. The Two Evenings](#the-two-evenings)
-- [IV. The Audience That Never Arrives](#the-audience-that-never-arrives)
-- [V. The Geometry of Regret](#the-geometry-of-regret)
-- [VI. "It Was Not Meant To Be"](#it-was-not-meant-to-be)
-- [VII. The Heroic Illusion](#the-heroic-illusion)
-- [VIII. Two Poets, Two Witnesses](#two-poets-two-witnesses)
-- [IX. Two Characters, Two Geometries](#two-characters-two-geometries)
-- [X. The Sorrow That Absolution Does Not Erase](#the-sorrow-that-absolution-does-not-erase)
+- [I. "One Day"](#i-one-day)
+- [II. The Serpent's Manifestation](#ii-the-serpent's-manifestation)
+- [III. The Two Evenings](#iii-the-two-evenings)
+- [IV. The Audience That Never Arrives](#iv-the-audience-that-never-arrives)
+- [V. The Geometry of Regret](#v-the-geometry-of-regret)
+- [VI. "It Was Not Meant To Be"](#vi-it-was-not-meant-to-be)
+- [VII. The Heroic Illusion](#vii-the-heroic-illusion)
+- [VIII. Two Poets, Two Witnesses - Dario and Machado](#viii-two-poets-two-witnesses--dario-and-machado)
+- [IX. Two Characters, Two Geometries - Forrest-and-Jenny](#ix-two-characters-two-geometries--forest-and-jenny)
+- [X. The Sorrow That Absolution Does Not Erase](#x-the-sorrow-that-absolution-does-not-erase)
 - [References](#references)
 
 ---

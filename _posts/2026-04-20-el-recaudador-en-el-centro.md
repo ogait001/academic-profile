@@ -12,9 +12,7 @@ translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/25/the-d
 excerpt: "Una reflexión sobre el karma y la gracia, que sostiene que la realidad no se fundamenta en la devolución exacta, sino en una presencia personal que mantiene las cuentas abiertas."
 ---
 
-*Parte de la serie La Lemniscata del Tiempo.*
 
----
 
 ## Indice
 
@@ -372,12 +370,8 @@ Y está esperando — con una paciencia que el sistema no puede calcular y que e
 - Catecismo de la Iglesia Católica. CCC 633, 637, 1026–1029, 1992–2001.
 - Lutero, Martín. *Lecciones sobre Romanos*. 1515–1516. (Fuente de la frase *incurvatus in se*, derivada de la teología agustiniana.)
 
-### Obras previas del autor
 
-- Gaitan, Oscar. [¿Necesita el tiempo que yo exista, o necesito yo el tiempo?](/academic-profile/2026/04/08/does-time-need-me/) Abril 2026.
-- Gaitan, Oscar. [¿Dónde estás? Sobre la misericordia, la voluntad y el punto de cruce](/academic-profile/2026/04/12/donde-estas/) Abril 2026.
 
----
 
 *Ver también:*
 - [¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene](/academic-profile/2026/05/05/donde-esta-dios/) — el mismo fundamento no-derivado leído desde el problema del sufrimiento

@@ -12,7 +12,7 @@ pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html
 ---
 
-*From the Gaitan Topology — Second Monograph*
+> The fullness of existence is available now, in the finite space of this particular Thursday. Inexhaustible within the finite.
 
 ---
 
@@ -1449,17 +1449,4 @@ Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. Chapt
 
 Gaitan, Oscar. *The Lemniscate of Time*. Independent publication, 2024. License CC BY-NC 4.0. Available at: Zenodo, OSF, Academia.edu. — The first monograph establishes the lemniscate as a contemplative heuristic for the doctrines of the Fall, the Incarnation, the sacraments, and eschatology. The present volume presupposes it and constitutes its continuation at the biographical, phenomenological, and social level.
 
----
 
-## Related Essays
-
-- [La Lemniscata del Tiempo](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/) — Spanish translation of this monograph.
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/) — Extension of the framework into civilizational critique.
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/) — Repentance and the structure of the crossing.
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — Eschatology and the second loop.
-- [One Day](/academic-profile/2026/04/08/one-day/) — The particular Tuesday and the fullness of the finite.
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/) — Divine identity and the topology of encounter.
-
----
-
-**Cite this work:** Gaitan, O. (2026). *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace.* Zenodo. License: CC BY-NC 4.0.

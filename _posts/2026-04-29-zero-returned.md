@@ -12,11 +12,28 @@ pdf_url: "https://zenodo.org/records/19893906/files/zero-returned.pdf"
 translation_url: /ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html
 ---
 
-*What Decimal Notation Suggests About Repetition, Identity, and Infinity*
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/return_to_zero.jpeg" alt="Return to Zero sketch" width="500">
+</div>
 
 *5 + 5 ≡ 0 (mod 10)*
 
+*What Decimal Notation Suggests About Repetition, Identity, and Infinity*
+
+## Table of Contents
+
+- [Abstract](#abstract)
+- [I. The Arrow and its Assumption](#i-the-arrow-and-its-assumption)
+- [II. The Crossing Point](#ii-the-crossing-point)
+- [III. The Aphelion at Five](#iii-the-aphelion-at-five)
+- [IV. Infinite as Frequency](#iv-infinite-as-frequency)
+- [V. Objections and Limits](#v-objections-and-limits)
+- [VI. What the Sketch Already Knew](#vi-what-the-sketch-already-knew)
+- [References](#references)
+  
 ---
+
+## Abstract
 
 Human counting unconsciously encodes two intuitions at once. The first is linear: quantity increases without bound, each number succeeding the last, the count extending forever into a horizon that never closes. The second is cyclical: the symbols that carry the count return, decade after decade, scale after scale, in an unbroken pattern of recurrence that no amount of accumulation ever disrupts. These two intuitions have always coexisted within the decimal system. They have rarely been examined together.
 
@@ -30,7 +47,7 @@ What follows is a metaphysical meditation on recurrence embedded in number repre
 
 ---
 
-## I. The Arrow and Its Assumption
+## I. The Arrow and its Assumption
 
 Pick up any mathematics textbook written for children and turn to the chapter on numbers. You will find, within the first few pages, a drawing that has become so universal it is no longer recognized as a choice. It is a horizontal line, extending in both directions, with an arrow at each end. Numbers are placed along it at regular intervals — negative to the left, positive to the right — and the arrows say, without ambiguity: this continues forever. There is no edge. There is no return.
 
@@ -137,11 +154,5 @@ Infinity is not out there, past the arrow, beyond the last number you can name. 
 - Heidegger, Martin. *Being and Time.* Harper & Row, 1962.
 - Husserl, Edmund. *Philosophy of Arithmetic.* Kluwer, 2003.
 
----
 
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — The Now and its dependence
-- [You Cannot Add One Hour](/academic-profile/2026/04/20/you-cannot-add-one-hour/) — On temporal density, the formation of the will, and the finitude of the crossing
-- [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) — The three final states as permanent orientations of the will
-- [Where Is God?](/academic-profile/2026/05/05/where-is-god/) — Suffering, the present moment, and the ground that does not intervene
+  

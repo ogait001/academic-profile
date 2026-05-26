@@ -182,13 +182,8 @@ Not projected into a future that never arrives.
 
 > *I am — because I was given.*
 
----
-
-*Oscar Gaitan*  
-*Los Angeles, April 1, 2026 — Holy Wednesday*
 
 ---
-
 ## References
 
 **Sacred Scripture**

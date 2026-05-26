@@ -28,7 +28,7 @@ excerpt: "Una reflexión sobre el hábito de la cultura digital de suministrar r
 
 ---
 
-## Contenido
+## Indice
 
 - [I. La Pregunta como Constitución del Sujeto](#i-la-pregunta-como-constitución-del-sujeto)
 - [II. La Mecánica de la Saciedad](#ii-la-mecánica-de-la-saciedad)
@@ -138,25 +138,18 @@ El aposento está lleno. La puerta está abierta. Y ni siquiera echamos de menos
 
 ## Referencias
 
-Platón. *Apología.* Traducción de J. Calonge Ruiz. En *Diálogos I.* Madrid: Gredos, 1981.
+- Platón. *Apología.* Traducción de J. Calonge Ruiz. En *Diálogos I.* Madrid: Gredos, 1981.
+- Platón. *Menón.* Traducción de F. J. Olivieri. En *Diálogos II.* Madrid: Gredos, 1983.
+- Evangelio de Mateo 16:13–16; 19:16–22. *La Santa Biblia,* versión Reina-Valera 1960.
+- Génesis 3:1–6. *La Santa Biblia,* versión Reina-Valera 1960.
+- Exodo 32:1–4. *La Santa Biblia,* versión Reina-Valera 1960.
+- Mateo 6:6. *La Santa Biblia,* versión Reina-Valera 1960.
+- Apocalipsis 13:17. *La Santa Biblia,* versión Reina-Valera 1960.
+- Zuboff, Shoshana. *La era del capitalismo de la vigilancia.* Traducción de Albino Santos Mosquera. Barcelona: Paidós, 2020.
+- Heidegger, Martin. *Ser y Tiempo.* Traducción de Jorge Eduardo Rivera. Santiago de Chile: Editorial Universitaria, 1997.
+- Kierkegaard, Søren. *La enfermedad mortal.* Traducción de Demetrio Gutiérrez Rivero. Madrid: Trotta, 2008.
+- Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducción de Bernardo Moreno Carrillo. Madrid: Taurus, 2009.
 
-Platón. *Menón.* Traducción de F. J. Olivieri. En *Diálogos II.* Madrid: Gredos, 1983.
 
-Evangelio de Mateo 16:13–16; 19:16–22. *La Santa Biblia,* versión Reina-Valera 1960.
-
-Génesis 3:1–6. *La Santa Biblia,* versión Reina-Valera 1960.
-
-Éxodo 32:1–4. *La Santa Biblia,* versión Reina-Valera 1960.
-
-Mateo 6:6. *La Santa Biblia,* versión Reina-Valera 1960.
-
-Apocalipsis 13:17. *La Santa Biblia,* versión Reina-Valera 1960.
-
-Zuboff, Shoshana. *La era del capitalismo de la vigilancia.* Traducción de Albino Santos Mosquera. Barcelona: Paidós, 2020.
-
-Heidegger, Martin. *Ser y Tiempo.* Traducción de Jorge Eduardo Rivera. Santiago de Chile: Editorial Universitaria, 1997.
-
-Kierkegaard, Søren. *La enfermedad mortal.* Traducción de Demetrio Gutiérrez Rivero. Madrid: Trotta, 2008.
-
-Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducción de Bernardo Moreno Carrillo. Madrid: Taurus, 2009.
+  
 

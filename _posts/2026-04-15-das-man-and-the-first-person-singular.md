@@ -230,22 +230,5 @@ The first person singular is the minimum condition of every form of authentic hu
 
 - Kappler, Herbert. SS-Obersturmbannführer; chief of the German Security Police in Rome, 1942–1944. Responsible for the Ardeatine Caves massacre (March 24, 1944).
 
-### Author's Prior Works in the Series
 
-- Gaitan, Oscar. [The Topology of Presence: Four Planes of Existence on the Lemniscate](https://doi.org/10.5281/zenodo.19684052). Zenodo, 2026.
-- Gaitan, Oscar. [Dos significados del 'es': El horizonte de Heidegger y el punto de cruce](https://doi.org/10.5281/zenodo.19684135). Zenodo, 2026.
-- Gaitan, Oscar. [The Lemniscate of Time: A Topology of Memory, Possibility, and Grace](/academic-profile/2026/03/20/the-lemniscate-of-time/). Zenodo, 2026.
-- Gaitan, Oscar. The Alternate Lemniscate: On the Geometry of Displacement. Zenodo, 2026.
-- Gaitan, Oscar. The Serpent, the Self, and the Collapse of the "I." Zenodo, 2026.
-- Gaitan, Oscar. [One Day: The Opportunity That Never Arrives](/academic-profile/2026/04/08/one-day/). Zenodo, 2026.
-- Gaitan, Oscar. You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing. Zenodo, 2026.
 
----
-
-*Related essays on this site:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/)
-- [One Day](/academic-profile/2026/04/08/one-day/)
-- [The Artificial Selection](/academic-profile/2026/04/01/the-artificial-selection/)
-- [Against You Alone](/academic-profile/2026/05/08/against-you-alone/)
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/)
-- [De-Roling God](/academic-profile/2026/05/09/de-roling-god/)

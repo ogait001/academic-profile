@@ -26,26 +26,11 @@ El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, l
 - [Nota sobre el método](#nota-sobre-el-método)
 - [I. Prólogo: La batalla equivocada](#i-prólogo-la-batalla-equivocada)
 - [II. Lo que Dios realmente hace](#ii-lo-que-dios-realmente-hace)
-  - [La estructura del Ahora](#la-estructura-del-ahora)
-  - [Del grosor cero a la dependencia: el puente analítico](#del-grosor-cero-a-la-dependencia-el-puente-analítico)
-  - [Por qué el rol no puede ser refutado](#por-qué-el-rol-no-puede-ser-refutado)
 - [III. Comunidad y multitud](#iii-comunidad-y-multitud)
-  - [La topología de la presencia](#la-topología-de-la-presencia)
-  - [La multitud y su centro falso](#la-multitud-y-su-centro-falso)
 - [IV. Tres modos de ataque — y por qué solo uno funciona](#iv-tres-modos-de-ataque--y-por-qué-solo-uno-funciona)
-  - [Modo uno: la eliminación física](#modo-uno-la-eliminación-física)
-  - [Modo dos: el desplazamiento ideológico](#modo-dos-el-desplazamiento-ideológico)
-  - [Modo tres: la evacuación del Ahora](#modo-tres-la-evacuación-del-ahora)
 - [V. La maquinaria de la evacuación](#v-la-maquinaria-de-la-evacuación)
-  - [Das Man a escala — y su límite](#das-man-a-escala--y-su-límite)
-  - [La cadena de centros vacíos](#la-cadena-de-centros-vacíos)
-  - [Satanás cambió de profesión](#satanás-cambió-de-profesión)
 - [VI. El yo que no puede ser alcanzado](#vi-el-yo-que-no-puede-ser-alcanzado)
-  - [Por qué el punto de cruce sobrevive](#por-qué-el-punto-de-cruce-sobrevive)
-  - [El llamado a la puerta](#el-llamado-a-la-puerta)
 - [VII. Los tres modos y la topología del Ahora](#vii-los-tres-modos-y-la-topología-del-ahora)
-  - [Por qué la topología explica lo que la historia no puede](#por-qué-la-topología-explica-lo-que-la-historia-no-puede)
-  - [La asimetría que revela la topología](#la-asimetría-que-revela-la-topología)
 - [VIII. Conclusión: el fundamento que no puede hacerse inhabitable](#viii-conclusión-el-fundamento-que-no-puede-hacerse-inhabitable)
 - [Referencias](#referencias)
 
@@ -351,8 +336,3 @@ Solo requiere, para que la pregunta surja, un yo lo suficientemente presente par
 - London, Jerry (director). *La escarlata y el negro*. CBS, 1983.
 - Wyler, William (director). *Ben-Hur*. MGM, 1959.
 
----
-
-*Ver también:*
-- [The Artificial Selection: On Endurance, Identity, and the Engineering of an Uninhabited Now](/academic-profile/2026/04/01/artificial-selection/) — la versión en inglés del marco civilizacional relacionado
-- [Alpha and Omega](/academic-profile/2026/05/10/alpha-and-omega/) — sobre la gramática del tiempo y el Ser no-derivado

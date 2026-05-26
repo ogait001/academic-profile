@@ -12,18 +12,18 @@ pdf_url: "https://zenodo.org/records/19476348/files/why-the-center-does-not-run-
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/08/porque-el-centro-no-se-agota.html
 ---
 
-*From the Gaitan Topology*
 
 ---
 
 ## Table of Contents
 
-1. [Why Hope Is the Last Thing That Dies](#i-why-hope-is-the-last-thing-that-dies)
-2. [The Water That Makes You Thirsty Again](#ii-the-water-that-makes-you-thirsty-again)
-3. [The Relativity of Fulfillment](#iii-the-relativity-of-fulfillment)
-4. [The Jar That Does Not Run Dry](#iv-the-jar-that-does-not-run-dry)
-5. [Three Scriptural Positions](#v-three-scriptural-positions)
-6. [Why the Center Does Not Run Out](#vi-why-the-center-does-not-run-out)
+- [I. Why Hope Is the Last Thing That Dies](#i-why-hope-is-the-last-thing-that-dies)
+- [II. The Water That Makes You Thirsty Again](#ii-the-water-that-makes-you-thirsty-again)
+- [III. The Relativity of Fulfillment](#iii-the-relativity-of-fulfillment)
+- [IV. The Jar That Does Not Run Dry](#iv-the-jar-that-does-not-run-dry)
+- [V. Three Scriptural Positions](#v-three-scriptural-positions)
+- [VI. Why the Center Does Not Run Out](#vi-why-the-center-does-not-run-out)
+- [References](#references)
 
 ---
 
@@ -157,11 +157,3 @@ Because the center is not ours. It is given. And what is given from the "I am" i
 - Moore, E. H. "On the Reciprocal of the General Algebraic Matrix." *Bulletin of the American Mathematical Society,* 1920.
 - Penrose, Roger. "A Generalized Inverse for Matrices." *Proceedings of the Cambridge Philosophical Society,* 1955.
 
----
-
-*Related essays:*
-- [The Lemniscate of Time](/academic-profile/2026/03/20/the-lemniscate-of-time/) — The foundational framework
-- [Does Time Need Me, or Do I Need Time?](/academic-profile/2026/04/08/does-time-need-me/) — The Now and its dependence
-- [Where Are You? On Mercy, Will, and the Crossing Point](/academic-profile/2026/04/12/where-are-you/) — The geometry of the will at the Now
-- [Where Does Time End?](/academic-profile/2026/04/30/where-does-time-end/) — The three final states as permanent orientations of the will
-- [Where Is God?](/academic-profile/2026/05/05/where-is-god/) — Suffering, the present moment, and the ground that does not intervene

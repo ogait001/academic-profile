@@ -106,7 +106,7 @@ title: Oscar Gaitan — Philosophy & Catholic Thought
 
 # Oscar Gaitan — Philosophy & Catholic Thought
 
-*Independent philosophical researcher exploring ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.*
+**Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.*
 
 Essays written for both scholarly readers and the philosophically curious.
 
@@ -236,16 +236,14 @@ Many essays are available in both **English and Spanish**.
     <h2>About</h2>
 
     <p>
-Oscar Gaitan is a Nicaraguan-American independent philosophical researcher
-whose work explores ontology, temporality, metaphysical anthropology,
-phenomenology, philosophy of time, and Catholic thought. He is the author
-of The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession (2026),
-a monograph proposing the lemniscate (∞) as a contemplative framework for understanding the relationship between time and eternity.
+Oscar Gaitan is a Nicaraguan-American independent philosophical researcher developing an original
+philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
+He is the author of *The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession* (2026), a monograph
+proposing the lemniscate (∞) as a contemplative framework for understanding the relationship between time and eternity.
 </p>
 
 <p>
-His essays develop an original philosophical framework made publicly
-available through open scholarship.
+His essays explore philosophical theology, phenomenology, consciousness, temporality, and the metaphysics of human existence.
 </p>
 
     <h3>Contact</h3>

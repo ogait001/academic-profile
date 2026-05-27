@@ -30,9 +30,7 @@ translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and
 
 ---
 
-*En continuidad con* La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata
 
----
 
 ## I. La Curva de la Serpiente
 

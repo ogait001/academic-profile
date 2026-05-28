@@ -5,7 +5,7 @@ date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, time-and-eternity, self-and-identity, non-derivative-being, sustenance, mercy, presence, illusion-doctrine]
 lang: es
-excerpt: "Una meditación fenomenológica sobre nacimiento, muerte y el fundamento sustentador que mantiene visible al mundo."
+excerpt: "Una meditación fenomenológica sobre el nacimiento, la muerte y el Fundamento que sostiene la realidad sin retirarse."
 doi: "10.5281/zenodo.20435149"
 record_url: "https://zenodo.org/records/20435149"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435149"

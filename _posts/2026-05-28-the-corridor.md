@@ -9,6 +9,7 @@ excerpt: "A phenomenological meditation on birth, death, and the sustaining grou
 doi: "10.5281/zenodo.20435134"
 record_url: "https://zenodo.org/records/20435134"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435134"
+translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/28/el-pasillo.html"
 ---
 
 > "In him we live and move and have our being."

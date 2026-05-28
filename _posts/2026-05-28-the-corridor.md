@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "The Corridor: On the Ground That Does Not Withdraw"
+title: "The Corridor: on the Ground that does not withdraw"
 date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, time-and-eternity, self-and-identity, non-derivative-being, sustenance, mercy, presence, illusion-doctrine]
 lang: en
-excerpt: "Nothing in the visible world floats. The hospital corridor -- where a child takes its first breath on one side and a man lets go of his last on the other -- is the building where the ground that does not withdraw becomes unignorable. To stand in the corridor and ask Where is God? is to stand inside the answer."
+excerpt: "A phenomenological meditation on birth, death, and the sustaining ground that holds the visible world in being."
 doi: "10.5281/zenodo.20435134"
 record_url: "https://zenodo.org/records/20435134"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435134"

@@ -28,7 +28,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 
 ## I. El Pasillo
 
-De pie en un pasillo de hospital. A un lado, un nino toma su primer aliento. Al otro, un hombre suelta el ultimo. Las puertas no estan lejos una de otra. El minuto es el mismo. El suelo bajo ambas habitaciones es el mismo suelo.
+De pie en un pasillo de hospital. A un lado, un niño toma su primer aliento. Al otro, un hombre suelta el ultimo. Las puertas no estan lejos una de otra. El minuto es el mismo. El suelo bajo ambas habitaciones es el mismo suelo.
 
 Esto no es metafora. Es lo que es un hospital.
 
@@ -46,7 +46,7 @@ Esto es lo no-derivado. Es lo que los cristianos han llamado Dios. Es lo que la 
 
 ## III. La doctrina de la ilusion en el umbral
 
-Hay una tradicion --antigua, persistente, hallada en multiples culturas y en muchos filosofos-- que sostiene que lo temporal es ilusion. El mundo visible es velo, sueno, superficie. El sabio aprende a ver a traves de el.
+Hay una tradicion --antigua, persistente, hallada en multiples culturas y en muchos filosofos-- que sostiene que lo temporal es ilusion. El mundo visible es velo, sueño, superficie. El sabio aprende a ver a traves de el.
 
 Lleva esa doctrina al pasillo de un hospital y observala fallar.
 
@@ -56,7 +56,7 @@ La doctrina de la ilusion ha percibido algo verdadero: que lo temporal no contie
 
 Las formas mas fuertes de estas tradiciones no niegan rotundamente la apariencia fenomenica. Madhyamaka distingue la verdad convencional de la verdad ultima; Advaita distingue lo *vyavahārika* de lo *pāramārthika*. El practicante sofisticado responde que la participacion pragmatica en el pasillo no implica el asentimiento metafisico a el --y la respuesta tiene fuerza en el plano de la doctrina. Pero concede el punto estructural. El practicante no puede, de hecho, tratar el pasillo como ilusion mientras esta dentro de el. La doctrina sobrevive solo limitando el alcance de su aplicacion practica dentro del pasillo --y el pasillo, donde lo convencional y lo ultimo se presionan uno contra el otro bajo condiciones de duelo, sangre y lo irreversible, es donde esa limitacion se vuelve mas dificil de mantener.
 
-Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirada. Lejos de los muros. Lejos del duelo. Lejos del medicamento. Lejos de la habitacion contigua. El hospital es el lugar donde la doctrina de la ilusion tiene que realizar una hazana de no-percepcion selectiva tan extensa que la doctrina se vuelve cada vez mas dificil de habitar consistentemente.
+Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirada. Lejos de los muros. Lejos del duelo. Lejos del medicamento. Lejos de la habitacion contigua. El hospital es el lugar donde la doctrina de la ilusion tiene que realizar una hazaña de no-percepcion selectiva tan extensa que la doctrina se vuelve cada vez mas dificil de habitar consistentemente.
 
 ## IV. La misericordia que sostiene ambas habitaciones
 

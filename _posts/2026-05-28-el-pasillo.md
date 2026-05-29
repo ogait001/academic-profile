@@ -72,7 +72,7 @@ Lo que el pasillo revela en cambio es que lo no-derivado no esta en las habitaci
 
 ## V. Donde la pregunta se resuelve
 
-La pregunta *Donde esta Dios?* a veces se hace en un pasillo de hospital. Se hace con punos apretados y manos abiertas, dirigida hacia los techos y hacia los suelos.
+La pregunta *Donde esta Dios?* a veces se hace en un pasillo de hospital. Se hace con puños apretados y manos abiertas, dirigida hacia los techos y hacia los suelos.
 
 La respuesta no esta fuera del pasillo. Esta en el hecho de que el pasillo se sostiene en pie.
 

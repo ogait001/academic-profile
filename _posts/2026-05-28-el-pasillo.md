@@ -62,7 +62,7 @@ Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirad
 
 Lo no-derivado no elige a que cruce asistir.
 
-Esto es lo segundo que el hospital hace visible. El Ahora que sostiene la sala de maternidad es el mismo Ahora que sostiene la habitacion de cuidados paliativos. No hay metafisica-por-ascensor: el suelo sustentador no cambia entre pisos. El mismo suelo que sostiene el primer aliento del nino sostiene el ultimo del hombre. La misericordia no es una preferencia mostrada a una habitacion. La misericordia es el sustentar mismo, dado por igual a ambas.
+Esto es lo segundo que el hospital hace visible. El Ahora que sostiene la sala de maternidad es el mismo Ahora que sostiene la habitacion de cuidados paliativos. No hay metafisica-por-ascensor: el suelo sustentador no cambia entre pisos. El mismo suelo que sostiene el primer aliento del niño sostiene el ultimo del hombre. La misericordia no es una preferencia mostrada a una habitacion. La misericordia es el sustentar mismo, dado por igual a ambas.
 
 Esto no es metafora. Lo que nombramos misericordia en terminos personales y morales --la negativa a retirarse-- es derivativo de esa negativa anterior, estructural. La compasion junto al lecho es real porque el suelo bajo el lecho no ha sido retirado. La misericordia personal presupone el sustentar como su condicion previa, no al reves.
 

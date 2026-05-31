@@ -5,11 +5,11 @@ date: 2026-05-31
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscata, tiempo, eternidad, punto-de-cruce, Encarnacion, teologia-sacramental, recurrencia, providencia, escatologia, razonamiento-analogico, metafisica-especulativa, libertad, presciencia]
 lang: es
-excerpt: "Una meditacion teologico-filosofica que propone la lemniscata como modelo heuristico para la recurrencia, la simultaneidad sacramental, el conocimiento profético previo y la transicion escatologica."
+excerpt: "¿Puede accederse a la eternidad desde el tiempo? Una meditación lemniscática sobre providencia y plenitud."
 doi: "10.5281/zenodo.20479198"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20479198"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20479198"
-translation_url: "/2026/05/31/the-lemniscate-model-of-time/"
+translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/31/the-lemniscate-model-of-time.html"
 ---
 
 ## Tabla de contenidos

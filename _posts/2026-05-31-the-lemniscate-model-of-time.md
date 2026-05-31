@@ -5,7 +5,7 @@ date: 2026-05-31
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, time, eternity, crossing-point, Incarnation, sacramental-theology, recurrence, providence, eschatology, analogical-reasoning, speculative-metaphysics, freedom, foreknowledge]
 lang: en
-excerpt: "A theological-philosophical meditation proposing the lemniscate as a heuristic model for recurrence, sacramental simultaneity, divine foreknowledge, and eschatological transition."
+excerpt: "Can eternity be accessed from within time? A lemniscate-shaped meditation on recurrence, providence, and fulfillment."
 doi: "10.5281/zenodo.20479112"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20479112"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20479112"

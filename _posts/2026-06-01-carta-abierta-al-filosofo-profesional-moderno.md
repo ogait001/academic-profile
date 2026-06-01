@@ -9,7 +9,7 @@ excerpt: "Una epístola filosófica sobre la sabiduría, la accesibilidad y la c
 doi: "10.5281/zenodo.20497560"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
-translation_url: "/2026/06/01/an-open-letter-to-the-professional-modern-philosopher/"
+translation_url: "https://oscargaitan.org/ontology/2026/06/01/an-open-letter-to-the-professional-modern-philosopher.html"
 ---
 
 > "La cerca y el bisturí pueden parecerse desde lejos. La diferencia está en para qué sirven."

@@ -5,7 +5,7 @@ date: 2026-06-01
 categories: [ontology]
 tags: [philosophy, accessibility, independent-scholarship, wisdom, habitable-philosophy, gatekeeping, lemniscate, open-letter]
 lang: en
-excerpt: "On the difference between guarding wisdom and sharing it -- and whether rigor and accessibility must truly stand opposed to one another."
+excerpt: "A philosophical epistle on wisdom, accessibility, and the enduring question of who philosophy is ultimately for."
 doi: "10.5281/zenodo.20497560"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"

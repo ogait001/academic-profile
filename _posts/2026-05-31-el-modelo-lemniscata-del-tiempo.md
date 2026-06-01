@@ -35,7 +35,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
   - [Providencia y Contingencia](#providencia-y-contingencia)
 - [Capítulo 4: Escatología y la Salida de la Curva](#capítulo-4-escatología-y-la-salida-de-la-curva)
   - [Dos Clases de Movimiento](#dos-clases-de-movimiento)
-  - [El Eschaton como Cruce Permanente](#el-eschaton-como-cruce-permanente)
+  - [El Escatón como Cruce Permanente](#el-eschaton-como-cruce-permanente)
   - [Escatología e Historia](#escatología-e-historia)
 - [Capítulo 5: Lo Que el Modelo Ilumina y Lo Que No Afirma](#capítulo-5-lo-que-el-modelo-ilumina-y-lo-que-no-afirma)
   - [Lo Que el Modelo Puede Iluminar](#lo-que-el-modelo-puede-iluminar)
@@ -172,17 +172,17 @@ El punto de cruce es donde esta compatibilidad se vuelve más aguda. En el nodo,
 
 ## Capítulo 4: Escatología y la Salida de la Curva
 
-Si la lemniscata es la estructura de la existencia temporal creada, surge una pregunta que el modelo no puede eludir: ¿qué es el escatòn? Si la curva es recorrible indefinidamente -- cerrada pero inagotable -- ¿qué constituye el final? La respuesta del modelo descansa sobre la distinción entre recorrido y transición.
+Si la lemniscata es la estructura de la existencia temporal creada, surge una pregunta que el modelo no puede eludir: ¿qué es el escatón? Si la curva es recorrible indefinidamente -- cerrada pero inagotable -- ¿qué constituye el final? La respuesta del modelo descansa sobre la distinción entre recorrido y transición.
 
 ### Dos Clases de Movimiento
 
 A lo largo de la existencia temporal, el movimiento es a lo largo de la curva: de posición en posición, recorriendo el arco, pasando por el punto de cruce repetidamente. Este es el modo del tiempo creatural -- sucesión, memoria, anticipación, recurrencia, el retorno en profundidad. Los sacramentos hacen accesible el punto de cruce desde dentro de este modo; la oración y la contemplación permiten a la criatura habitar allí temporalmente; pero el recorrido continúa. La criatura permanece en la curva.
 
-El eschaton nombra un tipo de movimiento completamente diferente: no el recorrido a lo largo de la curva sino la salida de ella -- transición dimensional del lazo temporal a la presencia eterna. Esto es lo que el eje ortogonal hace posible. El eje no discurre a lo largo de la curva; la penetra. Seguir el eje no es moverse a otra posición dentro de la sucesión temporal sino abandonar la sucesión temporal por completo, atravesando el punto de cruce no lateralmente (como en cada recorrido normal) sino a lo largo de la dimensión ortogonal -- fuera del plano.
+El escatón nombra un tipo de movimiento completamente diferente: no el recorrido a lo largo de la curva sino la salida de ella -- transición dimensional del lazo temporal a la presencia eterna. Esto es lo que el eje ortogonal hace posible. El eje no discurre a lo largo de la curva; la penetra. Seguir el eje no es moverse a otra posición dentro de la sucesión temporal sino abandonar la sucesión temporal por completo, atravesando el punto de cruce no lateralmente (como en cada recorrido normal) sino a lo largo de la dimensión ortogonal -- fuera del plano.
 
 La resurrección del cuerpo no es, en este modelo, la reanudación del recorrido sino su transfiguración. Es la existencia glorificada en un modo que ya no requiere la curva -- no porque el cuerpo sea abandonado sino porque la materia misma participa en un modo de ser donde la descripción entrópica ya no se aplica. La Segunda Ley gobierna los procesos dentro de la curva; la resurrección no es inversión de la entropía dentro del sistema sino salida del sistema hacia un modo al que las leyes del sistema no aplican.
 
-### El Eschaton como Cruce Permanente
+### El Escatón como Cruce Permanente
 
 La imagenética escatológica de las Escrituras -- la Nueva Jerusalén, la visión beatífica, las bodas del Cordero -- representa consistentemente no la continuación de la sucesión temporal sino su transformación en algo cualitativamente diferente. "Ya no habrá noche" (Apocalipsis 22:5) no es la eliminación del tiempo sino la eliminación de la condición que hace necesaria la sucesión: la oscilación entre presencia y ausencia que traza la curva temporal. Habitar permanentemente el punto de cruce -- no pasándolo en cada recorrido sino habitándolo sin movimiento -- sería un modo de existencia para el que la curva es preparación pero no destino.
 
@@ -194,7 +194,7 @@ El Cielo es la salida consumada: existencia más allá de la curva en el modo ha
 
 ### Escatología e Historia
 
-El eschaton no abole la historia sino que la cumple. Lo que se ha recorrido a lo largo de la curva no se borra sino que se recopila -- asumido en el presente eterno donde todos los momentos se sostienen simultáneamente. Las llagas de Cristo glorificadas en el cuerpo resucitado son la imagen teológica de esto: no obliteradas por la glorificación sino transformadas dentro de ella, llevadas adelante no como trauma sino como testimonio. Todo lo que es genuinamente bueno en el recorrido temporal -- cada acto de amor, cada momento de presencia genuina, cada cruce abordado en fe -- no se pierde cuando la curva termina. Es recibido en el presente eterno al que el punto de cruce siempre abrió.
+El escatón no abole la historia sino que la cumple. Lo que se ha recorrido a lo largo de la curva no se borra sino que se recopila -- asumido en el presente eterno donde todos los momentos se sostienen simultáneamente. Las llagas de Cristo glorificadas en el cuerpo resucitado son la imagen teológica de esto: no obliteradas por la glorificación sino transformadas dentro de ella, llevadas adelante no como trauma sino como testimonio. Todo lo que es genuinamente bueno en el recorrido temporal -- cada acto de amor, cada momento de presencia genuina, cada cruce abordado en fe -- no se pierde cuando la curva termina. Es recibido en el presente eterno al que el punto de cruce siempre abrió.
 
 "He aquí que hago nuevas todas las cosas" (Apocalipsis 21:5) no es así el reemplazo de lo que fue por algo no relacionado con ello, sino la transfiguración de lo que se recorrió hacia un modo adecuado a lo que siempre apuntaba. La lemniscata nunca fue el destino. Era el camino.
 

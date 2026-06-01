@@ -9,6 +9,7 @@ excerpt: "A philosophical epistle on wisdom, accessibility, and the enduring que
 doi: "10.5281/zenodo.20497560"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
+translation_url: "https://oscargaitan.org/ontology/2026/06/01/carta-abierta-al-filosofo-profesional-moderno.html"
 ---
 
 > "The fence and the scalpel can look alike from a distance. The difference is what they are for."

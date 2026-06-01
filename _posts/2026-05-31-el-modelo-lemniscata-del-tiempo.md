@@ -172,7 +172,7 @@ El punto de cruce es donde esta compatibilidad se vuelve más aguda. En el nodo,
 
 ## Capítulo 4: Escatología y la Salida de la Curva
 
-Si la lemniscata es la estructura de la existencia temporal creada, surge una pregunta que el modelo no puede eludir: ¿qué es el eschaton? Si la curva es recorrible indefinidamente -- cerrada pero inagotable -- ¿qué constituye el final? La respuesta del modelo descansa sobre la distinción entre recorrido y transición.
+Si la lemniscata es la estructura de la existencia temporal creada, surge una pregunta que el modelo no puede eludir: ¿qué es el escatòn? Si la curva es recorrible indefinidamente -- cerrada pero inagotable -- ¿qué constituye el final? La respuesta del modelo descansa sobre la distinción entre recorrido y transición.
 
 ### Dos Clases de Movimiento
 

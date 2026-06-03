@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Does Time Need Me, or Do I Need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being"
-date: 2026-04-22 00:00:00 -0500
+date: 2026-04-10 00:00:00 -0500
 categories: [philosophy-of-time, ontology]
 tags:
   - lemniscate

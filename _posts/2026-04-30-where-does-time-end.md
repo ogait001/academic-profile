@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where Does Time End? The Three Nows: Forever. Never."
-date: 2026-04-30
+date: 2026-04-14
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, phenomenology]
 lang: en

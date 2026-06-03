@@ -55,7 +55,7 @@ A life in which nothing significant is being decided, in which the will has sett
 
 The structural reason is this: if time is the condition of ordered change, and change varies in the degree to which it reconfigures the state of a subject, then temporal density is proportional to the depth of ontological reconfiguration occurring at a given crossing. A moment in which the will reorients at the axis involves maximum reconfiguration — not merely a new state of the body, but a new direction of the subject's fundamental orientation. That is why it is the densest temporal event available within the created order. Not because it feels significant, but because it is, structurally, the most complete actualization of which a human being is capable.
 
-David's four words — *I have sinned against the Lord* — are more temporally dense than the months of evasion that preceded them. Not longer. Denser. More actual.
+David's words — *I have sinned against the Lord* — are more temporally dense than the months of evasion that preceded them. Not longer. Denser. More actual.
 
 ---
 

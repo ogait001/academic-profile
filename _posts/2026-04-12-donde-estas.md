@@ -219,7 +219,7 @@ Antes de la Encarnación, Cristo está presente en cada punto de cruce como el V
 
 Después del Calvario, Cristo está presente en cada punto de cruce como el Señor encarnado, crucificado y resucitado — aquel que ha pasado a través de la muerte y abierto lo que la muerte había cerrado. La misericordia es la misma misericordia. El fundamento es el mismo fundamento. Pero la apertura plena a la que la misericordia siempre apuntaba es ahora, dentro del orden creado, accesible.
 
-La lemniscata no cambia de forma en el Calvario. El punto de cruce no se mueve. Lo que cambia es aquello hacia lo que el punto de cruce abre ahora. La figura es la misma. La puerta en el centro está ahora abierta hasta el fondo — no recién creada, sino recién transitable dentro de la estructura de la creación.
+La lemniscata no cambia de forma en el Calvario. El punto de cruce no se mueve. Lo que cambia es aquello hacia lo que el punto de cruce abre ahora. La figura es la misma. La puerta en el centro está ahora abierta de lado a lado — no recién creada, sino recién transitable dentro de la estructura de la creación.
 
 ---
 

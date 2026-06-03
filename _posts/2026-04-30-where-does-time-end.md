@@ -39,7 +39,7 @@ Now we ask: what happens when time ends?
 
 Not for the universe — that is a different question. For the person. For the soul that has traversed the lemniscate from birth to death, crossing the Now ten thousand times, orienting its will at the crossing point toward or away from what was always present there. What is the structure of what awaits?
 
-The tradition names three final states: Heaven, Purgatory, Hell. Not three locations in space — the tradition itself is careful about this, more careful than popular imagination allows. Three modes of existing in final relation to the God who is, in the grammar of Exodus, simply and absolutely: I AM.
+The tradition names three final states: Heaven, Purgatory, Hell. Not three locations in space — the tradition itself is careful about this, more careful than popular imagination allows. Three modes of existing in final relation to the God who is, in the grammar of Exodus, simply and absolutely: I AM WHO I AM.
 
 ---
 
@@ -87,7 +87,7 @@ The resurrection body is that vehicle fulfilled. No longer the means of becoming
 
 Here the framework produces its most structurally precise contribution to a doctrine that is widely misunderstood, frequently caricatured, and — even among those who accept it — rarely thought through with structural care.
 
-The soul in Purgatory is saved. This is the tradition's first and non-negotiable insistence. It has died in God's grace. Its will, at the moment of death, was oriented toward the crossing point — toward the mercy that was always present there, toward the God who is I AM. It has turned. It is not in the condition of Adam refusing the address, or Cain questioning it. It has said, with whatever imperfection, what David said: *I have sinned against the Lord.*
+The soul in Purgatory is saved. This is the tradition's first and non-negotiable insistence. It has died in God's grace. Its will, at the moment of death, was oriented toward the crossing point — toward the mercy that was always present there, toward the God who is I AM WHO I AM. It has turned. It is not in the condition of Adam refusing the address, or Cain questioning it. It has said, with whatever imperfection, what David said: *I have sinned against the Lord.*
 
 But it carries marks. Not the stain of unforgiven mortal sin — that would be a different final state entirely. But the residue of venial sin, of attachments not fully released, of love not yet fully purified. The tradition uses the image of gold refined in fire — not destroyed, but clarified. The soul is already gold. It is being purified of what is not gold.
 
@@ -129,7 +129,7 @@ The mercy is present. The axis is present. The door, as the tradition insists, i
 
 This is what we mean by the inverted Now.
 
-In the ordinary Now — the Now as we have described it, the Now as it is for every soul still in temporal succession — the crossing point is the site of maximum ontological openness. It is where the will meets grace, where the address is issued, where return is always possible. The Now is oriented: it opens toward what grounds it, toward the I AM who holds it open, toward the mercy that is its permanent content.
+In the ordinary Now — the Now as we have described it, the Now as it is for every soul still in temporal succession — the crossing point is the site of maximum ontological openness. It is where the will meets grace, where the address is issued, where return is always possible. The Now is oriented: it opens toward what grounds it, toward the I AM WHO I AM who holds it open, toward the mercy that is its permanent content.
 
 In Hell, the Now retains its structure — actualization, continuity, existence — but its orientation is reversed. The soul exists at the crossing point but faces permanently away from what the crossing point opens toward. Every moment is a Now. But every Now is a repetition of the same refusal. Not a refusal being made again — it was made finally at death — but a refusal being inhabited, eternally, as the soul's permanent mode of existing at the center of a lemniscate whose loops have stopped moving.
 

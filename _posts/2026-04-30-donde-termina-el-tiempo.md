@@ -8,7 +8,7 @@ lang: es
 doi: "10.5281/zenodo.19581332"
 record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
-translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/30/where-does-time-end.html
+translation_url: 'https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/14/where-does-time-end.html'
 excerpt: "Una meditación teológica sobre el fin del tiempo personal, donde Cielo, Purgatorio y Infierno emergen como modos perdurables de existencia en el punto de cruce del Ahora."
 ---
 

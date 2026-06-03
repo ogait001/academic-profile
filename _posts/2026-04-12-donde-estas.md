@@ -53,7 +53,7 @@ Lo que Adán hace con esa invitación es el momento estructuralmente más decisi
 
 *La mujer que me diste por compañera me dio del árbol, y yo comí.*
 
-No hay ninguna petición en esa frase. No hay un movimiento de orientación hacia. Hay explicación, distribución de la culpa, acusación implícita — a Eva, y por debajo de ella, al propio Dios, *la que me diste*. Adán está de pie en el punto de cruce, interpelado por aquel que mantiene abierto el Ahora, y aparta la mirada. No fuera del Ahora — no se puede salir del Ahora. Pero dentro de él, se orienta enteramente hacia los bucles. Hacia la memoria: reconstruyendo lo sucedido, atribuyendo su peso a otros. Hacia la anticipación: gestionando consecuencias, calculando la exposición. El único lugar al que no mira es directamente a lo que se le está ofreciendo.
+No hay ninguna petición en esa frase. No hay ningun movimiento de orientación, no hay un giro hacia nada. Hay explicación, distribución de la culpa, acusación implícita — a Eva, y por debajo de ella, al propio Dios, *la que me diste*. Adán está de pie en el punto de cruce, interpelado por aquel que mantiene abierto el Ahora, y aparta la mirada. No fuera del Ahora — no se puede salir del Ahora. Pero dentro de él, se orienta enteramente hacia los bucles. Hacia la memoria: reconstruyendo lo sucedido, atribuyendo su peso a otros. Hacia la anticipación: gestionando consecuencias, calculando la exposición. El único lugar al que no mira es directamente a lo que se le está ofreciendo.
 
 Esta es la estructura de la evasión. No ausencia del Ahora, sino rechazo de lo que el Ahora contiene.
 

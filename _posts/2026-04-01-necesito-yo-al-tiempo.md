@@ -145,13 +145,13 @@ Y si el Ahora cesara — incluso por un instante — no habría ningún instante
 
 ## IX. YO SOY
 
-En el libro del Éxodo, cuando Moisés le pregunta a Dios su nombre, la respuesta no es un nombre propio. Es una declaración gramatical: YO SOY EL QUE SOY. No *yo era*. No *yo seré*. YO SOY — presente puro, incondicionado, autosustentable. Sin dependencia del pasado, sin contingencia del futuro. Ser absoluto en el modo del Ahora.
+En el libro del Éxodo, cuando Moisés le pregunta a Dios su nombre, la respuesta no es un nombre propio. Es una declaración gramatical: YO SOY EL QUE SOY. No *yo era*. No *yo seré*. YO SOY EL QUE SOY — presente puro, incondicionado, autosustentable. Sin dependencia del pasado, sin contingencia del futuro. Ser absoluto en el modo del Ahora.
 
 Eso no es poesía. Es una afirmación ontológica precisa. Y se corresponde exactamente con la pregunta estructural que acabamos de plantear. El Ahora requiere un fundamento que no esté él mismo en el tiempo — porque si el fundamento estuviera en el tiempo, necesitaría a su vez un Ahora en el que existir, y enfrentaríamos una regresión infinita. El fundamento del Ahora debe ser lo que el Ahora mismo no puede ser: autosustentable, no dependiente, fuera de la secuencia que hace posible.
 
 Dios no sostiene el tiempo como una mano sostiene una taza — como si el tiempo fuera una sustancia que requiere soporte físico. Dios sostiene el Ahora como la atención sostiene un pensamiento: en el momento en que el sostenimiento se retira, el pensamiento no cae. Cesa. No hay caída, no hay demora, no hay transición. Simplemente deja de ser.
 
-Por eso YO SOY no es una declaración hecha desde dentro de un momento que pasa. Es una declaración que constituye el momento. El Alfa y la Omega — no el primer evento en una secuencia y el último evento en la misma secuencia, sino aquel en quien toda la estructura del antes y el después es sostenida simultáneamente. Desde dentro de la lemniscata, experimentamos el punto de cruce un Ahora a la vez, moviéndonos a través de él continuamente, sin poder detenernos. Dios sostiene toda la figura a la vez — ambos bucles, el punto de cruce, el principio y el fin — no porque sea muy grande, sino porque no está dentro de la figura en absoluto.
+Por eso YO SOY EL QUE SOY no es una declaración hecha desde dentro de un momento que pasa. Es una declaración que constituye el momento. El Alfa y la Omega — no el primer evento en una secuencia y el último evento en la misma secuencia, sino aquel en quien toda la estructura del antes y el después es sostenida simultáneamente. Desde dentro de la lemniscata, experimentamos el punto de cruce un Ahora a la vez, moviéndonos a través de él continuamente, sin poder detenernos. Dios sostiene toda la figura a la vez — ambos bucles, el punto de cruce, el principio y el fin — no porque sea muy grande, sino porque no está dentro de la figura en absoluto.
 
 El prólogo del Evangelio de Juan alcanza la misma verdad desde un ángulo diferente: *en el principio era el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios. Por él todas las cosas fueron hechas, y sin él nada de lo que ha sido hecho fue hecho.* Si Dios sostiene el Ahora, y nada se vuelve actual salvo en el Ahora, entonces nada es hecho salvo a través de Él — no como causa primera distante que puso las cosas en movimiento y se retiró, sino como la presencia sustentante continua sin la cual el punto de cruce colapsa y la actualidad cesa.
 
@@ -165,7 +165,7 @@ El prólogo del Evangelio de Juan alcanza la misma verdad desde un ángulo difer
 
 Dijimos al principio que podría haber una tercera respuesta. Aquí está.
 
-Ninguno es primario. Ambos son dependientes — no el uno del otro, sino del Ahora. Y el Ahora depende de lo que YO SOY nombra: un absoluto no temporal que sostiene la condición de todo devenir sin devenir él mismo.
+Ninguno es primario. Ambos son dependientes — no el uno del otro, sino del Ahora. Y el Ahora depende de lo que YO SOY EL QUE SOY nombra: un absoluto no temporal que sostiene la condición de todo devenir sin devenir él mismo.
 
 Necesito el tiempo en el sentido de que soy una criatura cuyo ser se despliega a través del cambio, cuya identidad está constituida por las sucesivas actualizaciones de mi agencia dentro del único presente compartido. Sin tiempo — sin la condición del cambio ordenado — no podría devenir. Estaría estático, lo cual para una criatura equivale a no ser.
 
@@ -173,7 +173,7 @@ Pero el tiempo necesita de la materia. La materia necesita del espacio. El espac
 
 Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cual actúa la criatura — es lo que mantiene abierto el Ahora. Ese es el trabajo de aquel que no dice *yo era*, ni *yo seré*, sino simplemente, sin calificación, sin pasado ni futuro, en la única gramática adecuada para lo que es más real:
 
-**YO SOY.**
+**YO SOY EL QUE SOY.**
 
 ---
 

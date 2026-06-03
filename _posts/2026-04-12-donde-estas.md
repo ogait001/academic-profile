@@ -167,7 +167,7 @@ El nombre de ese fundamento, dentro de la tradición junto a la que piensa este 
 
 > En el principio era el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios. Por medio de él todas las cosas fueron hechas; sin él nada de lo que ha sido hecho fue hecho.
 
-Si nada se actualiza sino en el Ahora, y nada es hecho sino por medio del Verbo, entonces el Verbo está presente en cada actualización — no como una causa primera distante que inició la estructura y se retiró, sino como el fundamento continuo de cada cruce. El Ahora es sostenido por YO SOY. La misericordia disponible en el Ahora está fundamentada en aquel por quien cada Ahora es mantenido abierto.
+Si nada se actualiza sino en el Ahora, y nada es hecho sino por medio del Verbo, entonces el Verbo está presente en cada actualización — no como una causa primera distante que inició la estructura y se retiró, sino como el fundamento continuo de cada cruce. El Ahora es sostenido por YO SOY EL QUE SOY. La misericordia disponible en el Ahora está fundamentada en aquel por quien cada Ahora es mantenido abierto.
 
 Esto no es poesía importada para decorar un argumento filosófico. Es la consecuencia estructural de lo que un ensayo anterior ya estableció. Sigue la cadena de dependencias hasta su término y encontrarás no solo un ser autosuficiente, sino un ser autosuficiente que es — como insiste el prólogo de Juan — también el fundamento de todo lo creado. La misericordia está presente en cada Ahora porque aquel que es la misericordia está presente en cada Ahora. No ocasionalmente. No después de un cierto punto en la historia. Continuamente, sin interrupción, como condición del punto de cruce mismo. (cf. CCC 2001: «La preparación del hombre para acoger la gracia ya es obra de la gracia.»)
 

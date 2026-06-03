@@ -152,8 +152,6 @@ This is what mercy structurally requires. Not a soul without sin. Not an act suf
 
 **The turn is not the cause of mercy. It is the shape of its reception.**
 
-*As illustrated in Figure I, the human condition is not a movement along time, but a continuous passage through the crossing point, where will, mercy, and the presence of Christ converge.*
-
 ---
 
 ## VII. The Ground of Mercy

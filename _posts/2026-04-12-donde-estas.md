@@ -153,8 +153,6 @@ Esto es lo que la misericordia requiere estructuralmente. No un alma sin pecado.
 
 El giro no es la causa de la misericordia. Es la forma de su recepción.
 
-*Como se ilustra en la Figura I (ver PDF), la condición humana no es un movimiento a lo largo del tiempo, sino un pasaje continuo a través del punto de cruce, donde la voluntad, la misericordia y la presencia de Cristo convergen. La lemniscata muestra la bucle izquierda (Memoria / Pasado / lo que ya no es) y la bucle derecha (Anticipación / Futuro / Aún no es actual) convergiendo en el centro: el Ahora, punto de actualización, sitio del llamado divino, lugar de la misericordia de recepción. El eje vertical señala hacia Cristo — fundamento trans-temporal de toda misericordia.*
-
 ---
 
 ## VII. El fundamento de la misericordia

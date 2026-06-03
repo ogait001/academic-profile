@@ -166,7 +166,7 @@ The name for that ground, within the tradition this essay is thinking alongside,
 
 *In the beginning was the Word, and the Word was with God, and the Word was God. Through Him all things were made, and without Him nothing was made that has been made.*
 
-If nothing becomes actual except at the Now, and nothing is made except through the Word, then the Word is present at every act of actualization — not as a distant first cause who initiated the structure and withdrew, but as the continuous ground of every crossing. The Now is sustained by I AM. The mercy available at the Now is grounded in the one through whom every Now is held open.
+If nothing becomes actual except at the Now, and nothing is made except through the Word, then the Word is present at every act of actualization — not as a distant first cause who initiated the structure and withdrew, but as the continuous ground of every crossing. The Now is sustained by I AM WHO I AM. The mercy available at the Now is grounded in the one through whom every Now is held open.
 
 This is not poetry imported to decorate a philosophical argument. It is the structural consequence of what a previous essay already established. Follow the chain of dependencies to its terminus and you find not just self-sustaining being, but self-sustaining being that is — as the prologue of John insists — also the ground of all making. Mercy is present at every Now because the one who is mercy is present at every Now. Not occasionally. Not after a certain point in history. Continuously, without interruption, as the condition of the crossing point itself. (cf. CCC 2001: "The preparation of man for the reception of grace is already a work of grace.")
 

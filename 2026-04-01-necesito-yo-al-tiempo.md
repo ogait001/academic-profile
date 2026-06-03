@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Necesito yo al tiempo, o necesita el tiempo de mí?"
-date: 2026-04-22
+date: 2026-04-10
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [time, presence, ontology, invariance, lemniscate, metaphysics]
 lang: es

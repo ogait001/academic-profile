@@ -159,13 +159,13 @@ So what sustains it? This is not a religious question masquerading as philosophy
 
 ## IX. I AM
 
-In the book of Exodus, when Moses asks God for His name, the answer is not a proper noun. It is a grammatical statement: *I AM WHO I AM*. Not I was. Not I will be. I AM — pure, unqualified, self-sustaining present tense. No past dependence, no future contingency. Just absolute being in the mode of the Now.
+In the book of Exodus, when Moses asks God for His name, the answer is not a proper noun. It is a grammatical statement: *I AM WHO I AM*. Not I was. Not I will be. I AM WHO I AM— pure, unqualified, self-sustaining present tense. No past dependence, no future contingency. Just absolute being in the mode of the Now.
 
 That is not poetry. It is a precise ontological claim. And it maps exactly onto the structural question we just raised. The Now requires a ground that is not itself in time — because if the ground were in time, it would itself require a Now in which to exist, and we would face an infinite regress. The ground of the Now must be what the Now itself cannot be: self-sustaining, non-dependent, outside the sequence it makes possible.
 
 God does not sustain time the way a hand holds a cup — as though time were a substance requiring physical support. God sustains the Now the way attention holds a thought: the moment the sustaining withdraws, the thought does not fall. It ceases. There is no falling, no delay, no transition. It simply is not.
 
-This is also why I AM is not a statement made from within a passing moment. It is a statement that constitutes the moment. The Alpha and the Omega — not the first event in a sequence and the last event in the same sequence, but the one in whom the entire structure of before and after is simultaneously held. From inside the lemniscate, we experience the crossing point one Now at a time, moving through it continuously, never able to stop. God holds the whole figure at once — both loops, the crossing point, the beginning and the end — not because He is very large, but because He is not inside the figure at all.
+This is also why I AM WHO I AM is not a statement made from within a passing moment. It is a statement that constitutes the moment. The Alpha and the Omega — not the first event in a sequence and the last event in the same sequence, but the one in whom the entire structure of before and after is simultaneously held. From inside the lemniscate, we experience the crossing point one Now at a time, moving through it continuously, never able to stop. God holds the whole figure at once — both loops, the crossing point, the beginning and the end — not because He is very large, but because He is not inside the figure at all.
 
 The prologue of John's Gospel reaches for the same truth from a different angle: in the beginning was the Word, and through Him all things were made, and without Him nothing was made that has been made. If God sustains the Now, and nothing becomes actual except at the Now, then nothing is made except through Him — not as a distant first cause who set things in motion and withdrew, but as the continuous sustaining presence without which the crossing point collapses and actuality ceases.
 
@@ -179,7 +179,7 @@ The prologue of John's Gospel reaches for the same truth from a different angle:
 
 We said at the beginning that there might be a third answer. Here it is.
 
-Neither is primary. Both are dependent — not on each other, but on the Now. And the Now is dependent on what I AM names: a non-temporal absolute that sustains the condition of all becoming without itself becoming.
+Neither is primary. Both are dependent — not on each other, but on the Now. And the Now is dependent on what I AM WHO I AM names: a non-temporal absolute that sustains the condition of all becoming without itself becoming.
 
 I need time in the sense that I am a creature whose being unfolds through change, whose identity is constituted by the successive actualizations of my agency within the one shared present. Without time — without the condition of ordered change — I could not become. I would be static, which for a creature is the same as not being.
 
@@ -187,7 +187,7 @@ But time needs matter. Matter needs space. Space and matter and time together pr
 
 And yet neither of us — neither the creature nor the time within which the creature acts — is what holds the Now open. That is the work of the one who does not say I was, or I will be, but simply, without qualification, without past or future, in the only grammar adequate to what is most real:
 
-**I AM.**
+**I AM WHO I AM.**
 
 ---
 

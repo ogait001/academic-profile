@@ -17,7 +17,7 @@ excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la vol
 
 - [I. La pregunta que nadie hace](#i-la-pregunta-que-nadie-hace)
 - [II. Densidad temporal](#ii-densidad-temporal)
-- [III. Dos órdenes de cambio](#iii-dos-órdenes-de-cambio)
+- [III. Dos órdenes de cambio](#iii-dos-ordenes-de-cambio)
 - [IV. Caída, hábito y fijación](#iv-caída-hábito-y-fijación)
 - [V. No puedes añadir una hora](#v-no-puedes-añadir-una-hora)
 - [VI. Lo que los cuatro argumentos muestran juntos](#vi-lo-que-los-cuatro-argumentos-muestran-juntos)
@@ -54,11 +54,11 @@ Una vida en la que nada significativo está siendo decidido, en la que la volunt
 
 La razón estructural es esta: si el tiempo es la condición del cambio ordenado, y el cambio varía en el grado en que reconfigura el estado de un sujeto, entonces la densidad temporal es proporcional a la profundidad de la reconfiguración ontológica que ocurre en un cruce dado. Un momento en el que la voluntad se reorienta en el eje implica la máxima reconfiguración — no meramente un nuevo estado del cuerpo, sino una nueva dirección de la orientación fundamental del sujeto. Por eso es el evento temporal más denso disponible dentro del orden creado. No porque se sienta significativo, sino porque es, estructuralmente, la actualización más completa de la que un ser humano es capaz.
 
-Las cuatro palabras de David — *he pecado contra el Señor* — son más temporalmente densas que los meses de evasión que las precedieron. No más largas. Más densas. Más actuales.
+Las palabras de David — *he pecado contra el Señor* — son más temporalmente densas que los meses de evasión que las precedieron. No más largas. Más densas. Más actuales.
 
 ---
 
-## III. Dos Órdenes de Cambio
+## III. Dos Ordenes de Cambio
 
 Aquí el marco debe ser preciso sobre algo que ha asumido sin afirmar plenamente.
 

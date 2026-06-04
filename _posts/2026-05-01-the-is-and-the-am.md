@@ -20,7 +20,7 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es
 - [Movement I: The Structure of the Is](#movement-i-the-structure-of-the-is)
 - [Movement II: The Communal Is](#the-communal-is)
 - [Movement III: The Relational Is](#the-relational-is)
-- [Movement IV: The Oriented Is and its Ground)(#the-oriented-is-and-its-ground
+- [Movement IV: The Oriented Is and its Ground](#the-oriented-is-and-its-ground
 - [Epilogue: The Man in the Room](#epilogue-the-man-in-the-room)
 - [Objections and Replies](#objections-and-replies)
 - [References](#references)

@@ -50,7 +50,7 @@ excerpt: "Una exploración filosófica y teológica del tiempo a través de la l
   - [Zona Segunda: La Zona de la Ansiedad](#zona-segunda--la-zona-de-la-ansiedad)
   - [Zona Tercera: La Zona del Pudo Haber Sido](#zona-tercera--la-zona-del-pudo-haber-sido)
   - [Zona Cuarta: La Zona Fantasma](#zona-cuarta--la-zona-fantasma)
-  - [II. El Quinto Estado: La Vigilancia en el Cruce](#ii-el-quinto-estado--la-vigilancia-en-el-cruce)
+  - [II. El Quinto Estado · La Vigilancia en el Cruce](#ii-el-quinto-estado--la-vigilancia-en-el-cruce)
   - [III. El Equilibrio de Fuerzas](#iii-el-equilibrio-de-fuerzas)
   - [IV. Para qué sirve el mapa](#iv-para-qué-sirve-el-mapa)
 - [Capítulo Tercero: El Eco Armónico](#capítulo-tercero-el-eco-armónico)
@@ -405,7 +405,7 @@ La Zona Fantasma merece su propio capítulo en este monográfico — y lo recibi
 
 *La gracia aquí no llega como eco armónico, porque no hay ninguna posibilidad real perdida que hacer eco. Llega primero como interrupción — algo que rompe el lazo fabricado y devuelve a la persona a la textura del ahora real. Esta interrupción se experimenta a menudo no como alivio sino como pérdida, porque la Zona Fantasma, para la persona que la ha habitado el tiempo suficiente, se siente más como hogar que el plano real. La gracia que la desmantela es por tanto una de las formas más exigentes de misericordia divina — y una de las menos cómodas de recibir.*
 
-### II. El Quinto Estado: La Vigilancia en el Cruce
+### II. El Quinto Estado · La Vigilancia en el Cruce
 
 Las cuatro zonas de desplazamiento describen las formas en que la atención abandona el punto de cruce. Pero la tradición contemplativa describe también la condición opuesta — no la ausencia del cruce sino la presencia deliberada y sostenida en él. Los primeros escritores monásticos llamaron a esto *nepsis*: vigilancia.
 

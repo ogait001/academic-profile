@@ -50,8 +50,8 @@ excerpt: "Una exploración filosófica y teológica del tiempo a través de la l
   - [Zona Segunda: La Zona de la Ansiedad](#zona-segunda--la-zona-de-la-ansiedad)
   - [Zona Tercera: La Zona del Pudo Haber Sido](#zona-tercera--la-zona-del-pudo-haber-sido)
   - [Zona Cuarta: La Zona Fantasma](#zona-cuarta--la-zona-fantasma)
-  - [II. El quinto estado: la vigilancia](#ii-el-quinto-estado-la-vigilancia)
-  - [III. El equilibrio de fuerzas](#iii-el-equilibrio-de-fuerzas)
+  - [II. El Quinto Estado: la vigilancia](#ii-el-quinto-estado--la-vigilancia)
+  - [III. El Equilibrio de Fuerzas](#iii-el-equilibrio-de-fuerzas)
   - [IV. Para qué sirve el mapa](#iv-para-qué-sirve-el-mapa)
 - [Capítulo Tercero: El Eco Armónico](#capítulo-tercero-el-eco-armónico)
   - [I. El recuento honesto](#i-el-recuento-honesto)
@@ -399,7 +399,7 @@ Esto es lo que hace a la Zona Fantasma más peligrosa que las otras tres zonas d
 
 Hay una precisión adicional que importa aquí. La Zona Fantasma no es simplemente ensoñación o imaginación creativa. Los seres humanos imaginan cosas que no existen — este es uno de los grandes dones de la conciencia, y la literatura, el arte y la oración todos se nutren de él. La distinción radica en la orientación. La imaginación creativa sirve a lo real — genera, a través del trabajo de la imaginación, algo que eventualmente entra o enriquece el plano real de la existencia. La Zona Fantasma no sirve a lo real. Lo sustituye. La persona en la Zona Fantasma no usa la imaginación para prepararse o enriquecer el punto de cruce. La usa para evitar el punto de cruce — para recibir en la topología fabricada lo que la realidad en el punto de cruce no ha entregado, sin la vulnerabilidad, la fricción, o el encuentro genuino que el cruce real requiere.
 
-La tradición antigua nombró este mecanismo con precisión. Evagrio Póntico identificó los *logismoi* — las corrientes intrusivas de pensamiento — como el mecanismo primario por el que el monje es arrancado del momento presente hacia una narrativa interior elaboradamente construida. Llamó *acedia* a la condición avanzada de este desplazamiento — una palabra inadecuadamente traducida como pereza, pero que significa más precisamente el estado en que el alma ha perdido su grip sobre lo real y ha sustituido un mundo interior que se siente suficientemente real para vivir en él pero no ofrece ningún alimento real. La persona está físicamente en el punto de cruce y ausente en todo lo que importa.
+La tradición antigua nombró este mecanismo con precisión. Evagrio Póntico identificó los *logismoi* — las corrientes intrusivas de pensamiento — como el mecanismo primario por el que el monje es arrancado del momento presente hacia una narrativa interior elaboradamente construida. Llamó *acedia* a la condición avanzada de este desplazamiento — una palabra inadecuadamente traducida como pereza, pero que significa más precisamente el estado en que el alma ha perdido su contacto con lo real y ha sustituido un mundo interior que se siente suficientemente real para vivir en él pero no ofrece ningún alimento real. La persona está físicamente en el punto de cruce y ausente en todo lo que importa.
 
 La Zona Fantasma merece su propio capítulo en este monográfico — y lo recibirá. Lo que se nombra aquí es la realidad estructural: su posición fuera de la lemniscata completamente, su relación con las otras zonas, y su particular resistencia a las formas de gracia que abordan los otros tres desplazamientos. El tratamiento pastoral y teológico completo — incluyendo sus raíces generacionales, su relación con Legión en el Evangelio de Marcos, y su aceleración por la tecnología contemporánea — pertenece al Capítulo Noveno.
 

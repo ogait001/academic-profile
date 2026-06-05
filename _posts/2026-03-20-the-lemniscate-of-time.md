@@ -35,7 +35,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
   - [Zone Two: The Anxiety Zone](#zone-two--the-anxiety-zone)
   - [Zone Three: The Could Have Been Zone](#zone-three--the-could-have-been-zone)
   - [Zone Four: The Ghost Zone](#zone-four--the-ghost-zone)
-  - [II. The Fifth State: watchfulness](#ii-the-fifth--state-watchfulness)
+  - [II. The Fifth State: Watchfulness at the Crossing](#ii-the-fifth--state-watchfulness-at-the-crossing)
   - [III. The Balance of Forces](#iii-the-balance-of-forces)
   - [IV. What the map is for](#iv-what-the-map-is-for)
 - [Chapter Three: The Harmonic Echo](#chapter-three-the-harmonic-echo)

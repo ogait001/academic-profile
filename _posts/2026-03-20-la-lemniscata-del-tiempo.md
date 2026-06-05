@@ -48,7 +48,7 @@ excerpt: "Una exploración filosófica y teológica del tiempo a través de la l
   - [I. La deriva natural](#i-la-deriva-natural)
   - [Zona Primera: La Zona de la Memoria](#zona-primera--la-zona-de-la-memoria)
   - [Zona Segunda: La Zona de la Ansiedad](#zona-segunda--la-zona-de-la-ansiedad)
-  - [Zona Tercera: La Zona del Pudo Haber Sido](#zona--tercera-la-zona-del-pudo-haber-sido)
+  - [Zona Tercera: La Zona del Pudo Haber Sido](#zona-tercera--la-zona-del-pudo-haber-sido)
   - [Zona Cuarta: La Zona Fantasma](#zona-cuarta--la-zona-fantasma)
   - [II. El quinto estado: la vigilancia](#ii-el-quinto-estado-la-vigilancia)
   - [III. El equilibrio de fuerzas](#iii-el-equilibrio-de-fuerzas)

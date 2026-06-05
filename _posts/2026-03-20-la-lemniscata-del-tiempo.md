@@ -50,7 +50,7 @@ excerpt: "Una exploración filosófica y teológica del tiempo a través de la l
   - [Zona Segunda: La Zona de la Ansiedad](#zona-segunda--la-zona-de-la-ansiedad)
   - [Zona Tercera: La Zona del Pudo Haber Sido](#zona-tercera--la-zona-del-pudo-haber-sido)
   - [Zona Cuarta: La Zona Fantasma](#zona-cuarta--la-zona-fantasma)
-  - [II. El Quinto Estado: la vigilancia](#ii-el-quinto-estado--la-vigilancia)
+  - [II. El Quinto Estado: La Vigilancia en el Cruce](#ii-el-quinto-estado--la-vigilancia-en-el-cruce)
   - [III. El Equilibrio de Fuerzas](#iii-el-equilibrio-de-fuerzas)
   - [IV. Para qué sirve el mapa](#iv-para-qué-sirve-el-mapa)
 - [Capítulo Tercero: El Eco Armónico](#capítulo-tercero-el-eco-armónico)

@@ -35,7 +35,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
   - [Zone Two: The Anxiety Zone](#zone-two--the-anxiety-zone)
   - [Zone Three: The Could Have Been Zone](#zone-three--the-could-have-been-zone)
   - [Zone Four: The Ghost Zone](#zone-four--the-ghost-zone)
-  - [II. The Fifth State: Watchfulness at the Crossing](#ii-the-fifth-state--watchfulness-at-the-crossing)
+  - [II. The Fifth State · Watchfulness at the Crossing](#ii-the-fifth-state--watchfulness-at-the-crossing)
   - [III. The Balance of Forces](#iii-the-balance-of-forces)
   - [IV. What the map is for](#iv-what-the-map-is-for)
 - [Chapter Three: The Harmonic Echo](#chapter-three-the-harmonic-echo)
@@ -424,7 +424,7 @@ The Ghost Zone deserves its own chapter in this monograph — and it will receiv
 
 *Grace here does not arrive as harmonic echo, because there is no real lost possibility to echo. It arrives first as interruption — something that breaks the fabricated loop and returns the person to the texture of the actual now. This interruption is often experienced not as relief but as loss, because the Ghost Zone, for the person who has inhabited it long enough, feels more like home than the real plane does. The grace that dismantles it is therefore among the most demanding forms of divine mercy — and among the least comfortable to receive.*
 
-### II. The Fifth State: Watchfulness at the Crossing
+### II. The Fifth State · Watchfulness at the Crossing
 
 The four zones of displacement describe the ways attention leaves the crossing point. But the contemplative tradition also describes the opposite condition — not the absence from the crossing but the deliberate, sustained presence at it. The early monastic writers called this *nepsis*: watchfulness.
 

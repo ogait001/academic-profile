@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Topology of Presence: Four Planes of Existence on the Lemniscate"
-date: 2026-03-01
+date: 2026-03-30
 categories:
   - ontology
   - philosophy-of-time
@@ -64,7 +64,7 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/01/la-to
 
 What follows is not a systematic treatise. It is an essay born from a conversation — a sustained act of thinking aloud in which the architecture of time, as I have come to understand it through the lemniscate, was extended into its fullest ontological and theological dimensions. The four-quadrant diagram at the heart of this work is an attempt to articulate, in a single topological image, distinctions long explored across philosophical and theological traditions: temporality and eternity, visibility and invisibility, existence and non-existence, grace and displacement, the grammar of God and the grammar of the serpent. It does not resolve these tensions, but seeks to hold them within a common structure.
 
-In my previous work — *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace* — I developed the lemniscate as a figure for the structure of human temporal experience. The crossing point of the figure-eight is the Now: the site where memory and anticipation converge, where the self is singular and present, where grace acts and freedom operates. The curve itself traces the movement of temporal life — the lobe of the past, the lobe of the future, always returning to the center.
+In my previous work — [*The Lemniscate of Time: A Topology of Memory, Possibility, and Grace*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html) — I developed the lemniscate as a figure for the structure of human temporal experience. The crossing point of the figure-eight is the Now: the site where memory and anticipation converge, where the self is singular and present, where grace acts and freedom operates. The curve itself traces the movement of temporal life — the lobe of the past, the lobe of the future, always returning to the center.
 
 This essay advances the framework in a new direction. It maps four ontological planes onto the lemniscate — two within the temporal curve, two outside it — and in doing so, it produces a complete topology of time that encompasses not only lived experience but the conditions of eternity, evil, hell, and the Ghost Zone. The diagram crosses two axes: the visible and the invisible (horizontal), and what exists and what does not persist (vertical). The result is four quadrants, each with its own mode of being, its own relationship to the crossing point, and its own implications for the human soul.
 

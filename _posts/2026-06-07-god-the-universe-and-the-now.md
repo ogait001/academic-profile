@@ -9,7 +9,7 @@ excerpt: "An exploration of God, the universe, and the enduring difference betwe
 doi: ""
 record_url: ""
 pdf_url: ""
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/dios-el-universo-y-el-ahora.html"
 ---
 
 

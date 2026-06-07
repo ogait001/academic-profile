@@ -12,7 +12,6 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/01/the-t
 excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gaitán: un marco ontológico de cuatro cuadrantes organizado en torno al punto de cruce del Ahora, la presencia, la gracia y el desplazamiento existencial."
 ---
 
-*Compañero de* [La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia](/academic-profile/2026/03/20/la-lemniscata-del-tiempo/)
 
 ---
 
@@ -47,7 +46,7 @@ excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gai
 ## I. De la Estructura Temporal al Mapa Ontológico
 
 > «Yo soy el que soy.»
-> — Éxodo 3:14
+> — Exodo 3:14
 
 Lo que sigue no es un tratado sistemático. Es un ensayo nacido de una conversación—un acto sostenido de pensamiento en voz alta en el que la arquitectura del tiempo, tal como la he llegado a comprender a través de la lemniscata, fue extendida hacia sus dimensiones ontológicas y teológicas más plenas. El diagrama de cuatro cuadrantes en el corazón de esta obra es un intento de articular, en una sola imagen topológica, distinciones largamente exploradas a través de las tradiciones filosóficas y teológicas: temporalidad y eternidad, visibilidad e invisibilidad, existencia y no-existencia, gracia y desplazamiento, la gramática de Dios y la gramática de la serpiente. No resuelve estas tensiones, sino que busca mantenerlas dentro de una estructura común.
 

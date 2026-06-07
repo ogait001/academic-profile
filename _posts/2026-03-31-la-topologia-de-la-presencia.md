@@ -59,9 +59,13 @@ Este ensayo avanza el marco en una nueva dirección. Mapea cuatro planos ontoló
 
 ## II. Los Cuatro Planos
 
+<p align="center">
+  <img src="/assets/images/cuatro_planos.png" alt="Los Cuatro Planos" width="700">
+</p>
+
+
 *La Topología Gaitan*
 
-*(Ver diagrama en el documento original: el diagrama de cuatro cuadrantes mapeado sobre la lemniscata, cruzando los ejes de visibilidad/invisibilidad y existencia/no-existencia.)*
 
 ---
 

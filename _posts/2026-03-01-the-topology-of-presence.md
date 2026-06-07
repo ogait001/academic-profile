@@ -72,6 +72,12 @@ This essay advances the framework in a new direction. It maps four ontological p
 
 ## II. The Four Planes
 
+<p align="center">
+  <img src="/assets/images/four_planes.jpg" alt="The Four Planes" width="700">
+</p>
+
+### Temporality: Inside the Loop
+
 ### Temporality: Inside the Loop
 
 The upper-left quadrant is the domain of ordinary temporal existence — what we see and what exists within the lemniscate’s curve. This is the phenomenal world as it unfolds in temporal succession: the domain of memory, anticipation, routine, work, family, moral reasoning, and conscious life. Here, conscience operates. Here, the human person differentiates good from evil — not as an abstract exercise, but as the very condition of post-lapsarian existence.

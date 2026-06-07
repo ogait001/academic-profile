@@ -5,7 +5,7 @@ date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [necessary-being, materialism, non-derivative, lemniscate, milton, satan, imago-dei, emergence, consciousness, harari, now, gaitan-topology]
 lang: en
-excerpt: "The creature who cannot add an hour to its life spends its upright passage constructing architectures of self-sufficiency. This essay traces the argument from the immateriality of thought to the necessary, personal ground -- and the two great figures of refusal: the non serviam and the non te egeo."
+excerpt: "An exploration of God, the universe, and the enduring difference between explanation and ground."
 doi: ""
 record_url: ""
 pdf_url: ""

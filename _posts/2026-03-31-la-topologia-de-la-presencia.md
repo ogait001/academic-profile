@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata"
-date: 2026-03-01
+date: 2026-03-31
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, topology, presence, eternity, ghost-zone, metaphysical-anthropology]
 lang: es

@@ -76,7 +76,9 @@ This essay advances the framework in a new direction. It maps four ontological p
   <img src="/assets/images/four_planes.png" alt="The Four Planes" width="700">
 </p>
 
-### Temporality: Inside the Loop
+*La Topología Gaitan*
+
+-----
 
 ### Temporality: Inside the Loop
 

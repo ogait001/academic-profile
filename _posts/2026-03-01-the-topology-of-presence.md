@@ -76,7 +76,9 @@ This essay advances the framework in a new direction. It maps four ontological p
   <img src="/assets/images/four_planes.png" alt="The Four Planes" width="700">
 </p>
 
-*La Topología Gaitan*
+
+*The Gaitan Topology*
+
 
 -----
 

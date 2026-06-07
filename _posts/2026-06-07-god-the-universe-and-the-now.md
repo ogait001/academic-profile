@@ -14,7 +14,7 @@ translation_url: ""
 
 
 
-*The Feast of Corpus Christi -- June 7, 2026*
+*The Feast of Corpus Christi*
 
 
 

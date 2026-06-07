@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "God, the Universe, and the Now"
+title: "God, the Universe, and the Now: Sovereign smallness over dependent greatness"
 date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [necessary-being, materialism, non-derivative, lemniscate, milton, satan, imago-dei, emergence, consciousness, harari, now, gaitan-topology]
@@ -12,7 +12,7 @@ pdf_url: ""
 translation_url: ""
 ---
 
-*Sovereign Smallness over Dependent Greatness*
+
 
 *The Feast of Corpus Christi -- June 7, 2026*
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are We Not Entertained? On the Algorithmic Cane and the Outsourcing of the Interior Life"
+title: "Are We Not Entertained? On the algorithmic cane and the outsourcing of the interior life"
 date: 2026-06-08
 categories: [philosophy-of-time, ontology]
 tags: [attention-economy, algorithmic-cane, non-te-egeo, dickinson, colosseum, interiority, device, feed, now, gaitan-topology]

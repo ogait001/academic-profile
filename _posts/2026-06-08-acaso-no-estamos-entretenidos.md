@@ -149,7 +149,7 @@ La Esfinge formuló su acertijo una sola vez. La criatura que lo resolvió estab
 
 No sabía que el bastón prestado vendría con un feed.
 
-La habitación todavía está ahí. La puerta todavía puede cerrarse. El silencio, si pudiéramos tolerarlo lo suficiente, todavía se convertiría en una pregunta. Y la pregunta -- la que el dispositivo llega justo a tiempo para prevenir -- sigue siendo la más importante que la criatura ha sido llamada a enfrentar.
+La habitación todavía está ahí. La puerta todavía puede cerrarse. El silencio, si pudiéramos tolerarlo lo suficiente, todavía se convertiría en una pregunta. Y la pregunta -- la que el dispositivo alcanza a tiempo para silenciar -- sigue siendo la más importante que la criatura ha sido llamada a enfrentar.
 
 No tiene miniatura. No tiene llamada a la acción. No puede ser entregada en once minutos por un extraño bajo una luz de anillo.
 

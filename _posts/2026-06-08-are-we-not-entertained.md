@@ -9,7 +9,7 @@ excerpt: "A philosophical reflection on autonomy, dependency, and the interior l
 doi: "10.5281/zenodo.20599987"
 record_url: "https://zenodo.org/records/20599987"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20599987"
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08/acaso-no-estamos-entretenidos.html"
 ---
 
 

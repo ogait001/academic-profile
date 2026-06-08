@@ -147,7 +147,7 @@ The Sphinx asked her riddle only once. The creature who solved it was proud of h
 
 He did not know that the borrowed stick would come with a feed.
 
-The room is still there. The door can still be closed. The silence, if we could tolerate it long enough, would still become a question. And the question -- the one the device arrives just in time to prevent -- is still the most important one the creature has ever been asked to face.
+The room is still there. The door can still be closed. The silence, if we could tolerate it long enough, would still become a question. And the question -- the one the device intervenes just in time to prevent -- is still the most important one the creature has ever been asked to face.
 
 It has no thumbnail. It has no call to action. It cannot be delivered in eleven minutes by a stranger on a ring light.
 

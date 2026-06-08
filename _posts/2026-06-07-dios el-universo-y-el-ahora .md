@@ -181,7 +181,7 @@ Una expresión contemporánea de esta deriva aparece en la obra de Yuval Noah Ha
 
 El análisis de Harari es persuasivo como sociología precisamente porque explica cómo los seres humanos se coordinan en torno a significados compartidos. La dificultad comienza cuando un relato exitoso sobre la coordinación se confunde con un relato sobre el ser mismo.
 
-"La religión", escribe, "es un sistema de normas y valores humanos fundado en la creencia en un orden sobrehumano." Dios, en esta cuenta, pertenece a la misma categoría que el dinero: real en sus efectos, ficticio en su fundamento. El insight es valioso como sociología. La pregunta es si la sociología es capaz de dirimir la ontología. El supuesto es que una vez que se han explicado los mecanismos por los que los seres humanos generan significado, no queda nada más por explicar.
+"La religión", escribe, "es un sistema de normas y valores humanos fundado en la creencia en un orden sobrehumano." Dios, en esta cuenta, pertenece a la misma categoría que el dinero: real en sus efectos, ficticio en su fundamento. La intuición es valiosa como sociología. La pregunta es si la sociología es capaz de dirimir la ontología. El supuesto es que una vez que se han explicado los mecanismos por los que los seres humanos generan significado, no queda nada más por explicar.
 
 Este supuesto es el agua en que nada la mente moderna -- invisible precisamente porque está en todas partes. Vale la pena hacerlo visible, porque no es una conclusión. Es un punto de partida. Y los puntos de partida pueden cuestionarse.
 
@@ -213,7 +213,7 @@ La habitación está llena. La puerta está abierta. Y no extrañamos el silenci
 
 ## X. El teatro que nadie visita
 
-Dentro de la topología del lemniscate, el fundamento no derivativo no puede ser desplazado del centro por ninguna fuerza. La estrategia del desplazamiento nunca ha sido el asalto al centro. Siempre ha sido la seducción hacia el borde.
+Dentro de la topología de la lemniscata, el fundamento no derivativo no puede ser desplazado del centro por ninguna fuerza. La estrategia del desplazamiento nunca ha sido el asalto al centro. Siempre ha sido la seducción hacia el borde.
 
 Lo que la estrategia del desplazamiento requiere es que la criatura se aleje. No expulsada. No conquistada. La persona se va libremente, atraída por algo que promete soberanía en la periferia. El punto de cruce no desaparece. Permanece exactamente donde siempre estuvo. La persona simplemente deja de visitarlo.
 
@@ -238,7 +238,7 @@ No está argumentando teología. Es un hombre en el punto más alejado del bucle
 
 J.M. Barrie -- el hombre que inventó a Peter Pan, el niño que nunca crece, el supremo imaginador de la pequeñez soberana como modo de vida -- dejó atrás una sola oración: *Oh, Dios, si estuviera seguro de que iba a morir esta noche, me arrepentiría de inmediato.* El *si* es honesto. Es la confesión de una voluntad que sabe lo que debe y ha estado difiriendo el pago. La dirección, cuando llega el momento de la honestidad, es hacia el fundamento no derivativo que nunca estuvo ausente, solo sin ser visitado.
 
-Y Nicodemo -- el fariseo, el miembro del Sanedrín, el yo plenamente desarrollado en el apogeo de su construcción -- que llega a Jesús de noche, sin saber todavía qué busca, que desaparece sin resolución después de su primera conversación, que reaparece años más tarde en una sala llena de colegas hostiles para ofrecer una cautelosa defensa de procedimiento, y que llega finalmente, tras la crucifixión, con cien libras de especias funerarias para honrar a un maestro que el mundo considera un criminal. Ninguna confesión dramática. Ningún momento declarado de fe. Solo un hombre con especias, en la oscuridad, haciendo el servicio más íntimo y costoso que tenía disponible. El lemniscate individual, plenamente recorrido, silenciosamente, a lo largo de los años.
+Y Nicodemo -- el fariseo, el miembro del Sanedrín, el yo plenamente desarrollado en el apogeo de su construcción -- que llega a Jesús de noche, sin saber todavía qué busca, que desaparece sin resolución después de su primera conversación, que reaparece años más tarde en una sala llena de colegas hostiles para ofrecer una cautelosa defensa de procedimiento, y que llega finalmente, tras la crucifixión, con cien libras de especias funerarias para honrar a un maestro que el mundo considera un criminal. Ninguna confesión dramática. Ningún momento declarado de fe. Solo un hombre con especias, en la oscuridad, haciendo el servicio más íntimo y costoso que tenía disponible. La lemniscata individual, plenamente recorrida, silenciosamente, a lo largo de los años.
 
 Estos no son contraargumentos a ningún sistema. Son contratestimonios. Demuestran que el punto de cruce sobrevive a la arquitectura del desplazamiento -- que el teatro no cierra, que el encuentro sigue disponible, que la criatura que ha vagado hasta el borde más lejano del bucle exterior puede, desde allí, comenzar el regreso.
 

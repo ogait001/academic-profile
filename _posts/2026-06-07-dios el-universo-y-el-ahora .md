@@ -26,9 +26,9 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
 - [IV. La jerarquia que nadie quiere](#iv-la-jerarquia-que-nadie-quiere)
 - [V. Del ser necesario al Dios que interpela](#v-del-ser-necesario-al-dios-que-interpela)
 - [VI. Dioses que reflejan mi imagen](#vi-dioses-que-reflejan-mi-imagen)
-- [VII. Non serviam -- Non te egeo](#vii-non-serviam----non-te-egeo)
-- [VIII. La explicacion no es fundamento](#viii-la-explicacion-no-es-fundamento)
-- [IX. El orden imaginado contemporaneo](#ix-el-orden-imaginado-contemporaneo)
+- [VII. Non serviam -- Non te egeo](#vii-non-serviam---non-te-egeo)
+- [VIII. La explicacion no es fundamento](#viii-la-explicación-no-es-fundamento)
+- [IX. El orden imaginado contemporaneo](#ix-el-orden-imaginado-contemporáneo)
 - [X. El teatro que nadie visita](#x-el-teatro-que-nadie-visita)
 - [XI. Los que llegaron de todas formas](#xi-los-que-llegaron-de-todas-formas)
 - [Referencias](#referencias)
@@ -149,7 +149,7 @@ Pequeñez soberana sobre grandeza dependiente -- elegida libremente, cada genera
 
 
 
-## VII. Non serviam -- Non te egeo
+## VII. Non serviam - Non te egeo
 
 La imaginación occidental tiene dos grandes figuras para el rechazo del fundamento no derivativo. No son equivalentes. La distancia entre ellas es la distancia entre la tragedia y el borrado. Y esa distancia es la medida precisa de dónde se encuentra la modernidad.
 

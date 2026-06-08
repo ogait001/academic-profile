@@ -6,9 +6,9 @@ categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [necessary-being, materialism, non-derivative, lemniscate, milton, satan, imago-dei, emergence, consciousness, harari, now, gaitan-topology]
 lang: en
 excerpt: "An exploration of God, the universe, and the enduring difference between explanation and ground."
-doi: ""
-record_url: ""
-pdf_url: ""
+doi: "10.5281/zenodo.20584730"
+record_url: "https://zenodo.org/records/20584730"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20584730"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/dios-el-universo-y-el-ahora.html"
 ---
 

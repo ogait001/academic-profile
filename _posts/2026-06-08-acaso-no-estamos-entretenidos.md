@@ -93,7 +93,7 @@ El giro hacia la propia incompletitud no es un problema que resolver. Es una pos
 
 El ladrillo digital entrega la representación de ese encuentro. Entrega el vocabulario de la interioridad sin la interioridad. Entrega la actuación de la lucha sin la lucha. El extraño en la pantalla ha procesado la experiencia, extraído la lección, formateado la conclusión y la entregó en once minutos con una miniatura y una llamada a la acción.
 
-El influencer actúa la aceptación de sí mismo bajo una luz de anillo con la puerta abierta.
+El influencer actúa la aceptación de sí mismo bajo un aro de luz con la puerta abierta.
 
 Emily Dickinson la llevó a cabo en una habitación en Amherst con la puerta cerrada. Ella no entregó su lucha. Realizó su lucha. Y lo que emergió de la habitación cerrada -- después de años de silencio, después de miles de poemas que no publicó, después de la plena habitación de su propia incompletitud -- fue una obra que todavía conmueve a las personas ciento cincuenta años después. No porque la optimizara. Porque no lo hizo.
 
@@ -151,7 +151,7 @@ No sabía que el bastón prestado vendría con un feed.
 
 La habitación todavía está ahí. La puerta todavía puede cerrarse. El silencio, si pudiéramos tolerarlo lo suficiente, todavía se convertiría en una pregunta. Y la pregunta -- la que el dispositivo alcanza a tiempo para silenciar -- sigue siendo la más importante que la criatura ha sido llamada a enfrentar.
 
-No tiene miniatura. No tiene llamada a la acción. No puede ser entregada en once minutos por un extraño bajo una luz de anillo.
+No tiene miniatura. No tiene llamada a la acción. No puede ser entregada en once minutos por un extraño bajo un aro de luz.
 
 Solo puede ser formulada en la oscuridad, a solas, con la puerta cerrada, por la criatura que no puede añadir ni un solo momento a su vida y aún no ha decidido si eso importa.
 

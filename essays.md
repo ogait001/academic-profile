@@ -75,7 +75,6 @@ A bilingual archive of philosophical essays in ontology, philosophy of time, met
 {% for post in site.posts %}
   {% if post.lang == "en" %}
   <li
-  id="essay-{{ forloop.index }}"
   data-title="{{ post.title | downcase }}"
   data-date="{{ post.date | date: '%Y%m%d' }}"
   style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;"
@@ -175,12 +174,7 @@ document.querySelectorAll(".essay-link").forEach(link => {
     localStorage.setItem("lastEssayTitle", essayTitle);
     localStorage.setItem("lastEssayUrl", this.href);
 
-    const li = this.closest("li");
-
-    if (li) {
-      localStorage.setItem("lastEssayId", li.id);
-    }
-
+    
   });
 
 });
@@ -201,25 +195,6 @@ if (lastEssayTitle && lastEssayUrl) {
     '</a>';
 }
 
-const lastEssayId = localStorage.getItem("lastEssayId");
-
-if (lastEssayId) {
-
-  setTimeout(function() {
-
-    const target = document.getElementById(lastEssayId);
-
-    if (target) {
-      target.scrollIntoView({
-  behavior: "smooth",
-  block: "start"
-});
-      
-    }
-
-  }, 300);
-
-}
 });
 </script>
 

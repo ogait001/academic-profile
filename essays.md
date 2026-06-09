@@ -52,6 +52,14 @@ permalink: /essays/
 
 A bilingual archive of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
+<div id="continueReading"
+     style="margin:1rem 0 1.5rem 0;
+            padding:1rem;
+            border:1px solid #d1d5db;
+            border-radius:8px;
+            display:none;">
+</div>
+
 <div class="sort-container">
   <label for="sortPosts"><strong>Sort by:</strong></label>
 
@@ -67,13 +75,16 @@ A bilingual archive of philosophical essays in ontology, philosophy of time, met
 {% for post in site.posts %}
   {% if post.lang == "en" %}
   <li
-    data-title="{{ post.title | downcase }}"
-    data-date="{{ post.date | date: '%Y%m%d' }}"
-    style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;"
-  >
+  id="essay-{{ forloop.index }}"
+  data-title="{{ post.title | downcase }}"
+  data-date="{{ post.date | date: '%Y%m%d' }}"
+  style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;"
+>
 
 
-<a href="{{ post.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
+<a href="{{ post.url | relative_url }}"
+   class="essay-link"
+   style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
   {{ post.title }}
 </a>
 
@@ -155,7 +166,60 @@ if (savedSort) {
 }
 
 sortSelect.dispatchEvent(new Event("change"));
+document.querySelectorAll(".essay-link").forEach(link => {
 
+  link.addEventListener("click", function() {
+
+    const essayTitle = this.textContent.trim();
+
+    localStorage.setItem("lastEssayTitle", essayTitle);
+    localStorage.setItem("lastEssayUrl", this.href);
+
+    const li = this.closest("li");
+
+    if (li) {
+      localStorage.setItem("lastEssayId", li.id);
+    }
+
+  });
+
+});
+
+const lastEssayTitle = localStorage.getItem("lastEssayTitle");
+const lastEssayUrl = localStorage.getItem("lastEssayUrl");
+
+if (lastEssayTitle && lastEssayUrl) {
+
+  const box = document.getElementById("continueReading");
+
+  box.style.display = "block";
+
+  box.innerHTML =
+    '<strong>Continue Reading</strong><br><br>' +
+    '<a href="' + lastEssayUrl + '">' +
+    lastEssayTitle +
+    '</a>';
+}
+
+const lastEssayId = localStorage.getItem("lastEssayId");
+
+if (lastEssayId) {
+
+  setTimeout(function() {
+
+    const target = document.getElementById(lastEssayId);
+
+    if (target) {
+      target.scrollIntoView({
+  behavior: "smooth",
+  block: "start"
+});
+      
+    }
+
+  }, 300);
+
+}
 });
 </script>
 

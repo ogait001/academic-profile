@@ -9,7 +9,7 @@ excerpt: "A philosophical exploration of how place, time, and presence dissolve 
 doi: "10.5281/zenodo.20618207"
 record_url: "https://zenodo.org/records/20618207"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618207"
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/la-gramatica-del-desplazamiento.html"
 ---
 
 Let me say it before anything else, so that no reader mistakes the target: this is not a critique of technology. Technology is not the trap. The coliseum was a marvel of engineering, and the engineering was never the problem. The problem was what happened to the populo seated in it -- and the discovery, late and quiet, that the populo was never the audience. The populo was the product. What follows is a critique of that arrangement, written in the only place such a critique can honestly be written: from inside it.

@@ -1,9 +1,8 @@
 ---
-
 layout: default
 title: Essays
 permalink: /essays/
--------------------
+---
 
 <style>
 .lang-links{
@@ -73,7 +72,7 @@ A bilingual archive of philosophical essays in ontology, philosophy of time, met
     style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;"
   >
 
-```
+
 <a href="{{ post.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
   {{ post.title }}
 </a>
@@ -105,7 +104,7 @@ A bilingual archive of philosophical essays in ontology, philosophy of time, met
     {% endif %}
   </div>
 {% endif %}
-```
+
 
   </li>
   {% endif %}

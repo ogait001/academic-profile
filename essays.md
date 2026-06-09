@@ -146,7 +146,15 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     items.forEach(item => list.appendChild(item));
+    localStorage.setItem("essaySort", sortSelect.value);
   });
+ const savedSort = localStorage.getItem("essaySort");
+
+if (savedSort) {
+  sortSelect.value = savedSort;
+}
+
+sortSelect.dispatchEvent(new Event("change"));
 
 });
 </script>

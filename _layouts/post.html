@@ -5,6 +5,7 @@ layout: default
 <div id="top"></div>
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/ScholarlyArticle">
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
 
@@ -21,11 +22,20 @@ layout: default
     <p>{{ page.date | date: "%B %d, %Y" }}</p>
 
     {% if page.doi %}
-      <p>DOI: <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></p>
+      <p>
+        DOI:
+        <a href="https://doi.org/{{ page.doi }}">
+          {{ page.doi }}
+        </a>
+      </p>
     {% endif %}
 
     {% if page.record_url %}
-      <p><a href="{{ page.record_url }}">View PDF / Zenodo Record</a></p>
+      <p>
+        <a href="{{ page.record_url }}">
+          View PDF / Zenodo Record
+        </a>
+      </p>
     {% endif %}
   </header>
 
@@ -33,4 +43,35 @@ layout: default
     {{ content }}
   </div>
 
-  </article>
+</article>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+
+  const pageKey = "scroll-" + window.location.pathname;
+
+  const savedPosition = localStorage.getItem(pageKey);
+
+  if (savedPosition) {
+    setTimeout(function() {
+      window.scrollTo({
+        top: parseInt(savedPosition),
+        behavior: "smooth"
+      });
+    }, 200);
+  }
+
+  let scrollTimer;
+
+  window.addEventListener("scroll", function() {
+
+    clearTimeout(scrollTimer);
+
+    scrollTimer = setTimeout(function() {
+      localStorage.setItem(pageKey, window.scrollY);
+    }, 500);
+
+  });
+
+});
+</script>

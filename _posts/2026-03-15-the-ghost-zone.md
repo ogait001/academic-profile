@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The Ghost Zone names a condition of existential displacement in which inner life mimics presence while remaining apart from reality."
 title: "The Ghost Zone: The Invisible Inner World Where We Live Before Life Begins"
 date: 2026-03-15 00:00:00 -0500
 categories: [ontology, philosophy-of-time]

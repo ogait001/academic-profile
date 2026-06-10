@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre lugar, tiempo y presencia, donde la gramática moderna del desplazamiento sustituye el aquí, el ahora y el encuentro."
 title: "La Gramática del Desplazamiento: Desde, A cualquier hora, Entonces"
 date: 2026-06-09
 categories: [philosophy-of-time, catholic-theology, ontology]

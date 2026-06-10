@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre el Ahora como presencia invariante, sostenida por el fundamento del ser nombrado como YO SOY EL QUE SOY."
 title: "¿Necesito yo al tiempo, o necesita el tiempo de mí? La ontología del Ahora, la invarianza de la presencia y el fundamento del ser"
 date: 2026-04-22
 categories: [philosophy-of-time, ontology, catholic-theology]
@@ -8,7 +9,7 @@ lang: es
 doi: "10.5281/zenodo.19513936"
 record_url: "https://zenodo.org/records/19513936"
 pdf_url: "https://zenodo.org/records/19513936/files/necesito-yo-al-tiempo.pdf"
-excerpt: "Una meditación filosófica y teológica sobre el tiempo y la presencia, que sostiene que el Ahora invariante es sustentado por el fundamento del ser nombrado como YO SOY."
+excerpt: "Una meditación filosófica y teológica sobre el tiempo y la presencia, que sostiene que el Ahora invariante es sustentado por el fundamento del ser nombrado como YO SOY EL QUE SOY."
 translation_url: 'https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html'
 ---
 

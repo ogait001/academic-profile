@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on happiness and human longing, arguing that finite goods cannot satisfy the desire for enduring fullness."
 title: "On Happiness: Its Duration, Its Name, and What Endures"
 date: 2026-05-12 00:00:00 -0500
 categories: [philosophy-of-time, ontology, catholic-theology]

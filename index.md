@@ -119,28 +119,23 @@ Essays written for both scholarly readers and the philosophically curious.
 ---
 
 ## Featured Essays
-
 <table>
 <tr>
 <td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
-<td><a href="https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a></td>
+<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a></td>
 </tr>
-
 <tr>
 <td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
 <td><a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a></td>
 </tr>
-
 <tr>
 <td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
-<td><a href="https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
+<td><a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
 </tr>
-
 <tr>
 <td><a href="/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html">The Mercy of Time</a></td>
 <td><a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a></td>
 </tr>
-
 <tr>
 <td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/28/the-corridor.html">The Corridor</a></td>
 <td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a></td>

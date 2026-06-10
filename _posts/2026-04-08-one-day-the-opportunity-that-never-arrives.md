@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A meditation on deferred existence, where the promise of “one day” leaves the present perpetually uninhabited."
 title: "One Day: The Opportunity That Never Arrives"
 date: 2026-04-08
 categories: [philosophy-of-time, ontology, catholic-theology]

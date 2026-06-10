@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on God, the universe, and the Now, arguing that explaining reality is not the same as grounding it."
 title: "God, the Universe, and the Now: Sovereign smallness over dependent greatness"
 date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]

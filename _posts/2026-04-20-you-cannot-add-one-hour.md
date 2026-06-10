@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "You cannot add one hour: life unfolds through finite crossings whose moments differ in meaning and ontological density."
 title: "You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing"
 date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]

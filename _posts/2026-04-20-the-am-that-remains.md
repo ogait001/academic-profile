@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Against the Cogito: a defense of the I AM as the prior reality that makes thought, identity, and consciousness possible."
 title: "The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul"
 date: 2026-04-20 00:00:00 -0500
 categories: [ontology, philosophy-of-time, catholic-theology]

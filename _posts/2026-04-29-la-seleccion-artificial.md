@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la identidad y la perduración, donde el reemplazo desplaza la inhabitación y da origen al Ahora Deshabitado."
 title: "La Selección Artificial: Sobre la Resistencia, la Identidad y la Ingeniería de un Ahora Deshabitado"
 date: 2026-04-29
 categories: [ontology, philosophy-of-time, catholic-theology]

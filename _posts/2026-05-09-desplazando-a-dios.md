@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una crítica filosófica de las arquitecturas modernas de distracción, donde tanto Dios como el yo son desplazados de la presencia vivida."
 title: "Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora"
 date: 2026-05-09
 categories: [catholic-theology, ontology, philosophy-of-time]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on sacred presence and platform culture, where access replaces accessus and representation displaces presence."
 title: "God On-Demand: The Babelic Brick - Accessus and Access in the Platform Church"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The lemniscate as a topology of time integrating memory, possibility, freedom, grace, and providential return."
 title: "The Lemniscate of Time: A Topology of Memory, Possibility, and Grace"
 date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]

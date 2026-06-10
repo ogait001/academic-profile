@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una meditación sobre los tres destinos últimos, entendidos como modos perdurables de existencia en el punto de cruce del Ahora."
 title: "¿Dónde termina el tiempo? Los Tres Ahoras: Para siempre. Nunca."
 date: 2026-04-14
 categories: [catholic-theology, philosophy-of-time, ontology]

@@ -1,37 +1,32 @@
 ---
 ---
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: "en" }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   {% seo %}
   {% if page.translation_url %}
-  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}">
   {% if page.lang == "en" %}
-    <link rel="alternate" hreflang="es" href="https://ogait001.github.io{{ page.translation_url }}">
+    <link rel="alternate" hreflang="es" href="{{ page.translation_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
   {% elsif page.lang == "es" %}
-    <link rel="alternate" hreflang="en" href="https://ogait001.github.io{{ page.translation_url }}">
+    <link rel="alternate" hreflang="en" href="{{ page.translation_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ page.translation_url }}">
   {% endif %}
-{% endif %}
-
+  {% endif %}
   {% if page.doi %}
     <meta name="citation_title" content="{{ page.title }}">
     <meta name="citation_author" content="Oscar Gaitan">
     <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
     <meta name="citation_abstract_html_url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-
     {% if page.doi %}
       <meta name="citation_doi" content="{{ page.doi }}">
     {% endif %}
-
     {% if page.pdf_url %}
       <meta name="citation_pdf_url" content="{{ page.pdf_url }}">
     {% endif %}
-
     <script type="application/ld+json">
     {
       "@context":"https://schema.org",
@@ -48,15 +43,13 @@
       {% endif %}
     }
     </script>
-
   {% else %}
-
     <script type="application/ld+json">
     {
       "@context":"https://schema.org",
       "@type":"Person",
       "name":"Oscar Gaitan",
-      "url":"https://ogait001.github.io/academic-profile/",
+      "url":"https://oscargaitan.org/academic_profile.html",
       "jobTitle":"Independent Catholic Philosophical Researcher",
       "knowsAbout": [
         "Catholic theology",
@@ -74,17 +67,13 @@
       ]
     }
     </script>
-
   {% endif %}
-
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
-
   <style>
     html {
       scroll-behavior: smooth;
     }
-
     .back-to-top {
       position: fixed;
       bottom: 30px;
@@ -98,24 +87,19 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
       z-index: 999;
     }
-
     .back-to-top:hover {
       background: #444;
     }
   </style>
 </head>
-
 <body id="top">
   {% include header.html %}
-
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
     </div>
   </main>
-
   <a href="#top" class="back-to-top" aria-label="Back to top">↑</a>
-
   {% include footer.html %}
 </body>
 </html>

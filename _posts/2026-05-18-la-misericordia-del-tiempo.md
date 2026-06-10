@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "La misericordia del tiempo consiste en suspender la fijación inmediata de la voluntad, permitiendo nuevas respuestas a la gracia."
 title: "La Misericordia del Tiempo: Condemnatio in continenti y la Preservación de la Plasticidad Moral"
 date: 2026-05-18
 

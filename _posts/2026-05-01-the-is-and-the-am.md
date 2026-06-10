@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The 'is' of things points toward the AM that sustains them: an exploration of presence, identity, and the ground of being."
 title: "The Is and the AM: Presence, Identity, and the Ground that Holds"
 date: 2026-04-19 
 categories: [ontology, philosophy-of-time, catholic-theology]

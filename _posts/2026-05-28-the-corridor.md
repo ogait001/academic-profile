@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on birth and death, arguing that the Ground accompanies all existence without ever withdrawing."
 title: "The Corridor: on the Ground that does not withdraw"
 date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]

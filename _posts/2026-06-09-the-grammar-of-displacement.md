@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on place, time, and presence, where the modern grammar of displacement replaces the here, the now, and encounter."
 title: "The Grammar of Displacement: From, Anytime, Then"
 date: 2026-06-09
 categories: [philosophy-of-time, catholic-theology, ontology]

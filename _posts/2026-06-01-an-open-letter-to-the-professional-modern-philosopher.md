@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "An open letter on philosophy, independent scholarship, and the enduring question of who wisdom is ultimately for."
 title: "An Open Letter to the Professional Modern Philosopher"
 date: 2026-06-01
 categories: [ontology]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "An examination of temptation, identity, and digital culture, where the algorithm amplifies an ancient separation between the self and presence."
 title: "Eve's Algorithm: The Industrialization of the Original Temptation"
 date: 2026-05-21
 categories: [catholic-theology, philosophy-of-time, ontology]

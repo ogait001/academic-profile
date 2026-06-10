@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A philosophical examination of identity, endurance, and the Uninhabited Now, where replacement displaces inhabitation and presence."
 title: "The Artificial Selection: On Endurance, Identity, and the Engineering of an Uninhabited Now"
 date: 2026-04-29
 categories: [philosophy-of-time, ontology, catholic-theology]

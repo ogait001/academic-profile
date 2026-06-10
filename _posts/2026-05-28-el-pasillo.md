@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Entre el nacimiento y la muerte se extiende un pasillo sostenido por un Fundamento que nunca se retira."
 title: "El Pasillo: sobre el Fundamento que no se retira"
 date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]

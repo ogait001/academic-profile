@@ -18,12 +18,12 @@ Permítanme decirlo antes que nada, para que ningún lector confunda el blanco: 
 
 ## Tabla de contenido
 
-- [I. El mundo es mio](#i-el-mundo-es-mio)
+- [I. El mundo es mío](#i-el-mundo-es-mío)
 - [II. Desde](#ii-desde)
 - [III. A cualquier hora](#iii-a-cualquier-hora)
 - [IV. Entonces](#iv-entonces)
 - [V. El letrero de la calle central](#v-el-letrero-de-la-calle-central)
-- [VI. Coda: la direccion y la hora](#vi-coda-la-direccion-y-la-hora)
+- [VI. Coda: la dirección y la hora](#vi-coda-la-dirección-y-la-hora)
 - [Referencias](#referencias)
 
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre el sufrimiento y la presencia divina, que sostiene que Dios se encuentra como fundamento del presente y no como intervención."
 title: "¿Dónde Está Dios? El sufrimiento, el momento presente y el fundamento que no interviene"
 date: 2026-05-05
 categories: [catholic-theology, ontology, philosophy-of-time]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A philosophical critique of modern architectures of distraction, where both God and the self are displaced from lived presence."
 title: "De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now"
 date: 2026-05-09
 

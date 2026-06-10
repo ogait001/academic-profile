@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre el karma y la gracia, donde la realidad se sostiene no por el equilibrio de las cuentas, sino por una presencia personal."
 title: "El Recaudador en el Centro: Karma, Gracia y el Punto de Cruce"
 date: 2026-04-25
 categories: [catholic-theology, ontology, philosophy-of-time]

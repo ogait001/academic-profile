@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "No puedes añadir una hora: la vida consiste en cruces finitos cuyos momentos difieren en significado y densidad ontológica."
 title: "No Puedes Añadir una Hora: Sobre la densidad temporal, la formación de la voluntad y la finitud del cruce"
 date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]

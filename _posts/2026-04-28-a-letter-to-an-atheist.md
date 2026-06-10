@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A metaphysical inquiry arguing that contingent existence points beyond itself toward a necessary ground of being."
 title: "A Letter to an Atheist"
 date: 2026-04-28 00:00:00 -0500
 categories: [ontology, philosophy-of-time]

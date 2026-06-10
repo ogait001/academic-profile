@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Nunca dejó de moverse: una reflexión sobre la órbita, la identidad y la diferencia entre permanecer cerca del centro y volver a casa."
 title: "Jenny Curran: Sobre Orbitar el Centro"
 date: 2026-05-29
 categories: [ontology, catholic-theology]

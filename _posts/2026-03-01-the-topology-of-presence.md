@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Introducing the Gaitan Topology: four planes of existence organized around the crossing point of the Now, presence, grace, and displacement."
 title: "The Topology of Presence: Four Planes of Existence on the Lemniscate"
 date: 2026-03-30
 categories:

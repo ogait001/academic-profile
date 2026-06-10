@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la esperanza y el deseo, que sostiene que la sed humana permanece viva porque su fuente no se agota."
 title: "Por Qué el Centro No Se Agota: Esperanza, Sed y la Fuente que No Se Agota"
 date: 2026-04-08
 categories: [catholic-theology, philosophy-of-time, ontology]

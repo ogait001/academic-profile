@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la autonomía y la vida interior, que sostiene que la dependencia algorítmica externaliza facultades antes habitadas por la persona."
 title: "Acaso no estamos entretenidos? Sobre el bastón algorítmico y la externalización de la vida interior"
 date: 2026-06-08
 categories: [philosophy-of-time, ontology]

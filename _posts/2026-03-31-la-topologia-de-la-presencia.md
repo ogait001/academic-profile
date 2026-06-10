@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "La Topología de Gaitán: cuatro planos de existencia organizados alrededor del Ahora, la presencia, la gracia y el desplazamiento."
 title: "La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata"
 date: 2026-03-31
 categories: [ontology, philosophy-of-time, catholic-theology]

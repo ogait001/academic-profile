@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on autonomy and inner life, arguing that algorithmic dependence externalizes faculties once inhabited by the person."
 title: "Are We Not Entertained? On the algorithmic cane and the outsourcing of the interior life"
 date: 2026-06-08
 categories: [philosophy-of-time, ontology]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre el desplazamiento y los falsos centros, donde la devoción sobrevive reorganizándose alrededor de un eje alterno."
 title: "La Lemniscata Alterna: Sobre la Geometría del Desplazamiento"
 date: 2026-04-03
 categories: [ontology, philosophy-of-time, catholic-theology]

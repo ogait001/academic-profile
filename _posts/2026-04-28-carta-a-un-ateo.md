@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una investigación metafísica que sostiene que la existencia contingente apunta más allá de sí misma hacia un fundamento necesario del ser."
 title: "Carta a un Ateo"
 date: 2026-04-28
 categories: [catholic-theology, ontology]

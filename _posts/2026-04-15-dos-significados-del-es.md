@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Dos significados del 'es': el horizonte temporal explica la comprensión del ser, mientras que el Punto de Cruce explica su actualización."
 title: "Dos significados del 'es': El horizonte de Heidegger y el Punto de Cruce"
 date: 2026-04-21
 categories: [ontology, phenomenology, philosophy-of-time]

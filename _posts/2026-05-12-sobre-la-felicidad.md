@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la felicidad y el anhelo humano, que sostiene que los bienes finitos no pueden colmar el deseo de plenitud perdurable."
 title: "Sobre la Felicidad: Su Duración, Su Nombre, y Lo Que Perdura"
 date: 2026-05-12
 categories: [catholic-theology, ontology, philosophy-of-time]

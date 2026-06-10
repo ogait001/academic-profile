@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una meditación sobre el anonimato y la comunión, que sostiene que la relación auténtica requiere personas reunidas en presencia y no disueltas en el anonimato."
 title: "Das Man y la primera persona del singular: Sobre el anonimato, el desplazamiento y las condiciones de la comunión auténtica"
 date: 2026-04-21
 categories: [philosophy-of-time, ontology]

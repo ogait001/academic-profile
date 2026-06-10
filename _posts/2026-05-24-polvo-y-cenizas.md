@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una exploración de la notación posicional como modelo del ser, donde la identidad perdura a través de los umbrales del devenir."
 title: "Cero y Uno, Polvo y Cenizas: La Notacion Posicional como Modelo del Ser"
 date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]

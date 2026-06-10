@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la misericordia y la voluntad, donde la llamada divina precede al juicio y la penitencia abre el camino de regreso."
 title: "¿Dónde estás? Sobre la Misericordia, la Voluntad y el Punto de Cruce"
 date: 2026-04-12
 categories: [catholic-theology, ontology, philosophy-of-time]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A philosophical examination of the Heroic Illusion, where imagined fulfillment displaces reality and life is postponed in anticipation."
 title: "The Heroic Illusion: The Upward Escape and the Structure That Replaces Reality Before It Begins"
 date: 2026-03-17 00:00:00 -0500
 categories: [ontology, philosophy-of-time]

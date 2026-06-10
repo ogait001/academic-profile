@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on digital culture and the interrogative faculty, arguing that the deepest crisis is the loss of the capacity to ask."
 title: "Non te egeo: When We Stopped Asking"
 date: 2026-05-16 00:00:00 -0500
 categories: [philosophy-of-time, ontology]

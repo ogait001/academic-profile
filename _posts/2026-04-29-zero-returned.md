@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on repetition and infinity, where decimal notation reveals a structure of return, identity, and ascent."
 title: "Zero Returned: What decimal notation suggests about Repetition, Identity, and Infinity"
 date: 2026-04-29
 categories: [ontology, philosophy-of-time]

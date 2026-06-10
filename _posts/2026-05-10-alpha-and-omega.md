@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on the Now and the cosmos, arguing that Alpha and Omega is the foundation that sustains both time and existence."
 title: "Alpha and Omega: On the Cosmos, the Now, and the God Who Holds Both Ends"
 date: 2026-05-10
 categories: [philosophy-of-time, catholic-theology, ontology]

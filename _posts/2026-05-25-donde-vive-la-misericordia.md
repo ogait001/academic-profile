@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Donde vive la misericordia: en el retorno del alma que, al volver en sí, descubre que la gracia nunca la abandonó."
 title: "Donde Vive la Misericordia: Volviendo en sí"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]

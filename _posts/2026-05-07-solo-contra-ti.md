@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Un examen del juicio, la responsabilidad y la gracia, donde el alma comparece como testigo de sí misma ante Dios."
 title: "Solo Contra Ti: Sobre el Juicio, el Alma como Testigo de Sí Misma, y las Dos Respuestas que Permanecen"
 date: 2026-05-08
 categories: [catholic-theology, ontology, metaphysical-anthropology]

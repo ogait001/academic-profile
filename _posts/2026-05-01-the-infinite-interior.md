@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on identity and change, proposing the infinite interior as the structure that preserves the self through transformation."
 title: "The Infinite Interior: On Space, Change, and the Integrity of the Self"
 date: 2026-05-05 00:00:00 +0000
 categories: [ontology, philosophy-of-time]

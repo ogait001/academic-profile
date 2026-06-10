@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la repetición y el infinito, donde la notación decimal revela una estructura de retorno, identidad y ascenso."
 title: "El Cero que Regresa: Lo que la notación decimal sugiere sobre la Repetición, la Identidad y el Infinito"
 date: 2026-04-29
 categories: [ontology, metaphysics, philosophy-of-mathematics]

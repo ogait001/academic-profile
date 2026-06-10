@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A meditation on anonymity and communion, arguing that authentic relation requires persons gathered into presence rather than dissolved into the anonymous many."
 title: "Das Man and the First Person Singular: On Anonymity, Displacement, and the Conditions of Authentic Communion"
 date: 2026-04-21 00:00:00 -0500
 categories: [ontology, phenomenology]

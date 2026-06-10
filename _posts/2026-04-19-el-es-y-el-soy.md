@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "El 'es' de las cosas remite al SOY que las sostiene: una exploración de la presencia, la identidad y el fundamento del ser."
 title: "El Es y el SOY: Presencia, Identidad y el Fundamento que Sostiene"
 date: 2026-04-19
 categories: [ontology, philosophy-of-time, catholic-theology]

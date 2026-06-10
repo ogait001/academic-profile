@@ -1,5 +1,17 @@
 title: "Oscar Gaitan"
 description: "Independent philosophical research in ontology, philosophy of time, phenomenology, metaphysics, and Catholic theology."
+lang: en
+
+author:
+  name: Oscar Gaitan
+  url: https://oscargaitan.org
+
+social:
+  name: Oscar Gaitan
+  links:
+    - https://orcid.org/0009-0007-1904-4547
+    - https://philpeople.org/profiles/oscar-gaitan
+    - https://scholar.google.com/citations?user=huV-MLsAAAAJ
 url: "https://oscargaitan.org"
 baseurl: ""
 theme: minima

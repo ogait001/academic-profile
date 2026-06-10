@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Where mercy lives: in the return of the soul that, coming to itself, discovers that grace never abandoned it."
 title: "Where Mercy Lives: He Came to Himself"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]

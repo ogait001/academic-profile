@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on mercy and the will, where divine address precedes judgment and repentance opens the way home."
 title: "Where Are You? On Mercy, Will, and the Crossing Point"
 date: 2026-04-12
 categories: [catholic-theology, philosophy-of-time, ontology]

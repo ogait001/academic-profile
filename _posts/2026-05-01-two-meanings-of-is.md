@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Two meanings of 'is': temporal horizon explains the intelligibility of being, while the Crossing Point explains its actualization."
 title: "Two Meanings of 'Is': Heidegger's Horizon and the Crossing Point"
 date: 2026-04-21 00:00:00 +0000
 categories: [ontology, philosophy-of-time]

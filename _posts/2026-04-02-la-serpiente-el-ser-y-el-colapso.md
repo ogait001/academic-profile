@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una meditación filosófica sobre el colapso del yo, donde bucles apócrifos sostienen el movimiento mientras separan la identidad del punto de cruce."
 title: "La Serpiente, el Ser y el Colapso del 'Yo'"
 date: 2026-04-01
 categories: [ontology, catholic-theology, philosophy-of-time]

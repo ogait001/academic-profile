@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la presencia sagrada y la cultura de plataforma, donde el acceso reemplaza al accessus y la representación desplaza la presencia."
 title: "Dios a la Carta: El Ladrillo Babelico - Accessus y Acceso en la Iglesia-Plataforma"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]

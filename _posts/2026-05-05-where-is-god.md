@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on suffering and divine presence, arguing that God is found as the ground of the present rather than as intervention."
 title: "Where Is God? Suffering, the present moment, and the Ground that does not intervene"
 date: 2026-05-05
 categories: [catholic-theology, philosophy-of-time, ontology]

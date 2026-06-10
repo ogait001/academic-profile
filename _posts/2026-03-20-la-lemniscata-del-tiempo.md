@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "La lemniscata como una topología del tiempo que integra memoria, posibilidad, libertad, gracia y retorno providencial."
 title: "La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia"
 date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]

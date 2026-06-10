@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on hope and desire, arguing that human thirst remains alive because its source does not run dry."
 title: "Why the Center Does Not Run Out: Hope, Thirst, and the Source That Does Not Deplete"
 date: 2026-04-08
 categories: [philosophy-of-time, catholic-theology, ontology]

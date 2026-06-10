@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre tiempo, eternidad y providencia, donde la lemniscata ofrece un modelo de acceso a la plenitud desde el punto de cruce."
 title: "El Modelo Lemniscata del Tiempo: Recurrencia, Eternidad y el Punto de Cruce"
 date: 2026-05-31
 categories: [philosophy-of-time, catholic-theology, ontology]

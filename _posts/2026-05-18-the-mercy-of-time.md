@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "The mercy of time consists in suspending the immediate fixation of the will, allowing new responses to grace."
 title: "The Mercy of Time: Condemnatio in continenti and the Preservation of Moral Plasticity"
 date: 2026-05-18
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Un examen de la tentación, la identidad y la cultura digital, donde el algoritmo amplifica una antigua separación entre el yo y la presencia."
 title: "El Algoritmo de Eva: La Industrializacion de la Tentacion Original"
 date: 2026-05-21
 categories: [catholic-theology, philosophy-of-time, ontology]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre el Ahora y el cosmos, sosteniendo que Alfa y Omega es el fundamento que sostiene tanto el tiempo como la existencia."
 title: "Alfa y Omega: Sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos"
 date: 2026-05-10
 categories: [catholic-theology, philosophy-of-time, ontology]

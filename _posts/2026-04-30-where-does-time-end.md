@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A meditation on the three final destinies, understood as enduring modes of existence at the crossing point of the Now."
 title: "Where Does Time End? The Three Nows: Forever. Never."
 date: 2026-04-14
 categories: [philosophy-of-time, catholic-theology, ontology]

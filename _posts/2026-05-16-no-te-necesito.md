@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una reflexión sobre la cultura digital y la facultad interrogativa, que sostiene que la crisis más profunda es la pérdida de la capacidad de preguntar."
 title: "Non te egeo: Cuando Dejamos de Preguntar"
 date: 2026-05-16 00:00:00 -0500
 categories: [philosophy-of-time, ontology]

@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Un examen de Dios, la conciencia y el cosmos, que distingue entre los mecanismos de la realidad y aquello que la sostiene."
 title: "Dios, el universo y el Ahora: Pequeñez soberana sobre grandeza dependiente"
 date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]

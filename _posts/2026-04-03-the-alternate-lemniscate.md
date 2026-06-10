@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "A reflection on displacement and false centers, where devotion survives by reorganizing itself around an alternate axis."
 title: "The Alternate Lemniscate: On the Geometry of Displacement"
 date: 2026-04-03 00:00:00 -0500
 categories: [ontology, philosophy-of-time, catholic-theology]

@@ -133,7 +133,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <tr>
 <td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
-<td><a href="/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
+<td><a href="https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
 </tr>
 
 <tr>

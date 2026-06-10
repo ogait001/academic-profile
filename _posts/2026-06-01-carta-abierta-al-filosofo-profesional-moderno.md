@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Una carta abierta sobre filosofía, investigación independiente y la pregunta permanente de para quién es, en última instancia, la sabiduría."
 title: "Carta abierta al filosofo profesional moderno"
 date: 2026-06-01
 categories: [ontology]

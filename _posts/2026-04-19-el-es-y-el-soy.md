@@ -4,6 +4,8 @@ description: "El 'es' de las cosas remite al SOY que las sostiene: una exploraci
 title: "El Es y el SOY: Presencia, Identidad y el Fundamento que Sostiene"
 date: 2026-04-19
 categories: [ontology, philosophy-of-time, catholic-theology]
+redirect_from:
+  - /ontology/philosophy-of-time/catholic-theology/2026/05/01/el-es-y-el-soy.html
 tags: [presence, identity, metaphysics, being, lemniscate, crossing-point]
 lang: es
 doi: "10.5281/zenodo.19655047"

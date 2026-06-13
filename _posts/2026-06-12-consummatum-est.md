@@ -13,9 +13,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681867"
 translation_url: ""
 ---
 
-<div 
-  <p style="margin:0.6em 0 0 0;">The Solemnity of the Most Sacred Heart of Jesus &middot; June 12, 2026</p>
-</div>
+>The Solemnity of the Most Sacred Heart of Jesus
+
 
 ## Table of Contents
 

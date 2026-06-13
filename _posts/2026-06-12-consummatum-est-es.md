@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Consummatum Est: Densidad Temporal, Relatividad Topologica, y la Consumacion del Ahora"
+title: "Consummatum Est: Densidad Temporal, Relatividad Topológica, y la Consumación del Ahora"
 date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [densidad-temporal, relatividad-topologica, ahora, punto-de-cruce, lemniscate, residencia, referencia, consummatum-est, mujer-de-lot, calderon, lope-de-vega, inercia-estructural, gaitan-topology]
@@ -12,12 +12,12 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681996"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html"
 ---
 
->Solemnidad del Sagrado Corazon de Jesus 
+>Solemnidad del Sagrado Corazón de Jesús 
 
 
 ## Tabla de contenido
 
-- [Nota sobre el metodo](#nota-sobre-el-metodo)
+- [Nota sobre el método](#nota-sobre-el-método)
 - [I. La pregunta reflexiva](#i-la-pregunta-reflexiva)
 - [II. La gramatica de la sexta palabra](#ii-la-gramatica-de-la-sexta-palabra)
 - [III. Los años ocultos](#iii-los-años-ocultos)

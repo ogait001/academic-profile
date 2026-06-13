@@ -13,9 +13,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681867"
 translation_url: ""
 ---
 
-<div class="essay-title-block" markdown="0" style="text-align:center;">
-  <p style="font-variant:small-caps; letter-spacing:0.08em; font-size:1.6em; margin:0.2em 0;">Consummatum Est</p>
-  <p style="font-style:italic; margin:0.2em 0;">Temporal Density, Topological Relativity,<br>and the Consummation of the Now</p>
+<div 
   <p style="margin:0.6em 0 0 0;">The Solemnity of the Most Sacred Heart of Jesus &middot; June 12, 2026</p>
 </div>
 

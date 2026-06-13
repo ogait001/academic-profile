@@ -19,13 +19,13 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
 
 - [Nota sobre el método](#nota-sobre-el-método)
 - [I. La pregunta reflexiva](#i-la-pregunta-reflexiva)
-- [II. La gramatica de la sexta palabra](#ii-la-gramatica-de-la-sexta-palabra)
+- [II. La gramática de la sexta palabra](#ii-la-gramática-de-la-sexta-palabra)
 - [III. Los años ocultos](#iii-los-años-ocultos)
 - [IV. La densidad temporal](#iv-la-densidad-temporal)
-- [V. La neutralidad de la densidad: la mujer de Lot](#v-la-neutralidad-de-la-densidad-la-mujer-de-lot)
-- [VI. La relatividad topologica y la medida de un estado](#vi-la-relatividad-topologica-y-la-medida-de-un-estado)
+- [V. La neutralidad de la densidad: La mujer de Lot](#v-la-neutralidad-de-la-densidad-la-mujer-de-lot)
+- [VI. La relatividad topológica y la medida de un estado](#vi-la-relatividad-topológica-y-la-medida-de-un-estado)
 - [VII. El vaso de agua](#vii-el-vaso-de-agua)
-- [VIII. Manana: el cruce diferido](#viii-manana-el-cruce-diferido)
+- [VIII. Mañana: el cruce diferido](#viii-mañana-el-cruce-diferido)
 - [IX. El juicio como revelacion](#ix-el-juicio-como-revelacion)
 - [X. Cada Ahora consumado](#x-cada-ahora-consumado)
 - [Referencias](#referencias)
@@ -90,7 +90,7 @@ La sexta palabra desde la Cruz es, en estos términos, el caso máximo de refere
 
 Los dos ensayos se reflejan ahora mutuamente. *Sobre la Felicidad* preguntaba por qué el sufrimiento se siente más largo que la felicidad, y respondía: porque el sufrimiento genera residencia mientras la felicidad se vuelve referencia. Este ensayo pregunta por qué algunos momentos se sienten con un alcance referencial mayor que su duración, y responde: porque generan una referencia inusualmente amplia. Uno explica por qué ciertos momentos pasados se niegan a soltar al yo. El otro explica por qué ciertos momentos presentes iluminan trayectorias enteras. Ambos funcionan con la misma maquinaria: cruces, bucles, residencia, referencia, y el Ahora de espesor cero.
 
-## V. La neutralidad de la densidad: la mujer de Lot
+## V. La neutralidad de la densidad: La mujer de Lot
 
 Debe hacerse ahora una corrección a una suposición que el concepto invita. Es tentador asociar la densidad temporal con la plenitud -- imaginar que el cruce denso es naturalmente el momento de culminación, comprensión, logro. El modelo no permite la asociación. Si la densidad es una propiedad estructural, no carga contenido moral, como tampoco lo cargan la altitud o la curvatura. Un cruce puede ser denso porque revela una trayectoria magnífica. Un cruce puede ser denso porque revela una desastrosa. La densidad está en la revelación, no en el valor de lo que se revela.
 

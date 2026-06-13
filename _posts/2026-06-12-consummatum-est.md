@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Consummatum Est, densidad temporal y punto de cruce."
+description: "Consummatum Est, temporal density, and the crossing point."
 title: "Consummatum Est: Temporal Density, Topological Relativity, and the Consummation of the Now"
 date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]

@@ -116,16 +116,17 @@ Essays written for both scholarly readers and the philosophically curious.
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
 
----
+<div style="margin: 2rem 0;"></div>
 
+---
 
 ## Language Accessibility
 
 Nearly all essays are available in both  **English and Spanish**.
 
+<div style="margin: 2rem 0;"></div>
 
 ---
-
 
 ## Featured Essays - Ensayos Destacados
 <table>
@@ -198,10 +199,9 @@ Human identity, moral agency, responsibility, and personhood.
 ### Philosophy of Mathematics
 Symbolic structures, abstraction, number, and ontological interpretation.
 
+<div style="margin: 2rem 0;"></div>
 
 ---
-
-
 
 ## Recent Publications
 

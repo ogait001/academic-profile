@@ -118,9 +118,11 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
+
 ## Language Accessibility
 
 Nearly all essays are available in both  **English and Spanish**.
+
 
 ---
 
@@ -196,7 +198,9 @@ Human identity, moral agency, responsibility, and personhood.
 ### Philosophy of Mathematics
 Symbolic structures, abstraction, number, and ontological interpretation.
 
+
 ---
+
 
 
 ## Recent Publications

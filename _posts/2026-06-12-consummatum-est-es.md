@@ -63,7 +63,7 @@ Consummatum est -- la traducción latina del griego tetelestai -- no es ninguna 
 
 Este es, propone el ensayo, el tiempo verbal de Dios. La voz desde la zarza ardiente no dice yo era o yo seré. Dice YO SOY EL QUE SOY -- el presente puro, no calificado, que la obra anterior del autor identifica como la forma gramatical de la actualidad no derivada. El Hijo, en el punto de cruce final, habla en el mismo tiempo verbal acerca de la obra: no el tiempo de la memoria, no el tiempo de la anticipación, sino el tiempo de la presencia consumada. Consummatum est es el YO SOY dicho de la obra más que del ser.
 
-La observación filosófica sobre la que este ensayo se construye es gramatical y estructural, y puede enunciarse sin afirmación alguna sobre la experiencia interior de Cristo: la palabra dicha una sola vez en el último punto de cruce nombra una completud que no remite hacia atrás para su contenido. No dice que la cosa larga ya terminó. Dice: esto es entero.
+La observación filosófica sobre la que este ensayo se construye es gramatical y estructural, y puede enunciarse sin afirmación alguna sobre la experiencia interior de Cristo: la palabra dicha una sola vez en el último punto de cruce nombra una completud que no remite hacia atrás para su contenido. No dice que lo prolongado ya terminó. Dice: esto es entero.
 
 ## III. Los años ocultos
 

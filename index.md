@@ -159,10 +159,10 @@ The essays collected here develop an original philosophical framework at the int
 - Structural Inertia
 - Harmonic Echo
 - The Ghost Zone
-- Alternate Lemniscates
+- The Alternate Lemniscate
 - Topological Relativity
 - Temporal Density
-- The Uninhabited Now
+- The Flat Sight
 - Artificial Selection
 
 [Explore the full Research Framework →](/research-framework/)

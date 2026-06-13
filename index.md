@@ -162,7 +162,7 @@ The essays collected here develop an original philosophical framework at the int
 - The Alternate Lemniscate
 - Topological Relativity
 - Temporal Density
-- The Flat Sight
+- Flat Sight
 - Artificial Selection
 
 [Explore the full Research Framework →](/research-framework/)

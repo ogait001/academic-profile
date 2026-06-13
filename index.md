@@ -137,6 +137,10 @@ Essays written for both scholarly readers and the philosophically curious.
 <td><a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a></td>
 </tr>
 <tr>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum est</a></td>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a></td>
+</tr>  
+<tr>
 <td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/28/the-corridor.html">The Corridor</a></td>
 <td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a></td>
 </tr>

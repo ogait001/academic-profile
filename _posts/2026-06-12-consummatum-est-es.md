@@ -43,7 +43,7 @@ La guarda teológica de este ensayo se fija aquí y se mantiene en todo momento.
 
 Las lecturas escriturales son lecturas filosóficas, no exégesis. El marco se lleva a los textos; no se deriva de ellos. Una leyenda popular se usa en la Sección VII; se presenta como ilustración, explícitamente no como teología. Las referencias literarias se usan como testigos estructurales, en consonancia con el método establecido del autor.
 
-El término el yo se refiere en todo momento al alma y la voluntad en la tradición filosófica católica. Un tratamiento ontológico más completo aparece en *El 'Soy' que permanece* (Gaitan, 2026) y no se repite aquí.
+El término el yo se refiere en todo momento al alma y la voluntad en la tradición filosófica católica. Un tratamiento ontológico más completo aparece en *El Soy que permanece* (Gaitan, 2026) y no se repite aquí.
 
 ## I. La pregunta reflexiva
 

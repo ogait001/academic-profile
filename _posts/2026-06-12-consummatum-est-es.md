@@ -5,7 +5,7 @@ date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [densidad-temporal, relatividad-topologica, ahora, punto-de-cruce, lemniscate, residencia, referencia, consummatum-est, mujer-de-lot, calderon, lope-de-vega, inercia-estructural, gaitan-topology]
 lang: es
-excerpt: "Es todo consumado en el lecho de muerte, o es cada actualizacion una consumacion? Leyendo la gramatica de la sexta palabra de Cristo desde la Cruz, este ensayo extiende el marco con dos instrumentos, la densidad temporal y la relatividad topologica, para argumentar que la consumacion ocurre, o no ocurre, en cada punto de cruce de una vida. Lo que ocurre en el lecho de muerte es revelacion."
+excerpt: "Una exploración filosófica de la densidad temporal, la revelación y la consumación de cada Ahora."
 doi: "10.5281/zenodo.20681996"
 record_url: "https://zenodo.org/records/20681996"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681996"

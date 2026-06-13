@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Consummatum Est, temporal density, and the crossing point."
+description: "How ordinary moments disclose an entire trajectory."
 title: "Consummatum Est: Temporal Density, Topological Relativity, and the Consummation of the Now"
 date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]

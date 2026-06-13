@@ -118,7 +118,14 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
-## Featured Essays
+## Language Accessibility
+
+Nearly all essays are available in both  **English and Spanish**.
+
+---
+
+
+## Featured Essays - Ensayos Destacados
 <table>
 <tr>
 <td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
@@ -191,11 +198,6 @@ Symbolic structures, abstraction, number, and ontological interpretation.
 
 ---
 
-## Language Accessibility
-
-Many essays are available in both **English and Spanish**.
-
----
 
 ## Recent Publications
 

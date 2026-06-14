@@ -147,7 +147,7 @@ Una revelación más pertenece a este cruce, tratada con extensión en el ensayo
 
 ## IX. El juicio como revelación
 
-La simetría entre la Cruz y el pilar de sal fuerza una consecuencia final, que puede ser el alcance más profundo del marco dentro de la tradición -- ofrecida, como dice la nota sobre el método, como lectura filosófica junto a la doctrina, no como doctrina misma.
+La simetría entre la Cruz y el pilar de sal obliga una consecuencia final, que puede ser el alcance más profundo del marco dentro de la tradición -- ofrecida, como dice la nota sobre el método, como lectura filosófica junto a la doctrina, no como doctrina misma.
 
 El juicio, en este marco, no es una sentencia externa añadida a una vida. Es el cruce de densidad máxima mismo: el punto en que la trayectoria entera se vuelve referencialmente visible como lo que es, medida desde el Centro. El ángel de la guarda buscando en el registro es una imagen popular de exactamente esto -- no un tribunal que sopesa acusaciones, sino una revelación del campo entero, en la que un cruce consumado permanece visible y permanente entre los no consumados. La lectura se acerca a la comprensión católica del juicio particular como el alma viéndose a sí misma a la plena luz de Dios; el ensayo nota la proximidad y no presiona más la identificación.
 

@@ -26,7 +26,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
 - [V. The Neutrality of Density: Lot's Wife](#v-the-neutrality-of-density-lots-wife)
 - [VI. Topological Relativity and the Measure of a State](#vi-topological-relativity-and-the-measure-of-a-state)
 - [VII. The Glass of Water](#vii-the-glass-of-water)
-- [VIII. Manana: The Deferred Crossing](#viii-manana-the-deferred-crossing)
+- [VIII. Mañana: The Deferred Crossing](#viii-mañana-the-deferred-crossing)
 - [IX. Judgment as Disclosure](#ix-judgment-as-disclosure)
 - [X. Every Now Accomplished](#x-every-now-accomplished)
 - [References](#references)
@@ -133,7 +133,7 @@ And the legend establishes the essay's central claim about ordinary lives. The N
 
 What it means for the Now to be a non-variable container should be made explicit, because the final sections rest on it. The Now is not a vessel with dimensions that admit comparison -- larger here, smaller there. It is the condition of actuality as such, and a condition does not come in sizes. Zero thickness is precisely the refusal of gradation: what has no extension cannot have more or less of it. Every act that becomes actual therefore becomes actual under an identical condition -- the same crossing, the same zero, the same totality. The apparent size of an act -- its chronological span, its social scale, its visibility -- belongs to the loops, where content is compared with content. Its actuality belongs to the crossing, where no comparison is possible because the condition does not vary. This is why the small act is structurally equal to the large one: not because the model sentimentally inflates the small, but because the register in which acts could be unequal is not the register in which they are actual.
 
-## VIII. Manana: The Deferred Crossing
+## VIII. Mañana: The Deferred Crossing
 
 If temporal density names the disclosure of a trajectory, then the maximal-density crossing discloses everything the trajectory contains -- including its deferrals. The word for deferral has a classical form, and it comes from Lope de Vega's *Rimas sacras*. The angel calls: Alma, asomate agora a la ventana, veras con cuanto amor llamar porfia -- soul, come now to the window and see with how much love he persists in knocking. And the soul answers, day after day: Manana le abriremos -- tomorrow we will open -- para lo mismo responder manana: only to answer the same tomorrow.
 

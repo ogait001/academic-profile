@@ -6,7 +6,7 @@ date: 2026-06-09
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [displacement, non-te-egeo, presence, real-presence, monte-cristo, marco-polo, macondo, garcia-marquez, chapin, micro-gap, now, gaitan-topology]
 lang: en
-excerpt: "A philosophical exploration of how place, time, and presence dissolve into the modern grammar of displacement."
+excerpt: "An inquiry into how place, time, and presence dissolve within the grammar of modern displacement."
 doi: "10.5281/zenodo.20618207"
 record_url: "https://zenodo.org/records/20618207"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618207"

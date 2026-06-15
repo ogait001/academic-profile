@@ -13,13 +13,17 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20708633"
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html#top"
 ---
 
-*Continuidad, Agencia y la no sustitución del yo*
-
-*Un ensayo filosófico-teológico en la Topología Gaitan -- 15 de junio de 2026*
-
-> Hola!, que llevarme dejo / sin orden y sin consejo, / y que del cielo me alejo, / donde no puedo llegar.
+{% raw %}
+> ¡Hola!, que llevarme dejo  
+> sin orden y sin consejo,  
+> y que del cielo me alejo,  
+> donde no puedo llegar.  
 >
-> -- Lope de Vega, *Rimas sacras*
+> — *Lope de Vega, Rimas sacras*
+{% endraw %}
+
+<br><br>
+
 
 ## Tabla de contenido
 

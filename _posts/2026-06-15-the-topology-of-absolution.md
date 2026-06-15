@@ -10,7 +10,7 @@ excerpt: "Absolution restores relation instantly; sanctification reshapes the sa
 doi: "10.5281/zenodo.20708609"
 record_url: "https://zenodo.org/records/20708609"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20708609"
-translation_url: ""
+translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/la-topologia-de-la-absolucion.html"
 ---
 
 

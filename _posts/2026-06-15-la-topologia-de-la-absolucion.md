@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "El perdón elimina la frontera; la transformación sana la curvatura sin sustituir a la persona."
-title: "La Topologia de la Absolucion: Continuidad, Agencia y la no sustitucion del yo"
+title: "La Topología de la Absolución: Continuidad, Agencia y la no sustitución del yo"
 date: 2026-06-15
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [absolucion, santificacion, purgatorio, non-serviam, orgullo, culpa, continuidad, agencia, voluntad-dividida, punto-de-cruce, lope-de-vega, pablo, damasco, gaitan-topology]

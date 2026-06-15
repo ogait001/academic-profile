@@ -28,13 +28,13 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-
 ## Tabla de contenido
 
 - [Resumen](#resumen)
-- [1. El problema de la santidad instantanea](#1-el-problema-de-la-santidad-instantanea)
-- [2. La absolucion como reorientacion, no como sustitucion](#2-la-absolucion-como-reorientacion-no-como-sustitucion)
+- [1. El problema de la santidad instantánea](#1-el-problema-de-la-santidad-instantánea)
+- [2. La absolución como reorientación, no como sustitución](#2-la-absolución-como-reorientación-no-como-sustitución)
 - [3. El orgullo como la curvatura profunda](#3-el-orgullo-como-la-curvatura-profunda)
-- [4. La accion divina y la objecion de Damasco](#4-la-accion-divina-y-la-objecion-de-damasco)
-- [5. La continuidad requiere agencia, no duracion](#5-la-continuidad-requiere-agencia-no-duracion)
+- [4. La acción divina y la objeción de Damasco](#4-la-acción-divina-y-la-objeción-de-damasco)
+- [5. La continuidad requiere agencia, no duración](#5-la-continuidad-requiere-agencia-no-duración)
 - [6. La voluntad dividida y la indivisa](#6-la-voluntad-dividida-y-la-indivisa)
-- [7. La sintesis](#7-la-sintesis)
+- [7. La síntesis](#7-la-síntesis)
 - [Referencias](#referencias)
 
 ## Resumen

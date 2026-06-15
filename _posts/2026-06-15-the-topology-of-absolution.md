@@ -1,6 +1,6 @@
 ---
 layout: post
-description: Topology of absolution, agency, identity, and sanctification.
+description: "Topology of absolution, agency, identity, and sanctification."
 title: "The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self"
 date: 2026-06-15
 categories: [catholic-theology, ontology, philosophy-of-time]

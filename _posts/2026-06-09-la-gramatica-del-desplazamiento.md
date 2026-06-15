@@ -6,7 +6,7 @@ date: 2026-06-09
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [desplazamiento, non-te-egeo, presencia, presencia-real, montecristo, marco-polo, macondo, garcia-marquez, chapin, micro-brecha, ahora, gaitan-topology]
 lang: es
-excerpt: "Una exploración filosófica de cómo lugar, tiempo y presencia se disuelven en la gramática moderna del desplazamiento."
+excerpt: "Un análisis de cómo lugar, tiempo y presencia se disuelven en la gramática moderna del desplazamiento."
 doi: "10.5281/zenodo.20618272"
 record_url: "https://zenodo.org/records/20618272"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618272"

@@ -6,7 +6,7 @@ date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [temporal-density, topological-relativity, now, crossing-point, lemniscate, residency, reference, consummatum-est, lots-wife, calderon, lope-de-vega, structural-inertia, gaitan-topology]
 lang: en
-excerpt: "A philosophical exploration of temporal density, disclosure, and why consummation belongs to every Now."
+excerpt: "A study of temporal density, revelation, and the consummation of each Now."
 doi: "10.5281/zenodo.20681867"
 record_url: "https://zenodo.org/records/20681867"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681867"

@@ -6,7 +6,7 @@ date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [densidad-temporal, relatividad-topologica, ahora, punto-de-cruce, lemniscate, residencia, referencia, consummatum-est, mujer-de-lot, calderon, lope-de-vega, inercia-estructural, gaitan-topology]
 lang: es
-excerpt: "Una exploración filosófica de la densidad temporal, la revelación y la consumación de cada Ahora."
+excerpt: "Sobre la densidad temporal, la revelación y la consumación de cada Ahora."
 doi: "10.5281/zenodo.20681996"
 record_url: "https://zenodo.org/records/20681996"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681996"

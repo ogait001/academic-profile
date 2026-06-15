@@ -15,9 +15,20 @@ translation_url: ""
 
 
 
-> Hola!, que llevarme dejo / sin orden y sin consejo, / y que del cielo me alejo, / donde no puedo llegar. -- Lope de Vega, *Rimas sacras*
+{% raw %}
+> ¡Hola!, que llevarme dejo  
+> sin orden y sin consejo,  
+> y que del cielo me alejo,  
+> donde no puedo llegar.  
 >
+> — *Lope de Vega, Rimas sacras*
+{% endraw %}
+
+<br><br>
+
 > "Alas, I let myself be carried off, without order and without counsel, and so I draw away from heaven, where I can no longer arrive." -- Lope de Vega, *Rimas sacras*
+
+<br><br>
 
 ## Table of Contents
 

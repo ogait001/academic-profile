@@ -10,7 +10,7 @@ excerpt: "Hume could not find the self because invariants do not appear among th
 doi: "10.5281/zenodo.20710961"
 record_url: "https://zenodo.org/records/20710961"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20710961"
-translation_url: ""
+translation_url: "https://oscargaitan.org/ontology/catholic-theology/philosophy-of-time/2026/06/15/el-fundamento-que-no-aparece.html"
 ---
 
 ## Table of Contents

@@ -17,12 +17,12 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/17/
 ## Contenido
 
 - [Resumen](#resumen)
-- [1. La falsificacion que lleva el nombre](#1-la-falsificacion-que-lleva-el-nombre)
+- [1. La falsificación que lleva el nombre](#1-la-falsificación-que-lleva-el-nombre)
 - [2. Un solo eje, dos posiciones](#2-un-solo-eje-dos-posiciones)
-- [3. El ultimo refugio del ego](#3-el-ultimo-refugio-del-ego)
+- [3. El último refugio del ego](#3-el-último-refugio-del-ego)
 - [4. La sierva de los siervos](#4-la-sierva-de-los-siervos)
 - [5. Cinco escenas de la humildad en acto](#5-cinco-escenas-de-la-humildad-en-acto)
-- [6. La respuesta a la persona comun](#6-la-respuesta-a-la-persona-comun)
+- [6. La respuesta a la persona común](#6-la-respuesta-a-la-persona-común)
 - [Referencias](#referencias)
 
 <br><br>
@@ -31,7 +31,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/17/
 
 Este ensayo distingue la humildad de su falsificacion mas comun. El autodesprecio no es humildad, sino soberbia invertida: conserva al yo como la unidad con la que se mide todo, limitandose a desplazarlo de la cima de la escala al fondo. El eje no cambia; solo se invierte la posicion. Esto revela que el ensayo tiene, en el fondo, un unico enemigo y no dos -- no la soberbia y el autodesprecio como opuestos, sino la autorreferencia misma, el yo instalado como medida, de la cual la soberbia y el autodesprecio son solo dos direcciones. La humildad suprime al yo como unidad de medida por completo: situada en el punto de cruce, consiente en ser ordenada no por el yo a ninguna altura, sino por el fundamento no derivado. La distincion se lee en acto a traves de los cinco Misterios Gozosos, en los que Maria, la Sierva de los siervos, jamas se rebaja y jamas se exalta, sino que en cada escena mide desde el centro que ella no es. La humildad, asi entendida, no es el encogimiento del yo, sino su orientacion recta: la postura en la que la gracia puede actuar.
 
-## 1. La falsificacion que lleva el nombre
+## 1. La falsificación que lleva el nombre
 
 Hay una postura que toma prestado el lenguaje de la humildad y significa su contrario. Habla de indignidad, se detiene en su propia pequenez, rechaza lo que se le ofrece con el argumento de que no merece nada, y a esto lo llama bajeza. Se la confunde con la humildad porque suena como la humildad -- el vocabulario es el mismo. Pero la estructura que la sostiene es la estructura de la soberbia, y la unica diferencia esta en que extremo de la escala se ha instalado el yo.
 
@@ -51,7 +51,7 @@ De aqui se sigue la prueba practica. La soberbia y el autodesprecio dejan ambos 
 
 Esto significa que el ensayo tiene, en verdad, un solo enemigo y no dos. La soberbia y el autodesprecio no son opuestos que haya que equilibrar entre si, con la humildad en algun punto intermedio. Son dos direcciones de un unico alabeo, y el alabeo es la autorreferencia -- el yo instalado como la unidad con la que se miden todas las cosas. Alto o bajo es un detalle. La curvatura es el punto de referencia mismo. Y esta es la afirmacion mayor a la que se abre la distincion: toda espiritualidad que deje al yo como medida sigue curvada, por mucho que humille, mortifique o disminuya a ese yo. Un alma puede pasar la vida entera haciendose pequena y no descentrarse ni una sola vez, porque la pequenez sigue siendo una medicion del yo. Lo contrario de la soberbia nunca fue la bajeza. Era la entrega del yo como patron de medida. Todo lo que conserva ese patron -- exaltandolo o rebajandolo indistintamente -- es la misma linea torcida.
 
-## 3. El ultimo refugio del ego
+## 3. El último refugio del ego
 
 Si el autodesprecio es solo soberbia invertida, se impone una pregunta que la geometria por si sola no responde. Casi todos saben ya que la soberbia es peligrosa; pocos la defienden abiertamente. Y sin embargo el autodesprecio se elige libremente, hasta se cultiva, hasta se aprecia como una virtud. Si es soberbia con otro disfraz, por que resulta tan atractivo? Que le da al que lo asume?
 
@@ -67,13 +67,13 @@ A lo largo de los cinco Misterios Gozosos, Maria jamas dice yo no soy nada. Jama
 
 ## 5. Cinco escenas de la humildad en acto
 
-### i. La Anunciacion -- revelar la carencia sin convertirse en ella
+### i. La Anunciación -- revelar la carencia sin convertirse en ella
 
 > Maria respondio al angel: "Como sera esto, puesto que no conozco varon?" (Lucas 1:34)
 
 Lo primero que hace Maria es nombrar una carencia real -- es consciente de ella, y la revela. Esto es precisamente lo que ni la soberbia ni el autodesprecio pueden hacer. La soberbia oculta la carencia: puedo arreglarmelas, no necesito nada. El autodesprecio representa la carencia: soy indigna, escoge a otra, soy demasiado baja para esto. Maria no hace ninguna de las dos. Enuncia con exactitud la condicion verdadera -- hay algo que no tiene -- y luego, revelada la condicion, consiente: He aqui la esclava del Senor; hagase en mi segun tu palabra. La humildad mide con exactitud. Ni infla al yo ni lo desinfla; lo reporta, y consiente de todos modos. La carencia se revela sin convertirse jamas en el tema. El tema es la palabra a la que ella consiente.
 
-### ii. La Visitacion -- ascender hacia el projimo
+### ii. La Visitación -- ascender hacia el projimo
 
 > En aquellos dias, se levanto Maria y se fue con prontitud a la region montanosa, a una ciudad de Juda; entro en casa de Zacarias y saludo a Isabel. ... Maria permanecio con ella unos tres meses. (Lucas 1:39-40, 56)
 
@@ -85,7 +85,7 @@ Tras el Fiat, consciente de que ahora lleva al Hijo engendrado de Dios, Maria no
 
 Aqui, aunque el protagonista es el Nino, el acto de Maria es la aceptacion de lo que hay disponible y no la requisa de lo que podria exigirse. No se concierta cita con el medico del pueblo, no se insiste en una alcoba preparada -- el establo, los panales, el pesebre. Por tradicion el buey y el asno estan junto al pesebre, leidos a traves de la linea de Isaias: conoce el buey a su dueno, y el asno el pesebre de su amo (Isaias 1:3); la Escritura no los situa alli, y la lectura vale la pena por lo que muestra mas que por lo que afirma. El acontecimiento mas poderoso de la creacion se recibe en la habitacion mas baja disponible, y Aquel que pudo exigirlo todo es acostado donde resultaba haber sitio. La humildad toma el lugar que se da, no el lugar que podria reclamar. Este es el consejo del banquete de bodas representado antes de ser pronunciado -- no te sientes en el primer puesto (Lucas 14:8) -- no porque el primer puesto este prohibido, sino porque el humilde no mide desde el asiento.
 
-### iv. La Presentacion -- estar en la fila comun
+### iv. La Presentación -- estar en la fila comun
 
 > Cuando se cumplieron los dias de la purificacion de ellos, segun la Ley de Moises, llevaron a Jesus a Jerusalen para presentarle al Senor. (Lucas 2:22)
 
@@ -97,7 +97,7 @@ La primera familia de la creacion observa los ritos ordinarios. No escriben los 
 
 Tras tres dias de busqueda, el Nino es hallado en el templo entre los maestros, y la respuesta que da a sus padres es una que ellos no comprenden del todo. Aqui la humildad hace su movimiento mas sutil. El autodesprecio diria: soy demasiado necia para comprender, la culpa esta en mi pequenez. La soberbia diria: explicate, haz que esto encaje con lo que ya se. Maria no hace ninguna de las dos. No fuerza la respuesta a su propia medida, y no se derrumba bajo ella; la guarda. Sostiene aquello que aun no puede resolver sin exigir su resolucion, y lo conserva en su corazon, donde puede ser llevado hasta que se comprenda. Esta es la voluntad dividida del largo camino que aprende, contra si misma, lo unico que no puede ensenarse a si misma: como recibir lo que la excede sin dominarlo ni ser aplastada por ello. Guardar lo que no se puede comprender es la paciencia del yo descentrado -- el yo que ya no exige que el mundo se ajuste al tamano de su propia comprension.
 
-## 6. La respuesta a la persona comun
+## 6. La respuesta a la persona común
 
 Asi que cuando la persona comun pregunta que significa la humildad en acto -- no apartarse del centro como una frase, sino como algo que un cuerpo hace en un dia dado -- la respuesta ya es decible. La humildad en acto no es hacerse pequeno. Maria nunca se hace pequena. Son cinco movimientos concretos, cada uno de los cuales descentra sin rebajar: revelar la carencia real sin representarla; ascender hacia el projimo en vez de negociar un descenso comodo; tomar el lugar que se da en vez del lugar que podria reclamarse; estar en la fila comun en vez de la exenta; y guardar lo que aun no se puede comprender en vez de forzarlo a la propia medida.
 

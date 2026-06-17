@@ -106,6 +106,8 @@ In none of these does Mary say I am nothing. In each she does something, and the
 
 This is why humility, and not its imitation, is the principle of all the graces. Grace cannot reshape a will that still insists on being its own ground, and self-abasement insists on exactly that -- it merely insists from below. The single enemy was never lowness or highness; it was self-reference, the self kept as the standard of measure, and grace meets a closed will whether that will is exalted or abased. The will that has truly de-centered, that stands at the crossing point and consents to be measured by the non-derivative ground rather than by itself at any altitude, has become the one thing grace requires: a soul that has stopped weighing itself and turned to be ordered by another. The Servant of servants is not the one who shrank the most. She is the one who, in act after act, was least occupied with the question of her own size, and most occupied with the One she served. That is the whole of it. Humility is not the lowest place on the self's own scale. It is the freedom of having stepped off it.
 
+<br><br>
+
 ## References
 
 *The Holy Bible*, Revised Standard Version, Catholic Edition. Luke 1-2; Luke 14:7-11; Isaiah 1:3.

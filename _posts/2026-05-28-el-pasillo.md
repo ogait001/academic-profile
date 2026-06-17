@@ -22,7 +22,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 
 - [I. El Pasillo](#i-el-pasillo)
 - [II. Lo que no puede flotar](#ii-lo-que-no-puede-flotar)
-- [III. La doctrina de la ilusion en el umbral](#iii-la-doctrina-de-la-ilusion-en-el-umbral)
+- [III. La doctrina de la ilusión en el umbral](#iii-la-doctrina-de-la-ilusión-en-el-umbral)
 - [IV. La misericordia que sostiene ambas habitaciones](#iv-la-misericordia-que-sostiene-ambas-habitaciones)
 - [V. Donde la pregunta se resuelve](#v-donde-la-pregunta-se-resuelve)
 - [Referencias](#referencias)
@@ -45,7 +45,7 @@ La cadena de sostenes no retrocede al infinito. No puede. Si todo estuviera sost
 
 Esto es lo no-derivado. Es lo que los cristianos han llamado Dios. Es lo que la tradicion filosofica ha llamado ser necesario. Los nombres difieren. La funcion estructural es la misma: aquello que sostiene sin ser sostenido, aquello que sustenta sin ser sustentado, aquello sin lo cual nada en el pasillo estaria en pie.
 
-## III. La doctrina de la ilusion en el umbral
+## III. La doctrina de la ilusión en el umbral
 
 Hay una tradicion --antigua, persistente, hallada en multiples culturas y en muchos filosofos-- que sostiene que lo temporal es ilusion. El mundo visible es velo, sueño, superficie. El sabio aprende a ver a traves de el.
 

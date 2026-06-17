@@ -15,7 +15,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 
 *Nada en el mundo visible flota.*
 
-> "En El vivimos, nos movemos y existimos."
+> "En Él vivimos, nos movemos y existimos."
 > -- Hechos 17:28
 
 ## Indice

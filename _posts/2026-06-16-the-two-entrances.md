@@ -6,11 +6,11 @@ date: 2026-06-16
 categories: [catholic-theology, ontology]
 tags: [baptism, purgatory, original-sin, pride, humility, grace, lemniscate, crossing-point, Gaitan-Topology]
 lang: en
-excerpt: "Baptism opens temporal life; purgatory completes eternal life, the two thresholds of a single self undergoing its own rectification."
+excerpt: "Baptism opens temporal life; purgatory consummates the entrance into eternal life, the two thresholds of a single self undergoing its own rectification."
 doi: 10.5281/zenodo.20724404
 record_url: https://zenodo.org/doi/10.5281/zenodo.20724404
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20724404
-translation_url: ""
+translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/16/las-dos-entradas.html"
 ---
 
 > Come unto me, all ye that labour and are heavy laden, and I will give you rest -- Matthew 11:28

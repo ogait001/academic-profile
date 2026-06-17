@@ -392,7 +392,7 @@ He is asking.
 
 And He is waiting — with a patience the system cannot calculate and the ledger cannot explain — for the will to turn.
 
-
+<br><br><br>
 
 
 ## References

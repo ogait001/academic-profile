@@ -10,7 +10,7 @@ excerpt: "Humility is not thinking less of yourself but ceasing to use yourself 
 doi: 10.5281/zenodo.20738126
 record_url: https://zenodo.org/doi/10.5281/zenodo.20738126
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20738126
-translation_url: ""
+translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/17/la-sierva-de-los-siervos.html"
 ---
 
 

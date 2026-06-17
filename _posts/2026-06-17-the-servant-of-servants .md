@@ -116,7 +116,7 @@ Thomas Aquinas. *Summa Theologica*, II-II, qq. 161-162 (on humility and pride).
 
 *Catechism of the Catholic Church.* Sections on Mary, grace, and the virtues.
 
-Oscar Gaitan. [*The Two Entrances: Water and Fire as the Thresholds of Temporal and Eternal Life.*](/2026/06/16/the-two-entrances/)
+Oscar Gaitan. *The Two Entrances: Water and Fire as the Thresholds of Temporal and Eternal Life.*
 
 Oscar Gaitan. *The Topology of Absolution.*
 

@@ -22,7 +22,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/16/
 - [Resumen](#resumen)
 - [1. Dos entradas, dos aguas](#1-dos-entradas-dos-aguas)
 - [2. El primer pecado y el pecado original son el mismo pecado](#2-el-primer-pecado-y-el-pecado-original-son-el-mismo-pecado)
-- [3. Por que la primera entrada precede a la aparicion de las anomalias](#3-por-que-la-primera-entrada-precede-a-la-aparicion-de-las-anomalias)
+- [3. Por qué la primera entrada precede a la aparicion de las anomalías](#3-por-qué-la-primera-entrada-precede-a-la-aparicion-de-las-anomalías)
 - [4. La humildad es el principio de todas las gracias](#4-la-humildad-es-el-principio-de-todas-las-gracias)
 - [5. El descanso que fue prometido](#5-el-descanso-que-fue-prometido)
 - [Referencias](#referencias)
@@ -53,7 +53,7 @@ Yo soy el centro.
 
 No vanidad, no fanfarroneria, sino la postura estructural desde la cual todo otro pecado es apenas una direccion de la unica curvatura. La lujuria, la avaricia, la envidia, la mentira: los pecados difieren, la flexion es una. El orgullo es el origen de todos los pecados porque es la inclinacion de la cual los demas toman su rumbo. Nacer de Adan es nacer ya curvado.
 
-## 3. Por que la primera entrada precede a la aparicion de las anomalias
+## 3. Por qué la primera entrada precede a la aparicion de las anomalías
 
 Esto es lo que la Iglesia administra correctamente, y la razon es topologica, no meramente habitual. El bautismo se da despues del nacimiento pero antes de que la inclinacion estructural se haya expresado en acto concreto alguno -- antes de que el nino haya tenido tiempo de realizar un solo acto de soberbia.
 

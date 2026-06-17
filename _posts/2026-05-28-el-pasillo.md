@@ -27,59 +27,63 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [V. Donde la pregunta se resuelve](#v-donde-la-pregunta-se-resuelve)
 - [Referencias](#referencias)
 
+  <br><br>
+
+
 ## I. El Pasillo
 
-De pie en un pasillo de hospital. A un lado, un niño toma su primer aliento. Al otro, un hombre suelta el ultimo. Las puertas no estan lejos una de otra. El minuto es el mismo. El suelo bajo ambas habitaciones es el mismo suelo.
+De pie en un pasillo de hospital. A un lado, un niño toma su primer aliento. Al otro, un hombre suelta el último. Las puertas no están lejos una de otra. El minuto es el mismo. El suelo bajo ambas habitaciones es el mismo suelo.
 
-Esto no es metafora. Es lo que es un hospital.
+Esto no es metáfora. Es lo que es un hospital.
 
-Los seres humanos, en toda cultura que ha alcanzado cierto umbral de organizacion, han construido un edificio dedicado a la densidad de los cruces. No construimos hospitales porque nos incomode que el nacimiento y la muerte ocurran en casa. Los construimos porque reconocemos --institucionalmente, sin teorizarlo del todo-- que los momentos de entrada y de salida no son momentos ordinarios. Son donde el punto de cruce alcanza su maxima visibilidad. Toda la estructura existe para atender lo que se sostiene abierto.
+Los seres humanos, en toda cultura que ha alcanzado cierto umbral de organización, han construido un edificio dedicado a la densidad de los cruces. No construimos hospitales porque nos incomode que el nacimiento y la muerte ocurran en casa. Los construimos porque reconocemos --institucionalmente, sin teorizarlo del todo-- que los momentos de entrada y de salida no son momentos ordinarios. Son donde el punto de cruce alcanza su máxima visibilidad. Toda la estructura existe para atender lo que se sostiene abierto.
 
 ## II. Lo que no puede flotar
 
-Dentro de esa estructura, el principio que gobierna el mundo visible se vuelve ineludible: nada visible se sostiene por si mismo.
+Dentro de esa estructura, el principio que gobierna el mundo visible se vuelve ineludible: nada visible se sostiene por sí mismo.
 
-El edificio es sostenido por sus cimientos. La cama es sostenida por su armazon. El paciente es sostenido por la cama. La bolsa de suero es sostenida por su gancho. El medicamento es sostenido por sus enlaces moleculares. La respiracion es sostenida por los pulmones. Los pulmones son sostenidos por el cuerpo. El cuerpo --al limite de lo que podemos nombrar-- es sostenido por algo que ya no es uno mas entre los sostenidos.
+El edificio es sostenido por sus cimientos. La cama es sostenida por su armazón. El paciente es sostenido por la cama. La bolsa de suero es sostenida por su gancho. El medicamento es sostenido por sus enlaces moleculares. La respiración es sostenida por los pulmones. Los pulmones son sostenidos por el cuerpo. El cuerpo --al límite de lo que podemos nombrar-- es sostenido por algo que ya no es uno más entre los sostenidos.
 
-La cadena de sostenes no retrocede al infinito. No puede. Si todo estuviera sostenido solo por otra cosa sostenida, nada finalmente sostendria. Y sin embargo el mundo visible sostiene. El hospital esta construido, el suelo no se cae, la cama recibe al cuerpo, el cuerpo recibe el aliento. La cadena sostiene porque algo en su termino no es a su vez sostenido --algo que no necesita ser sustentado porque sustentar es lo que es.
+La cadena de sostenes no retrocede al infinito. No puede. Si todo estuviera sostenido solo por otra cosa sostenida, nada finalmente sostendría. Y sin embargo el mundo visible sostiene. El hospital está construido, el suelo no se cae, la cama recibe al cuerpo, el cuerpo recibe el aliento. La cadena sostiene porque algo en su término no es a su vez sostenido --algo que no necesita ser sustentado porque sustentar es lo que es.
 
-Esto es lo no-derivado. Es lo que los cristianos han llamado Dios. Es lo que la tradicion filosofica ha llamado ser necesario. Los nombres difieren. La funcion estructural es la misma: aquello que sostiene sin ser sostenido, aquello que sustenta sin ser sustentado, aquello sin lo cual nada en el pasillo estaria en pie.
+Esto es lo no-derivado. Es lo que los cristianos han llamado Dios. Es lo que la tradición filosófica ha llamado ser necesario. Los nombres difieren. La función estructural es la misma: aquello que sostiene sin ser sostenido, aquello que sustenta sin ser sustentado, aquello sin lo cual nada en el pasillo estaría en pie.
 
 ## III. La doctrina de la ilusión en el umbral
 
-Hay una tradicion --antigua, persistente, hallada en multiples culturas y en muchos filosofos-- que sostiene que lo temporal es ilusion. El mundo visible es velo, sueño, superficie. El sabio aprende a ver a traves de el.
+Hay una tradición --antigua, persistente, hallada en múltiples culturas y en muchos filósofos-- que sostiene que lo temporal es ilusión. El mundo visible es velo, sueño, superficie. El sabio aprende a ver a través de él.
 
-Lleva esa doctrina al pasillo de un hospital y observala fallar.
+Lleva esa doctrina al pasillo de un hospital y obsérvala fallar.
 
-Si lo temporal es ilusion, el nacimiento es ilusion. La muerte es ilusion. El duelo en la sala de espera es ilusion. Las manos de la partera son ilusion. Los muros de carga son ilusion. Nadie en el edificio --incluidos quienes han pasado decadas practicando la doctrina-- se comporta como si algo de eso fuera verdad. La partera no esta recibiendo una ilusion. La familia en duelo no esta sufriendo por una ilusion. El arquitecto que calculo las cargas estructurales no calculo cargas ilusorias.
+Si lo temporal es ilusión, el nacimiento es ilusión. La muerte es ilusión. El duelo en la sala de espera es ilusión. Las manos de la partera son ilusión. Los muros de carga son ilusión. Nadie en el edificio --incluidos quienes han pasado décadas practicando la doctrina-- se comporta como si algo de eso fuera verdad. La partera no está recibiendo una ilusión. La familia en duelo no está sufriendo por una ilusión. El arquitecto que calculó las cargas estructurales no calculó cargas ilusorias.
 
-La doctrina de la ilusion ha percibido algo verdadero: que lo temporal no contiene el fundamento de su propio ser. La cadena de sostenes no comienza en lo temporal. Lo temporal es dependiente. Pero la doctrina ha convertido un predicado verdadero de lo temporal --su no subsistir por si mismo-- en un predicado falso: su inexistencia. El ser dependiente no es ser irreal. El hospital esta lleno de cosas dependientes, y ninguna de ellas es irreal. El medicamento en la bolsa de suero ha sido sostenido por una cadena de enlaces trazable hasta los fundamentos de la materia, y sana o no logra sanar en el Ahora temporal. Llamarlo ilusion es rehusar el testimonio de cada gesto hecho dentro del edificio.
+La doctrina de la ilusión ha percibido algo verdadero: que lo temporal no contiene el fundamento de su propio ser. La cadena de sostenes no comienza en lo temporal. Lo temporal es dependiente. Pero la doctrina ha convertido un predicado verdadero de lo temporal --su no subsistir por sí mismo-- en un predicado falso: su inexistencia. El ser dependiente no es ser irreal. El hospital está lleno de cosas dependientes, y ninguna de ellas es irreal. El medicamento en la bolsa de suero ha sido sostenido por una cadena de enlaces trazable hasta los fundamentos de la materia, y sana o no logra sanar en el Ahora temporal. Llamarlo ilusión es rehusar el testimonio de cada gesto hecho dentro del edificio.
 
-Las formas mas fuertes de estas tradiciones no niegan rotundamente la apariencia fenomenica. Madhyamaka distingue la verdad convencional de la verdad ultima; Advaita distingue lo *vyavahārika* de lo *pāramārthika*. El practicante sofisticado responde que la participacion pragmatica en el pasillo no implica el asentimiento metafisico a el --y la respuesta tiene fuerza en el plano de la doctrina. Pero concede el punto estructural. El practicante no puede, de hecho, tratar el pasillo como ilusion mientras esta dentro de el. La doctrina sobrevive solo limitando el alcance de su aplicacion practica dentro del pasillo --y el pasillo, donde lo convencional y lo ultimo se presionan uno contra el otro bajo condiciones de duelo, sangre y lo irreversible, es donde esa limitacion se vuelve mas dificil de mantener.
+Las formas más fuertes de estas tradiciones no niegan rotundamente la apariencia fenoménica. Madhyamaka distingue la verdad convencional de la verdad última; Advaita distingue lo *vyavahārika* de lo *pāramārthika*. El practicante sofisticado responde que la participación pragmática en el pasillo no implica el asentimiento metafísico a él --y la respuesta tiene fuerza en el plano de la doctrina. Pero concede el punto estructural. El practicante no puede, de hecho, tratar el pasillo como ilusión mientras está dentro de él. La doctrina sobrevive solo limitando el alcance de su aplicación práctica dentro del pasillo --y el pasillo, donde lo convencional y lo último se presionan uno contra el otro bajo condiciones de duelo, sangre y lo irreversible, es donde esa limitación se vuelve más difícil de mantener.
 
-Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirada. Lejos de los muros. Lejos del duelo. Lejos del medicamento. Lejos de la habitacion contigua. El hospital es el lugar donde la doctrina de la ilusion tiene que realizar una hazaña de no-percepcion selectiva tan extensa que la doctrina se vuelve cada vez mas dificil de habitar consistentemente.
+Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirada. Lejos de los muros. Lejos del duelo. Lejos del medicamento. Lejos de la habitación contigua. El hospital es el lugar donde la doctrina de la ilusión tiene que realizar una hazaña de no-percepción selectiva tan extensa que la doctrina se vuelve cada vez más difícil de habitar consistentemente.
 
 ## IV. La misericordia que sostiene ambas habitaciones
 
-Lo no-derivado no elige a que cruce asistir.
+Lo no-derivado no elige a qué cruce asistir.
 
-Esto es lo segundo que el hospital hace visible. El Ahora que sostiene la sala de maternidad es el mismo Ahora que sostiene la habitacion de cuidados paliativos. No hay metafisica-por-ascensor: el suelo sustentador no cambia entre pisos. El mismo suelo que sostiene el primer aliento del niño sostiene el ultimo del hombre. La misericordia no es una preferencia mostrada a una habitacion. La misericordia es el sustentar mismo, dado por igual a ambas.
+Esto es lo segundo que el hospital hace visible. El Ahora que sostiene la sala de maternidad es el mismo Ahora que sostiene la habitación de cuidados paliativos. No hay metafísica-por-ascensor: el suelo sustentador no cambia entre pisos. El mismo suelo que sostiene el primer aliento del niño sostiene el último del hombre. La misericordia no es una preferencia mostrada a una habitación. La misericordia es el sustentar mismo, dado por igual a ambas.
 
-Esto no es metafora. Lo que nombramos misericordia en terminos personales y morales --la negativa a retirarse-- es derivativo de esa negativa anterior, estructural. La compasion junto al lecho es real porque el suelo bajo el lecho no ha sido retirado. La misericordia personal presupone el sustentar como su condicion previa, no al reves.
+Esto no es metáfora. Lo que nombramos misericordia en términos personales y morales --la negativa a retirarse-- es derivativo de esa negativa anterior, estructural. La compasión junto al lecho es real porque el suelo bajo el lecho no ha sido retirado. La misericordia personal presupone el sustentar como su condición previa, no al revés.
 
-Esto es tambien la respuesta a una pregunta que a menudo se presiona contra el suelo sustentador: por que esta muerte y no aquella? Por que salvar a un infante y dejar ir a otro? La pregunta presupone que lo no-derivado es un agente dentro de los eventos, escogiendo cuales permitir y cuales prevenir. El hospital expone la tension en esta imagen. Si lo no-derivado fuera tal agente, cada muerte seria una negativa a actuar --cada nacimiento, una eleccion de favoritismo. El pasillo seria una monstruosidad moral, un triaje arbitrario realizado por un poder sin responsabilidad.
+Esto es también la respuesta a una pregunta que a menudo se presiona contra el suelo sustentador: por qué esta muerte y no aquella? Por qué salvar a un infante y dejar ir a otro? La pregunta presupone que lo no-derivado es un agente dentro de los eventos, escogiendo cuáles permitir y cuáles prevenir. El hospital expone la tensión en esta imagen. Si lo no-derivado fuera tal agente, cada muerte sería una negativa a actuar --cada nacimiento, una elección de favoritismo. El pasillo sería una monstruosidad moral, un triaje arbitrario realizado por un poder sin responsabilidad.
 
-Lo que el pasillo revela en cambio es que lo no-derivado no esta en las habitaciones tomando decisiones. Es la condicion por la cual cualquier aliento --y cualquier falla del aliento-- siquiera llega a ser actual. La misericordia es que esta condicion no se retira. No del moribundo. No del doliente. No del medico cuya intervencion fallara. No de la familia cuyas oraciones quedan sin respuesta en la forma que esperaba. Lo que cruza el Ahora es la obra de los cuerpos, de las medicinas, de las elecciones, del tiempo, de la finitud. El sustentar no es el autor de lo que cruza. Sostiene el cruce abierto.
+Lo que el pasillo revela en cambio es que lo no-derivado no está en las habitaciones tomando decisiones. Es la condición por la cual cualquier aliento --y cualquier falla del aliento-- siquiera llega a ser actual. La misericordia es que esta condición no se retira. No del moribundo. No del doliente. No del médico cuya intervención fallará. No de la familia cuyas oraciones quedan sin respuesta en la forma que esperaba. Lo que cruza el Ahora es la obra de los cuerpos, de las medicinas, de las elecciones, del tiempo, de la finitud. El sustentar no es el autor de lo que cruza. Sostiene el cruce abierto.
 
 ## V. Donde la pregunta se resuelve
 
-La pregunta *Donde esta Dios?* a veces se hace en un pasillo de hospital. Se hace con puños apretados y manos abiertas, dirigida hacia los techos y hacia los suelos.
+La pregunta *Dónde está Dios?* a veces se hace en un pasillo de hospital. Se hace con puños apretados y manos abiertas, dirigida hacia los techos y hacia los suelos.
 
-La respuesta no esta fuera del pasillo. Esta en el hecho de que el pasillo se sostiene en pie.
+La respuesta no está fuera del pasillo. Está en el hecho de que el pasillo se sostiene en pie.
 
-Dios no esta en la habitacion tomando la decision. Dios esta en el sostener del pasillo --el sustentar del mismo Ahora para la habitacion donde la vida comienza y la habitacion donde la vida termina, la negativa del suelo a retirarse bajo cualquiera de los dos pesos. El hospital no es el edificio donde esto es verdadero. Es el edificio donde es ineludible.
+Dios no está en la habitación tomando la decisión. Dios está en el sostener del pasillo --el sustentar del mismo Ahora para la habitación donde la vida comienza y la habitación donde la vida termina, la negativa del suelo a retirarse bajo cualquiera de los dos pesos. El hospital no es el edificio donde esto es verdadero. Es el edificio donde es ineludible.
 
-*Estar de pie en el pasillo y preguntar Donde esta Dios? es estar dentro de la respuesta.*
+*Estar de pie en el pasillo y preguntar Dónde está Dios? es estar dentro de la respuesta.*
+
 
 ## Referencias
 

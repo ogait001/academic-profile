@@ -6,7 +6,7 @@ date: 2026-06-16
 categories: [catholic-theology, ontology]
 tags: [bautismo, purgatorio, pecado-original, orgullo, humildad, gracia, lemniscata, punto-de-cruce, Topologia-Gaitan]
 lang: es
-excerpt: "El bautismo abre la vida temporal; el purgatorio consuma la eterna, umbrales correspondientes de un único yo en rectificación."
+excerpt: "El bautismo abre la vida temporal; el purgatorio consuma la entrada en la vida eterna, umbrales correspondientes de un único yo en rectificación."
 doi: 10.5281/zenodo.20724427
 record_url: https://zenodo.org/doi/10.5281/zenodo.20724427
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20724427

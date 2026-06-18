@@ -12,6 +12,11 @@ social:
     - https://orcid.org/0009-0007-1904-4547
     - https://philpeople.org/profiles/oscar-gaitan
     - https://scholar.google.com/citations?user=huV-MLsAAAAJ
+    - https://www.linkedin.com/in/oscar-gaitan-8497952b6
+
+logo: /assets/images/lemniscate.png
+image: /assets/images/lemniscate.png    
+
 url: "https://oscargaitan.org"
 baseurl: ""
 theme: minima

@@ -241,7 +241,7 @@ Symbolic structures, abstraction, number, and ontological interpretation.
     <h2>About</h2>
 
    <p>
-  Oscar Gaitan is a Nicaraguan-born independent philosophical researcher based in Los Angeles, developing an original philosophical framework on temporality, ontology, and metaphysical developing an original philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
+  Oscar Gaitan is a Nicaraguan-born independent philosophical researcher based in Los Angeles, developing an original philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
 </p>
 
 <p>

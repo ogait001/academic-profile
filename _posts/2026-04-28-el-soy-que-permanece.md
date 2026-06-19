@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "Contra el cogito: una defensa del SOY como realidad previa que hace posibles el pensamiento, la identidad y la conciencia."
-title: "El 'Soy' que Permanece: Una crítica a Descartes y una metafísica del alma"
+title: "El Soy que Permanece: Una crítica a Descartes y una metafísica del alma"
 date: 2026-04-20
 categories: [ontology, metaphysics, catholic-theology]
 tags: [descartes, soul, identity, metaphysical-anthropology, consciousness, lemniscate]

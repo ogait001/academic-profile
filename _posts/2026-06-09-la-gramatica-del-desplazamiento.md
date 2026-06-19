@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre lugar, tiempo y presencia, donde la gramática moderna del desplazamiento sustituye el aquí, el ahora y el encuentro."
-title: "La Gramática del Desplazamiento: Desde, A cualquier hora, Entonces"
+title: "La Gramática del Desplazamiento" 
+subtitle: "Desde, A Cualquier Hora, Entonces"
 date: 2026-06-09
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [desplazamiento, non-te-egeo, presencia, presencia-real, montecristo, marco-polo, macondo, garcia-marquez, chapin, micro-brecha, ahora, gaitan-topology]

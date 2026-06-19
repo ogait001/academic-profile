@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Two meanings of 'is': temporal horizon explains the intelligibility of being, while the Crossing Point explains its actualization."
-title: "Two Meanings of 'Is': Heidegger's Horizon and the Crossing Point"
+description: "The temporal horizon explains the intelligibility of being, while the Crossing Point explains its actualization."
+title: "Two Meanings of 'Is'" 
+subtitle: "Heidegger's Horizon and the Crossing Point"
 date: 2026-04-21 00:00:00 +0000
 categories: [ontology, philosophy-of-time]
 tags: [gaitan-topology, crossing-point, self-and-identity, phenomenology, time-and-eternity, philosophy-of-religion, theological-anthropology]
@@ -13,12 +14,15 @@ pdf_url: "https://zenodo.org/records/19684023/files/two-meanings-of-is.pdf"
 translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-significados-del-es.html
 ---
 
+<br>
 
 ---
 
 *Note on Relation to Previous Work: This essay continues themes developed in earlier work on presence, temporality, and ontological grounding, but it is not a repetition of those arguments. Where the previous essay ranged broadly across phenomenology, metaphysics, and theological reflection, the present study narrows its focus to a single interlocutor: Martin Heidegger. Its purpose is to examine, in a more concentrated form, whether Heidegger's account of Being as disclosed through temporality sufficiently addresses the distinct question of ontological ground.*
 
 ---
+
+<br>
 
 ## Introduction
 
@@ -35,6 +39,8 @@ This is a genuine achievement. Heidegger's account of ecstatic temporality — t
 But the framework proposed here departs from Heidegger at a precise structural point. It does not deny temporality as a structure of human experience. It denies only that temporality, by itself, can serve as the ultimate sustaining condition of Being. Heidegger's ecstatic analysis remains valid as a description of how finite existence is structured. What it leaves unaddressed is the question any account of intelligibility also faces at its foundation: what makes what is intelligible available at all. The question of disclosure does not eliminate the question of ontological persistence. To explain how Being shows up to *Dasein* is not yet to explain what keeps what shows up from ceasing.
 
 ---
+
+<br>
 
 Before proceeding, a terminological note. "Horizon" and "center" are heuristic terms for two distinct explanatory models, not poetic images. *Horizon* names the model of limit-based intelligibility: Being becomes meaningful against the edge of finite existence, and the edge is death. *Center* names the model of source-based actualization: Being is grounded not at the limit of the curve but at the invariant point through which the curve must continuously pass. The choice between them is the choice between two accounts of what the 'is' ultimately requires.
 
@@ -64,7 +70,7 @@ Heidegger heard the question of Being correctly. He turned toward the horizon to
 
 The classical tradition names such self-sustaining actuality in the language of Exodus: *I AM WHO I AM*. Whether that name is received as revelation or as the most precise formulation available for what the structural argument independently requires, the demand it meets is the same: not a horizon at the edge of existence, but the ground at its center — the only 'is' that needs no ground behind it, because God — the Subsistent Being — is the ground.
 
----
+<br>
 
 ## References
 

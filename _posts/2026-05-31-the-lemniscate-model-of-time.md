@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on time, eternity, and providence, where the lemniscate offers a model of access to fullness through the crossing point."
-title: "The Lemniscate Model of Time: Recurrence, Eternity, and the Crossing Point"
+title: "The Lemniscate Model of Time" 
+subtitle: "Recurrence, Eternity, and the Crossing Point"
 date: 2026-05-31
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, time, eternity, crossing-point, Incarnation, sacramental-theology, recurrence, providence, eschatology, analogical-reasoning, speculative-metaphysics, freedom, foreknowledge]

@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "A reflection on sacred presence and platform culture, where access replaces accessus and representation displaces presence."
-title: "God On-Demand" subtitle: "The Babelic Brick - Accessus and Access in the Platform Church"
+description: "A reflection on sacred presence and the platform culture."
+title: "God On-Demand" 
+subtitle: "The Babelic Brick - Accessus and Access in the Platform Church"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, das-man, uninhabited-now, ghost-zone, sacred, liturgy, tabernacle, platform, simulation, accessus]

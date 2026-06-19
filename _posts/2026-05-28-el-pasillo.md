@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Entre el nacimiento y la muerte se extiende un pasillo sostenido por un Fundamento que nunca se retira."
-title: "El Pasillo: sobre el Fundamento que no se retira"
+title: "El Pasillo" 
+subtitle: "Sobre el Fundamento que no se retira"
 date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, time-and-eternity, self-and-identity, non-derivative-being, sustenance, mercy, presence, illusion-doctrine]

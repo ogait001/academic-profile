@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Una meditación sobre el anonimato y la comunión, que sostiene que la relación auténtica requiere personas reunidas en presencia y no disueltas en el anonimato."
-title: "Das Man y la primera persona del singular: Sobre el anonimato, el desplazamiento y las condiciones de la comunión auténtica"
+description: "Una meditación sobre el anonimato y la comunidad."
+title: "Das Man y la Primera Persona del Singular" 
+subtitle: "Sobre el Anonimato, el Desplazamiento y las Condiciones de la Comunión Auténtica"
 date: 2026-04-21
 categories: [philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, theological-anthropology, philosophy-of-religion]
@@ -12,6 +13,8 @@ record_url: "https://zenodo.org/records/19685712"
 pdf_url: "https://zenodo.org/records/19685712/files/das-man-y-la-primera-persona-del-singular.pdf"
 translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html
 ---
+
+<br><br>
 
 ## Indice
 
@@ -27,6 +30,8 @@ translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person
 - [VIII. El retorno de la primera persona del singular](#viii-el-retorno-de-la-primera-persona-del-singular)
 - [Referencias](#referencias)
 
+<br>
+
 ---
 
 ## Resumen
@@ -34,6 +39,8 @@ translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person
 Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.
 
 ---
+
+<br>
 
 ## Nota sobre la relacion con trabajos anteriores
 
@@ -44,8 +51,6 @@ Lo que este ensayo añade no es una continuación de la serie sino un movimiento
 Las figuras empleadas aquí — Hans Christian Andersen, Lope de Vega, Franz Kafka, Jenny Curran y Herbert Kappler — no son repeticiones ni adornos. Son reexaminadas desde un ángulo distinto: no el camino individual dentro del lemniscata, sino el mundo social en que ese camino se despliega.
 
 ---
-
-
 
 ## I. La gramática del anónimo
 
@@ -193,7 +198,7 @@ La primera persona del singular es la condición mínima de toda forma de vida h
 
 **Aquí. Ahora. Enteramente.**
 
----
+<br>
 
 ## Referencias
 

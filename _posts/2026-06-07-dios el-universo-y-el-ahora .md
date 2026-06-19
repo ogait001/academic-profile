@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Un examen de Dios, la conciencia y el cosmos, que distingue entre los mecanismos de la realidad y aquello que la sostiene."
-title: "Dios, el universo y el Ahora: Pequeñez soberana sobre grandeza dependiente"
+title: "Dios, el Universo y el Ahora" 
+subtitle: "Pequeñez Soberana sobre Grandeza Dependiente"
 date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [ser-necesario, materialismo, no-derivativo, lemniscate, milton, satan, imago-dei, emergencia, conciencia, harari, ahora, gaitan-topology]

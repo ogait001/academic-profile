@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una exploración de como la identidad perdura a través de los umbrales del devenir."
-title: "Cero y Uno, Polvo y Cenizas" subtitle: "La Notacion Posicional como Modelo del Ser"
+title: "Cero y Uno, Polvo y Cenizas" 
+subtitle: "La Notacion Posicional como Modelo del Ser"
 date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]

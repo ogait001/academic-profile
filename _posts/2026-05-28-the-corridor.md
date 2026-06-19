@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on birth and death, arguing that the Ground accompanies all existence without ever withdrawing."
-title: "The Corridor: on the Ground that does not withdraw"
+title: "The Corridor" 
+subtitle: "On the Ground that does not withdraw"
 date: 2026-05-28
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, time-and-eternity, self-and-identity, non-derivative-being, sustenance, mercy, presence, illusion-doctrine]

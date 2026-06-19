@@ -36,7 +36,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha
 
 Este ensayo opera como metafísica especulativa, no como filosofía analítica ni como ciencia empírica. Procede por analogía estructural y lectura ontológica, no por deducción estricta ni demostración física. Donde las afirmaciones tocan la física o las matemáticas, se enmarcan explícitamente como interpretaciones metafísicas y no como conclusiones científicas. El argumento avanza por resonancia entre dominios -- cosmológico, teológico, matemático -- e invita al lector a evaluar la coherencia del marco en su conjunto, no el estatus demostrativo de cada afirmación individual. La coherencia es el estándar que se ofrece, no la demostración. Un marco coherente no establece así la ontología -- ese costo se acepta, y el marco se sostiene o cae como propuesta estructural.
 
-<hr />
+<br>
 
 ## I. El universo que no podemos ver entero
 
@@ -52,7 +52,7 @@ Se nos dice que el universo se expande. Las galaxias se alejan. Las distancias a
 
 **No podemos ver la lemniscata entera. Somos uno de sus cruces.**
 
-<hr />
+<br>
 
 ## II. Orbitar alrededor o cruzar a través
 
@@ -70,7 +70,7 @@ La rueda que gira sin cruzar se erosiona. La lemniscata que cruza sin cesar tien
 
 > Orbitar sin cruzar erosiona. La expansión sin retorno tiende hacia la disipación. La figura que pasa a través del Ahora es la figura que recibe continuamente lo que el Ahora contiene.
 
-<hr />
+<br>
 
 ## III. La vida encuentra su camino
 
@@ -82,7 +82,7 @@ Pero la vida hace esa estructura reflexiva de un modo que los sistemas no vivos 
 
 Lo que aparece en los sistemas vivos como persistencia a través de la obstrucción refleja, dentro de este marco, una tendencia estructural hacia la actualización renovada más que hacia el equilibrio estático. La vida no inventa el punto de cruce. Encuentra repetidamente las condiciones bajo las cuales el devenir continúa. El punto de cruce está siempre presente. Lo que la organización viva hace -- estructuralmente, no intencionalmente -- es tender hacia él en lugar de alejarse de él, atravesar las condiciones que arrestarían la actualización en lugar de instalarse en los estados estables que la entropía preferiría.
 
-<hr />
+<br>
 
 ## IV. Lo que la expansión infinita no puede mantener
 
@@ -98,7 +98,7 @@ Pero el universo no fue hecho para disiparse. Fue creado por aquel que es Alfa -
 
 > La expansión infinita sin retorno es el universo trazando una figura que tiende indefinidamente lejos del punto de cruce. Lo que previene su disipación no es una fuerza dentro del sistema. Es el Omega que está fuera del sistema como su destino.
 
-<hr />
+<br>
 
 ## V. El cero que retorna
 
@@ -116,7 +116,7 @@ Un lector escéptico señalará que esta convergencia puede ser proyección. El 
 
 > El sistema decimal alcanza el infinito a través de diez símbolos porque el infinito se elabora a través de la recurrencia más que de la partida sola. Si el cosmos hace lo mismo es la propuesta estructural del marco, no su conclusión demostrada.
 
-<hr />
+<br>
 
 ## VI. Alfa y Omega
 
@@ -130,7 +130,7 @@ Un universo con un principio depende de un fundamento sustentador no reducible a
 
 > Alfa y Omega no son dos puntos en una línea. Son el único fundamento que mantiene la línea abierta -- desde fuera de la línea, en la única gramática adecuada a lo que es más real: YO SOY.
 
-<hr />
+<br>
 
 ## VII. La intervención es actualización
 
@@ -150,7 +150,7 @@ La oración no es atraer la intervención divina hacia una situación. Es la cri
 
 > Dios no interviene en la realidad. La actualiza -- continuamente, enteramente, en cada punto, sin interrupción. Lo que llamamos intervención es el momento en que notamos lo que nunca estuvo ausente. Lo que llamamos milagro es la criatura, por una vez, recibiendo sin obstrucción lo que el Ahora siempre contenía.
 
-<hr />
+<br>
 
 ## VIII. Lejos de aquí, cerca de allá
 
@@ -166,7 +166,7 @@ Esto resuelve una de las preguntas más difíciles de la teología de la creaci�
 
 > La distancia es real. Es una propiedad de los bucles. En el punto de cruce, nada está lejos de nada. La galaxia a miles de millones de años luz está tan cerca de YO SOY como tu pensamiento presente.
 
-<hr />
+<br>
 
 ## IX. La geometría de todo lo que perdure
 
@@ -182,7 +182,7 @@ El alma perdura. El cosmos perdura. La enumeración perdura. Los tres cruzan el 
 *Ninguno de ellos inventó el punto de cruce.*
 *Todos lo atraviesan.*
 
-<hr />
+<br>
 
 ## Referencias
 

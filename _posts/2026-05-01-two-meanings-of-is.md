@@ -22,9 +22,9 @@ translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-signi
 
 ---
 
-<br>
+<br><br>
 
-## Introduction
+
 
 There is a question so fundamental that Western philosophy spent centuries walking around it rather than through it. Martin Heidegger named it the *Seinsfrage* — the question of Being — and was right that the tradition had largely forgotten to ask it. What does the 'is' in any statement of existence actually mean? Not what things are, which is the business of science and logic, but what the 'is' is *doing* — what it points to, what grounds it, what holds it open at all.
 
@@ -38,7 +38,6 @@ This is a genuine achievement. Heidegger's account of ecstatic temporality — t
 
 But the framework proposed here departs from Heidegger at a precise structural point. It does not deny temporality as a structure of human experience. It denies only that temporality, by itself, can serve as the ultimate sustaining condition of Being. Heidegger's ecstatic analysis remains valid as a description of how finite existence is structured. What it leaves unaddressed is the question any account of intelligibility also faces at its foundation: what makes what is intelligible available at all. The question of disclosure does not eliminate the question of ontological persistence. To explain how Being shows up to *Dasein* is not yet to explain what keeps what shows up from ceasing.
 
----
 
 <br>
 

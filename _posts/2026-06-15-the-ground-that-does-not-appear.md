@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "Hume, personal identity, invariance, contingency, and the ground of the self."
-title: "The Ground That Does Not Appear"
+title: "The Ground that does not appear"
 subtitle: "Hume, Invariance, and the Self"
 date: 2026-06-15
 categories: [ontology, catholic-theology, philosophy-of-time]

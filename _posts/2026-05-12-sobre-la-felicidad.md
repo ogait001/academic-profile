@@ -2,7 +2,7 @@
 layout: post
 description: "Una reflexión sobre la felicidad y el anhelo humano, que sostiene que los bienes finitos no pueden colmar el deseo de plenitud perdurable."
 title: "Sobre la Felicidad" 
-subtitle: "Su Duración, Su Nombre, y Lo Que Perdura"
+subtitle: "Su Duración, su Nombre, y lo que Perdura"
 date: 2026-05-12
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [happiness, augustine, endurance, identity, metaphysics, phenomenology]
@@ -94,7 +94,7 @@ El sufrimiento opera de manera estructuralmente diferente. Es casi siempre el re
 
 Una aclaración que el argumento requiere: esto es una descripción estructural, no un diagnóstico moral de la persona que sufre. La viuda que no puede soltar el recuerdo de su marido de la noche a la mañana no está fallando en la presencia. Está habitada por un amor cuya coordenada ha sido removida — y ese amor es real, su peso es real, y la incapacidad del bucle para cerrarse es la consecuencia natural del apego genuino, no una disfunción que deba corregirse. La distinción entre residencia y referencia se ofrece como explicación de por qué el sufrimiento parece durar más, no como instrucción para sufrir de manera diferente o más eficiente.
 
-Papini, en *Giudizio Universale*, le da a Eloísa una formulación que modela esto con precisión: los años felices pasaron como días, los días tristes como años. No porque en los días tristes ocurriera más. Sino porque los días tristes no pasaron. El yo regresaba, una y otra vez, a la misma vacancia en lugar de atravesar puntos de cruce hacia una nueva actualidad.
+Giovanni Papini, en *Giudizio Universale*, le da a Eloísa una formulación que modela esto con precisión: los años felices pasaron como días, los días tristes como años. No porque en los días tristes ocurriera más. Sino porque los días tristes no pasaron. El yo regresaba, una y otra vez, a la misma vacancia en lugar de atravesar puntos de cruce hacia una nueva actualidad.
 
 La asimetría no viola el modelo. Tanto la felicidad como el sufrimiento ocurren dentro de momentos de la misma estructura ontológica. Lo que difiere no es la duración de los momentos sino el modo de la relación del yo con la memoria: un evento se completa y se convierte en coordenada; el otro permanece abierto y se convierte en residencia. La duración no se experimenta porque el momento sea más largo. Se experimenta porque el yo no lo abandona.
 

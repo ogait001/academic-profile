@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Cómo los momentos ordinarios revelan una trayectoria."
-title: "Consummatum Est: Densidad Temporal, Relatividad Topológica, y la Consumación del Ahora"
+title: "Consummatum Est" 
+subtitle: "Densidad Temporal, Relatividad Topológica, y la Consumación del Ahora"
 date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [densidad-temporal, relatividad-topologica, ahora, punto-de-cruce, lemniscate, residencia, referencia, consummatum-est, mujer-de-lot, calderon, lope-de-vega, inercia-estructural, gaitan-topology]

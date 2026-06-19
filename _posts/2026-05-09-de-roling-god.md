@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A philosophical critique of modern architectures of distraction, where both God and the self are displaced from lived presence."
-title: "De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now"
+title: "De-Roling God" 
+subtitle: "On Community, Multitude, and the Displacement of the Self from the Now"
 date: 2026-05-09
 
 categories:
@@ -36,18 +37,18 @@ pdf_url: "https://zenodo.org/records/20099894/files/de-roling-god.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html
 ---
 
-
+<br><br>
 
 > "The concept of sin does not need to be prohibited. It only needs to become quaint."
-
+<br>
 > "…that no man might buy or sell, save he that had the mark."
 > — Revelation 13:17
-
+<br>
 The modern system has accomplished, through frictionless architectural means, what no empire achieved through force: the voluntary departure of the self from the crossing point, thumb-stroke by thumb-stroke, without awareness of loss, without a struggle, and without a single argument against the existence of God.
 
----
+<br><br>
 
----
+
 
 ## Table of Contents
 
@@ -63,19 +64,19 @@ The modern system has accomplished, through frictionless architectural means, wh
 - [VIII. Conclusion: The Ground That Cannot Be Made Uninhabitable](#viii-conclusion-the-ground-that-cannot-be-made-uninhabitable)
 - [References](#references)
 
----
+<br><br>
 
 ## Abstract
 
 This essay argues that the primary threat to religious community in the modern world is not the denial of God's existence but the systematic displacement of His ontological function. Drawing on the Gaitan Topology — a philosophical framework grounded in the lemniscate, the crossing point, and the sustaining ground of the Now — the essay identifies three historical modes of attack against the non-derivative Being: physical elimination, ideological displacement, and the evacuation of the Now. Only the third succeeds. It succeeds not by arguing against God but by ensuring that the self is never present long enough at the crossing point to feel what holds it open. The essay traces this operation across three registers: the individual self, the social field, and the ontological structure of the present moment. It draws on Lope de Vega's *Fuenteovejuna*, the television series *Britannia*, the film *Ben-Hur*, the film *The Scarlet and the Black*, Heidegger's Das Man, the figure of Legion, and the Faustian bargain as restructured by the data economy. The central thesis: modern systems do not fight the existence of God. They make the crossing point uninhabitable.
 
----
+<br>
 
 ## A Note on Method
 
 This essay draws on philosophical argument, theological interpretation, and cultural analysis simultaneously. These modes are not equivalent, and the essay does not treat them as such. Philosophical arguments must stand on structural grounds. Theological identifications — particularly the identification of the sustaining ground with the I AM of Exodus — are offered as the name that fits the structural requirement the argument independently establishes, not as premises imported from scripture. Literary and cinematic references are used as witnesses to structural conditions, not as evidence for metaphysical claims. A reader who accepts the philosophical argument but not the theological identification has a coherent position. The essay does not require the identification; it proposes it.
 
----
+<br>
 
 ## I. Prologue: The Wrong Battle
 
@@ -91,7 +92,7 @@ Both men are describing the same operation, and both ultimately fail. This essay
 
 The operation that succeeds does not argue against God. It does not persecute believers. It does not attempt to occupy the sacred position with a rival theology. It does something structurally simpler and devastatingly more effective: it evacuates the self from the only location where the question of what grounds the Now could become urgent. **It makes the crossing point uninhabitable — not by attacking it, but by ensuring the self never arrives there long enough to feel what holds it open.**
 
----
+<br>
 
 ## II. What God Actually Does
 
@@ -123,7 +124,7 @@ This structural fact is what makes every attempt to defeat God by argument, pers
 
 You can, however, install a contingent substitute in the social position the non-derivative ground occupies. And you can ensure the self is never still long enough to notice the difference. These are the two moves the essay traces. Neither touches the ground. Both can make it functionally invisible for a generation.
 
----
+<br>
 
 ## III. Community and Multitude
 
@@ -147,7 +148,7 @@ The vocabulary needed to name the crossing point is not abolished. It is made un
 
 *I want to be you. You want to be him. He wants to be her.* The chain has no first term and no last term. It is a closed loop without a crossing point: the serpent's curve, which resembles the lemniscate but lacks its defining feature. It never crosses. It never passes through the *I am*. Motion without arrival.
 
----
+<br>
 
 ## IV. Three Modes of Attack — and Why Only One Works
 
@@ -175,7 +176,7 @@ The crossing point — the micro-gap between impulse and response, the infinites
 
 This is why Mode Three succeeds where Modes One and Two fail. Persecution confirms the ground. Ideological displacement is rejected when the substitute collapses. Evacuation produces nothing to confirm and nothing to reject — because the self is not present for any confrontation. **The crossing point is not attacked. It is abandoned.**
 
----
+<br>
 
 ## V. The Machinery of Evacuation
 
@@ -205,7 +206,7 @@ The entire apparatus is a machine for generating the feeling of *Stay, thou art 
 
 **Satan is not buying souls anymore. He is selling personal information to the algorithms.** And the product is you — not the you that stands at the crossing point and says *I am*, but the behavioral residue of a self that was never quite there, extracted and packaged and delivered to an advertiser before it had finished forming its next thought.
 
----
+<br>
 
 ## VI. The Self That Cannot Be Reached
 
@@ -223,7 +224,7 @@ There is an image in the book of Revelation that the evacuation cannot reach. *B
 
 The knock has no timestamp. It does not expire. The prodigal son does not arrive home restored. He arrives while still a long way off — and the father runs toward him. The turn is enough. The reorientation of the crossing point toward the direction from which grace arrives is not an achievement requiring preparation. It is a reception. And the reception is available at every moment the Now is held open — which is every moment there is.
 
----
+<br>
 
 ## VII. The Three Modes and the Topology of the Now
 
@@ -241,7 +242,7 @@ Modes One and Two are reversible: persecution ends, substitutes collapse, and th
 
 This is why the transmission of presence is not incidental to the religious community but constitutive of it. What the community transmits is not primarily doctrine or practice. **What it transmits is the habit of arriving at the crossing point.** Doctrine can be recovered. The habit of presence, if it is not transmitted, must be reconstructed from within a culture that has been systematically organized to prevent it.
 
----
+<br>
 
 ## VIII. Conclusion: The Ground That Cannot Be Made Uninhabitable
 
@@ -263,7 +264,7 @@ The crossing point does not require acknowledgment to hold.
 
 It only requires, for the question to arise, a self present enough to ask it.
 
----
+<br>
 
 ### References
 

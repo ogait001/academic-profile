@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Topology of absolution, agency, identity, and sanctification."
-title: "The Topology of Absolution: Continuity, Agency, and the non-replacement of the self"
+title: "The Topology of Absolution"
+subtitle: "Continuity, Agency, and the Non-replacement of the Self"
 date: 2026-06-15
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [absolution, sanctification, purgatory, non-serviam, pride, guilt, continuity, agency, divided-will, crossing-point, lope-de-vega, paul, damascus, gaitan-topology]

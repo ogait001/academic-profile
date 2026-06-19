@@ -18,7 +18,7 @@ translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-signi
 
 ---
 
-*Note on Relation to Previous Work: This essay continues themes developed in earlier work on presence, temporality, and ontological grounding, but it is not a repetition of those arguments. Where the previous essay ranged broadly across phenomenology, metaphysics, and theological reflection, the present study narrows its focus to a single interlocutor: Martin Heidegger. Its purpose is to examine, in a more concentrated form, whether Heidegger's account of Being as disclosed through temporality sufficiently addresses the distinct question of ontological ground.*
+*Note on relation to previous work: This essay continues themes developed in earlier work on presence, temporality, and ontological grounding, but it is not a repetition of those arguments. Where the previous essay ranged broadly across phenomenology, metaphysics, and theological reflection, the present study narrows its focus to a single interlocutor: Martin Heidegger. Its purpose is to examine, in a more concentrated form, whether Heidegger's account of Being as disclosed through temporality sufficiently addresses the distinct question of ontological ground.*
 
 ---
 

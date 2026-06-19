@@ -13,13 +13,17 @@ pdf_url: "https://zenodo.org/records/20100210/files/desplazando-a-dios.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html
 ---
 
-> El concepto de pecado no necesita ser prohibido. Solo necesita volverse pintoresco.
+<br><br>
 
-> *"...y que ninguno pudiese comprar ni vender, sino el que tuviese la marca..."* — Apocalipsis 13:17
+> "El concepto de pecado no necesita ser prohibido. Solo necesita volverse pintoresco."
+<br>
 
-El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, lo que ningún imperio consiguió por la fuerza: la partida voluntaria del yo desde el punto de cruce, pulgarada tras pulgarada, sin conciencia de pérdida, sin lucha, y sin un solo argumento contra la existencia de Dios.
+> "El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, lo que ningún imperio consiguió por la fuerza."
+<br>
 
----
+> "...y que ninguno pudiese comprar ni vender, sino el que tuviese la marca." — Apocalipsis 13:17
+
+<br><br>
 
 ## Indice
 
@@ -35,7 +39,7 @@ El sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, l
 - [VIII. Conclusión: el fundamento que no puede hacerse inhabitable](#viii-conclusión-el-fundamento-que-no-puede-hacerse-inhabitable)
 - [Referencias](#referencias)
 
----
+<br>
 
 ## Resumen
 
@@ -43,13 +47,13 @@ Este ensayo sostiene que la amenaza principal a la comunidad religiosa en el mun
 
 **Palabras clave:** Ser no-derivado; punto de cruce; Ahora; comunidad; multitud; desplazamiento; Das Man; lemniscata; Legión; Topología Gaitan; función ontológica; centro falso; evacuación; identidad personal; interior infinito
 
----
+<br>
 
 ## Nota sobre el método
 
 Este ensayo se apoya simultáneamente en el argumento filosófico, la interpretación teológica y el análisis cultural. Estos modos no son equivalentes y el ensayo no los trata como tales. Los argumentos filosóficos deben sostenerse sobre fundamentos estructurales. Las identificaciones teológicas — particularmente la identificación del fundamento sostenedor con el YO SOY del Éxodo — se ofrecen como el nombre que se ajusta al requisito estructural que el argumento establece de manera independiente, no como premisas importadas desde las Escrituras. Las referencias literarias y cinemáticas se utilizan como testimonios de condiciones estructurales, no como evidencia de afirmaciones metafísicas. Un lector que acepte el argumento filosófico pero rechace la identificación teológica mantiene una posición coherente. El ensayo no exige la identificación; la propone.
 
----
+<br>
 
 ## I. Prólogo: La batalla equivocada
 
@@ -67,7 +71,7 @@ La operación que triunfa no argumenta contra Dios. No persigue a los creyentes.
 
 Este ensayo rastrea esa operación en tres registros: la estructura del yo, la estructura del campo social y la estructura del momento presente en sí mismo. Argumenta que comprender esta operación requiere una comprensión previa de cuál es realmente el rol de Dios — no en la teología, sino en la ontología. Y argumenta que el sistema moderno ha logrado, mediante medios arquitectónicos sin fricción, lo que ningún imperio consiguió por la fuerza: la partida voluntaria del yo desde el punto de cruce, pulgarada tras pulgarada, sin conciencia de pérdida, sin lucha, y sin un solo argumento contra la existencia de Dios.
 
----
+<br>
 
 ## II. Lo que Dios realmente hace
 
@@ -103,7 +107,7 @@ La lógica de la sustitución recorre cada intento histórico de reemplazo. Roma
 
 Pero aquí está la asimetría crucial: el colapso de un centro falso produce un vacío, no un retorno. El yo que ha pasado décadas orbitando un centro falso ha perdido, en ese tiempo, la práctica interior de estar en el punto de cruce y preguntar qué lo sostiene. Cuando el centro falso falla, lo que aparece no es una verdad rival sino el vacío — no el vacío productivo del cuestionamiento genuino, sino la desorientación de un yo que ha olvidado que había una posición que llenar.
 
----
+<br>
 
 ## III. Comunidad y multitud
 
@@ -131,7 +135,7 @@ El vocabulario necesario para nombrar el punto de cruce no se abole. Se vuelve i
 
 Quiero ser tú. Tú quieres ser él. Él quiere ser ella. La cadena no tiene primer término ni último. Es un bucle cerrado sin punto de cruce: la curva de la serpiente, que se parece a la lemniscata pero carece de su rasgo definitorio. Nunca cruza. Nunca pasa por el *yo soy*. Es un movimiento sin llegada.
 
----
+<br>
 
 ## IV. Tres modos de ataque — y por qué solo uno funciona
 
@@ -171,7 +175,7 @@ La pregunta *¿qué mantiene esto abierto?* solo es urgente cuando estás realme
 
 Por eso el Modo Tres tiene éxito donde los Modos Uno y Dos fracasan. La persecución confirma el fundamento. El desplazamiento ideológico es rechazado cuando el sustituto colapsa. La evacuación no produce nada que confirmar ni nada que rechazar — porque el yo no está presente para ninguna confrontación. El punto de cruce no es atacado. Es abandonado. No en desafío. No mediante argumentos. Simplemente al no estar allí.
 
----
+<br>
 
 ## V. La maquinaria de la evacuación
 
@@ -217,7 +221,7 @@ En la vieja transacción tuvo lugar una negociación. Dos partes. Un punto de cr
 
 Satanás ya no compra almas. Está vendiendo información personal a los algoritmos. Y el producto eres tú — no el tú que se para en el punto de cruce y dice *yo soy*, sino el residuo conductual de un yo que nunca estuvo del todo ahí, extraído, empaquetado y entregado a un anunciante antes de haber terminado de formar su próximo pensamiento.
 
----
+<br>
 
 ## VI. El yo que no puede ser alcanzado
 
@@ -241,7 +245,7 @@ La pregunta *¿qué está sosteniendo esto?* surge no solo en los seminarios. Su
 
 El llamado no tiene marca de tiempo. No caduca. El hijo pródigo no llega a casa restaurado. Llega cuando todavía está lejos — y el padre corre hacia él. El giro es suficiente. La reorientación del punto de cruce hacia la dirección desde la que llega la gracia no es un logro que requiera preparación. Es una recepción. Y la recepción está disponible en cada momento en que el Ahora está abierto — que es cada momento que existe.
 
----
+<br>
 
 ## VII. Los tres modos y la topología del Ahora
 
@@ -275,7 +279,7 @@ La reconstrucción no es imposible. El punto de cruce no se ha movido. El fundam
 
 Lo que puede hacer — y lo que la operación moderna ha logrado con notable eficiencia — es asegurarse de que una civilización se pare al borde de un fundamento que ya no reconoce, sintiendo una inquietud que ya no puede nombrar, pasando frente al silencio en el que la pregunta se formaría, un trazo de pulgar a la vez, en el único lugar donde la respuesta siempre ha estado esperando.
 
----
+<br>
 
 ## VIII. Conclusión: el fundamento que no puede hacerse inhabitable
 
@@ -299,7 +303,7 @@ El punto de cruce no requiere reconocimiento para sostenerse.
 
 Solo requiere, para que la pregunta surja, un yo lo suficientemente presente para formularla.
 
----
+<br>
 
 ## Referencias
 

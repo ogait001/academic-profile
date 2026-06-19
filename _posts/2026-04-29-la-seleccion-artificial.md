@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Una reflexión sobre la identidad y la perduración, donde el reemplazo desplaza la inhabitación y da origen al Ahora Deshabitado."
-title: "La Selección Artificial: Sobre la Resistencia, la Identidad y la Ingeniería de un Ahora Deshabitado"
+description: "Sobre la identidad y la perduración, donde el reemplazo desplaza la inhabitación y da origen al Ahora Deshabitado."
+title: "La Selección Artificial" 
+subtitle: "Sobre la Resistencia, la Identidad y la Ingeniería de un Ahora Deshabitado"
 date: 2026-04-29
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [identity, artificial-selection, endurance, technology, lemniscate, metaphysics]
@@ -12,6 +13,8 @@ pdf_url: "https://zenodo.org/records/19870865/files/la-seleccion-artificial.pdf"
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html
 excerpt: "Una meditación filosófica sobre la identidad y la perduración, que sostiene que la resistencia es estructuralmente necesaria para la inhabitación y que la cultura moderna del reemplazo ingenieriza el Ahora Deshabitado."
 ---
+
+<br><br>
 
 ## Indice
 
@@ -25,6 +28,8 @@ excerpt: "Una meditación filosófica sobre la identidad y la perduración, que 
 - [VIII. Lo que queda](#viii-lo-que-queda)
 - [Referencias](#referencias)
 - [Nota sobre fuentes y método](#nota-sobre-fuentes-y-método)
+
+<br>
 
 ---
 
@@ -158,7 +163,7 @@ Esa pregunta no es un veredicto. Es un instrumento de diagnóstico. Una civiliza
 
 El Ahora no es nuestro. Lo que ponemos en él sí lo es.
 
----
+<br>
 
 ## Referencias
 
@@ -173,7 +178,7 @@ El Ahora no es nuestro. Lo que ponemos en él sí lo es.
 - Plutarco. *Vida de Teseo*. En *Vidas paralelas*.
 - La Santa Biblia: Libro del Éxodo; Evangelio de Juan.
 
----
+<br>
 
 ## Nota sobre fuentes y método
 

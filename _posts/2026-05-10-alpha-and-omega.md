@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on the Now and the cosmos, arguing that Alpha and Omega is the foundation that sustains both time and existence."
-title: "Alpha and Omega: On the Cosmos, the Now, and the God Who Holds Both Ends"
+title: "Alpha and Omega" 
+subtitle: "On the Cosmos, the Now, and the God Who holds both ends"
 date: 2026-05-10
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, alpha-and-omega, crossing-point, cosmos, actualization, time-and-eternity, non-derivative-being, eschatology, phenomenology, philosophy-of-religion, theological-anthropology]
@@ -27,7 +28,7 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-
 - [IX. The Geometry of anything that endures](#ix-the-geometry-of-anything-that-endures)
 - [References](#references)
 
----
+<br><br>
 
 ## A Note on Method
 

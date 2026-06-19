@@ -2,7 +2,7 @@
 layout: post
 description: "Umbrales del alma: bautismo y purificación hacia la vida eterna."
 title: "Las Dos Entradas"
-subtitle: "El agua y el fuego como umbrales de la vida temporal y la eterna"
+subtitle: "El Agua y el Fuego como Umbrales de la Vida Temporal y la Eterna"
 date: 2026-06-16
 categories: [catholic-theology, ontology]
 tags: [bautismo, purgatorio, pecado-original, orgullo, humildad, gracia, lemniscata, punto-de-cruce, Topologia-Gaitan]

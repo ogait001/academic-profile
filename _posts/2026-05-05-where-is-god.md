@@ -43,6 +43,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 
 ---
 
+<br>
 
 ## I. The Assumption Inside the Question
 

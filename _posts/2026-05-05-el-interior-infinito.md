@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la identidad y el cambio, que propone el interior infinito como la estructura que preserva al yo a través de la transformación."
-title: "El Interior Infinito: Sobre el Espacio, el Cambio y la Integridad del Ser"
+title: "El Interior Infinito: 
+subtitle: "Sobre el Espacio, el Cambio y la Integridad del Ser"
 date: 2026-05-05
 categories: [ontology, philosophy-of-time, metaphysics]
 tags: [space, change, identity, interiority, metaphysical-anthropology, lemniscate]

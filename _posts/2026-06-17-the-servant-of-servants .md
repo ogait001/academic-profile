@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Humility, self-abasement, pride, and the de-centering of self."
-title: "The Servant of servants: Why Self-Abasement Is Not Humility"
+title: "The Servant of servants"
+subtitle: "Why Self-Abasement Is Not Humility"
 date: 2026-06-17
 categories: [catholic-theology, ontology]
 tags: [humility, pride, self-abasement, self-reference, grace, Mary, Joyful-Mysteries, crossing-point, non-derivative-ground, Gaitan-Topology]

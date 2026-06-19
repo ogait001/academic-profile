@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "An exploration of presence, identity, and the ground of being."
-title: "The Is and the AM" subtitle: "Presence, Identity, and the Ground that holds"
+title: "The Is and the AM" 
+subtitle: "Presence, Identity, and the Ground that holds"
 date: 2026-04-19 
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, time-and-eternity, theological-anthropology, philosophy-of-religion, eschatology]

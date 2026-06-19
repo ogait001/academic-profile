@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Contra el cogito: una defensa del SOY como realidad previa que hace posibles el pensamiento, la identidad y la conciencia."
-title: "El Soy que Permanece: Una crítica a Descartes y una metafísica del alma"
+title: "El Soy que Permanece" 
+subtitle: "Una Crítica a Descartes y una Metafísica del Alma"
 date: 2026-04-20
 categories: [ontology, metaphysics, catholic-theology]
 tags: [descartes, soul, identity, metaphysical-anthropology, consciousness, lemniscate]
@@ -12,6 +13,8 @@ pdf_url: "https://zenodo.org/records/19843193/files/el-soy-que-permanece.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html
 excerpt: "Una crítica metafísica de Descartes, que sostiene no “pienso, luego soy”, sino que el pensar mismo presupone la realidad previa del ser."
 ---
+
+<br>
 
 ## Indice
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "Una carta abierta sobre filosofía, investigación independiente y la pregunta permanente de para quién es, en última instancia, la sabiduría."
-title: "Carta abierta al filosofo profesional moderno"
+title: "Carta Abierta al Filósofo Profesional Moderno"
 date: 2026-06-01
 categories: [ontology]
 tags: [filosofia, accesibilidad, erudicion-independiente, sabiduria, filosofia-habitable, exclusion, lemniscata, carta-abierta]

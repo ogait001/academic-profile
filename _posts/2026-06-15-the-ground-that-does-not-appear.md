@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Hume, personal identity, invariance, contingency, and the ground of the self."
-title: "The Ground That Does Not Appear: Hume, Invariance, and the Self"
+title: "The Ground That Does Not Appear"
+subtitle: "Hume, Invariance, and the Self"
 date: 2026-06-15
 categories: [ontology, catholic-theology, philosophy-of-time]
 tags: [hume, invariance, the-self, bundle-theory, non-derivative, crossing-point, structured-whole, augustine, i-am, contingency, introspection, gaitan-topology]

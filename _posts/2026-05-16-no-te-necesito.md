@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la cultura digital y la facultad interrogativa, que sostiene que la crisis más profunda es la pérdida de la capacidad de preguntar."
-title: "Non te egeo: Cuando Dejamos de Preguntar"
+title: "Non te egeo - No te necesito"
+subtitle: "Cuando Dejamos de Preguntar"
 date: 2026-05-16 00:00:00 -0500
 categories: [philosophy-of-time, ontology]
 tags:
@@ -150,7 +151,5 @@ El aposento está lleno. La puerta está abierta. Y ni siquiera echamos de menos
 - Heidegger, Martin. *Ser y Tiempo.* Traducción de Jorge Eduardo Rivera. Santiago de Chile: Editorial Universitaria, 1997.
 - Kierkegaard, Søren. *La enfermedad mortal.* Traducción de Demetrio Gutiérrez Rivero. Madrid: Trotta, 2008.
 - Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducción de Bernardo Moreno Carrillo. Madrid: Taurus, 2009.
-
-
   
 

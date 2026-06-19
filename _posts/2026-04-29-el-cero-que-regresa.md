@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Una reflexión sobre la repetición y el infinito, donde la notación decimal revela una estructura de retorno, identidad y ascenso."
-title: "El Cero que Regresa: Lo que la notación decimal sugiere sobre la Repetición, la Identidad y el Infinito"
+description: "Una reflexión sobre la repetición y el infinito, la estructura de retorno, identidad y ascenso."
+title: "El Cero que Regresa" 
+subtitle: "Lo que la Notación Decimal sugiere sobre la Repetición, la Identidad y el Infinito"
 date: 2026-04-29
 categories: [ontology, metaphysics, philosophy-of-mathematics]
 tags: [decimal-notation, infinity, identity, repetition, lemniscate]
@@ -13,14 +14,15 @@ excerpt: "Una meditación filosófica sobre el número, la repetición y el infi
 translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 ---
 
+<br><br>
+
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/assets/images/return_to_zero.jpeg" alt="Return to Zero sketch" width="500">
 </div>
 
 *5 + 5 ≡ 0 (mod 10)*
 
-*Lo que la notación decimal sugiere sobre la repetición, la identidad y el infinito*
-
+<br>
   
 ## Indice
 
@@ -33,7 +35,9 @@ translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 - [VI. Lo que el Boceto Ya Sabía](#vi-lo-que-el-boceto-ya-sabía)
 - [Referencias](#referencias)
 
------
+<br>
+
+---
 
 ## Resumen
 
@@ -47,7 +51,9 @@ Lo que sigue es una meditación metafísica sobre la recurrencia incorporada en 
 
 > Los dígitos no parten. Regresan. Y cada regreso es más alto que el anterior.
 
------
+---
+
+<br>
 
 ## I. La Flecha y su Supuesto
 
@@ -63,7 +69,7 @@ El supuesto que vale la pena examinar no es la aritmética. Es la geometría —
 
 El cero aparece en el origen. Luego otra vez en el diez. Luego otra vez en el veinte, treinta, cuarenta — en cada límite de década, sin excepción, sin fin. El cinco aparece en el punto medio de cada década — en 5, en 15, en 55, en 500.005 — siempre equidistante del cero que tiene detrás y del cero que tiene adelante. Los dígitos del 1 al 9 trazan la misma secuencia en cada década, en cada orden de magnitud, desde el número más pequeño que un niño aprende primero hasta el más grande que un cosmólogo puede nombrar. El sistema decimal codifica dos cosas simultáneamente: partida ilimitada en valor, y recurrencia perfecta en forma. La recta numérica muestra solo la primera.
 
------
+---
 
 ## II. El Punto de Cruce
 
@@ -81,7 +87,7 @@ Esto es lo que significa el valor posicional, comprendido ontológicamente. La p
 
 Centro y límite. Acumulación y reinicio. Lo uno y lo múltiple. Estas no son categorías filosóficas abstractas. Son la estructura de cada número que jamás has escrito.
 
------
+---
 
 ## III. El Afelio en el Cinco
 
@@ -97,7 +103,7 @@ La intuición metafísica aquí codificada es la intuición del límite — que 
 
 > Una partida. Un máximo. Un retorno. Un cruce. No un segmento de una línea infinita. Un bucle.
 
------
+---
 
 ## IV. El Infinito como Frecuencia
 
@@ -111,7 +117,7 @@ El infinito, leído a través de la lemniscata, no es partida sin fin. Es recurr
 
 Progreso y retorno. Devenir e identidad. Estas no son contradicciones que el sistema decimal no logra resolver. Son tensiones que sostiene simultáneamente, en cada número jamás escrito, sin comentario y sin colapso. La lemniscata es la forma de ese sostenimiento.
 
------
+---
 
 ## V. Objeciones y Límites
 
@@ -125,7 +131,7 @@ Una proposición que no reconoce sus propios límites no es un argumento filosó
 
 **Cuarto, y más importante:** esto es geometría interpretativa y lectura ontológica, no aritmética de reemplazo. La tesis es que el sistema decimal contiene una estructura de lemniscata que nunca ha sido nombrada, y que nombrarla ilumina algo sobre cómo los seres humanos experimentan el conteo, la recurrencia y el infinito dentro del sistema que realmente usan. Un nuevo lente, no un nuevo fundamento. Dentro de estos límites, la proposición se sostiene.
 
------
+---
 
 ## VI. Lo que el Boceto Ya Sabía
 
@@ -143,11 +149,11 @@ La recta numérica nos dio la flecha. La lemniscata nos da el cruce. Ambas son v
 
 > El infinito no está allá afuera, más allá de la flecha, más allá del último número que puedas nombrar. Está aquí: en el punto de cruce, en el retorno, en el cero que sigue regresando cargándolo todo.
 
------
+---
 
 *El número avanza linealmente en valor, pero la notación decimal revela retornos cíclicos en forma; la lemniscata captura esta oculta coexistencia de progresión y recurrencia.*
 
------
+<br>
 
 ## Referencias
 

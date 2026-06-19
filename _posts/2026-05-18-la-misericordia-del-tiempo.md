@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "La misericordia del tiempo consiste en suspender la fijación inmediata de la voluntad, permitiendo nuevas respuestas a la gracia."
-title: "La Misericordia del Tiempo: Condemnatio in continenti y la Preservación de la Plasticidad Moral"
+title: "La Misericordia del Tiempo" 
+subtitle: "Condemnatio in continenti y la Preservación de la Plasticidad Moral"
 date: 2026-05-18
 
 categories:
@@ -25,13 +26,10 @@ tags:
   - metafisica-teologica
 
 lang: es
-
 excerpt: "La existencia temporal preserva la plasticidad moral al suspender la fijación ontológica inmediata, permitiendo que la voluntad elija repetidamente a lo largo de una vida en presencia de la gracia."
-
 doi: "10.5281/zenodo.20277874"
 record_url: "https://zenodo.org/records/20277874"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277874"
-
 translation_url: "/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html"
 ---
 

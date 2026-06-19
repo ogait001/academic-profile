@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Baptism and purgatory as corresponding thresholds in Gaitán Topology."
-title: "The Two Entrances: Water and Fire as the Thresholds of Temporal and Eternal Life"
+title: "The Two Entrances"
+subtitle: "Water and Fire as the Thresholds of Temporal and Eternal Life"
 date: 2026-06-16
 categories: [catholic-theology, ontology]
 tags: [baptism, purgatory, original-sin, pride, humility, grace, lemniscate, crossing-point, Gaitan-Topology]

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Una reflexión sobre la presencia sagrada y la cultura de plataforma, donde el acceso reemplaza al accessus y la representación desplaza la presencia."
+description: "Una reflexión sobre la presencia sagrada y la cultura de la plataforma."
 title: "Dios a la Carta" 
 subtitle: "El Ladrillo Babélico - Accessus y Acceso en la Iglesia-Plataforma"
 date: 2026-05-25

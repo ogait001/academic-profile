@@ -112,7 +112,7 @@ Jenny saw it at the edge, imperfectly, through the thinning chain. *I wish I cou
 
 And every soul, at Judgement, stripped of the chain entirely, sees what these three touched partially — its own will, its own orientation, the full formation of what the recurring crossings built — and speaks.
 
-> **Two words. Two directions. Two eternities.**
+> Two words. Two directions. Two eternities.
 >
 > *Against you alone* — or *Non Serviam.* There is no third response. There never was. The temporal life was the period in which the response was being formed. Judgement is the moment it is finally, fully, and forever known.
 

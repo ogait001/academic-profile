@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/records/19654927/files/the-is-and-the-am.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es-y-el-soy.html
 ---
 
+<br>
+
 ## Table of Contents
 
 - [A Note on Method and Genre](#a-note-on-method-and-genre)

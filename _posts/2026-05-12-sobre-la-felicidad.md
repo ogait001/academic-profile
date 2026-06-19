@@ -14,12 +14,12 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/05/12/on-ha
 excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y teológica sobre la felicidad, que sostiene que el anhelo humano busca una plenitud perdurable más que una satisfacción fugaz, y que los bienes finitos no pueden colmar el deseo de permanencia."
 ---
 
-<br>
+<br><br>
 *Non sumus Deus tuus; quaere super nos.*
 — Agustín de Hipona, *Confesiones*
-<br>
+<br><br><br>
 
----
+
 
 ## Indice
 

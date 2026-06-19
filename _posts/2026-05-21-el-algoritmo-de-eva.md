@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Un examen de la tentación, la identidad y la cultura digital, donde el algoritmo amplifica una antigua separación entre el yo y la presencia."
-title: "El Algoritmo de Eva: La Industrializacion de la Tentacion Original"
+title: "El Algoritmo de Eva" 
+subtitle: La Industrialización de la Tentación Original"
 date: 2026-05-21
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, eschatology, das-man, legion, ghost-zone, uninhabited-now, self-and-identity, time-and-eternity]

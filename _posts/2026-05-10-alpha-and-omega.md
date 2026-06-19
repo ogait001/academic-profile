@@ -34,7 +34,7 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-
 
 This essay operates as speculative metaphysics, not analytic philosophy or empirical science. It proceeds by structural analogy and ontological reading rather than by strict deduction or physical demonstration. Where claims touch on physics or mathematics, they are explicitly framed as metaphysical interpretations rather than scientific conclusions. The argument advances by resonance across domains — cosmological, theological, mathematical — and invites the reader to evaluate the coherence of the framework as a whole rather than the proof-status of any individual claim. Coherence is the standard being offered, not demonstration.
 
----
+<br>
 
 ## I. The Universe we cannot see whole
 
@@ -48,7 +48,7 @@ We are told the universe is expanding. Galaxies are moving apart. Distances are 
 
 **We cannot see the lemniscate whole. We are one of its crossings.**
 
----
+<br>
 
 ## II. Looping around or looping through
 
@@ -64,7 +64,7 @@ A figure that loops through the Now crosses the center. At every crossing, somet
 
 **Orbit without crossing erodes. Expansion without return tends toward dissipation. The figure that passes through the Now is the figure that continuously receives what the Now contains.**
 
----
+<br>
 
 ## III. Life finds its way
 
@@ -76,7 +76,7 @@ But life makes that structure reflexive in a way that nonliving systems do not. 
 
 What appears in living systems as persistence through obstruction reflects, within this framework, a structural tendency toward renewed actualization rather than static equilibrium. Life does not invent the crossing point. It repeatedly encounters the conditions under which becoming continues. What living organization does — structurally, not intentionally — is to tend toward it rather than away from it, press through the conditions that would arrest actualization rather than settling into the stable states that entropy would prefer.
 
----
+<br>
 
 ## IV. What infinite expansion cannot sustain
 
@@ -92,7 +92,7 @@ But the universe was not made to dissipate. It was made by the one who is Alpha 
 
 **Infinite expansion without return is the universe tracing a figure that tends away from the crossing point indefinitely. What prevents its dissipation is not a force within the system. It is the Omega who stands outside the system as its destination.**
 
----
+<br>
 
 ## V. Zero Returned
 
@@ -106,7 +106,7 @@ What this unexpected mirror shows is not that the decimal system proves the lemn
 
 **The decimal system reaches infinity through ten symbols because the infinite is elaborated through recurrence rather than departure alone.**
 
----
+<br>
 
 ## VI. Alpha and Omega
 
@@ -120,7 +120,7 @@ The universe expands because it was created by Alpha. It does not dissipate beca
 
 **Alpha and Omega are not two points on a line. They are the single ground that holds the line open — from outside the line, in the only grammar adequate to what is most real: I AM.**
 
----
+<br>
 
 ## VII. Intervention is Actualization
 
@@ -140,7 +140,7 @@ Prayer is not pulling divine intervention toward a situation. It is the creature
 
 **God does not intervene in reality. God actualizes it — continuously, entirely, at every point, without interruption. What we call intervention is the moment we notice what was never absent. What we call miracle is the creature, for once, receiving without obstruction what the Now was always containing.**
 
----
+<br>
 
 ## VIII. Distant from Here, Near to There
 
@@ -154,7 +154,7 @@ This is what the folkloric wisdom names with more precision than most technical 
 
 **Distance is real. It is a property of the loops. At the crossing point, nothing is far from anything. The galaxy billions of light years away is as close to I AM as the thought you are thinking now. Both are being held open in the same act. Both are crossing the same Now.**
 
----
+<br>
 
 ## IX. The Geometry of anything that endures
 
@@ -172,7 +172,7 @@ The cosmos knows.
 None of them invented the crossing point.
 **All of them pass through it.**
 
----
+<br>
 
 
 ### References

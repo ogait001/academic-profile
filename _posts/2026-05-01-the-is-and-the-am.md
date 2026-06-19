@@ -1,7 +1,7 @@
 ---
 layout: post
-description: "The 'is' of things points toward the AM that sustains them: an exploration of presence, identity, and the ground of being."
-title: "The Is and the AM: Presence, Identity, and the Ground that Holds"
+description: "An exploration of presence, identity, and the ground of being."
+title: "The Is and the AM" subtitle: "Presence, Identity, and the Ground that holds"
 date: 2026-04-19 
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, time-and-eternity, theological-anthropology, philosophy-of-religion, eschatology]
@@ -26,11 +26,13 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es
 - [Objections and Replies](#objections-and-replies)
 - [References](#references)
 
----
+<br><br>
 
 ## A Note on Method and Genre
 
 This work is a metaphysical essay integrating phenomenology, ontology, and theological reflection. It does not claim mathematical proof, nor does it present itself as a completed systematic philosophy. It offers a structural account of identity, time, and grounding that invites philosophical engagement. Where claims are made, they are of different kinds — phenomenological descriptions of lived experience, structural proposals about the conditions of actuality, symbolic models offered as heuristic tools, and theological interpretations that follow philosophical inference rather than precede it. These are labeled throughout.
+
+<br>
 
 ## Key Terms
 
@@ -46,9 +48,7 @@ This work is a metaphysical essay integrating phenomenology, ontology, and theol
 
 **AM** — A reverential shorthand used in this essay for the self-sustaining ground of being, contemplated in the biblical tradition through the divine self-revelation "I AM WHO I AM" (Exodus). The term is not intended as a replacement for the sacred name, but as a philosophical pointer to ultimate, non-contingent reality.
 
----
-
----
+<br><br>
 
 ## Prologue
 
@@ -486,7 +486,7 @@ The objection assumes that constitution requires a pre-existing substrate. But t
 
 The Trinitarian section is explicitly marked as analogical theology, not deductive proof, and as a contemplative extension for readers within the Christian tradition. The philosophical argument reaches its terminus at a self-sustaining non-derivative ground of being. The Trinitarian analogy is offered as one way of naming that ground within a specific tradition — not as a required step for readers outside it. Jewish, Islamic, and other monotheist traditions offer their own accounts of divine unity, and the philosophical argument is compatible with multiple traditions of naming the non-derivative ground. The Trinity is not derived from this topology; the topology simply provides an analogy that gestures toward the relational unity Christian theology proclaims.
 
----
+<br><br>
 
 ## References
 

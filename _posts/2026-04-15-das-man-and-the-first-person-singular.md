@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "A meditation on anonymity and communion, arguing that authentic relation requires persons gathered into presence rather than dissolved into the anonymous many."
-title: "Das Man and the First Person Singular: On Anonymity, Displacement, and the Conditions of Authentic Communion"
+description: "A meditation on anonymity and community."
+title: "Das Man and the First Person Singular" 
+subtitle: "On Anonymity, Displacement, and the Conditions of Authentic Communion"
 date: 2026-04-21 00:00:00 -0500
 categories: [ontology, phenomenology]
 tags:
@@ -29,6 +30,8 @@ pdf_url: "https://zenodo.org/records/19685599/files/das-man-and-the-first-person
 translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona.html
 ---
 
+<br><br>
+
 ## Contents
 
 - [Abstract](#abstract)
@@ -43,6 +46,8 @@ translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona
 - [VII. The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
 - [References](#references)
 
+#br>
+
 ---
 
 ## Abstract
@@ -51,7 +56,9 @@ This essay examines Martin Heidegger's concept of *Das Man* through literature, 
 
 ---
 
-## Note on relation to previous works
+<br>
+
+## Note on relation to previous work
 
 The essays preceding this one developed the vocabulary this essay presupposes: the lemniscate, the crossing point, the Ghost Zone, the serpent's curve, false centers, and Legion. A reader unfamiliar with those works can still follow the present argument, though some of its deeper structural references may be missed.
 
@@ -209,7 +216,7 @@ The first person singular is the minimum condition of every form of authentic hu
 
 **Here. Now. Entirely.**
 
----
+<br>
 
 ## References
 

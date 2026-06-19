@@ -33,10 +33,9 @@ excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el ca
 - [VIII. El Fundamento](#viii-el-fundamento)
 - [Referencias](#referencias)
 
+<br><br>
 
 ---
-
-<br><br>
 
 ## Resumen
 

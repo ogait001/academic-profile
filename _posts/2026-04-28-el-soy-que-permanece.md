@@ -14,7 +14,7 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/20/the-a
 excerpt: "Una crítica metafísica de Descartes, que sostiene no “pienso, luego soy”, sino que el pensar mismo presupone la realidad previa del ser."
 ---
 
-<br>
+<br><br>
 
 ## Indice
 
@@ -27,6 +27,8 @@ excerpt: "Una crítica metafísica de Descartes, que sostiene no “pienso, lueg
 - [VII. Lo que la serie ha construido](#vii-lo-que-la-serie-ha-construido)
 - [VIII. El "Soy" que permanece](#viii-el-soy-que-permanece)
 - [Referencias](#referencias)
+
+<br>
 
 ---
 
@@ -168,7 +170,7 @@ Pienso porque soy.
 
 > Y cuando el pensamiento termina, el "Soy" permanece — y por primera vez sin interferencia, se conoce a sí mismo entero.
 
----
+<br>
 
 ## Referencias
 

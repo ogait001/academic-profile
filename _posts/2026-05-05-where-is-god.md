@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on suffering and divine presence, arguing that God is found as the ground of the present rather than as intervention."
-title: "Where Is God? Suffering, the present moment, and the Ground that does not intervene"
+title: "Where Is God?" 
+subtitle: "Suffering, the Present Moment, and the Ground that does not intervene"
 date: 2026-05-05
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [crossing-point, gaitan-topology, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
@@ -13,9 +14,10 @@ pdf_url: "https://zenodo.org/records/20044785/files/where-is-god.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde-esta-dios.html
 ---
 
+<br>
 *Without God, there is nothing to intervene in.*
 
----
+<br><br>
 
 ## Table of Contents
 
@@ -30,6 +32,8 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 - [VIII. The Self-Refuting Objection](#viii-the-self-refuting-objection)
 - [IX. Where Is God?](#ix-where-is-god)
 - [References](#references)
+
+<br><br>
 
 ---
 
@@ -50,7 +54,7 @@ That assumption must be examined before the question can be answered. Because if
 
 > Without God, there is no moment to intervene in. The issue is not why God failed to act within events, but what makes events possible at all.
 
----
+<br>
 
 ## II. What the Now Is
 
@@ -62,11 +66,11 @@ The Now is the point of actualization: the place where potential becomes real. B
 
 This means the Now is not one moment among many. It is the condition that makes any moment possible at all. You cannot step outside the Now to observe it. Every memory is retrieved now. Every anticipation is formed now. Every act of consciousness, every decision, every breath occurs now. The Now is not where some events happen. It is the only mode of existence that is ever actual.
 
-As established in the prior work [*Does Time Need Me, or Do I Need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/22/does-time-need-me-or-do-i-need-time.html), the Now is entirely dependent. It has no thickness, no reserves, no self-sustaining depth. It is the most fragile and most fundamental thing in existence. Everything actual depends on it. And it depends on something it cannot provide for itself.
+As established in the prior work [*Does Time Need Me, or Do I Need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html), the Now is entirely dependent. It has no thickness, no reserves, no self-sustaining depth. It is the most fragile and most fundamental thing in existence. Everything actual depends on it. And it depends on something it cannot provide for itself.
 
 > The Now is where God and creature meet — not because God occupies a moment in time, but because God is what holds the moment open.
 
----
+<br>
 
 ## III. What Sustains the Now
 
@@ -84,7 +88,7 @@ This is why the answer to *Where is God?* cannot be found by looking for an inte
 
 > God does not sustain the Now selectively — holding it open for good events and closing it for evil ones. God sustains it as the universal ground of all actualization. What crosses it is the work of freedom.
 
----
+<br>
 
 ## IV. Good and Evil at the Same Crossing Point
 
@@ -102,7 +106,7 @@ And this is where mercy appears, not as intervention within events, but as the u
 
 To hold the Now open for both light and darkness is not to approve the darkness. It is to refuse to close the only place where darkness can be left behind. As Augustine of Hippo observed, God permits evil not because it is good, but because He can bring good from it. Mercy, in this sense, is not the interruption of the moment. It is the refusal to withdraw it.
 
----
+<br>
 
 ## V. The Cry from the Cross
 
@@ -116,7 +120,7 @@ Christ is not reporting abandonment. He is praying the full arc of human desolat
 
 > God sustains the moment of suffering. God does not author its contents. That distinction is the ground of the entire theodicy.
 
----
+<br>
 
 ## VI. Four Kinds of Suffering, Four Different Roots
 
@@ -132,7 +136,7 @@ Not all suffering is the same. To treat it as one undivided mass is the first mi
 
 > None of these four kinds of suffering requires God as direct cause. All four occur within the Now that God sustains. The sustaining of the Now is not the authoring of its contents.
 
----
+<br>
 
 ## VII. The Contingent Chain
 
@@ -142,7 +146,7 @@ What is true of economic and social structures is true at a deeper level of real
 
 The Now itself is dependent. It has no self-sustaining depth, no reserves from which it draws its own continuity. Follow the chain of dependencies to its terminus and what is required is something non-contingent — a self-sustaining ground that does not itself require a ground. Jesus says in Matthew 6:24: *no one can serve two masters.* This is not only a moral warning. It points toward what the structure of dependence requires. Nothing contingent can perform the function of an ultimate foundation. Mammon — the entire suspended net of mutual dependencies — was not built to hold what we place on it. It was never capable of being what we needed it to be.
 
----
+<br>
 
 ## VIII. The Self-Refuting Objection
 
@@ -156,7 +160,7 @@ This is not a dismissal of the grief behind the question. A person standing at a
 
 > Without God, there is nothing to intervene in. The question assumes what it is trying to disprove.
 
----
+<br>
 
 ## IX. Where Is God?
 
@@ -172,11 +176,11 @@ The Book of Job does not end with an explanation. It ends with a presence. God d
 
 Suffering is not the silence of God. It is what it sounds like when the Now is being held open for free beings who have not yet turned toward the one who holds it.
 
----
+<br>
 
 > *God is present as the sustaining ground of the Now in which every act — good or evil — becomes real.*
 
----
+<br>
 
 ## References
 

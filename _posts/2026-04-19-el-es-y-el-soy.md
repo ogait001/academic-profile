@@ -39,7 +39,7 @@ excerpt: "Una meditación filosófica y teológica sobre la existencia, la prese
 
 Este trabajo es un ensayo metafísico que integra fenomenología, ontología y reflexión teológica. No reclama prueba matemática ni se presenta como una filosofía sistemática completada. Ofrece una exposición estructural de la identidad, el tiempo y el fundamento que invita al compromiso filosófico. Cuando se hacen afirmaciones, son de diferentes tipos — descripciones fenomenológicas de la experiencia vivida, propuestas estructurales sobre las condiciones de la actualidad, modelos simbólicos ofrecidos como herramientas heurísticas, e interpretaciones teológicas que siguen la inferencia filosófica en lugar de precederla. Estas están etiquetadas a lo largo del texto.
 
----
+<br>
 
 ## Términos Clave
 

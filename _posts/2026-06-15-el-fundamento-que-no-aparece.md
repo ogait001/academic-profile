@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "El Fundamento Que No Aparece: Hume, la Invariancia y el yo"
+title: "El Fundamento que no aparece" 
+subtitle: "Hume, la Invariancia y el Yo"
 description: "Hume, identidad personal, invariancia y fundamento del yo."
 date: 2026-06-15
 categories: [ontology, catholic-theology, philosophy-of-time]

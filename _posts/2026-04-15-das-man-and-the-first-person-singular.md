@@ -46,7 +46,7 @@ translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona
 - [VII. The Return of the First Person Singular](#viii-the-return-of-the-first-person-singular)
 - [References](#references)
 
-#br>
+<br>
 
 ---
 

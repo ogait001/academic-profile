@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Donde vive la misericordia: en el retorno del alma que, al volver en sí, descubre que la gracia nunca la abandonó."
-title: "Donde Vive la Misericordia: Volviendo en sí"
+description: "El retorno del alma que, al volver en sí, descubre que la gracia nunca la abandonó."
+title: "Donde Vive la Misericordia" 
+subtitle: "Volviendo en Sí"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, grace, mercy, reconciliation, prodigal-son, three-moments]

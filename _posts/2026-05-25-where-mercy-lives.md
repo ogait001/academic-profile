@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Where mercy lives: in the return of the soul that, coming to itself, discovers that grace never abandoned it."
-title: "Where Mercy Lives: He Came to Himself"
+title: "Where Mercy Lives" 
+subtitle: "He Came to Himself"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, grace, mercy, reconciliation, prodigal-son, three-moments]

@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on repetition and infinity, where decimal notation reveals a structure of return, identity, and ascent."
-title: "Zero Returned: What decimal notation suggests about Repetition, Identity, and Infinity"
+title: "Zero Returned" 
+subtitle: "What Decimal Notation suggests about Repetition, Identity, and Infinity"
 date: 2026-04-29
 categories: [ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, self-and-identity, time-and-eternity]
@@ -13,13 +14,15 @@ pdf_url: "https://zenodo.org/records/19893906/files/zero-returned.pdf"
 translation_url: /ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html
 ---
 
+<br><br>
+
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/assets/images/return_to_zero.jpeg" alt="Return to Zero sketch" width="500">
 </div>
 
 *5 + 5 ≡ 0 (mod 10)*
 
-*What Decimal Notation Suggests About Repetition, Identity, and Infinity*
+<br>
 
 ## Table of Contents
 
@@ -31,6 +34,8 @@ translation_url: /ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-c
 - [V. Objections and Limits](#v-objections-and-limits)
 - [VI. What the Sketch Already Knew](#vi-what-the-sketch-already-knew)
 - [References](#references)
+
+<br>
   
 ---
 
@@ -47,6 +52,8 @@ What follows is a metaphysical meditation on recurrence embedded in number repre
 **The digits do not depart. They return. And each return is higher than the last.**
 
 ---
+
+<br>
 
 ## I. The Arrow and its Assumption
 
@@ -144,7 +151,7 @@ Infinity is not out there, past the arrow, beyond the last number you can name. 
 
 *Number advances linearly in value, yet decimal notation reveals cyclical returns in form; the lemniscate captures this hidden coexistence of progression and recurrence.*
 
----
+<br>
 
 ## References
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre el Ahora y el cosmos, sosteniendo que Alfa y Omega es el fundamento que sostiene tanto el tiempo como la existencia."
-title: "Alfa y Omega: Sobre el cosmos, el Ahora y el Dios que sostiene ambos extremos"
+title: "Alfa y Omega" 
+subtitle: "Sobre el Cosmos, el Ahora y el Dios Que sostiene ambos extremos"
 date: 2026-05-10
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
@@ -29,7 +30,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha
 - [La geometría de todo lo que perdure](#ix-la-geometría-de-todo-lo-que-perdure)
 - [Referencias](#referencias)
 
----
+<br><br>
 
 ## Nota sobre el metodo
 

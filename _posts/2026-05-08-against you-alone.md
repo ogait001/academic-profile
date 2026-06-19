@@ -36,7 +36,7 @@ And every night, in the thinning before sleep, the soul rehearses the deathbed. 
 
 **Judgement is where the soul reads the book entire.**
 
-<br><br>
+<br>
 
 Before the reading, consider what Judgement removes.
 
@@ -46,7 +46,7 @@ Death removes the chain. Not temporarily, as contemplative practice removes it p
 
 The soul does not need a judge to call witnesses. It is its own witness. It does not need a prosecutor to assemble evidence. The evidence is the will itself, finally visible in its full formation — every act and omission and deferral, every crossing of the Now, the complete trajectory of what the recurring crossings built. The soul looks at this and recognizes itself. Not accused. Not sentenced from outside. It simply knows — as God knows — and in knowing, it speaks.
 
-<br><br>
+<br>
 
 Two men speak before this moment, in temporal life, with a clarity that anticipates it. They are worth holding together.
 
@@ -58,7 +58,7 @@ Not against Bathsheba, whom he took. Not against Uriah, whom he had killed. Not 
 
 David does not say: the woman was beautiful and you made beauty. He does not say: power corrupts and you gave me power. He says: *I have done what is evil in your sight.* Not in his own sight, filtered through self-justification. *In your sight.* David is, for a moment, seeing what God sees — and agreeing with what he sees. *You are right in your verdict. You are justified when you judge.* The verdict is not received as an imposition. It is recognized as correct.
 
-<br><br>
+<br>
 
 Now consider the alibi that Judgement destroys — and how sophisticated it becomes when fully developed.
 
@@ -70,13 +70,13 @@ This is the alibi at its most complete, its most human, and its most devastating
 
 And so two responses remain. Exactly two.
 
-<br><br>
+<br>
 
 *I have sinned against you, Lord.* The prodigal son, who came to himself and said: I will arise and go to my father. The publican, who would not lift his eyes. The thief on the right cross, who had nothing left but the accurate perception of what he was and what the man beside him was. The soul that sees its own will entire — every act and omission, the full formation of the recurring crossings — and offers it back without defense. Not because the confession earns anything. Not because it reverses what was built. But because it is the alignment of the soul's knowledge with God's knowledge — the soul finally agreeing with what God always saw — and **that agreement is, in its structure, the beginning of what Heaven is.**
 
 *Non Serviam. I will not serve.* The soul that sees its own will entire and confirms it. Not in confusion. Not deceived. Not able to claim the serpent lied, because the serpent is not in the room. Not able to say the woman led me here, because the woman is not in the room. Seeing clearly, without interference, with full knowledge of what it is choosing and what it is refusing — and choosing still. This is what makes the doctrine of Hell not an injustice. The soul in Hell is not a soul that wanted Heaven and was denied it. **It is a soul that sees, in the full light of what it is and what God is, what ordering itself toward God would require — and says, freely, finally, without the noise that made the refusal feel reasonable throughout temporal life: I will not.**
 
-<br><br>
+<br>
 
 Every sin carries shame. This is important and worth stating precisely.
 
@@ -96,7 +96,7 @@ The other souls arrive having carried shame — the partial, distorted, noise-co
 
 Not in anguish. Not yet in the weeping and gnashing of teeth that is the eternal experience of what that choice costs, seen without the anesthesia that made it bearable while it was being made. In the same composure it carried through life.
 
-<br><br>
+<br>
 
 Abraham saw it before the moment arrived. *I who am but dust and ashes.* The accurate perception of contingency before the non-contingent — and from that seeing, the freedom to speak, to intercede, to approach without alibi because there was nothing to defend.
 

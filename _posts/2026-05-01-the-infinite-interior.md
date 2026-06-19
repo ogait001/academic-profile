@@ -16,7 +16,7 @@ translation_url: /ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior
 
 <br>
 
-*A Proposition on Distance, Asymptotic Transition, and the Irreducible One*
+*A proposition on distance, asymptotic transition, and the irreducible One*
 > Replacement requires a boundary. Continuity admits none.
 
 <br><br>

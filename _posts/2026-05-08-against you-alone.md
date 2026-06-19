@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "An examination of judgment, responsibility, and grace, where the soul stands as witness to itself before God."
-title: "Only Against You" 
+title: "Against You Alone" 
 subtitle: "On Judgment, the Soul as Witness to Itself, and the Two Responses that Remain"
 date: 2026-05-08
 categories: [catholic-theology, philosophy-of-time, ontology]

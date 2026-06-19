@@ -15,7 +15,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 ---
 
 <br>
-*Without God, there is nothing to intervene in.*
+>"*Without God, there is nothing to intervene in.*"
 
 <br><br>
 

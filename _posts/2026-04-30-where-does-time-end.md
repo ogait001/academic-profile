@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "A meditation on the three final destinies, understood as enduring modes of existence at the crossing point of the Now."
-title: "Where Does Time End? The Three Nows: Forever. Never."
+description: "A meditation on the three final states"
+title: "Where Does Time End?" 
+subtitle: "The Three Nows: Never. Never. Forever."
 date: 2026-04-14
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, phenomenology]
@@ -13,9 +14,7 @@ pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/14/donde-termina-el-tiempo.html
 ---
 
-*Forever. Never. A Meditation on Final States*
-
----
+<br><br>
 
 ## Table of Contents
 
@@ -27,6 +26,8 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/14/donde
 - [VI. The Three Nows](#vi-the-three-nows)
 - [VII. The Resurrection Body and the End of the Argument](#vii-the-resurrection-body-and-the-end-of-the-argument)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -43,6 +44,8 @@ Not for the universe — that is a different question. For the person. For the s
 The tradition names three final states: Heaven, Purgatory, Hell. Not three locations in space — the tradition itself is careful about this, more careful than popular imagination allows. Three modes of existing in final relation to the God who is, in the grammar of Exodus, simply and absolutely: I AM WHO I AM.
 
 ---
+
+<br>
 
 ## II. What the End of Time Would Mean
 
@@ -203,7 +206,7 @@ The difference is only the direction of the face.
 
 **Time does not end by disappearing, but by no longer being needed.**
 
----
+<br>
 
 ## References
 

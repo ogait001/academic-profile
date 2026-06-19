@@ -42,11 +42,11 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/09/despl
 > "The concept of sin does not need to be prohibited. It only needs to become quaint."
 <br>
 
-> "…that no man might buy or sell, save he that had the mark."
-> — Revelation 13:17
+> "The modern system has accomplished, through frictionless architectural means, what no empire achieved through force."
 <br>
 
-The modern system has accomplished, through frictionless architectural means, what no empire achieved through force: the voluntary departure of the self from the crossing point, thumb-stroke by thumb-stroke, without awareness of loss, without a struggle, and without a single argument against the existence of God.
+> "…that no man might buy or sell, save he that had the mark."
+> — Revelation 13:17
 
 <br><br>
 

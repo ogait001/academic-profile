@@ -1,7 +1,7 @@
 ---
 layout: post
-description: "El 'es' de las cosas remite al SOY que las sostiene: una exploración de la presencia, la identidad y el fundamento del ser."
-title: "El Es y el SOY: Presencia, Identidad y el Fundamento que Sostiene"
+description: "Una exploración de la presencia, la identidad y el fundamento del ser."
+title: "El Es y el SOY" subtitle: "Presencia, Identidad y el Fundamento que sostiene"
 date: 2026-04-19
 categories: [ontology, philosophy-of-time, catholic-theology]
 redirect_from:
@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/records/19655047/files/el-es-y-el-soy.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/19/the-is-and-the-am.html
 excerpt: "Una meditación filosófica y teológica sobre la existencia, la presencia y la identidad, que sostiene que el ser contingente apunta más allá de sí mismo hacia el fundamento sustentante nombrado como el SOY."
 ---
+
+<br>
 
 ## Indice
 
@@ -29,16 +31,16 @@ excerpt: "Una meditación filosófica y teológica sobre la existencia, la prese
 - [Referencias](#referencias)
 
 
----
+<br><br>
 
 
-## Nota sobre método y género
+## Nota sobre Método y Género
 
 Este trabajo es un ensayo metafísico que integra fenomenología, ontología y reflexión teológica. No reclama prueba matemática ni se presenta como una filosofía sistemática completada. Ofrece una exposición estructural de la identidad, el tiempo y el fundamento que invita al compromiso filosófico. Cuando se hacen afirmaciones, son de diferentes tipos — descripciones fenomenológicas de la experiencia vivida, propuestas estructurales sobre las condiciones de la actualidad, modelos simbólicos ofrecidos como herramientas heurísticas, e interpretaciones teológicas que siguen la inferencia filosófica en lugar de precederla. Estas están etiquetadas a lo largo del texto.
 
 ---
 
-## Términos clave
+## Términos Clave
 
 Los siguientes términos tienen significados específicos a lo largo de este ensayo.
 
@@ -54,7 +56,7 @@ Los siguientes términos tienen significados específicos a lo largo de este ens
 
 **SOY** — Una abreviatura reverencial utilizada en este ensayo para el fundamento autosustentable del ser, contemplado en la tradición bíblica a través de la autorrevelación divina "YO SOY EL QUE SOY" (Éxodo). El término no pretende reemplazar el nombre sagrado, sino señalar filosóficamente hacia la realidad última y no contingente.
 
----
+<br><br>
 
 ## Prólogo
 
@@ -494,7 +496,7 @@ Las siguientes objeciones representan los desafíos filosóficos más serios al 
 
 *Respuesta:* La sección trinitaria está explícitamente marcada como teología analógica, no prueba deductiva, y como extensión contemplativa para lectores dentro de la tradición cristiana. El argumento filosófico llega a su término en un fundamento autosustentable no derivado del ser. La analogía trinitaria se ofrece como una manera de nombrar ese fundamento dentro de una tradición específica — no como un paso obligatorio para lectores fuera de ella. Las tradiciones judía, islámica y otras tradiciones monoteístas ofrecen sus propias exposiciones de la unidad divina, y el argumento filosófico es compatible con múltiples tradiciones de nombrar el fundamento no derivado. La Trinidad no se deriva de esta topología; la topología simplemente proporciona una analogía que apunta hacia la unidad relacional que la teología cristiana proclama.
 
----
+<br><br>
 
 ## Referencias
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la presencia sagrada y la cultura de plataforma, donde el acceso reemplaza al accessus y la representación desplaza la presencia."
-title: "Dios a la Carta: El Ladrillo Babelico - Accessus y Acceso en la Iglesia-Plataforma"
+title: "Dios a la Carta" 
+subtitle: "El Ladrillo Babélico - Accessus y Acceso en la Iglesia-Plataforma"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [theological-anthropology, philosophy-of-religion, crossing-point, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, das-man, uninhabited-now, ghost-zone, sacred, liturgy, tabernacle, platform, simulation, accessus]

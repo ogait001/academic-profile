@@ -7,12 +7,11 @@ date: 2026-05-21
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, eschatology, das-man, legion, ghost-zone, uninhabited-now, self-and-identity, time-and-eternity]
 lang: en
-excerpt: "This essay argues that contemporary algorithmic systems have not invented a new temptation but industrialized an ancient one -- a structural reading of Genesis 3 as a topological proposal: the reorganization of the creature's relationship to reality, perception, and the site where genuine encounter with the divine becomes possible."
 doi: "10.5281/zenodo.20330645"
 record_url: "https://zenodo.org/records/20330645"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/el-algoritmo-de-eva.html"
-excerpt: "Eve’s temptation was ontological before it was moral; the algorithm simply learned how to scale the proposal."
+excerpt: "Algorithms industrialize the ancient temptation of Genesis: redefining reality, perception, and access to divine presence."
 ---
 
 *The scroll did not create the structure. It industrialized it.*

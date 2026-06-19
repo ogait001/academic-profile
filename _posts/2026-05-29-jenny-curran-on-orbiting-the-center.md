@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "She never stopped moving: a reflection on orbit, identity, and the difference between remaining near the center and coming home."
-title: "Jenny Curran: On Orbiting the Center"
+title: "Jenny Curran" 
+subtitle: "On Orbiting the Center"
 date: 2026-05-29
 categories: [ontology, catholic-theology]
 tags: [identity, contingency, endurance, orbit, prodigal, presence, Forrest Gump, lemniscate]

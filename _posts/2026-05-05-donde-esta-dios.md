@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre el sufrimiento y la presencia divina, que sostiene que Dios se encuentra como fundamento del presente y no como intervención."
-title: "¿Dónde Está Dios? El sufrimiento, el momento presente y el fundamento que no interviene"
+title: "¿Dónde Está Dios?" 
+subtitle: "El Sufrimiento, el Momento Presente y el Fundamento que no interviene"
 date: 2026-05-05
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, time-and-eternity, eschatology]
@@ -13,9 +14,10 @@ pdf_url: "https://zenodo.org/records/20044903/files/donde-esta-dios.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/05/where-is-god.html
 ---
 
-> Sin Dios, no hay nada en lo que intervenir.
+<br>
+> "*Sin Dios, no hay nada en lo que intervenir.*"
 
----
+<br><br>
 
 ## Indice
 
@@ -31,6 +33,8 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/05/where
 - [VIII. La Objeción que Se Refuta a Sí Misma](#viii-la-objeción-que-se-refuta-a-sí-misma)
 - [IX. ¿Dónde Está Dios?](#ix-dónde-está-dios)
 - [Referencias](#referencias)
+
+<br><br>
 
 ---
 
@@ -51,7 +55,7 @@ Ese supuesto debe examinarse antes de que la pregunta pueda responderse. Porque 
 
 > Sin Dios, no hay momento en el que intervenir. La cuestión no es por qué Dios no actuó dentro de los eventos, sino qué hace posibles los eventos.
 
----
+<br>
 
 ## II. Qué Es el Ahora
 
@@ -67,7 +71,7 @@ Como se estableció en el trabajo previo [¿Necesito yo al tiempo, o necesita el
 
 > El Ahora es donde Dios y la criatura se encuentran — no porque Dios ocupe un momento en el tiempo, sino porque Dios es lo que mantiene abierto el momento.
 
----
+<br>
 
 ## III. Qué Sustenta el Ahora
 
@@ -85,7 +89,7 @@ Por eso la respuesta a *¿Dónde está Dios?* no puede encontrarse buscando un a
 
 > Dios no sustenta el Ahora de forma selectiva — manteniéndolo abierto para los eventos buenos y cerrándolo para los malos. Dios lo sustenta como el fundamento universal de toda actualización. Lo que lo cruza es obra de la libertad.
 
----
+<br>
 
 ## IV. El Bien y el Mal en el Mismo Punto de Cruce
 
@@ -103,7 +107,7 @@ Y es aquí donde aparece la misericordia, no como intervención dentro de los ac
 
 Mantener el Ahora abierto tanto para la luz como para la oscuridad no es aprobar la oscuridad. Es negarse a cerrar el único lugar donde la oscuridad puede ser dejada atrás. Como observó Agustín de Hipona, Dios permite el mal no porque sea bueno, sino porque puede sacar un bien de él. La misericordia, en este sentido, no es la interrupción del momento. Es la negativa a retirarlo.
 
----
+<br>
 
 ## V. El Grito desde la Cruz
 
@@ -117,7 +121,7 @@ Cristo no está reportando abandono. Está rezando el arco completo de la desola
 
 > Dios sustenta el momento del sufrimiento. Dios no es el autor de su contenido. Esa distinción es el fundamento de toda la teodicea.
 
----
+<br>
 
 ## VI. Cuatro Tipos de Sufrimiento, Cuatro Raíces Distintas
 
@@ -133,7 +137,7 @@ El **cuarto** es el sufrimiento natural dentro de una creación no terminada. El
 
 > Ninguno de estos cuatro tipos de sufrimiento requiere a Dios como causa directa. Los cuatro ocurren dentro del Ahora que Dios sustenta. Sustentar el Ahora no es ser el autor de su contenido.
 
----
+<br>
 
 ## VII. La Cadena Contingente
 
@@ -143,7 +147,7 @@ Lo que es verdad de las estructuras económicas y sociales es verdad a un nivel 
 
 El propio Ahora es dependiente. No tiene profundidad autosustentante, ni reservas de las que extraiga su propia continuidad. Sigue la cadena de dependencias hasta su término y lo que se requiere es algo no contingente — un fundamento autosustentante que no requiere a su vez un fundamento. Jesús dice en Mateo 6:24: *nadie puede servir a dos señores*. Esto no es solo una advertencia moral. Apunta hacia lo que requiere la estructura de la dependencia. Nada contingente puede realizar la función de un fundamento último. Mammon — toda la red suspendida de dependencias mutuas — no fue construido para sostener lo que colocamos en él. Nunca fue capaz de ser lo que necesitábamos que fuera.
 
----
+<br>
 
 ## VIII. La Objeción que Se Refuta a Sí Misma
 
@@ -157,7 +161,7 @@ Esto no es un rechazo del dolor detrás de la pregunta. Una persona de pie ante 
 
 > Sin Dios, no hay nada en lo que intervenir. La pregunta asume lo que intenta refutar.
 
----
+<br>
 
 ## IX. ¿Dónde Está Dios?
 
@@ -173,9 +177,11 @@ El Libro de Job no termina con una explicación. Termina con una presencia. Dios
 
 El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está siendo sostenido abierto para seres libres que aún no se han vuelto hacia aquel que lo sostiene.
 
-> Dios está presente como el fundamento sustentante del Ahora en el que todo acto — bueno o malo — se vuelve real.
+<br>
 
----
+> *Dios está presente como el fundamento sustentante del Ahora en el que todo acto — bueno o malo — se vuelve real.*
+
+<br>
 
 ## Referencias
 

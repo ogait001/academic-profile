@@ -1,14 +1,14 @@
 ---
 layout: post
 description: "The mercy of time consists in suspending the immediate fixation of the will, allowing new responses to grace."
-title: "The Mercy of Time: Condemnatio in continenti and the Preservation of Moral Plasticity"
+title: "The Mercy of Time" 
+subtitle: "Condemnatio in continenti and the Preservation of Moral Plasticity"
 date: 2026-05-18
 
 categories:
   - catholic-theology
   - ontology
   - philosophy-of-time
-
 tags:
   - crossing-point
   - theological-anthropology
@@ -25,11 +25,9 @@ tags:
   - theological-metaphysics
 
 lang: en
-
 doi: "10.5281/zenodo.20277539"
 record_url: "https://zenodo.org/records/20277539"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277539"
-
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/05/18/la-misericordia-del-tiempo.html"
 excerpt: "Temporal existence preserves moral plasticity by suspending immediate ontological fixation, allowing the will to choose repeatedly across a life in the presence of grace."
 ---

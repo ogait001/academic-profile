@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una crítica filosófica de las arquitecturas modernas de distracción, donde tanto Dios como el yo son desplazados de la presencia vivida."
-title: "Desplazando a Dios: Sobre la comunidad, la multitud y el desplazamiento del Yo del Ahora"
+title: "Desplazando a Dios" 
+subtitle: "Sobre la Comunidad, la Multitud y el Desplazamiento del Yo del Ahora"
 date: 2026-05-09
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, das-man, community, eschatology, time-and-eternity]

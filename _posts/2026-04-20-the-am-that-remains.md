@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Against the Cogito: a defense of the I AM as the prior reality that makes thought, identity, and consciousness possible."
-title: "The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul"
+title: "The Am that Remains" 
+subtitle: "A Critique of Descartes and a Metaphysics of the Soul"
 date: 2026-04-20 00:00:00 -0500
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags:
@@ -32,6 +33,8 @@ pdf_url: "https://zenodo.org/records/19843068/files/the-am-that-remains.pdf"
 translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-permanece.html
 ---
 
+<br><br>
+
 ## Contents
 
 1. [The Error in the Therefore](#i-the-error-in-the-therefore)
@@ -43,6 +46,8 @@ translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-p
 7. [What the Series Has Built](#vii-what-the-series-has-built)
 8. [The Am That Remains](#viii-the-am-that-remains)
 9. [References](#references)
+
+<br>
 
 ---
 
@@ -184,7 +189,7 @@ I think because I am.
 
 And when the thinking ends, the am remains — and for the first time without interference, knows itself entire.
 
----
+<br>
 
 ## References
 

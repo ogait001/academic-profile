@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "An exploration of positional notation as a model of being, where identity endures across thresholds of becoming."
-title: "Zero and One, Dust and Ashes: Positional Notation as a Model of Being"
+description: "An exploration of how identity endures across thresholds of becoming."
+title: "Zero and One, Dust and Ashes" 
+subtitle: "Positional Notation as a Model of Being"
 date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]

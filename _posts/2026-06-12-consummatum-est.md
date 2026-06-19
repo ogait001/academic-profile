@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "How ordinary moments disclose an entire trajectory."
-title: "Consummatum Est: Temporal Density, Topological Relativity, and the Consummation of the Now"
+title: "Consummatum Est" 
+subtitle: "Temporal Density, Topological Relativity, and the Consummation of the Now"
 date: 2026-06-12
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [temporal-density, topological-relativity, now, crossing-point, lemniscate, residency, reference, consummatum-est, lots-wife, calderon, lope-de-vega, structural-inertia, gaitan-topology]

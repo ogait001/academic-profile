@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la felicidad y el anhelo humano, que sostiene que los bienes finitos no pueden colmar el deseo de plenitud perdurable."
-title: "Sobre la Felicidad: Su Duración, Su Nombre, y Lo Que Perdura"
+title: "Sobre la Felicidad" 
+subtitle: "Su Duración, Su Nombre, y Lo Que Perdura"
 date: 2026-05-12
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [happiness, augustine, endurance, identity, metaphysics, phenomenology]
@@ -13,8 +14,10 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/05/12/on-ha
 excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y teológica sobre la felicidad, que sostiene que el anhelo humano busca una plenitud perdurable más que una satisfacción fugaz, y que los bienes finitos no pueden colmar el deseo de permanencia."
 ---
 
+<br>
 *Non sumus Deus tuus; quaere super nos.*
 — Agustín de Hipona, *Confesiones*
+<br>
 
 ---
 
@@ -47,7 +50,7 @@ Los compromisos escriturales — con Qohélet y las Bienaventuranzas específica
 
 Las identificaciones teológicas, en particular el marco de la *beatitudo* tomado de Aquino, se usan en su sentido establecido dentro de la teología católica.
 
-Una nota terminológica: el *yo*, tal como se usa a lo largo del ensayo, se refiere al alma y la voluntad en la tradición filosófica católica. Un tratamiento ontológico completo — incluida la cuestión de si esto constituye una afirmación de substancia, una afirmación de proceso, o algo que resiste ambas categorías — se desarrolla en *The Am That Remains* (Gaitan, 2026) y se asume aquí sin reiterar el argumento.
+Una nota terminológica: el *yo*, tal como se usa a lo largo del ensayo, se refiere al alma y la voluntad en la tradición filosófica católica. Un tratamiento ontológico completo — incluida la cuestión de si esto constituye una afirmación de substancia, una afirmación de proceso, o algo que resiste ambas categorías — se desarrolla en [*El Soy que Permanece: Una Crítica a Descartes y una Metafísica del Alma*](https://oscargaitan.org/ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-permanece.html) (Gaitan, 2026) y se asume aquí sin reiterar el argumento.
 
 ---
 
@@ -212,6 +215,5 @@ El don ya es tan grande como necesita ser. Tiene exactamente el tamaño del Ahor
 - Husserl, Edmund. *Sobre la Fenomenología de la Conciencia Interna del Tiempo.* Trans. J. B. Brough. Kluwer, 1991.
 - Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
 - Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
-
 
 

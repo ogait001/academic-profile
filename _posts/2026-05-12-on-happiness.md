@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on happiness and human longing, arguing that finite goods cannot satisfy the desire for enduring fullness."
-title: "On Happiness: Its Duration, Its Name, and What Endures"
+title: "On Happiness" 
+subtitle: "Its Duration, its Name, and what Endures"
 date: 2026-05-12 00:00:00 -0500
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags:
@@ -29,10 +30,11 @@ pdf_url: "https://zenodo.org/records/20146275/files/on-happiness.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre-la-felicidad.html
 ---
 
+<br><br>
 *Non sumus Deus tuus; quaere super nos.*
 — Augustine, *Confessions*
+<br><br><br>
 
----
 
 ## Table of Contents
 
@@ -64,7 +66,7 @@ Scriptural engagements — with Qohelet and the Beatitudes specifically — are 
 
 Theological identifications, particularly the framework of *beatitudo* drawn from Aquinas, are used in their established sense within Catholic theology.
 
-One terminological note: the self, as used throughout, refers to the soul and will in the Catholic philosophical tradition. A full ontological account is developed in *The Am That Remains* (Gaitan, 2026) and assumed here without re-argument.
+One terminological note: the self, as used throughout, refers to the soul and will in the Catholic philosophical tradition. A full ontological account is developed in [*The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul*](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html) (Gaitan, 2026) and assumed here without re-argument.
 
 ---
 
@@ -109,7 +111,7 @@ Suffering operates differently in structure. It is almost always the record of a
 
 A clarification the argument requires: this is a structural description, not a moral diagnosis of the grieving person. The widow who cannot release the memory of her husband overnight is not failing at presence. She is inhabited by a love whose coordinate has been removed — and that love is real, its weight is real, and the loop's inability to close is the natural consequence of genuine attachment, not a dysfunction to be corrected. The distinction between residency and reference is offered as an account of why suffering feels longer, not as an instruction to grieve differently or more efficiently.
 
-Papini, in *Giudizio Universale*, gives Heloise a formulation that models this precisely: the happy years passed like days, the sad days like years. Not because more occurred in the sad days. Because the sad days did not pass. The self was returning, again and again, to the same vacancy rather than moving through crossing points toward new actuality.
+Giovanni Papini, in *Giudizio Universale*, gives Heloise a formulation that models this precisely: the happy years passed like days, the sad days like years. Not because more occurred in the sad days. Because the sad days did not pass. The self was returning, again and again, to the same vacancy rather than moving through crossing points toward new actuality.
 
 The asymmetry does not violate the model. Both happiness and suffering occur within moments of the same ontological structure. What differs is not the duration of the moments but the mode of the self's relation to memory: one event completes and becomes a coordinate; the other remains open and becomes a residence. Duration is not experienced because the moment is longer. It is experienced because the self does not leave it.
 

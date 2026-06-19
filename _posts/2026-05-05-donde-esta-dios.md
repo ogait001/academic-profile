@@ -44,6 +44,7 @@ Este ensayo examina la pregunta *¿Dónde está Dios?* no como un desafío retó
 
 ---
 
+<br>
 
 ## I. El Supuesto dentro de la Pregunta
 

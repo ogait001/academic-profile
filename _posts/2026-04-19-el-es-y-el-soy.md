@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una exploración de la presencia, la identidad y el fundamento del ser."
-title: "El Es y el SOY" subtitle: "Presencia, Identidad y el Fundamento que sostiene"
+title: "El Es y el SOY" 
+subtitle: "Presencia, Identidad y el Fundamento que sostiene"
 date: 2026-04-19
 categories: [ontology, philosophy-of-time, catholic-theology]
 redirect_from:

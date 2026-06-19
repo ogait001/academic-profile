@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la autonomía y la vida interior, que sostiene que la dependencia algorítmica externaliza facultades antes habitadas por la persona."
-title: "Acaso no estamos entretenidos? Sobre el bastón algorítmico y la externalización de la vida interior"
+title: "Acaso No Estamos Entretenidos" 
+subtitle: "Sobre el Bastón Algorítmico y la Externalización de la Vida Interior"
 date: 2026-06-08
 categories: [philosophy-of-time, ontology]
 tags: [economia-de-la-atencion, baston-algoritmico, non-te-egeo, dickinson, coliseo, interioridad, dispositivo, feed, ahora, gaitan-topology]

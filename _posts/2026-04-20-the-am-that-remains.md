@@ -37,7 +37,7 @@ translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-p
 
 ## Contents
 
-1. [The Error in the Therefore](#i-the-error-in-the-therefore)
+1. [The Error in the "therefore"](#i-the-error-in-the-"therefore")
 2. [The Chain of Interference](#ii-the-chain-of-interference)
 3. [What the Soul Already Is](#iii-what-the-soul-already-is)
 4. [Partial Silence, Permanent Silence](#iv-partial-silence-permanent-silence)
@@ -51,7 +51,7 @@ translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-p
 
 ---
 
-## I. The Error in the Therefore
+## I. The Error in the "therefore"
 
 Descartes said: *I think, therefore I am.* He was half right. The thinking was real. The therefore was the error.
 

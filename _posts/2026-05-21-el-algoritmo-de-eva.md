@@ -137,6 +137,6 @@ Jesús le pidió a Legión un nombre. El algoritmo solo pide actividad, no ident
 - Han, Byung-Chul. *En el enjambre.* Traduccion de Erik Butler. Cambridge, MA: MIT Press, 2017.
 - Heidegger, Martin. *Ser y tiempo.* Traduccion de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 - McLuhan, Marshall. *Comprender los medios de comunicacion: las extensiones del ser humano.* Cambridge, MA: MIT Press, 1994.
-- Gaitan, Oscar. *La Misericordia del Tiempo.* 2026.
-- Gaitan, Oscar. *El Lemniscata Alternativo.* 2026.
+
+
 

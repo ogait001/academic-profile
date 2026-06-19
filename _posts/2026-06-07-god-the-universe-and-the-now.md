@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on God, the universe, and the Now, arguing that explaining reality is not the same as grounding it."
-title: "God, the Universe, and the Now: Sovereign smallness over dependent greatness"
+title: "God, the Universe, and the Now" 
+subtitle: "Sovereign Smallness over Dependent Greatness"
 date: 2026-06-07
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [necessary-being, materialism, non-derivative, lemniscate, milton, satan, imago-dei, emergence, consciousness, harari, now, gaitan-topology]

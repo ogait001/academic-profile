@@ -17,3 +17,11 @@
 .hero-buttons a:hover {
   background-color: #f2f2f2;
 }
+
+.post-subtitle {
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: #333;
+  margin: -0.2rem 0 1rem;
+  line-height: 1.25;
+}

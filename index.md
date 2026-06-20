@@ -131,8 +131,8 @@ Nearly all essays are available in both  **English and Spanish**.
 ## Featured Essays - Ensayos Destacados
 <table>
 <tr>
-<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
-<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a></td>
+<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness: Its Duration, its Name, and what Endures</a></td>
+<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm: The Industrialization of the Original Temptation</a></td>
 </tr>
 <tr>
 <td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>

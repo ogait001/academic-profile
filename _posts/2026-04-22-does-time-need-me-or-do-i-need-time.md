@@ -40,7 +40,7 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 6. [The Lemniscate](#vi-the-lemniscate)
 7. [One Now](#vii-one-now)
 8. [The Question the Now Raises](#viii-the-question-the-now-raises)
-9. [I AM](#ix-i-am)
+9. [I AM WHO I AM](#ix-i-am-who-i-am)
 10. [Back to the Question](#x-back-to-the-question)
 11. [References](#references)
 12. [Note on Sources and Method](#note-on-sources-and-method)
@@ -163,7 +163,7 @@ So what sustains it? This is not a religious question masquerading as philosophy
 
 ---
 
-## IX. I AM
+## IX. I AM WHO I AM
 
 In the book of Exodus, when Moses asks God for His name, the answer is not a proper noun. It is a grammatical statement: *I AM WHO I AM*. Not I was. Not I will be. I AM WHO I AM— pure, unqualified, self-sustaining present tense. No past dependence, no future contingency. Just absolute being in the mode of the Now.
 

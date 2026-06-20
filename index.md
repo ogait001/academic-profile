@@ -131,35 +131,28 @@ Nearly all essays are available in both  **English and Spanish**.
 ## Featured Essays - Ensayos Destacados
 <table>
 <tr>
-<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness: Its Duration, its Name, and what Endures</a></td>
-<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm: The Industrialization of the Original Temptation</a></td>
+<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
+<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a></td>
 </tr>
 <tr>
-<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains:
-A Critique of Descartes and a Metaphysics of the Soul</a></td>
+<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains</a></td>
 <td><a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a></td>
 </tr>
 <tr>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God:
-On Community, Multitude, and the Displacement of the Self from the Now</a></td>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
 <td><a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
 </tr>
 <tr>
-<td><a href="/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html">The Mercy of Time:
-Condemnatio in continenti and the Preservation of Moral Plasticity</a></td>
+<td><a href="/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html">The Mercy of Time</a></td>
 <td><a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a></td>
 </tr>
 <tr>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum Est:
-Temporal Density, Topological Relativity, and the Consummation of the Now</a></td>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement:
-From, Anytime, Then</a></td>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum Est</a></td>
+<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a></td>
 </tr>  
 <tr>
-<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/28/the-corridor.html">The Corridor:
-On the Ground that does not withdraw</a></td>
-<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection:
-On Endurance, Identity, and the Engineering of an Uninhabited Now</a></td>
+<td><a href="/catholic-theology/ontology/2026/06/17/the-servant-of-servants.html">The Servant of servants</a></td>
+<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a></td>
 </tr>
 </table>
 

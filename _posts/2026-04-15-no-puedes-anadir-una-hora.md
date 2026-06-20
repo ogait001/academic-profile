@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "No puedes añadir una hora: la vida consiste en cruces finitos cuyos momentos difieren en significado y densidad ontológica."
-title: "No Puedes Añadir una Hora: Sobre la densidad temporal, la formación de la voluntad y la finitud del cruce"
+description: "La vida consiste en cruces finitos cuyos momentos difieren en significado y densidad ontológica."
+title: "No Puedes Añadir una Hora" 
+subtitle: "Sobre la Densidad Temporal, la Formación de la Voluntad y la Finitud del Cruce"
 date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [time, will, finitude, crossing-point, lemniscate, metaphysics]
@@ -13,6 +14,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/you-c
 excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la voluntad, que sostiene que la vida humana consiste en cruces finitos cuyos momentos difieren en densidad ontológica."
 ---
 
+<br><br>
 
 ## Indice
 
@@ -24,6 +26,8 @@ excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la vol
 - [VI. Lo que los cuatro argumentos muestran juntos](#vi-lo-que-los-cuatro-argumentos-muestran-juntos)
 - [VII. La línea que cierra la serie](#vii-la-línea-que-cierra-la-serie)
 - [Referencias](#referencias)
+
+<br>
 
 ---
 
@@ -40,6 +44,8 @@ Lo que no preguntamos es si el tiempo es uniforme. Si cada región del orden cre
 No lo es. Y comprender por qué cambiará cómo leemos todo lo que los ensayos anteriores establecieron.
 
 ---
+
+<br>
 
 ## II. Densidad Temporal
 
@@ -163,7 +169,7 @@ El tiempo no es algo a través de lo cual estás corriendo. Es lo que te está s
 
 Aquí. Ahora. Enteramente.
 
----
+<br>
 
 ## Referencias
 

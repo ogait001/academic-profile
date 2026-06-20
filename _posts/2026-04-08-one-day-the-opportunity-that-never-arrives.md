@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A meditation on deferred existence, where the promise of “one day” leaves the present perpetually uninhabited."
-title: "One Day" subtitle: "The Opportunity that Never Arrives"
+title: "One Day" 
+subtitle: "The Opportunity that Never Arrives"
 date: 2026-04-08
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, topology-of-presence, philosophy-of-religion, theological-anthropology, ghost-zone]

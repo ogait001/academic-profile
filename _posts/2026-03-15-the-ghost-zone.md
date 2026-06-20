@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "The Ghost Zone names a condition of existential displacement in which inner life mimics presence while remaining apart from reality."
-title: "The Ghost Zone: The Invisible Inner World Where We Live Before Life Begins"
+title: "The Ghost Zone" 
+subtitle: "The Invisible Inner World where We live before life begins"
 date: 2026-03-15 00:00:00 -0500
 categories: [ontology, philosophy-of-time]
 tags:
@@ -21,6 +22,8 @@ doi: "10.5281/zenodo.19100268"
 record_url: "https://zenodo.org/records/19100268"
 pdf_url: "https://zenodo.org/records/19420195/files/the-ghost-zone.pdf"
 ---
+
+<br>
 
 *Part I of The Ghost Zone Series*
 

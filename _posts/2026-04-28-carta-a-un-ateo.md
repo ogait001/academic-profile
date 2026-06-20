@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Una investigación metafísica que sostiene que la existencia contingente apunta más allá de sí misma hacia un fundamento necesario del ser."
+description: "Una carta filosófica sobre la duda, el sentido y la búsqueda de Dios."
 title: "Carta a un Ateo"
 date: 2026-04-28
 categories: [catholic-theology, ontology]
@@ -13,13 +13,15 @@ pdf_url: "https://zenodo.org/records/19871019/files/carta-a-un-ateo.pdf"
 translation_url: /ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.html
 ---
 
-**Resumen:** Este ensayo desarrolla un argumento metafísico conciso sobre la contingencia, la terminación explicativa, el ser necesario y el ocultamiento divino. Sostiene que una regresión infinita de realidades existencialmente dependientes no logra explicar la existencia, y que un fundamento necesario del ser ofrece un punto de llegada más coherente que un universo contingente bruto. Siguiendo la tradición del teísmo clásico, el ensayo examina además la simplicidad, la atemporalidad y los límites del método empírico.
-
-**Palabras clave:** Dios; contingencia; ser necesario; metafísica; simplicidad divina; ateísmo; filosofía de la religión; Tomás de Aquino
-
 <br>
 
 ---
+
+**Resumen:** Este ensayo desarrolla un argumento metafísico conciso sobre la contingencia, la terminación explicativa, el ser necesario y el ocultamiento divino. Sostiene que una regresión infinita de realidades existencialmente dependientes no logra explicar la existencia, y que un fundamento necesario del ser ofrece un punto de llegada más coherente que un universo contingente bruto. Siguiendo la tradición del teísmo clásico, el ensayo examina además la simplicidad, la atemporalidad y los límites del método empírico.
+
+---
+
+<br>
 
 Preguntar qué contaría como prueba ya plantea la cuestión de qué tipo de realidad tendría que ser Dios. Dios es concebido frecuentemente como inmaterial, fuera del espacio y no sujeto al tiempo. De ser así, los estándares de prueba apropiados para los objetos materiales y mensurables pueden ser insuficientes para el tema en consideración.
 
@@ -37,7 +39,7 @@ El argumento de este ensayo no procede localizando un objeto observable en la na
 
 *Y la pregunta que nunca desaparece no es solo una duda — es un llamado a la puerta.*
 
----
+<br>
 
 ## Referencias
 

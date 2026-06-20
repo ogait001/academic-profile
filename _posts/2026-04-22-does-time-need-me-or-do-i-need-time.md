@@ -1,7 +1,7 @@
 ---
 layout: post
-description: "A reflection on the Now as invariant presence, sustained by the ground of being named as I AM WHO I AM."
-title: "Does Time Need Me, or Do I Need Time?" 
+description: "What is time within the invariant Now, sustained by the ground of being named I AM WHO I AM."
+title: "Does Time need Me, or Do I Need Time?" 
 subtitle: "The Ontology of the Now, the Invariance of Presence, and the Ground of Being"
 date: 2026-04-10 00:00:00 -0500
 categories: [philosophy-of-time, ontology]

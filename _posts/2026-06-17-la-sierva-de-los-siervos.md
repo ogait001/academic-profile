@@ -2,7 +2,7 @@
 layout: post
 description: "Humildad, auto-humillación, orgullo y descentramiento del yo."
 title: "La Sierva de los siervos"
-subtitle: "Por que el auto-desprecio no es humildad"
+subtitle: "Por qué el auto-desprecio no es humildad"
 date: 2026-06-17
 categories: [catholic-theology, ontology]
 tags: [humildad, soberbia, autodesprecio, autorreferencia, gracia, Maria, Misterios-Gozosos, punto-de-cruce, fundamento-no-derivado, Topologia-Gaitan]

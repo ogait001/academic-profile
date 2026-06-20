@@ -135,7 +135,8 @@ Nearly all essays are available in both  **English and Spanish**.
 <td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm: The Industrialization of the Original Temptation</a></td>
 </tr>
 <tr>
-<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am That Remains</a></td>
+<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains:
+A Critique of Descartes and a Metaphysics of the Soul</a></td>
 <td><a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a></td>
 </tr>
 <tr>

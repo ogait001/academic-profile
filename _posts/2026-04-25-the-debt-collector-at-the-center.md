@@ -30,6 +30,8 @@ pdf_url: "https://zenodo.org/records/19702585/files/the-debt-collector-at-the-ce
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/25/el-recaudador-en-el-centro.html
 ---
 
+<br><br>
+
 ## Contents
 
 - [Prelude — The Stone and the Sentence](#prelude--the-stone-and-the-sentence)
@@ -43,6 +45,8 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/25/el-re
 - [VIII. The Argument](#viii-the-argument)
 - [IX. The Crossing Point](#ix-the-crossing-point)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -62,7 +66,9 @@ In that single sentence mercy and truth remain undivided. The woman is neither r
 
 This essay argues that any vision of reality governed only by return, repayment, and exact consequence cannot account for that moment. It can account for the stones. It cannot account for the voice.
 
+---
 
+<br>
 
 
 ## I. The Closed System
@@ -392,7 +398,7 @@ He is asking.
 
 And He is waiting — with a patience the system cannot calculate and the ledger cannot explain — for the will to turn.
 
-<br><br><br>
+<br><br>
 
 
 ## References

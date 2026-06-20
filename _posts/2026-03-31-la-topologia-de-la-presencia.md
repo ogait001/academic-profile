@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "La Topología de Gaitán: cuatro planos de existencia organizados alrededor del Ahora, la presencia, la gracia y el desplazamiento."
-title: "La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata"
+description: "La Topología Gaitan: cuatro planos de existencia organizados alrededor del Ahora, la presencia, la gracia y el desplazamiento."
+title: "La Topología de la Presencia" 
+subtitle: "Cuatro Planos de Existencia sobre la Lemniscata"
 date: 2026-03-31
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, topology, presence, eternity, ghost-zone, metaphysical-anthropology]
@@ -13,8 +14,9 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/30/the-t
 excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gaitán: un marco ontológico de cuatro cuadrantes organizado en torno al punto de cruce del Ahora, la presencia, la gracia y el desplazamiento existencial."
 ---
 
+<br>
 
----
+
 
 ## Tabla de contenido
 
@@ -41,6 +43,8 @@ excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gai
 - [XIII. Cuatro registros de convergencia](#xiii-cuatro-registros-de-convergencia)
 - [XIV. El diagrama](#xiv-el-diagrama)
 - [Bibliografía](#bibliografía)
+
+<br>
 
 ---
 
@@ -361,7 +365,7 @@ El camino de regreso no es la autoextracción. Nunca lo ha sido. En los Evangeli
 
 Tiempo presente. *Yo soy.* El único tiempo verbal en el que Dios habita, en el que la gracia opera, en el que la persona es real. El único momento completo en sí mismo—no esperando, no deviniendo, sino recogido, indiviso, vivo.
 
----
+<br>
 
 ## Bibliografía
 

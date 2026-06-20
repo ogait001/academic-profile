@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "A reflection on displacement and false centers, where devotion survives by reorganizing itself around an alternate axis."
-title: "The Alternate Lemniscate: On the Geometry of Displacement"
+description: "A meditation on displacement, identity, and the paths we inhabit."
+title: "The Alternate Lemniscate" 
+subtitle: "On the Geometry of Displacement"
 date: 2026-04-03 00:00:00 -0500
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags:
@@ -31,9 +32,11 @@ pdf_url: "https://zenodo.org/records/19410477/files/the-alternate-lemniscate.pdf
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/la-lemniscata-alterna.html
 ---
 
+<br><br>
+
 *Viernes Santo — Los Angeles, April 3, 2026*
 
----
+<br>
 
 ## Contents
 
@@ -48,6 +51,8 @@ translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/la-le
 5. [Legion of Legions](#iv-legion-of-legions)
 6. [The Master Key](#v-the-master-key)
 7. [Bibliography](#bibliography)
+
+<br>
 
 ---
 
@@ -161,7 +166,7 @@ And the present — the crossing point, the eternal I AM — remains exactly whe
 
 Waiting.
 
----
+<br>
 
 ## Bibliography
 

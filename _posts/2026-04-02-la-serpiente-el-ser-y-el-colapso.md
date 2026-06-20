@@ -13,9 +13,11 @@ excerpt: "Una meditación filosófica y topológica sobre la disolución de la i
 translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html
 ---
 
+<br>
+
 *Un ensayo topológico sobre Legión, la mímesis digital y la primera extracción*
 
-*En continuidad con* La Topología de la Presencia: Cuatro planos de existencia en la Lemniscata
+<br>
 
 ## Indice
 
@@ -29,9 +31,9 @@ translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and
 - [VIII. La Restauración del Centro](#viii-la-restauración-del-centro)
 - [Bibliografía](#bibliografía)
 
+<br>
+
 ---
-
-
 
 ## I. La Curva de la Serpiente
 
@@ -187,9 +189,7 @@ No proyectado hacia un futuro que nunca llega.
 
 *Yo soy — porque me fue dado.*
 
----
-
-
+<br>
 
 ## Bibliografía
 

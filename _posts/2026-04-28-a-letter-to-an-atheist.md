@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A metaphysical inquiry arguing that contingent existence points beyond itself toward a necessary ground of being."
+description: "A philosophical letter on doubt, meaning, and the search for God."
 title: "A Letter to an Atheist"
 date: 2026-04-28 00:00:00 -0500
 categories: [ontology, philosophy-of-time]
@@ -23,13 +23,13 @@ pdf_url: "https://zenodo.org/records/19870892/files/a-letter-to-an-atheist.pdf"
 translation_url: /catholic-theology/ontology/2026/04/28/carta-a-un-ateo.html
 ---
 
-**Abstract:** This essay develops a concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. It argues that an infinite regress of existentially dependent realities fails to explain existence and that a necessary ground of being provides a more coherent terminus than a brute contingent universe. Drawing from the classical theist tradition, the paper further examines simplicity, timelessness, and the limits of empirical method.
-
-**Keywords:** God; contingency; necessary being; metaphysics; divine simplicity; atheism; philosophy of religion; Thomas Aquinas
-
 <br>
 
+**Abstract:** This essay develops a concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. It argues that an infinite regress of existentially dependent realities fails to explain existence and that a necessary ground of being provides a more coherent terminus than a brute contingent universe. Drawing from the classical theist tradition, the paper further examines simplicity, timelessness, and the limits of empirical method.
+
 ---
+
+<br>
 
 To ask what would count as proof already raises the question of what kind of reality God would have to be. God is often conceived as immaterial, outside space, and not subject to time. If so, the standards of proof appropriate to material and measurable objects may be insufficient to the subject under consideration.
 
@@ -47,7 +47,7 @@ The argument of this essay does not proceed by locating an observable object wit
 
 And the question that never goes away is not only a doubt — it is a knock.
 
----
+<br>
 
 ## References
 

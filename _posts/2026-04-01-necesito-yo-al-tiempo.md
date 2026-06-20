@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Una reflexión sobre el Ahora como presencia invariante, sostenida por el fundamento del ser nombrado como YO SOY EL QUE SOY."
-title: "¿Necesito yo al tiempo, o necesita el tiempo de mí? La ontología del Ahora, la invarianza de la presencia y el fundamento del ser"
+description: "Qué es el tiempo dentro del Ahora invariante, sostenido por el fundamento del ser nombrado como YO SOY EL QUE SOY."
+title: "¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?" 
+subtitle: "La Ontología del Ahora, la Invarianza de la Presencia y el Fundamento del Ser"
 date: 2026-04-22
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [time, presence, ontology, invariance, lemniscate, metaphysics]
@@ -13,6 +14,8 @@ excerpt: "Una meditación filosófica y teológica sobre el tiempo y la presenci
 translation_url: 'https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html'
 ---
 
+<br><br>
+
 ## Indice
 
 - [I. El miedo](#i-el-miedo)
@@ -23,10 +26,12 @@ translation_url: 'https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10
 - [VI. La lemniscata](#vi-la-lemniscata)
 - [VII. Un solo Ahora](#vii-un-solo-ahora)
 - [VIII. La pregunta que plantea el Ahora](#viii-la-pregunta-que-plantea-el-ahora)
-- [IX. YO SOY](#ix-yo-soy)
+- [IX. YO SOY EL QUE SOY](#ix-yo-soy-el-que-soy)
 - [X. De vuelta a la pregunta](#x-de-vuelta-a-la-pregunta)
 - [Referencias](#referencias)
 - [Nota sobre fuentes y método](#nota-sobre-fuentes-y-método)
+
+<br>
 
 ---
 
@@ -176,7 +181,7 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 
 **YO SOY EL QUE SOY.**
 
----
+<br>
 
 ## Referencias
 
@@ -189,9 +194,5 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 - Albert Einstein. *La relatividad: La teoría especial y general.*
 - La Santa Biblia. Libro de Eclesiastés · Libro del Exodo · Evangelio de Juan
 
----
 
-## Nota sobre Fuentes y Método
-
-Oscar Gaitan desarrolla este marco como parte de una topología más amplia del tiempo en la que la experiencia temporal está estructurada lemniscatáticamente, con el momento presente como el punto de cruce invariante entre los bucles de memoria y anticipación. Este ensayo aborda las dimensiones ontológicas y teológicas de esa estructura. Las referencias filosóficas — Agustín, Aristóteles, Heidegger, Bergson, Aquino, Boecio, Einstein — no son fuentes del argumento sino testigos paralelos de aspectos del mismo. El argumento se sostiene o cae por su propia coherencia estructural, no por la autoridad de ellos.
 

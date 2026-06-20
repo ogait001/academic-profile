@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre la misericordia y la voluntad, donde la llamada divina precede al juicio y la penitencia abre el camino de regreso."
-title: "¿Dónde estás? Sobre la Misericordia, la Voluntad y el Punto de Cruce"
+title: "¿Dónde estás?" 
+subtitle: "Sobre la Misericordia, la Voluntad y el Punto de Cruce"
 date: 2026-04-12
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, philosophy-of-religion, theological-anthropology, self-and-identity, time-and-eternity, eschatology]
@@ -14,6 +15,8 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/12/where
 lang: es
 ---
 
+<br><br>
+
 > Nel mezzo del cammin di nostra vita  
 > mi ritrovai per una selva oscura,  
 > ché la diritta via era smarrita.  
@@ -21,7 +24,7 @@ lang: es
 
 *Escrito en el Segundo Domingo de Pascua — Domingo de la Divina Misericordia.*
 
----
+<br>
 
 ## Indice
 
@@ -39,6 +42,8 @@ lang: es
 - [XII. Adán, David y el eje](#xii-adán-david-y-el-eje)
 - [XIII. La conclusión](#xiii-la-conclusión)
 - [Referencias](#referencias)
+
+<br>
 
 ---
 
@@ -262,7 +267,7 @@ Este ensayo termina con la consecuencia de esa respuesta al nivel de la voluntad
 
 La pregunta es solo si estás mirando hacia ella.
 
----
+<br>
 
 ## Referencias
 

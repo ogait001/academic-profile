@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "Una reflexión sobre la esperanza y el deseo, que sostiene que la sed humana permanece viva porque su fuente no se agota."
-title: "Por Qué el Centro No Se Agota: Esperanza, Sed y la Fuente que No Se Agota"
+description: "Una reflexión sobre la esperanza, el deseo y la relatividad de la plenitud."
+title: "Por qué el Centro no se agota" 
+subtitle: "Esperanza, Sed y la Fuente que no se agota"
 date: 2026-04-08
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [hope, thirst, grace, crossing-point, source, lemniscate]
@@ -13,25 +14,26 @@ excerpt: "Una meditación sobre la esperanza, la sed y la topología del deseo, 
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/08/why-the-center-does-not-run-out.html
 ---
 
-
----
+<br><br>
 
 ## Contenido
 
-- [I. Por qué la esperanza es lo último que muere](#i-por-qué-la-esperanza-es-lo-último-que-muere)
-- [II. El agua que te hace sediento otra vez](#ii-el-agua-que-te-hace-sediento-otra-vez)
-- [III. La relatividad de la plenitud](#iii-la-relatividad-de-la-plenitud)
-- [IV. La tinaja que no se agota](#iv-la-tinaja-que-no-se-agota)
-- [V. Tres posiciones escriturales](#v-tres-posiciones-escriturales)
-- [VI. Por qué el centro no se agota](#vi-por-qué-el-centro-no-se-agota)
+- [I. Por qué la Esperanza es lo último que muere](#i-por-qué-la-esperanza-es-lo-último-que-muere)
+- [II. El Agua que te hace sediento otra vez](#ii-el-agua-que-te-hace-sediento-otra-vez)
+- [III. La Relatividad de la Plenitud](#iii-la-relatividad-de-la-plenitud)
+- [IV. La Tinaja que no se agota](#iv-la-tinaja-que-no-se-agota)
+- [V. Tres Posiciones Escriturales](#v-tres-posiciones-escriturales)
+- [VI. Por qué el Centro no se agota](#vi-por-qué-el-centro-no-se-agota)
 - [Referencias](#referencias)
+
+<br>
 
 ---
 
-## I. Por Qué la Esperanza Es lo Ultimo que Muere
+## I. Por qué la Esperanza es lo último que muere
 
 > «Es un bucle que se sostiene por el hecho mismo de que nunca llega.»
-> — Oscar Gaitan, [*Un Día*](/academic-profile/2026/04/08/one-day/)
+>  Un Día: La Oportunidad que Nunca Llega
 
 Decimos «la esperanza es lo último que muere» como si fuera consuelo — como si la persistencia de la esperanza fuera prueba de que algo en nosotros permanece intacto, de que el alma retiene su capacidad para la vida incluso al borde de la disolución. Y esto es cierto. Pero la topología revela una segunda lectura, más oscura: la esperanza es lo último que muere porque el bucle la necesita para sobrevivir.
 
@@ -43,11 +45,9 @@ Un sueño, una esperanza, o — lo peor de todo — un recuerdo mantiene el bucl
 
 La esperanza muere con la persona porque nunca fue separable del desplazamiento de la persona. Era la voz del desplazamiento, hablando en tiempo futuro, diciendo «un día» en todos los idiomas que el alma conoce.
 
-✶ ✶ ✶
-
 ---
 
-## II. El Agua que Te Hace Sediento Otra Vez
+## II. El Agua que te hace sediento otra vez
 
 > «Todo el que beba de esta agua, volverá a tener sed, pero el que beba del agua que yo le daré, no tendrá sed jamás. El agua que yo le daré se convertirá dentro de él en un manantial de agua que brota para vida eterna.»
 > — Juan 4:13–14
@@ -65,8 +65,6 @@ La respuesta de Cristo a la samaritana no es «Te daré cosas mejores.» No es �
 Un don recibido en presencia no genera sed. Genera manantial — una fuente que brota desde dentro en lugar de ser perseguida desde fuera. La persona en el centro no necesita el siguiente trago porque el primer trago fue real. Fue recibido en el punto de cruce, en el Ahora, en la presencia del «Yo soy.» Y un don recibido en el «Yo soy» no se agota. Se repone. No porque la cantidad sea infinita, sino porque la fuente es Dios.
 
 Cinco maridos. Cinco órbitas. Cinco tragos. Y aún sedienta. Porque estaba bebiendo fuera del centro. Cristo la encuentra en el pozo — en el punto de cruce — y le ofrece no un sexto marido sino el agua que termina la secuencia.
-
-✶ ✶ ✶
 
 ---
 
@@ -90,11 +88,9 @@ Penélope y Ester esperan lo mismo. El contenido de la esperanza es idéntico: e
 
 La misma noche — cena, cansancio, una cerveza — es o la forma más ordinaria de presencia o la forma más invisible de gracia, dependiendo de si la persona está ahí. La misma carrera, recibida en el punto de cruce, produce plenitud; recibida en la curva de la serpiente, produce vacío. La topología no evalúa el contenido de la vida. Evalúa la posición desde la cual la vida es vivida. Es por esto que Cristo no le promete a la samaritana una vida mejor. Le promete una posición diferente. No mejor agua — agua viva. No un mejor marido — el fin de la secuencia. No una mejor curva — el punto de cruce mismo. El don no es contenido mejorado. El don es posición restaurada.
 
-✶ ✶ ✶
-
 ---
 
-## IV. La Tinaja que No Se Agota
+## IV. La Tinaja que no se agota
 
 > «Porque así dice el Señor, Dios de Israel: 'La tinaja de harina no se agotará, ni se vaciará la vasija de aceite, hasta el día en que el Señor envíe lluvia sobre la tierra.'»
 > — 1 Reyes 17:14
@@ -113,8 +109,6 @@ La escasez es real — un puñado de harina, un poco de aceite — pero porque e
 
 La tinaja se agota en la curva de la serpiente porque cada trago genera una nueva sed. La tinaja nunca se agota en el punto de cruce porque cada don es recibido como completo. La diferencia no está en la tinaja. La diferencia está en la posición.
 
-✶ ✶ ✶
-
 ---
 
 ## V. Tres Posiciones Escriturales
@@ -127,11 +121,9 @@ La topología produce tres posiciones distintas, cada una con su propia figura e
 
 **El punto de cruce por don: Cristo en el pozo.** No ofrece una curva mejor. No ofrece un sexto marido. Ofrece el fin de la sed misma — agua que se convierte en un manantial que brota desde dentro. No una fuente que perseguir sino una fuente que recibir. El «Yo soy» encontrando a la persona en el punto de cruce, donde el don no se agota porque el dador es el Presente Eterno. «El que beba del agua que yo le daré, no tendrá sed jamás.»
 
-✶ ✶ ✶
-
 ---
 
-## VI. Por Qué el Centro No Se Agota
+## VI. Por qué el Centro no se agota
 
 > «Yo soy el que soy.»
 > — Éxodo 3:14
@@ -156,7 +148,7 @@ Porque el centro no es nuestro. Es dado. Y lo que es dado desde el «Yo soy» es
 
 *Yo soy — porque me fue dado.*
 
----
+<br>
 
 ## Referencias
 

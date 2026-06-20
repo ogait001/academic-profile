@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "You cannot add one hour: life unfolds through finite crossings whose moments differ in meaning and ontological density."
-title: "You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing"
+description: "Life unfolds through finite crossings whose moments differ in meaning and ontological density."
+title: "You Cannot Add One Hour" 
+subtitle: "On Temporal Density, the Formation of the Will, and the Finitude of the Crossing"
 date: 2026-04-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity]
@@ -13,7 +14,7 @@ pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-puedes-anadir-una-hora.html
 ---
 
----
+<br><br>
 
 ## Table of Contents
 
@@ -25,6 +26,8 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-pu
 - [VI. What the Four Insights Show Together](#vi-what-the-four-insights-show-together)
 - [VII. The Line That Closes the Series](#vii-the-line-that-closes-the-series)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -41,6 +44,8 @@ What we did not ask is whether time is uniform. Whether every region of the crea
 It is not. And understanding why will change how we read everything the previous essays established.
 
 ---
+
+<br>
 
 ## II. Temporal Density
 
@@ -164,7 +169,7 @@ Time is not what you are running through. It is what you are being given — at 
 
 Here. Now. Entirely.
 
----
+<br>
 
 ## References
 

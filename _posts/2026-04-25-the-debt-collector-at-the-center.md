@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on karma and grace, where reality is sustained not by balanced accounts but by a personal presence."
-title: "The Debt Collector at the Center: Karma, Grace, and the Crossing Point"
+title: "Karma, Grace, and the Crossing Point"
+subtitle: "The Debt Collector at the Center"
 date: 2026-04-25 00:00:00 -0500
 categories: [ontology, catholic-theology, philosophy-of-time]
 tags:

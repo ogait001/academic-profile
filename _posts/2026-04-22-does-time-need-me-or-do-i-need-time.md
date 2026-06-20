@@ -1,7 +1,8 @@
 ---
 layout: post
-description: "A reflection on the Now as invariant presence, sustained by the ground of being named as I AM."
-title: "Does Time Need Me, or Do I Need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being"
+description: "A reflection on the Now as invariant presence, sustained by the ground of being named as I AM WHO I AM."
+title: "Does Time Need Me, or Do I Need Time?" 
+subitle: "The Ontology of the Now, the Invariance of Presence, and the Ground of Being"
 date: 2026-04-10 00:00:00 -0500
 categories: [philosophy-of-time, ontology]
 tags:
@@ -27,6 +28,8 @@ pdf_url: "https://zenodo.org/records/19502525/files/does-time-need-me-or-do-i-ne
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html
 ---
 
+<br><br>
+
 ## Contents
 
 1. [The Fear](#i-the-fear)
@@ -41,6 +44,8 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 10. [Back to the Question](#x-back-to-the-question)
 11. [References](#references)
 12. [Note on Sources and Method](#note-on-sources-and-method)
+
+<br>
 
 ---
 
@@ -190,7 +195,7 @@ And yet neither of us — neither the creature nor the time within which the cre
 
 **I AM WHO I AM.**
 
----
+<br>
 
 ## References
 
@@ -203,9 +208,5 @@ And yet neither of us — neither the creature nor the time within which the cre
 - Einstein, Albert. *Relativity: The Special and the General Theory.*
 - The Holy Bible: Ecclesiastes; Exodus; Gospel of John.
 
----
 
-## Note on Sources and Method
-
-Oscar Gaitan develops this framework as part of a broader topology of time in which temporal experience is structured lemniscatically, with the present moment as the invariant crossing point between the loops of memory and anticipation. This essay addresses the ontological and theological dimensions of that structure. The philosophical references — Augustine, Aristotle, Heidegger, Bergson, Aquinas, Boethius, Einstein — are not sources for the argument but parallel witnesses to aspects of it. The argument stands or falls on its own structural coherence, not on their authority.
 

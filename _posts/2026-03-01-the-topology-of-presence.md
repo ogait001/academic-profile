@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Introducing the Gaitan Topology: four planes of existence organized around the crossing point of the Now, presence, grace, and displacement."
-title: "The Topology of Presence: Four Planes of Existence on the Lemniscate"
+title: "The Topology of Presence" 
+subtitle: "Four Planes of Existence on the Lemniscate"
 date: 2026-03-30
 categories:
   - ontology
@@ -29,6 +30,8 @@ record_url: "https://zenodo.org/records/19339347"
 pdf_url: "https://zenodo.org/records/19339347/files/the-topology-of-presence.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/31/la-topologia-de-la-presencia.html
 ---
+
+<br>
 
 ## Table of Contents
 
@@ -340,7 +343,7 @@ The way back is not self-extraction. It never has been. In the Gospels, the disp
 
 Present tense. *I am.* The only tense in which God dwells, in which grace operates, in which the person is real. The only moment that is complete in itself — not waiting, not becoming, but gathered, undivided, alive.
 
------
+<br>
 
 ## References
 

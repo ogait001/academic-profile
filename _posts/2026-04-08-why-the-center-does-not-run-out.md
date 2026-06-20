@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "A reflection on hope and desire, and the relativity of fulfillment."
-title: "Why the Center Does Not Run Out: Hope, Thirst, and the Source That Does Not Deplete"
+title: "Why the Center does not run out" subtitle: "Hope, Thirst, and the Source that does not deplete"
 date: 2026-04-08
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, theological-anthropology, philosophy-of-religion, self-and-identity, time-and-eternity]
@@ -32,8 +32,8 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/08/porqu
 ## I. Why Hope is the last thing that dies
 
 > *"It is a loop that sustains itself by the very fact that it never arrives."*
->                                 *One Day: The Opportunity That Never Arrives*
-> 
+>   
+> One Day: The Opportunity That Never Arrives
 
 We say "hope is the last thing that dies" as if it were consolation — as if the persistence of hope were proof that something in us remains unbroken, that the soul retains its capacity for life even at the edge of dissolution. And this is true. But the topology reveals a second, darker reading: hope is the last thing that dies because the loop needs it to survive.
 

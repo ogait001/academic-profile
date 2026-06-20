@@ -13,11 +13,11 @@ pdf_url: "https://zenodo.org/records/19376518/files/the-serpent-the-self-and-the
 translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/01/la-serpiente-el-ser-y-el-colapso.html
 ---
 
-*A Topological Essay on Legion, Digital Mimicry, and the First Extraction*
+<br>
 
-*In continuity with* The Topology of Presence: Four Planes of Existence on the Lemniscate
+*A topological essay on Legion, digital mimicry, and the first extraction*
 
----
+<br>
 
 ## Table of Contents
 
@@ -30,6 +30,8 @@ translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/01/la-se
 - [VII. The Other as a Vector of Displacement](#vii-the-other-as-a-vector-of-displacement)
 - [VIII. The Restoration of the Center](#viii-the-restoration-of-the-center)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -183,9 +185,7 @@ Not projected into a future that never arrives.
 
 > *I am — because I was given.*
 
----
-
-
+<br>
 
 ## References
 

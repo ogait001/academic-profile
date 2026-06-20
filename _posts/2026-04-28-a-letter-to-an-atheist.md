@@ -25,6 +25,8 @@ translation_url: /catholic-theology/ontology/2026/04/28/carta-a-un-ateo.html
 
 <br>
 
+---
+
 **Abstract:** This essay develops a concise metaphysical argument concerning contingency, explanatory termination, necessary being, and divine hiddenness. It argues that an infinite regress of existentially dependent realities fails to explain existence and that a necessary ground of being provides a more coherent terminus than a brute contingent universe. Drawing from the classical theist tradition, the paper further examines simplicity, timelessness, and the limits of empirical method.
 
 ---

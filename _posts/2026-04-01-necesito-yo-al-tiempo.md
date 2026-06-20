@@ -149,7 +149,7 @@ Y si el Ahora cesara — incluso por un instante — no habría ningún instante
 
 ---
 
-## IX. YO SOY
+## IX. YO SOY EL QUE SOY
 
 En el libro del Éxodo, cuando Moisés le pregunta a Dios su nombre, la respuesta no es un nombre propio. Es una declaración gramatical: YO SOY EL QUE SOY. No *yo era*. No *yo seré*. YO SOY EL QUE SOY — presente puro, incondicionado, autosustentable. Sin dependencia del pasado, sin contingencia del futuro. Ser absoluto en el modo del Ahora.
 

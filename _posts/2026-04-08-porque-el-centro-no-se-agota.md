@@ -33,6 +33,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/08/why-t
 ## I. Por qué la Esperanza es lo último que muere
 
 > «Es un bucle que se sostiene por el hecho mismo de que nunca llega.»
+>
 >  Un Día: La Oportunidad que Nunca Llega
 
 Decimos «la esperanza es lo último que muere» como si fuera consuelo — como si la persistencia de la esperanza fuera prueba de que algo en nosotros permanece intacto, de que el alma retiene su capacidad para la vida incluso al borde de la disolución. Y esto es cierto. Pero la topología revela una segunda lectura, más oscura: la esperanza es lo último que muere porque el bucle la necesita para sobrevivir.

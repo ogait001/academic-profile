@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A reflection on hope and desire, arguing that human thirst remains alive because its source does not run dry."
+description: "A reflection on hope and desire, and the relativity of fulfillment."
 title: "Why the Center Does Not Run Out: Hope, Thirst, and the Source That Does Not Deplete"
 date: 2026-04-08
 categories: [philosophy-of-time, catholic-theology, ontology]
@@ -13,26 +13,27 @@ pdf_url: "https://zenodo.org/records/19476348/files/why-the-center-does-not-run-
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/08/porque-el-centro-no-se-agota.html
 ---
 
-
----
+<br><br>
 
 ## Table of Contents
 
-- [I. Why Hope Is the Last Thing That Dies](#i-why-hope-is-the-last-thing-that-dies)
-- [II. The Water That Makes You Thirsty Again](#ii-the-water-that-makes-you-thirsty-again)
+- [I. Why Hope is the last thing that dies](#i-why-hope-is-the-last-thing-that-dies)
+- [II. The Water that makes you thirsty again](#ii-the-water-that-makes-you-thirsty-again)
 - [III. The Relativity of Fulfillment](#iii-the-relativity-of-fulfillment)
-- [IV. The Jar That Does Not Run Dry](#iv-the-jar-that-does-not-run-dry)
+- [IV. The Jar that does not run dry](#iv-the-jar-that-does-not-run-dry)
 - [V. Three Scriptural Positions](#v-three-scriptural-positions)
-- [VI. Why the Center Does Not Run Out](#vi-why-the-center-does-not-run-out)
+- [VI. Why the Center does not run out](#vi-why-the-center-does-not-run-out)
 - [References](#references)
+
+<br>
 
 ---
 
-## I. Why Hope Is the Last Thing That Dies
+## I. Why Hope is the last thing that dies
 
 > *"It is a loop that sustains itself by the very fact that it never arrives."*
->
-> — Oscar Gaitan, *One Day*
+>                                 *One Day: The Opportunity That Never Arrives*
+> 
 
 We say "hope is the last thing that dies" as if it were consolation — as if the persistence of hope were proof that something in us remains unbroken, that the soul retains its capacity for life even at the edge of dissolution. And this is true. But the topology reveals a second, darker reading: hope is the last thing that dies because the loop needs it to survive.
 
@@ -46,7 +47,7 @@ Hope dies with the person because it was never separate from the person's displa
 
 ---
 
-## II. The Water That Makes You Thirsty Again
+## II. The Water that makes you thirsty again
 
 > *"Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life."*
 >
@@ -86,7 +87,7 @@ The same evening — dinner, tiredness, a beer — is either the most ordinary f
 
 ---
 
-## IV. The Jar That Does Not Run Dry
+## IV. The Jar that does not run dry
 
 > *"For this is what the Lord, the God of Israel, says: 'The jar of flour will not be used up and the jug of oil will not run dry until the day the Lord sends rain on the land.'"*
 >
@@ -120,7 +121,7 @@ The topology produces three distinct positions, each with its own scriptural fig
 
 ---
 
-## VI. Why the Center Does Not Run Out
+## VI. Why the Center does not run out
 
 > *"I am Who I am."*
 >
@@ -146,7 +147,7 @@ Because the center is not ours. It is given. And what is given from the "I am" i
 
 **I am — because I am given.**
 
----
+<br>
 
 ## References
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "The lemniscate as a topology of time integrating memory, possibility, freedom, grace, and providential return."
-title: "The Lemniscate of Time: A Topology of Memory, Possibility, and Grace"
+title: "The Lemniscate of Time" 
+subtitle: "A Topology of Memory, Possibility, and Grace"
 date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, memory, grace, ghost-zone, harmonic-echo, providence, phenomenology, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, rosary, incarnation, self-and-identity]
@@ -13,9 +14,11 @@ pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html
 ---
 
+<br>
+
 > The fullness of existence is available now, in the finite space of this particular Thursday. Inexhaustible within the finite.
 
----
+<br>
 
 ## Table of Contents
 - [Preface: On Continuity and Descent into the Concrete](#preface-on-continuity-and-descent-into-the-concrete)
@@ -99,6 +102,8 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-le
   - [XI. What this chapter is for](#xi-what-this-chapter-is-for)
 - [Conclusion: The Hidden Rosary Structure of the Lemniscate](#conclusion-the-hidden-rosary-structure-of-the-lemniscate)
 - [Bibliography](#bibliography)
+
+<br>
 
 ---
 ## Preface: On Continuity and Descent into the Concrete
@@ -1360,7 +1365,7 @@ The lemniscate does not promise that nothing was lost. It promises that what was
 
 *The geometry was already being prayed.*
 
----
+<br>
 
 ## Bibliography
 

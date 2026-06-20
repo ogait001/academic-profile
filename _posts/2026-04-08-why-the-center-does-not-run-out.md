@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on hope and desire, and the relativity of fulfillment."
-title: "Why the Center does not run out" subtitle: "Hope, Thirst, and the Source that does not deplete"
+title: "Why the Center does not run out" 
+subtitle: "Hope, Thirst, and the Source that does not deplete"
 date: 2026-04-08
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, theological-anthropology, philosophy-of-religion, self-and-identity, time-and-eternity]

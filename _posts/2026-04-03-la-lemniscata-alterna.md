@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre el desplazamiento y los falsos centros, donde la devoción sobrevive reorganizándose alrededor de un eje alterno."
-title: "La Lemniscata Alterna: Sobre la Geometría del Desplazamiento"
+title: "La Lemniscata Alterna" 
+subtitle: "Sobre la Geometría del Desplazamiento"
 date: 2026-04-03
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, geometry, displacement, gaitan-topology, metaphysics]
@@ -12,6 +13,12 @@ pdf_url: "https://zenodo.org/records/19410726/files/la-lemniscata-alterna.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/the-alternate-lemniscate.html
 excerpt: "Una meditación filosófica sobre el desplazamiento y los falsos centros, que sostiene que la devoción sobrevive a la pérdida del centro verdadero reorganizándose alrededor de otro eje."
 ---
+
+<br><br>
+
+*Los Angeles, 3 de abril de 2026 — Viernes Santo*
+
+<br>
 
 ## Indice
 
@@ -27,6 +34,8 @@ excerpt: "Una meditación filosófica sobre el desplazamiento y los falsos centr
 - [IV. Legión de Legiones](#iv-legión-de-legiones)
 - [V. La Llave Maestra](#v-la-llave-maestra)
 - [Bibliografía](#bibliografía)
+
+<br>
 
 ---
 
@@ -138,11 +147,7 @@ Y el presente — el punto de cruce, el eterno YO SOY — permanece exactamente 
 
 Esperando.
 
----
-
-*Los Ángeles, 3 de abril de 2026 — Viernes Santo*
-
----
+<br>
 
 ## Bibliografía
 

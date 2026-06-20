@@ -22,7 +22,7 @@ lang: es
 > ché la diritta via era smarrita.  
 > — Dante Alighieri, *La Divina Commedia*, Inferno, I, 1–3.
 
-*Escrito en el Segundo Domingo de Pascua — Domingo de la Divina Misericordia.*
+*Segundo Domingo de Pascua — Domingo de la Divina Misericordia.*
 
 <br>
 

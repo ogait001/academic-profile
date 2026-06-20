@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "La lemniscata como una topología del tiempo que integra memoria, posibilidad, libertad, gracia y retorno providencial."
-title: "La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia"
+title: "La Lemniscata del Tiempo" 
+subtitle: "Una Topología de la Memoria, la Posibilidad y la Gracia"
 date: 2026-03-20
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags:
@@ -28,9 +29,14 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/the-l
 excerpt: "Una exploración filosófica y teológica del tiempo a través de la lemniscata como una topología de la memoria, la posibilidad, la libertad, la gracia y el retorno providencial."
 ---
 
+<br>
+
 > La plenitud de la existencia está disponible ahora, en el espacio finito de este Jueves en particular. Inagotable dentro de lo finito.
 
+<br>
+
 ---
+
 ## Indice
 
 - [Prefacio: Sobre la continuidad y el descenso hacia lo concreto](#prefacio-sobre-la-continuidad-y-el-descenso-hacia-lo-concreto)
@@ -114,6 +120,8 @@ excerpt: "Una exploración filosófica y teológica del tiempo a través de la l
   - [XI. Para qué existe este capítulo](#xi-para-qué-existe-este-capítulo)
 - [Conclusión: La estructura oculta del Rosario en la lemniscata](#conclusión-la-estructura-oculta-del-rosario-en-la-lemniscata)
 - [Bibliografía](#bibliografía)
+
+<br>
 
 ---
 
@@ -1357,9 +1365,9 @@ La lemniscata no promete que nada se perdió. Promete que lo que se perdió no e
 
 *La geometría ya se estaba rezando.*
 
-<br>
+<br><br>
 
----
+
 
 ## Bibliografía
 

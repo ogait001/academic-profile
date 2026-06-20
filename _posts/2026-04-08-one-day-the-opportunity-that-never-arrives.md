@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "A meditation on deferred existence, where the promise of “one day” leaves the present perpetually uninhabited."
-title: "One Day: The Opportunity That Never Arrives"
+title: "One Day" subtitle: "The Opportunity that Never Arrives"
 date: 2026-04-08
 categories: [philosophy-of-time, ontology, catholic-theology]
 tags: [lemniscate, gaitan-topology, phenomenology, eschatology, time-and-eternity, self-and-identity, topology-of-presence, philosophy-of-religion, theological-anthropology, ghost-zone]
@@ -13,7 +13,7 @@ pdf_url: "https://zenodo.org/records/19475956/files/one-day-the-opportunity-that
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html
 ---
 
----
+<br><br>
 
 ## Table of Contents
 
@@ -28,6 +28,8 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-di
 - [IX. Two Characters, Two Geometries — Forrest and Jenny](#ix-two-characters-two-geometries--forrest-and-jenny)
 - [X. The Sorrow That Absolution Does Not Erase](#x-the-sorrow-that-absolution-does-not-erase)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -191,9 +193,7 @@ By walking. Present tense. Now. The only moment that is complete in itself—not
 
 **I am—because I am given.**
 
----
-
----
+<br>
 
 ### References
 

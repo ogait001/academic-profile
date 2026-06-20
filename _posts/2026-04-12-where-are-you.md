@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "A reflection on mercy and the will, where divine address precedes judgment and repentance opens the way home."
-title: "Where Are You? On Mercy, Will, and the Crossing Point"
+title: "Where Are You?" 
+subtitle: "On Mercy, Will, and the Crossing Point"
 date: 2026-04-12
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, eschatology]
@@ -13,6 +14,8 @@ pdf_url: "https://zenodo.org/records/19558910/files/where-are-you.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde-estas.html
 ---
 
+<br><br>
+
 > Nel mezzo del cammin di nostra vita  
 > mi ritrovai per una selva oscura,  
 > ché la diritta via era smarrita.  
@@ -20,7 +23,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde
 
 *Second Sunday of Easter — Divine Mercy Sunday*
 
----
+<br>
 
 ## Table of Contents
 
@@ -38,6 +41,8 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/04/12/donde
 - [XII. Adam, David, and the Axis](#xii-adam-david-and-the-axis)
 - [XIII. The Conclusion](#xiii-the-conclusion)
 - [References](#references)
+
+<br>
 
 ---
 
@@ -261,7 +266,7 @@ This essay ends with the consequence of that answer at the level of the will. If
 
 The question is only whether you are facing it.
 
----
+<br>
 
 ## References
 

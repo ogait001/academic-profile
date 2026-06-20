@@ -1,7 +1,8 @@
 ---
 layout: post
 description: "Una reflexión sobre el karma y la gracia, donde la realidad se sostiene no por el equilibrio de las cuentas, sino por una presencia personal."
-title: "El Recaudador en el Centro: Karma, Gracia y el Punto de Cruce"
+title: "Karma, Gracia y el Punto de Cruce"
+subtitle: "El Recaudador en el Centro"
 date: 2026-04-25
 categories: [catholic-theology, ontology, philosophy-of-time]
 tags: [karma, grace, crossing-point, lemniscate, metaphysical-anthropology]
@@ -13,7 +14,7 @@ translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/25/the-d
 excerpt: "Una reflexión sobre el karma y la gracia, que sostiene que la realidad no se fundamenta en la devolución exacta, sino en una presencia personal que mantiene las cuentas abiertas."
 ---
 
-
+<br><br>
 
 ## Indice
 
@@ -28,6 +29,8 @@ excerpt: "Una reflexión sobre el karma y la gracia, que sostiene que la realida
 - [VIII. El argumento](#viii-el-argumento)
 - [IX. El Punto de Cruce](#ix-el-punto-de-cruce)
 - [Referencias](#referencias)
+
+<br>
 
 ---
 
@@ -47,7 +50,9 @@ En esa única sentencia la misericordia y la verdad permanecen indivisas. La muj
 
 Este ensayo sostiene que cualquier visión de la realidad gobernada únicamente por el retorno, el pago y la consecuencia exacta no puede dar cuenta de ese momento. Puede dar cuenta de las piedras. No puede dar cuenta de la voz.
 
+---
 
+<br>
 
 ## I. El sistema cerrado
 
@@ -347,7 +352,7 @@ Está preguntando.
 
 Y está esperando — con una paciencia que el sistema no puede calcular y que el libro de cuentas no puede explicar — a que la voluntad se vuelva.
 
-<br><br><br>
+<br><br>
 
 ## Referencias
 

@@ -40,7 +40,7 @@ En un ensayo anterior lo nombré de pasada: el autodesprecio es solo soberbia in
 
 ## 2. Un solo eje, dos posiciones
 
-La soberbia dice: yo soy el centro. Toma al yo como el punto desde el cual todas las cosas se miden y se jerarquizan, y coloca a ese yo en lo alto. Esta es la curvatura nombrada a lo largo de la topología -- la orientación estructural del yo hacia sí mismo como su propio centro, el doblez de la línea que constituye la identidad. Todo pecado concreto es una dirección de este único alabeo.
+La soberbia dice: yo soy el centro. Toma al yo como el punto desde el cual todas las cosas se miden y se jerarquizan, y coloca a ese yo en lo alto. Esta es la curvatura nombrada a lo largo de la topología -- la orientación estructural del yo hacia sí mismo como su propio centro, el doblez de la línea que constituye la identidad. Todo pecado concreto es una dirección de esta única inclinación estructural.
 
 El autodesprecio dice: yo no soy nada. Parece ser lo contrario de la soberbia, y en el tono lo es. Pero examinemos desde dónde mide. Declararse el más bajo, el menor, el más indigno, sigue siendo tomar al yo como unidad de medida -- sigue haciendo del yo el punto de referencia de toda la evaluación, asignándole apenas el valor más bajo en lugar del más alto. La escala es la misma escala. El eje es el mismo eje. El yo sigue en el centro de la operación, sigue siendo lo que se pesa, sigue siendo el protagonista de su propia jerarquía. El autodesprecio es la curvatura orientada hacia abajo. Es soberbia que ha cambiado de signo sin cambiar de geometría.
 

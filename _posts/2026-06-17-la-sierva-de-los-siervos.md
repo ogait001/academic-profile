@@ -62,7 +62,7 @@ Visto así, el autodesprecio no es un fracaso de la humildad, sino una defensa c
 
 ## 4. La sierva de los siervos
 
-Si esta distinción fuera solo conceptual, seguiría siendo una definición, y la persona común tiene razón en preguntar qué aspecto tiene cuando un cuerpo atraviesa un día. La respuesta se da en una vida, y la vida más clara es la de María. Su antiguo título -- esclava del Señor, sierva -- se ha leído demasiadas veces como autoborradura, como si su grandeza fuera su disposición a ser pequeña. Esa lectura la convierte en la patrona del autodesprecio. Es sencillamente falsa.
+Si esta distinción fuera solo conceptual, seguiría siendo una definición, y la persona común tiene razón en preguntar qué aspecto tiene cuando un cuerpo atraviesa un día. La respuesta se da en una vida, y la vida más clara es la de María. Su antiguo título -- esclava del Señor, sierva -- se ha leído demasiadas veces como auto-anulación, como si su grandeza fuera su disposición a ser pequeña. Esa lectura la convierte en la patrona del autodesprecio. Es sencillamente falsa.
 
 A lo largo de los cinco Misterios Gozosos, María jamás dice yo no soy nada. Jamás representa su bajeza, jamás rechaza lo que se le da con el argumento de que no merece nada, jamás se hace a sí misma el tema interesante de su propia indignidad. En cada escena hace algo -- y ese algo es siempre el descentramiento, nunca el rebajamiento. Es la Sierva de los siervos no porque se encogiera, sino porque midió, acto tras acto, desde el centro que ella no era. Lo que sigue lee las cinco escenas como cinco demostraciones de la humildad en movimiento.
 

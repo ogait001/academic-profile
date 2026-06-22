@@ -6,7 +6,7 @@ subtitle: "El Orgullo, la Auto-humillacion y la Ultima Frase de una Vida"
 date: 2026-06-22
 author: Oscar Gaitan
 lang: es
-categories: [filosofia, teologia, etica, filosofia cristiana, antropologia filosofica, telogia moral, teologia catolica, filosofia de la religion, orgullo, soberbia, humildad, psicologia moral]
+categories: [filosofia, teologia, filosofia cristiana]
 excerpt: "El viento no planta el orgullo. Revela la semilla."
 doi: 10.5281/zenodo.20801435
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801435

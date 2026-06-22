@@ -2,6 +2,7 @@
 layout: default
 title: Essays
 permalink: /essays/
+description: Complete archive of philosophical essays by Oscar Gaitan exploring ontology, temporality, phenomenology, metaphysical anthropology, and philosophical theology.
 ---
 
 <style>

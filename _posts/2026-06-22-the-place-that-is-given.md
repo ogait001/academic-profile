@@ -6,7 +6,7 @@ subtitle: "Pride, Self-humiliation, and the Last Sentence of a Life"
 date: 2026-06-22
 author: Oscar Gaitan
 lang: en
-categories: [philosophy, theology, christian philosophy]
+categories: [philosophy, theology, ethics, christian philosophy, philosophical anthropological, catholic theology, pride, humility]
 excerpt: "The wind does not plant pride. It reveals the seed."
 doi: 10.5281/zenodo.20801344
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801344

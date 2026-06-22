@@ -1,8 +1,8 @@
 ---
 layout: post
 description: "Two sentences, one life: Fiat or My Way."
-title: "Pride, Self-humiliation, and the Last Sentence of a Life"
-subtitle: ""
+title: "The Place That Is Given "
+subtitle: "Pride, Self-humiliation, and the Last Sentence of a Life"
 date: 2026-06-22
 author: Oscar Gaitan
 lang: en

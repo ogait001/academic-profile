@@ -11,7 +11,7 @@ excerpt: "The wind does not plant pride. It reveals the seed."
 doi: 10.5281/zenodo.20801344
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801344
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801344
-translation_url: ""
+translation_url: "https://oscargaitan.org/filosofia/teologia/filosofia%20cristiana/2026/06/22/el-lugar-que-se-nos-da.html"
 ---
 
 <br><br>

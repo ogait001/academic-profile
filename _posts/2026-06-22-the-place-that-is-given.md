@@ -1,13 +1,13 @@
 ---
 layout: post
 description: "Two sentences, one life: Fiat or My Way."
-title: "The Place That Is Given"
-subtitle: "The wind does not plant pride. It reveals the seed."
+title: "Pride, Self-humiliation, and the Last Sentence of a Life"
+subtitle: ""
 date: 2026-06-22
 author: Oscar Gaitan
 lang: en
 categories: [philosophy, theology, ethics, christian philosophy, philosophical anthropological, catholic theology, pride, humility]
-excerpt: "Humility is not thinking less of yourself but ceasing to use yourself as the measure."
+excerpt: "The wind does not plant pride. It reveals the seed."
 doi: 10.5281/zenodo.20801344
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801344
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801344

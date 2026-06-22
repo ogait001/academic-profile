@@ -49,9 +49,9 @@ description: Complete archive of philosophical essays by Oscar Gaitan exploring 
 
 <div id="top"></div>
 
-# Essays
+# The Library
 
-A bilingual archive of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+A collection of essays exploring ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 <div id="continueReading"
      style="margin:1rem 0 1.5rem 0;

@@ -2,7 +2,7 @@
 layout: post
 description: "Two sentences, one life: Fiat or My Way."
 title: "The Place That Is Given"
-subtitle: "Pride, Self-Humiliation, and the Last Sentence of a Life"
+subtitle: "The wind does not plant pride. It reveals the seed."
 date: 2026-06-22
 author: Oscar Gaitan
 lang: en

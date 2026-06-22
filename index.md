@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Oscar Gaitan — Philosophy & Catholic Thought
+description: Essays and research developing the Gaitan Topology, the Ontological Now, the Ghost Zone, and related philosophical concepts.
 ---
 
 <style>

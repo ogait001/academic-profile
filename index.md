@@ -4,6 +4,18 @@ title: Oscar Gaitan — Philosophy & Catholic Thought
 description: Essays and research developing the Gaitan Topology, the Ontological Now, the Ghost Zone, and related philosophical concepts.
 ---
 
+<div class="pill-grid">
+  <a href="/research-framework/#now" class="pill">Now</a>
+  <a href="/research-framework/#non-derivative" class="pill">Non‑derivative</a>
+  <a href="/research-framework/#temporal-density" class="pill">Temporal Density</a>
+  <a href="/research-framework/#structural-inertia" class="pill">Structural Inertia</a>
+  <a href="/research-framework/#flat-sight" class="pill">Flat Sight</a>
+  <a href="/research-framework/#topological-relativity" class="pill">Topological Relativity</a>
+  <a href="/research-framework/#residency" class="pill">Residency</a>
+  <a href="/research-framework/#reference" class="pill">Reference</a>
+</div>
+
+
 <style>
 .recent-pubs {
   margin-top: 1.5rem;

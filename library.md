@@ -45,6 +45,29 @@ description: Collection of  philosophical essays by Oscar Gaitan exploring ontol
   border-radius: 6px;
   background: white;
 }
+.cover-grid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+gap:1.5rem;
+margin-top:2rem;
+}
+
+.cover-card{
+display:block;
+transition:transform .15s ease;
+}
+
+.cover-card:hover{
+transform:translateY(-4px);
+}
+
+.cover-card img{
+width:100%;
+height:auto;
+display:block;
+border-radius:8px;
+box-shadow:0 4px 12px rgba(0,0,0,.15);
+}
 </style>
 
 <div id="top"></div>
@@ -53,7 +76,7 @@ description: Collection of  philosophical essays by Oscar Gaitan exploring ontol
 
 # The Library
 
-A bilingual archive of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+A collection of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 <div id="continueReading"
      style="margin:1rem 0 1.5rem 0;
@@ -74,55 +97,28 @@ A bilingual archive of philosophical essays in ontology, philosophy of time, met
   </select>
 </div>
 
-<ul id="essayList" style="list-style: none; padding-left: 0;">
-{% for post in site.posts %}
-  {% if post.lang == "en" %}
-  <li
-  data-title="{{ post.title | downcase }}"
-  data-date="{{ post.date | date: '%Y%m%d' }}"
-  style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd;"
->
 
+<div id="essayList" class="cover-grid">
+
+{% assign english_posts = site.posts | where: "lang", "en" %}
+
+{% for post in english_posts %}
 
 <a href="{{ post.url | relative_url }}"
-   class="essay-link"
-   style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
-  {{ post.title }}
+   class="cover-card essay-link"
+   data-title="{{ post.title | downcase }}"
+   data-date="{{ post.date | date: '%Y%m%d' }}">
+
+  <img
+    src="{{ '/assets/covers/' | append: post.slug | append: '.png' | relative_url }}"
+    alt="{{ post.title }}"
+    loading="lazy">
+
 </a>
 
-<br>
-
-<small style="color: #666;">
-  {{ post.date | date: "%B %d, %Y" }}
-</small>
-
-{% if post.excerpt %}
-  <p style="margin-top: 0.75rem; line-height: 1.6; color: #444;">
-    {{ post.excerpt }}
-  </p>
-{% else %}
-  <p style="margin-top: 0.75rem; line-height: 1.6; color: #444;">
-    {{ post.content | strip_html | truncatewords: 40 }}
-  </p>
-{% endif %}
-
-{% if post.translation_url %}
-  <div class="lang-links">
-    {% if post.lang == "en" %}
-      <a href="{{ post.url | relative_url }}" class="lang-pill active">English</a>
-      <a href="{{ post.translation_url }}" class="lang-pill">Español</a>
-    {% elsif post.lang == "es" %}
-      <a href="{{ post.translation_url }}" class="lang-pill">English</a>
-      <a href="{{ post.url | relative_url }}" class="lang-pill active">Español</a>
-    {% endif %}
-  </div>
-{% endif %}
-
-
-  </li>
-  {% endif %}
 {% endfor %}
-</ul>
+
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

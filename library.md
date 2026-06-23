@@ -68,7 +68,7 @@ display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
 }
- @media (max-width: 640px) {
+@media (max-width: 640px) {
 
   /* Reduce card height for a Kindle-like feel */
   .cover-card {

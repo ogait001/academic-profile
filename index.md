@@ -205,6 +205,36 @@ h1 + p {
     font-size: 0.95rem;
   }
 }
+/* RESEARCH FRAMEWORK GRID */
+.framework-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem 1.2rem;
+  margin: 1.2rem 0 1.8rem 0;
+}
+
+.framework-grid div {
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #ffffff;
+  font-size: 0.95rem;
+  color: #1f2937;
+  line-height: 1.4;
+}
+
+/* MOBILE: single column */
+@media (max-width: 640px) {
+  .framework-grid {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  .framework-grid div {
+    font-size: 0.95rem;
+    padding: 0.5rem 0.7rem;
+  }
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought
@@ -224,6 +254,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
+<br>
 
 ## Featured Essays - Ensayos Destacados
 <div class="featured-grid">

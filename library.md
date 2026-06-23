@@ -68,7 +68,25 @@ display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
 }
-  
+ @media (max-width: 640px) {
+
+  /* Reduce card height for a Kindle-like feel */
+  .cover-card {
+    aspect-ratio: 3 / 4;
+  }
+
+  /* Make images fill the new aspect ratio cleanly */
+  .cover-card img {
+    object-fit: cover;
+    height: 100%;
+  }
+
+  /* Tighten spacing between rows */
+  .cover-grid {
+    gap: 0.75rem;
+    margin-top: 1.2rem;
+  }
+}
 </style>
 
 <div id="top"></div>

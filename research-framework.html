@@ -6,326 +6,327 @@ description: "The Gaitan Topology — an interactive reference of key terms and 
 ---
 
 <style>
+/* ——— STYLES UNCHANGED ——— */
 body,
 .site,
 .page-content {
   background: #ffffff;
 }
 
-.rf-wrap{
-  max-width:760px;
-  margin:0 auto;
-  padding:2.5rem 1.5rem 4rem;
+.rf-wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
 }
 
-.rf-header{
-  margin-bottom:2.5rem;
-  padding-bottom:1.5rem;
-  border-bottom:1px solid #d1d5db;
+.rf-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #d1d5db;
 }
 
-.rf-eyebrow{
-  font-size:16px;
-  letter-spacing:0.08em;
-  text-transform:uppercase;
-  color:#374151;
-  font-weight:700;
-  margin-bottom:10px;
+.rf-eyebrow {
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #374151;
+  font-weight: 700;
+  margin-bottom: 10px;
 }
 
-.rf-title{
-  font-size:28px;
-  font-weight:500;
-  color:#111827;
-  line-height:1.25;
-  margin-bottom:10px;
+.rf-title {
+  font-size: 28px;
+  font-weight: 500;
+  color: #111827;
+  line-height: 1.25;
+  margin-bottom: 10px;
 }
 
-.rf-sub{
-  font-size:15px;
-  color:#374151;
-  line-height:1.65;
+.rf-sub {
+  font-size: 15px;
+  color: #374151;
+  line-height: 1.65;
 }
 
-.rf-hint{
-  font-size:13px;
-  color:#374151;
-  font-weight:600;
-  margin-top:12px;
+.rf-hint {
+  font-size: 13px;
+  color: #374151;
+  font-weight: 600;
+  margin-top: 12px;
 }
 
-.section-label{
-  font-size:11px;
-  font-weight:700;
-  letter-spacing:0.1em;
-  text-transform:uppercase;
-  color:#374151;
-  margin-bottom:14px;
+.section-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #374151;
+  margin-bottom: 14px;
 }
 
-.tier{
-  margin-bottom:3rem;
+.tier {
+  margin-bottom: 3rem;
 }
 
-.legend{
-  display:flex;
-  flex-wrap:wrap;
-  gap:6px;
-  margin-bottom:16px;
-  align-items:center;
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+  align-items: center;
 }
 
-.legend-label{
-  font-size:11px;
-  color:#6b7280;
-  margin-right:2px;
+.legend-label {
+  font-size: 11px;
+  color: #6b7280;
+  margin-right: 2px;
 }
 
-.ltag{
-  font-size:10px;
-  padding:3px 10px;
-  border-radius:20px;
-  font-weight:600;
+.ltag {
+  font-size: 10px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 600;
 }
 
-.tag-o{
-  background:#ede9fe;
-  color:#5b21b6;
+.tag-o {
+  background: #ede9fe;
+  color: #5b21b6;
 }
 
-.tag-t{
-  background:#dcfce7;
-  color:#166534;
+.tag-t {
+  background: #dcfce7;
+  color: #166534;
 }
 
-.tag-s{
-  background:#f3f4f6;
-  color:#374151;
+.tag-s {
+  background: #f3f4f6;
+  color: #374151;
 }
 
-.tag-c{
-  background:#fee2e2;
-  color:#991b1b;
+.tag-c {
+  background: #fee2e2;
+  color: #991b1b;
 }
 
-.terms-grid{
-  display:grid;
-  grid-template-columns:repeat(4,1fr);
-  gap:10px;
+.terms-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
 }
 
-@media(max-width:640px){
-  .terms-grid{
-    grid-template-columns:repeat(2,1fr);
+@media(max-width:640px) {
+  .terms-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media(max-width:400px){
-  .terms-grid{
-    grid-template-columns:1fr;
+@media(max-width:400px) {
+  .terms-grid {
+    grid-template-columns: 1fr;
   }
 }
 
-.term-chip{
-  position:relative;
-  background:#ffffff;
-  border:1px solid #d1d5db;
-  border-radius:10px;
-  padding:12px 13px;
-  cursor:pointer;
-  transition:border-color 0.15s, background 0.15s, box-shadow 0.15s;
+.term-chip {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  padding: 12px 13px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
 }
 
-.term-chip:hover{
-  border-color:#9ca3af;
-  background:#fafafa;
-  box-shadow:0 2px 6px rgba(0,0,0,0.04);
+.term-chip:hover {
+  border-color: #9ca3af;
+  background: #fafafa;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 }
 
-.term-chip.open{
-  border-color:#6b7280;
-  background:#fafafa;
+.term-chip.open {
+  border-color: #6b7280;
+  background: #fafafa;
 }
 
-.chip-top{
-  display:flex;
-  align-items:flex-start;
-  gap:7px;
+.chip-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
 }
 
-.chip-num{
-  font-size:10px;
-  font-weight:700;
-  color:#9ca3af;
-  min-width:14px;
-  padding-top:1px;
+.chip-num {
+  font-size: 10px;
+  font-weight: 700;
+  color: #9ca3af;
+  min-width: 14px;
+  padding-top: 1px;
 }
 
-.chip-name{
-  font-size:12px;
-  font-weight:600;
-  color:#111827;
-  line-height:1.3;
+.chip-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #111827;
+  line-height: 1.3;
 }
 
-.chip-tag-wrap{
-  margin-top:8px;
+.chip-tag-wrap {
+  margin-top: 8px;
 }
 
-.ctag{
-  font-size:10px;
-  padding:3px 9px;
-  border-radius:20px;
-  font-weight:600;
-  display:inline-block;
+.ctag {
+  font-size: 10px;
+  padding: 3px 9px;
+  border-radius: 20px;
+  font-weight: 600;
+  display: inline-block;
 }
 
-.expand-body{
-  overflow:hidden;
-  max-height:0;
-  transition:max-height 0.3s ease;
+.expand-body {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease;
 }
 
-.expand-body.open{
-  max-height:500px;
+.expand-body.open {
+  max-height: 500px;
 }
 
-.expand-inner{
-  padding-top:10px;
-  border-top:1px solid #e5e7eb;
-  margin-top:10px;
+.expand-inner {
+  padding-top: 10px;
+  border-top: 1px solid #e5e7eb;
+  margin-top: 10px;
 }
 
-.expand-def{
-  font-size:12px;
-  color:#374151;
-  line-height:1.65;
-  margin-bottom:8px;
+.expand-def {
+  font-size: 12px;
+  color: #374151;
+  line-height: 1.65;
+  margin-bottom: 8px;
 }
 
-.expand-fn{
-  font-size:11px;
-  color:#6b7280;
-  line-height:1.5;
-  border-left:2px solid #d1d5db;
-  padding-left:8px;
+.expand-fn {
+  font-size: 11px;
+  color: #6b7280;
+  line-height: 1.5;
+  border-left: 2px solid #d1d5db;
+  padding-left: 8px;
 }
 
-.divider{
-  height:1px;
-  background:#d1d5db;
-  margin:2.5rem 0;
+.divider {
+  height: 1px;
+  background: #d1d5db;
+  margin: 2.5rem 0;
 }
 
-.props-list{
-  display:flex;
-  flex-direction:column;
-  gap:8px;
+.props-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
-.prop-item{
-  background:#ffffff;
-  border:1px solid #d1d5db;
-  border-radius:10px;
-  overflow:hidden;
-  cursor:pointer;
-  transition:border-color 0.15s, box-shadow 0.15s;
+.prop-item {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
 }
 
-.prop-item:hover{
-  border-color:#9ca3af;
-  box-shadow:0 2px 6px rgba(0,0,0,0.04);
+.prop-item:hover {
+  border-color: #9ca3af;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 }
 
-.prop-item.open{
-  border-color:#6b7280;
+.prop-item.open {
+  border-color: #6b7280;
 }
 
-.prop-header{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  padding:12px 16px;
+.prop-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
 }
 
-.prop-num{
-  font-size:10px;
-  font-weight:700;
-  color:#9ca3af;
-  min-width:24px;
+.prop-num {
+  font-size: 10px;
+  font-weight: 700;
+  color: #9ca3af;
+  min-width: 24px;
 }
 
-.prop-name{
-  font-size:13px;
-  font-weight:600;
-  color:#111827;
-  flex:1;
+.prop-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #111827;
+  flex: 1;
 }
 
-.prop-chevron{
-  font-size:13px;
-  color:#6b7280;
-  transition:transform 0.2s;
-  flex-shrink:0;
+.prop-chevron {
+  font-size: 13px;
+  color: #6b7280;
+  transition: transform 0.2s;
+  flex-shrink: 0;
 }
 
-.prop-item.open .prop-chevron{
-  transform:rotate(180deg);
+.prop-item.open .prop-chevron {
+  transform: rotate(180deg);
 }
 
-.prop-body{
-  max-height:0;
-  overflow:hidden;
-  transition:max-height 0.3s ease;
+.prop-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
 }
 
-.prop-body.open{
-  max-height:300px;
+.prop-body.open {
+  max-height: 300px;
 }
 
-.prop-inner{
-  padding:0 16px 14px;
-  border-top:1px solid #e5e7eb;
+.prop-inner {
+  padding: 0 16px 14px;
+  border-top: 1px solid #e5e7eb;
 }
 
-.prop-text{
-  font-size:13px;
-  color:#374151;
-  line-height:1.65;
-  padding-top:12px;
-  margin-bottom:12px;
+.prop-text {
+  font-size: 13px;
+  color: #374151;
+  line-height: 1.65;
+  padding-top: 12px;
+  margin-bottom: 12px;
 }
 
-.relies-label{
-  font-size:10px;
-  font-weight:700;
-  letter-spacing:0.07em;
-  text-transform:uppercase;
-  color:#6b7280;
-  margin-bottom:6px;
+.relies-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin-bottom: 6px;
 }
 
-.relies-tags{
-  display:flex;
-  flex-wrap:wrap;
-  gap:5px;
+.relies-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
 }
 
-.relies-tag{
-  font-size:11px;
-  padding:4px 10px;
-  border-radius:20px;
-  background:#f9fafb;
-  color:#4b5563;
-  border:1px solid #d1d5db;
+.relies-tag {
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: #f9fafb;
+  color: #4b5563;
+  border: 1px solid #d1d5db;
 }
 
-.rf-footer{
-  font-size:11px;
-  color:#9ca3af;
-  text-align:center;
-  padding-top:2rem;
-  letter-spacing:0.04em;
+.rf-footer {
+  font-size: 11px;
+  color: #9ca3af;
+  text-align: center;
+  padding-top: 2rem;
+  letter-spacing: 0.04em;
 }
 </style>
 
@@ -333,14 +334,16 @@ body,
 
   <div class="rf-header">
     <p class="rf-eyebrow">Gaitan Topology · Research Framework</p>
-    <h1 class="rf-title">Key terms &amp; structural propositions</h1>
+    <h1 class="rf-title">Key terms & structural propositions</h1>
     <p class="rf-sub">A systematic reference for the ontological and topological concepts developed across the essays. Key Terms form the foundational layer; propositions are structural claims built from them.</p>
     <p class="rf-sub"><strong>Note:</strong> Earlier essays use "temporal density" in a phenomenological sense (the felt depth or weight of a moment). In the developed framework, the term is defined ontologically as the referential scope of a zero‑thickness crossing. The two senses are related but not identical.</p>
     <p class="rf-hint">Hover a term to preview · click to expand</p>
   </div>
 
+  <!-- ——— KEY TERMS ——— -->
   <div class="tier">
     <div class="section-label">Key terms — foundational layer</div>
+
     <div class="legend">
       <span class="legend-label">Type:</span>
       <span class="ltag tag-o">Ontological</span>
@@ -348,113 +351,158 @@ body,
       <span class="ltag tag-s">Structural</span>
       <span class="ltag tag-c">Civilizational</span>
     </div>
+
     <div class="terms-grid">
 
+      <!-- Term 1 -->
       <div id="now" class="term-chip" onclick="toggleTerm(this)" title="The invariant point of actualization where every being becomes actual.">
-  <div class="chip-top"><span class="chip-num">1</span><span class="chip-name">Now (ontological)</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-o">Ontological</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">The invariant point of actualization where every being becomes actual. It does not flow, does not move, and belongs to no one — the metaphysical condition simultaneously sustaining every event in the cosmos.</p>
-      <p class="expand-fn">The crossing of the lemniscate: site of freedom, identity, and the reorientation of the will.</p>
-    </div>
-  </div>
-</div>
+        <div class="chip-top">
+          <span class="chip-num">1</span>
+          <span class="chip-name">Now (ontological)</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-o">Ontological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The invariant point of actualization where every being becomes actual. It does not flow, does not move, and belongs to no one — the metaphysical condition simultaneously sustaining every event in the cosmos.</p>
+            <p class="expand-fn">The crossing of the lemniscate: site of freedom, identity, and the reorientation of the will.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="non-derivative" class="term-chip" onclick="toggleTerm(this)" title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
-  <div class="chip-top"><span class="chip-num">2</span><span class="chip-name">Non-derivative</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-s">Structural</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">That whose being depends on nothing else in order to exist. It does not receive actualization — it gives it. The self-sustaining foundation of the Now: the I AM.</p>
-      <p class="expand-fn">The only reality that does not participate in becoming but sustains it.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 2 -->
+      <div id="non-derivative" class="term-chip" onclick="toggleTerm(this)" title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
+        <div class="chip-top">
+          <span class="chip-num">2</span>
+          <span class="chip-name">Non-derivative</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-s">Structural</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">That whose being depends on nothing else in order to exist. It does not receive actualization — it gives it. The self-sustaining foundation of the Now: the I AM.</p>
+            <p class="expand-fn">The only reality that does not participate in becoming but sustains it.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="temporal-density" class="term-chip" onclick="toggleTerm(this)" title="A moment's density depends on the breadth of the trajectory it renders visible.">
-  <div class="chip-top"><span class="chip-num">3</span><span class="chip-name">Temporal density</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-o">Ontological</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">Temporal density is the referential scope of a crossing: how much of a life's trajectory becomes visible as a completed form from a single zero‑thickness Now, without adding duration or thickness to the moment.</p>
-      <p class="expand-fn">Clarifies how crossings disclose structure without altering the metaphysics of the Now.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 3 -->
+      <div id="temporal-density" class="term-chip" onclick="toggleTerm(this)" title="A moment's density depends on the breadth of the trajectory it renders visible.">
+        <div class="chip-top">
+          <span class="chip-num">3</span>
+          <span class="chip-name">Temporal density</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-o">Ontological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">Temporal density is the referential scope of a crossing: how much of a life's trajectory becomes visible as a completed form from a single zero‑thickness Now, without adding duration or thickness to the moment.</p>
+            <p class="expand-fn">Clarifies how crossings disclose structure without altering the metaphysics of the Now.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="structural-inertia" class="term-chip" onclick="toggleTerm(this)" title="The ontological resistance to change arising from repeated acts in the Now.">
-  <div class="chip-top"><span class="chip-num">4</span><span class="chip-name">Structural inertia</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-s">Structural</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">The ontological resistance to change arising from the repetition of acts in the Now. Each decision leaves a trace that facilitates or hinders the next, generating a trajectory that may consolidate into orientation or deviation.</p>
-      <p class="expand-fn">Explains habit, fall, fixation, and the increasing difficulty of reorientation without grace.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 4 -->
+      <div id="structural-inertia" class="term-chip" onclick="toggleTerm(this)" title="The ontological resistance to change arising from repeated acts in the Now.">
+        <div class="chip-top">
+          <span class="chip-num">4</span>
+          <span class="chip-name">Structural inertia</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-s">Structural</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The ontological resistance to change arising from the repetition of acts in the Now. Each decision leaves a trace that facilitates or hinders the next, generating a trajectory that may consolidate into orientation or deviation.</p>
+            <p class="expand-fn">Explains habit, fall, fixation, and the increasing difficulty of reorientation without grace.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="flat-sight" class="term-chip" onclick="toggleTerm(this)" title="Perceiving content without perceiving position.">
-  <div class="chip-top"><span class="chip-num">5</span><span class="chip-name">Flat Sight</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-t">Topological</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">The inability to perceive the position from which experience is encountered. Under flat sight, attention rests on content, events, and outcomes while the crossing point that structures them remains unseen.</p>
-      <p class="expand-fn">Explains why false centers can appear sufficient and why evacuation of the Now often goes unnoticed.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 5 -->
+      <div id="flat-sight" class="term-chip" onclick="toggleTerm(this)" title="Perceiving content without perceiving position.">
+        <div class="chip-top">
+          <span class="chip-num">5</span>
+          <span class="chip-name">Flat Sight</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-t">Topological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The inability to perceive the position from which experience is encountered. Under flat sight, attention rests on content, events, and outcomes while the crossing point that structures them remains unseen.</p>
+            <p class="expand-fn">Explains why false centers can appear sufficient and why evacuation of the Now often goes unnoticed.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="topological-relativity" class="term-chip" onclick="toggleTerm(this)" title="Meaning varies with position, not with subjective interpretation">
-  <div class="chip-top"><span class="chip-num">6</span><span class="chip-name">Topological relativity</span></div>
-  <div class="chip-tag-wrap"><span class="ctag tag-t">Topological</span></div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">The variation of meaning and effect according to one's position within the lemniscatic field. Not relativism, but structural dependence: the same reality has different measures depending on proximity to the Center.</p>
-      <p class="expand-fn">Explains why identical states can land as gift, burden, or erosion depending on the orientation of the will.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 6 -->
+      <div id="topological-relativity" class="term-chip" onclick="toggleTerm(this)" title="Meaning varies with position, not with subjective interpretation">
+        <div class="chip-top">
+          <span class="chip-num">6</span>
+          <span class="chip-name">Topological relativity</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-t">Topological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">The variation of meaning and effect according to one's position within the lemniscatic field. Not relativism, but structural dependence: the same reality has different measures depending on proximity to the Center.</p>
+            <p class="expand-fn">Explains why identical states can land as gift, burden, or erosion depending on the orientation of the will.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="residency" class="term-chip" onclick="toggleTerm(this)" title="The unfinished exerts a structural pull on the will.">
-  <div class="chip-top">
-    <span class="chip-num">7</span>
-    <span class="chip-name">Residency</span>
-  </div>
-  <div class="chip-tag-wrap">
-    <span class="ctag tag-o">Ontological</span>
-  </div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">Residency is the habitation of an unfinished trajectory: the structural grip of what has not yet reached completion, drawing the will into the loop that circles an absence.</p>
-      <p class="expand-fn">Explains grief, fixation, and the inertia of unresolved orientations.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 7 -->
+      <div id="residency" class="term-chip" onclick="toggleTerm(this)" title="The unfinished exerts a structural pull on the will.">
+        <div class="chip-top">
+          <span class="chip-num">7</span>
+          <span class="chip-name">Residency</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-o">Ontological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">Residency is the habitation of an unfinished trajectory: the structural grip of what has not yet reached completion, drawing the will into the loop that circles an absence.</p>
+            <p class="expand-fn">Explains grief, fixation, and the inertia of unresolved orientations.</p>
+          </div>
+        </div>
+      </div>
 
-<div id="reference" class="term-chip" onclick="toggleTerm(this)" title="Completion releases the will from the loop.">
-  <div class="chip-top">
-    <span class="chip-num">8</span>
-    <span class="chip-name">Reference</span>
-  </div>
-  <div class="chip-tag-wrap">
-    <span class="ctag tag-o">Ontological</span>
-  </div>
-  <div class="expand-body">
-    <div class="expand-inner">
-      <p class="expand-def">Reference is the structural visibility of a completed trajectory: the release of the will from an act that has reached its form and no longer generates a loop.</p>
-      <p class="expand-fn">Explains closure, peace, and the stability that follows consummated crossings.</p>
-    </div>
-  </div>
-</div>
+      <!-- Term 8 -->
+      <div id="reference" class="term-chip" onclick="toggleTerm(this)" title="Completion releases the will from the loop.">
+        <div class="chip-top">
+          <span class="chip-num">8</span>
+          <span class="chip-name">Reference</span>
+        </div>
+        <div class="chip-tag-wrap">
+          <span class="ctag tag-o">Ontological</span>
+        </div>
+        <div class="expand-body">
+          <div class="expand-inner">
+            <p class="expand-def">Reference is the structural visibility of a completed trajectory: the release of the will from an act that has reached its form and no longer generates a loop.</p>
+            <p class="expand-fn">Explains closure, peace, and the stability that follows consummated crossings.</p>
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- closes .terms-grid -->
+  </div> <!-- closes Key Terms .tier -->
 
   <div class="divider"></div>
 
+  <!-- ——— PROPOSITIONS ——— -->
   <div class="tier">
     <div class="section-label">Structural propositions — derived layer</div>
+
     <div class="props-list">
 
-     <div id="p1" class="prop-item" onclick="toggleProp(this)">
+      <!-- P1 -->
+      <div id="p1" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P1</span>
           <span class="prop-name">The Gaitan Topology</span>
@@ -462,8 +510,8 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">A lemniscatic framework organized across four planes: Temporality (inside the loop), Eternity (outside the curve), Visible non-existence, and Eternal non-existence. All actualization occurs at the crossing point — the Now, marked by the I AM WHO I AM — where grace acts and evil cannot approach.</p>
-            <p class="relies-label">Draws on</p>
+            <p class="prop-text">A lemniscatic framework organized across four planes: Temporality (inside the loop), Eternity (outside the curve), Visible non-existence, and Eternal non-existence. All actualization occurs at
+                        <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Now (ontological)</span>
               <span class="relies-tag">Non-derivative</span>
@@ -472,6 +520,7 @@ body,
         </div>
       </div>
 
+      <!-- P2 -->
       <div id="p2" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P2</span>
@@ -480,7 +529,10 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">The Now is a zero-thickness moment where potential becomes actual — the fixed locus of all events. Human agency, freedom, and grace operate exclusively here, within a microgap between possibility and actuality.</p>
+            <p class="prop-text">
+              The Now is a zero-thickness moment where potential becomes actual — the fixed locus of all events.
+              Human agency, freedom, and grace operate exclusively here, within a microgap between possibility and actuality.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Now (ontological)</span>
@@ -491,6 +543,7 @@ body,
         </div>
       </div>
 
+      <!-- P3 -->
       <div id="p3" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P3</span>
@@ -499,7 +552,10 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">Unrealized possibilities do not vanish but return at later moments in transformed form. Divine providence reconfigures lost opportunities — challenging linear views of time and fate.</p>
+            <p class="prop-text">
+              Unrealized possibilities do not vanish but return at later moments in transformed form.
+              Divine providence reconfigures lost opportunities — challenging linear views of time and fate.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Now (ontological)</span>
@@ -509,6 +565,7 @@ body,
         </div>
       </div>
 
+      <!-- P4 -->
       <div id="p4" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P4</span>
@@ -517,7 +574,11 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">A parallel interior topology where the self functions detached from reality — through rehearsed success or anticipated defeat. A state of displacement accelerated by algorithmic culture, rendering the crossing point functionally uninhabitable.</p>
+            <p class="prop-text">
+              A parallel interior topology where the self functions detached from reality — through rehearsed success
+              or anticipated defeat. A state of displacement accelerated by algorithmic culture, rendering the crossing
+              point functionally uninhabitable.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Topological relativity</span>
@@ -528,7 +589,7 @@ body,
         </div>
       </div>
 
-
+      <!-- P5 -->
       <div id="p5" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P5</span>
@@ -537,7 +598,10 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">When the self abandons the true center, it constructs a false topology around a displaced center — pride, deferral, trauma, or illusion. These alternate lemniscates generate moral and existential collapse.</p>
+            <p class="prop-text">
+              When the self abandons the true center, it constructs a false topology around a displaced center —
+              pride, deferral, trauma, or illusion. These alternate lemniscates generate moral and existential collapse.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Topological relativity</span>
@@ -548,6 +612,7 @@ body,
         </div>
       </div>
 
+      <!-- P6 -->
       <div id="p6" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P6</span>
@@ -556,7 +621,11 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">A critique of modern systems that replace natural transformation with engineered continuity. Unlike Darwinian selection — which reveals being through constraint — artificial selection simulates endurance without depth.</p>
+            <p class="prop-text">
+              A critique of modern systems that replace natural transformation with engineered continuity.
+              Unlike Darwinian selection — which reveals being through constraint — artificial selection simulates
+              endurance without depth.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Structural inertia</span>
@@ -566,6 +635,7 @@ body,
         </div>
       </div>
 
+      <!-- P7 -->
       <div id="p7" class="prop-item" onclick="toggleProp(this)">
         <div class="prop-header">
           <span class="prop-num">P7</span>
@@ -574,7 +644,10 @@ body,
         </div>
         <div class="prop-body">
           <div class="prop-inner">
-            <p class="prop-text">Identical experiences yield opposite outcomes depending on their relation to the center. At the crossing point, reception is inexhaustible; off-center, every fulfillment generates renewed lack.</p>
+            <p class="prop-text">
+              Identical experiences yield opposite outcomes depending on their relation to the center.
+              At the crossing point, reception is inexhaustible; off-center, every fulfillment generates renewed lack.
+            </p>
             <p class="relies-label">Draws on</p>
             <div class="relies-tags">
               <span class="relies-tag">Topological relativity</span>
@@ -585,30 +658,42 @@ body,
       </div>
 
     </div> <!-- closes .props-list -->
-  </div>   <!-- closes .tier -->
+  </div> <!-- closes propositions .tier -->
 
   <div class="divider"></div>
+
   <p class="rf-footer">oscargaitan.org</p>
 
-</div>
+</div> <!-- closes .rf-wrap -->
 
 <script>
-function toggleTerm(el){
-  var body=el.querySelector('.expand-body');
-  var isOpen=body.classList.contains('open');
-  document.querySelectorAll('.term-chip.open').forEach(function(c){
+function toggleTerm(el) {
+  var body = el.querySelector('.expand-body');
+  var isOpen = body.classList.contains('open');
+
+  document.querySelectorAll('.term-chip.open').forEach(function(c) {
     c.classList.remove('open');
     c.querySelector('.expand-body').classList.remove('open');
   });
-  if(!isOpen){el.classList.add('open');body.classList.add('open');}
+
+  if (!isOpen) {
+    el.classList.add('open');
+    body.classList.add('open');
+  }
 }
-function toggleProp(el){
-  var body=el.querySelector('.prop-body');
-  var isOpen=body.classList.contains('open');
-  document.querySelectorAll('.prop-item.open').forEach(function(p){
+
+function toggleProp(el) {
+  var body = el.querySelector('.prop-body');
+  var isOpen = body.classList.contains('open');
+
+  document.querySelectorAll('.prop-item.open').forEach(function(p) {
     p.classList.remove('open');
     p.querySelector('.prop-body').classList.remove('open');
   });
-  if(!isOpen){el.classList.add('open');body.classList.add('open');}
+
+  if (!isOpen) {
+    el.classList.add('open');
+    body.classList.add('open');
+  }
 }
 </script>

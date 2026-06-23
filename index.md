@@ -235,6 +235,23 @@ h1 + p {
     padding: 0.5rem 0.7rem;
   }
 }
+.framework-grid a.framework-pill {
+  display: block;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #ffffff;
+  text-decoration: none;
+  color: #1f2937;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.framework-grid a.framework-pill:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought
@@ -281,6 +298,8 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
+---
+
 ## Research Framework
 
 The essays collected here develop an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
@@ -289,16 +308,16 @@ The essays collected here develop an original philosophical framework at the int
 
 <div class="framework-grid">
 
-  <div>The Gaitan Topology</div>
-  <div>The Ontological Now</div>
-  <div>Structural Inertia</div>
-  <div>Harmonic Echo</div>
-  <div>The Ghost Zone</div>
-  <div>The Alternate Lemniscate</div>
-  <div>Topological Relativity</div>
-  <div>Temporal Density</div>
-  <div>Flat Sight</div>
-  <div>Artificial Selection</div>
+  <a class="framework-pill" href="/research-framework/">The Gaitan Topology</a>
+  <a class="framework-pill" href="/research-framework/">The Ontological Now</a>
+  <a class="framework-pill" href="/research-framework/">Structural Inertia</a>
+  <a class="framework-pill" href="/research-framework/">Harmonic Echo</a>
+  <a class="framework-pill" href="/research-framework/">The Ghost Zone</a>
+  <a class="framework-pill" href="/research-framework/">The Alternate Lemniscate</a>
+  <a class="framework-pill" href="/research-framework/">Topological Relativity</a>
+  <a class="framework-pill" href="/research-framework/">Temporal Density</a>
+  <a class="framework-pill" href="/research-framework/">Flat Sight</a>
+  <a class="framework-pill" href="/research-framework/">Artificial Selection</a>
 
 </div>
 

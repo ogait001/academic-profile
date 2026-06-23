@@ -1,3 +1,10 @@
+---
+layout: default
+title: Essays
+permalink: /essays/
+description: Archive of philosophical essays by Oscar Gaitan.
+---
+
 # Essays
 
 This collection is organized into two libraries.

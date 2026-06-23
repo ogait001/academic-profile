@@ -252,6 +252,38 @@ h1 + p {
   background: #f9fafb;
   border-color: #9ca3af;
 }
+/* === TYPOGRAPHIC PILL STYLE (A) === */
+
+.pill-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 10px;
+  margin: 1.2rem 0;
+}
+
+.pill {
+  font-family: var(--body-font, system-ui, sans-serif);
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+
+  padding: 6px 14px;
+  border-radius: 18px;
+
+  background: #f7f7f7;
+  border: 1px solid #e0e0e0;
+  color: #111;
+
+  text-decoration: none;
+  white-space: nowrap;
+
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.pill:hover {
+  background: #ececec;
+  border-color: #c8c8c8;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

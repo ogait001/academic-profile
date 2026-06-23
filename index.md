@@ -356,18 +356,43 @@ The essays collected here develop an original philosophical framework at the int
 
 <div class="pill-grid">
 
-  <a class="pill" href="/research-framework/">The Gaitan Topology</a>
-  <a class="pill" href="/research-framework/">The Ontological Now</a>
-  <a class="pill" href="/research-framework/">Structural Inertia</a>
-  <a class="pill" href="/research-framework/">Harmonic Echo</a>
-  <a class="pill" href="/research-framework/">The Ghost Zone</a>
-  <a class="pill" href="/research-framework/">The Alternate Lemniscate</a>
-  <a class="pill" href="/research-framework/">Topological Relativity</a>
-  <a class="pill" href="/research-framework/">Temporal Density</a>
-  <a class="pill" href="/research-framework/">Flat Sight</a>
-  <a class="pill" href="/research-framework/">Artificial Selection</a>
+  <a class="pill" href="/research-framework/#now"
+     data-preview="The invariant point of actualization where every being becomes actual.">
+    The Ontological Now
+  </a>
+
+  <a class="pill" href="/research-framework/#non-derivative"
+     data-preview="That whose being depends on nothing else. It does not receive actualization — it gives it.">
+    Non‑derivative
+  </a>
+
+  <a class="pill" href="/research-framework/#temporal-density"
+     data-preview="A moment's density depends on the breadth of the trajectory it renders visible.">
+    Temporal Density
+  </a>
+
+  <a class="pill" href="/research-framework/#structural-inertia"
+     data-preview="The ontological resistance to change arising from repeated acts in the Now.">
+    Structural Inertia
+  </a>
+
+  <a class="pill" href="/research-framework/#flat-sight"
+     data-preview="Perceiving content without perceiving position.">
+    Flat Sight
+  </a>
+
+  <a class="pill" href="/research-framework/#topological-relativity"
+     data-preview="Meaning varies with position, not with subjective interpretation.">
+    Topological Relativity
+  </a>
+
+  <a class="pill" href="/research-framework/#residency"
+     data-preview="The unfinished exerts a structural pull on the will.">
+    Residency
+  </a>
 
 </div>
+
 
 
 [Explore the full Research Framework →](/research-framework/)

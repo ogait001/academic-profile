@@ -114,7 +114,7 @@ Essays written for both scholarly readers and the philosophically curious.
 <div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>
-X  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
+  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
 

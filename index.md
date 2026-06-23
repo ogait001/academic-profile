@@ -250,8 +250,6 @@ Essays written for both scholarly readers and the philosophically curious.
 
 </div>
 
-</table>
-
 ---
 
 ## Research Framework

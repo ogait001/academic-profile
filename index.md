@@ -356,55 +356,16 @@ The essays collected here develop an original philosophical framework at the int
 
 <div class="pill-grid">
 
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M12 4c-4 0-7 4-7 8s3 8 7 8 7-4 7-8-3-8-7-8z"/></svg>
-    The Gaitan Topology
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/></svg>
-    The Ontological Now
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M4 12h16M12 4v16"/></svg>
-    Structural Inertia
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M4 12c4-8 12-8 16 0-4 8-12 8-16 0z"/></svg>
-    Harmonic Echo
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M3 3l18 18M21 3L3 21"/></svg>
-    The Ghost Zone
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M12 2c5 0 10 4 10 10s-5 10-10 10S2 17 2 12 7 2 12 2z"/></svg>
-    The Alternate Lemniscate
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M4 12h16M12 4l8 8-8 8"/></svg>
-    Topological Relativity
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M6 12h12M12 6v12"/></svg>
-    Temporal Density
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M4 4h16v16H4z"/></svg>
-    Flat Sight
-  </a>
-
-  <a class="pill" href="/research-framework/">
-    <svg viewBox="0 0 24 24"><path d="M12 2l4 20-4-4-4 4z"/></svg>
-    Artificial Selection
-  </a>
+  <a class="pill" href="/research-framework/">The Gaitan Topology</a>
+  <a class="pill" href="/research-framework/">The Ontological Now</a>
+  <a class="pill" href="/research-framework/">Structural Inertia</a>
+  <a class="pill" href="/research-framework/">Harmonic Echo</a>
+  <a class="pill" href="/research-framework/">The Ghost Zone</a>
+  <a class="pill" href="/research-framework/">The Alternate Lemniscate</a>
+  <a class="pill" href="/research-framework/">Topological Relativity</a>
+  <a class="pill" href="/research-framework/">Temporal Density</a>
+  <a class="pill" href="/research-framework/">Flat Sight</a>
+  <a class="pill" href="/research-framework/">Artificial Selection</a>
 
 </div>
 

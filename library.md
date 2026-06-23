@@ -68,6 +68,13 @@ display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
 }
+/* MOBILE GRID (required) */
+@media (max-width: 640px) {
+  .cover-grid {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 1rem;
+  }
+}
 @media (max-width: 640px) {
 
   /* Reduce card height for a Kindle-like feel */

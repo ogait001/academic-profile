@@ -74,7 +74,7 @@ box-shadow:0 4px 12px rgba(0,0,0,.15);
 
 # La Biblioteca
 
-Una colección de ensayos en español sobre ontología, filosofía del tiempo, metafísica, fenomenología y teología católica.
+Una colección de ensayos sobre ontología, filosofía del tiempo, metafísica, fenomenología y teología católica.
 
 <div id="continueReading"
      style="margin:1rem 0 1.5rem 0;

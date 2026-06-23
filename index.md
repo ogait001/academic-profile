@@ -254,9 +254,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
-<br>
-
-## Featured Essays - Ensayos Destacados
+## Featured Essays - Destacados
 <div class="featured-grid">
 
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
@@ -289,16 +287,20 @@ The essays collected here develop an original philosophical framework at the int
 
 ### Original Concepts & Structural Propositions
 
-- The Gaitan Topology
-- The Ontological Now
-- Structural Inertia
-- Harmonic Echo
-- The Ghost Zone
-- The Alternate Lemniscate
-- Topological Relativity
-- Temporal Density
-- Flat Sight
-- Artificial Selection
+<div class="framework-grid">
+
+  <div>The Gaitan Topology</div>
+  <div>The Ontological Now</div>
+  <div>Structural Inertia</div>
+  <div>Harmonic Echo</div>
+  <div>The Ghost Zone</div>
+  <div>The Alternate Lemniscate</div>
+  <div>Topological Relativity</div>
+  <div>Temporal Density</div>
+  <div>Flat Sight</div>
+  <div>Artificial Selection</div>
+
+</div>
 
 [Explore the full Research Framework →](/research-framework/)
 

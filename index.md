@@ -103,6 +103,70 @@ description: Essays and research developing the Gaitan Topology, the Ontological
     width:180px;
   }
 }
+/* HOMEPAGE HERO REFINEMENT */
+.hero-buttons {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.hero-buttons a {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: #374151;
+  background: #ffffff;
+  transition: all 0.15s ease;
+}
+
+.hero-buttons a:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+/* Tighten hero spacing */
+#top + h1,
+h1 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.2;
+}
+
+h1 + em,
+h1 + p {
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+/* MOBILE HERO REFINEMENT */
+@media (max-width: 640px) {
+  .hero-buttons {
+    gap: 0.5rem;
+  }
+
+  .hero-buttons a {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+
+  h1 {
+    font-size: 1.65rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+  }
+
+  h1 + em,
+  h1 + p {
+    font-size: 0.95rem;
+    margin-bottom: 0.7rem;
+  }
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

@@ -94,6 +94,28 @@ box-shadow:0 4px 12px rgba(0,0,0,.15);
     margin-top: 1.2rem;
   }
 }
+@media (max-width: 640px) {
+
+  /* Reduce top spacing for a more app-like feel */
+  h1 {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+    line-height: 1.2;
+  }
+
+  /* Tighten the description paragraph */
+  #top + h1 + p,
+  h1 + p {
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.45;
+  }
+
+  /* Reduce spacing above the grid */
+  .sort-container {
+    margin: 1rem 0 1.2rem 0;
+  }
+}
 </style>
 
 <div id="top"></div>

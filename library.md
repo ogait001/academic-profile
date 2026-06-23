@@ -68,14 +68,6 @@ display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
 }
-@media (max-width: 768px){
-
-  .cover-grid{
-    grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
-    gap:1rem;
-  }
-
-}
 </style>
 
 <div id="top"></div>

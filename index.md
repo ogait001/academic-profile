@@ -284,6 +284,22 @@ h1 + p {
   background: #ececec;
   border-color: #c8c8c8;
 }
+/* === PILL ICONS (B) === */
+
+.pill svg {
+  width: 14px;
+  height: 14px;
+  margin-right: 6px;
+  stroke-width: 1.8;
+  stroke: currentColor;
+  fill: none;
+  flex-shrink: 0;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

@@ -68,6 +68,27 @@ box-shadow:0 4px 12px rgba(0,0,0,.15);
   border-radius: 6px;
   background: white;
 }
+/* your existing CSS … */
+/* … all the way down … */
+
+/* MOBILE KINDLE-STYLE GRID */
+@media (max-width: 640px) {
+
+  .cover-grid {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 1rem;
+  }
+
+  .cover-card img {
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  }
+
+  .sort-container {
+    margin: 1rem 0 1.2rem 0;
+  }
+}
+
 </style>
 
 <div id="top"></div>

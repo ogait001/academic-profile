@@ -226,31 +226,30 @@ Essays written for both scholarly readers and the philosophically curious.
 
 
 ## Featured Essays - Ensayos Destacados
-<table>
-<tr>
-<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a></td>
-<td><a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a></td>
-</tr>
-<tr>
-<td><a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains</a></td>
-<td><a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a></td>
-</tr>
-<tr>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a></td>
-<td><a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a></td>
-</tr>
-<tr>
-<td><a href="/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html">The Mercy of Time</a></td>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a></td>
-</tr>
-<tr>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum Est</a></td>
-<td><a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a></td>
-</tr>  
-<tr>
-<td><a href="/catholic-theology/ontology/2026/06/17/the-servant-of-servants.html">The Servant of servants</a></td>
-<td><a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a></td>
-</tr>
+<div class="featured-grid">
+
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
+
+  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a>
+
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains</a>
+
+  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a>
+
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a>
+
+  <a href="/catholic-theology/ontology/2026/06/17/the-servant-of-servants.html">The Servant of Servants</a>
+
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum Est</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
+
+</div>
+
 </table>
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "Dos frases, una vida: Fiat o 'A mi manera'"
-title: "El lugar que es dado"
+title: "El Lugar que es dado"
 subtitle: "El Orgullo, la Auto-humillación y la Ultima Frase de una Vida"
 date: 2026-06-22
 author: Oscar Gaitan

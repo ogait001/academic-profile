@@ -11,7 +11,7 @@ This collection is organized into two libraries.
 
 ## The Library
 
-English essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+English-language essays in ontology, philosophy of time, metaphysics, phenomenology, and catholic theology.
 
 [Enter The Library](/library/)
 
@@ -19,6 +19,6 @@ English essays in ontology, philosophy of time, metaphysics, phenomenology, and 
 
 ## La Biblioteca
 
-Ensayos en español sobre ontología, filosofía del tiempo, metafísica, fenomenología y teología Católica.
+Ensayos en lengua española sobre ontología, filosofía del tiempo, metafísica, fenomenología y teología católica.
 
 [Entrar a La Biblioteca](/biblioteca/)

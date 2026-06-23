@@ -5,6 +5,7 @@ permalink: /biblioteca/
 description: Colección de ensayos filosóficos de Oscar Gaitán que exploran la ontología, la temporalidad, la fenomenología, la antropología metafísica y teología filosófica.
 ---
 
+<style>
 .cover-grid{
 display:grid;
 grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
@@ -28,8 +29,6 @@ display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
 }
-
-<style>
 .lang-links{
   margin-top: 1rem;
   display: flex;

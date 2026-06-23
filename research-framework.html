@@ -702,3 +702,36 @@ function toggleProp(el) {
   }
 }
 </script>
+<script>
+// Auto-open term-chip when arriving with a hash
+document.addEventListener("DOMContentLoaded", function() {
+  const hash = window.location.hash;
+  if (!hash) return;
+
+  const target = document.querySelector(hash);
+  if (!target) return;
+
+  // If it's a term-chip, open it
+  if (target.classList.contains("term-chip")) {
+    const body = target.querySelector(".expand-body");
+    target.classList.add("open");
+    body.classList.add("open");
+
+    // Smooth scroll to it
+    target.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+});
+</script>
+<script>
+document.addEventListener('click', function(e) {
+  // If click is inside a proposition, do nothing
+  if (e.target.closest('.prop-item')) return;
+
+  // Otherwise close all open propositions
+  document.querySelectorAll('.prop-item.open').forEach(function(p) {
+    p.classList.remove('open');
+    p.querySelector('.prop-body').classList.remove('open');
+  });
+});
+</script>
+

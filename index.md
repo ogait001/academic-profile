@@ -338,18 +338,18 @@ The essays collected here develop an original philosophical framework at the int
 
 ### Original Concepts & Structural Propositions
 
-<div class="framework-grid">
+<div class="pill-grid">
 
-  <a class="framework-pill" href="/research-framework/">The Gaitan Topology</a>
-  <a class="framework-pill" href="/research-framework/">The Ontological Now</a>
-  <a class="framework-pill" href="/research-framework/">Structural Inertia</a>
-  <a class="framework-pill" href="/research-framework/">Harmonic Echo</a>
-  <a class="framework-pill" href="/research-framework/">The Ghost Zone</a>
-  <a class="framework-pill" href="/research-framework/">The Alternate Lemniscate</a>
-  <a class="framework-pill" href="/research-framework/">Topological Relativity</a>
-  <a class="framework-pill" href="/research-framework/">Temporal Density</a>
-  <a class="framework-pill" href="/research-framework/">Flat Sight</a>
-  <a class="framework-pill" href="/research-framework/">Artificial Selection</a>
+  <a class="pill" href="/research-framework/">The Gaitan Topology</a>
+  <a class="pill" href="/research-framework/">The Ontological Now</a>
+  <a class="pill" href="/research-framework/">Structural Inertia</a>
+  <a class="pill" href="/research-framework/">Harmonic Echo</a>
+  <a class="pill" href="/research-framework/">The Ghost Zone</a>
+  <a class="pill" href="/research-framework/">The Alternate Lemniscate</a>
+  <a class="pill" href="/research-framework/">Topological Relativity</a>
+  <a class="pill" href="/research-framework/">Temporal Density</a>
+  <a class="pill" href="/research-framework/">Flat Sight</a>
+  <a class="pill" href="/research-framework/">Artificial Selection</a>
 
 </div>
 

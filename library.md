@@ -49,9 +49,6 @@ description: Collection of  philosophical essays by Oscar Gaitan exploring ontol
 
 <div id="top"></div>
 
-{% for post in site.posts limit:1 %}
-Slug test: {{ post.slug }}
-{% endfor %}
 
 
 # The Library

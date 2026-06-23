@@ -62,11 +62,11 @@ Una colección de ensayos en español sobre ontología, filosofía del tiempo, m
 </div>
 
 <div class="sort-container">
-  <label for="sortPosts"><strong>Sort by:</strong></label>
+  <label for="sortPosts"><strong>Ordenar por:</strong></label>
 
   <select id="sortPosts">
-    <option value="newest">Newest First</option>
-    <option value="oldest">Oldest First</option>
+    <option value="newest">Más recientes primero</option>
+    <option value="oldest">Más antiguos primero</option>
     <option value="az">Title A–Z</option>
     <option value="za">Title Z–A</option>
   </select>
@@ -190,7 +190,7 @@ if (lastEssayTitle && lastEssayUrl) {
   box.style.display = "block";
 
   box.innerHTML =
-    '<strong>Continue Reading</strong><br><br>' +
+    '<strong>Continuar donde lo dejaste</strong><br><br>' +
     '<a href="' + lastEssayUrl + '">' +
     lastEssayTitle +
     '</a>';

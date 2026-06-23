@@ -353,45 +353,45 @@ Essays written for both scholarly readers and the philosophically curious.
 The essays collected here develop an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 ### Original Concepts & Structural Propositions
-
 <div class="pill-grid">
 
   <a class="pill" href="/research-framework/#now"
-     data-preview="The invariant point of actualization where every being becomes actual.">
+     title="The invariant point of actualization where every being becomes actual.">
     The Ontological Now
   </a>
 
   <a class="pill" href="/research-framework/#non-derivative"
-     data-preview="That whose being depends on nothing else. It does not receive actualization — it gives it.">
+     title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
     Non‑derivative
   </a>
 
   <a class="pill" href="/research-framework/#temporal-density"
-     data-preview="A moment's density depends on the breadth of the trajectory it renders visible.">
+     title="A moment's density depends on the breadth of the trajectory it renders visible.">
     Temporal Density
   </a>
 
   <a class="pill" href="/research-framework/#structural-inertia"
-     data-preview="The ontological resistance to change arising from repeated acts in the Now.">
+     title="The ontological resistance to change arising from repeated acts in the Now.">
     Structural Inertia
   </a>
 
   <a class="pill" href="/research-framework/#flat-sight"
-     data-preview="Perceiving content without perceiving position.">
+     title="Perceiving content without perceiving position.">
     Flat Sight
   </a>
 
   <a class="pill" href="/research-framework/#topological-relativity"
-     data-preview="Meaning varies with position, not with subjective interpretation.">
+     title="Meaning varies with position, not with subjective interpretation.">
     Topological Relativity
   </a>
 
   <a class="pill" href="/research-framework/#residency"
-     data-preview="The unfinished exerts a structural pull on the will.">
+     title="The unfinished exerts a structural pull on the will.">
     Residency
   </a>
 
 </div>
+
 
 
 

@@ -167,6 +167,44 @@ h1 + p {
     margin-bottom: 0.7rem;
   }
 }
+/* FEATURED ESSAYS GRID */
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem 1.25rem;
+  margin-top: 1rem;
+}
+
+.featured-grid a {
+  display: block;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #ffffff;
+  text-decoration: none;
+  color: #1f2937;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.featured-grid a:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+/* MOBILE: switch to single column */
+@media (max-width: 640px) {
+  .featured-grid {
+    grid-template-columns: 1fr;
+    gap: 0.65rem;
+  }
+
+  .featured-grid a {
+    padding: 0.55rem 0.75rem;
+    font-size: 0.95rem;
+  }
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

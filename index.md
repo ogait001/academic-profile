@@ -122,13 +122,6 @@ Essays written for both scholarly readers and the philosophically curious.
 
 ---
 
-## Language Accessibility
-
-Nearly all essays are available in both  **English and Spanish**.
-
-<div style="margin: 3rem 0;"></div>
-
----
 
 ## Featured Essays - Ensayos Destacados
 <table>

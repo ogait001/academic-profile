@@ -313,6 +313,39 @@ h1 + p {
   border-left: 2px solid #e5e7eb;
   padding-left: 0.75rem;
 }
+/* === RESEARCH AREAS — PHILOSOPHICAL GLOSS STYLE === */
+
+.research-areas-gloss {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.research-areas-gloss .area {
+  padding-left: 0.9rem;
+  border-left: 2px solid #e5e7eb;
+}
+
+.research-areas-gloss .area h3 {
+  margin: 0 0 0.35rem 0;
+  font-size: 1.05rem;
+  color: #111;
+}
+
+.research-areas-gloss .area p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #374151;
+}
+
+/* Mobile refinement */
+@media (max-width: 640px) {
+  .research-areas-gloss {
+    gap: 1.4rem;
+  }
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought
@@ -414,36 +447,36 @@ The essays collected here develop an original philosophical framework at the int
 
 ## Research Areas
 
-<div class="research-areas-grid">
+<div class="research-areas-gloss">
 
   <div class="area">
-    <strong>Ontology</strong><br>
-    Questions of being, identity, continuity, and persistence.
+    <h3>Ontology</h3>
+    <p>Questions of being, identity, continuity, and persistence.</p>
   </div>
 
   <div class="area">
-    <strong>Philosophy of Time</strong><br>
-    Presence, temporality, memory, and the structure of the Now.
+    <h3>Philosophy of Time</h3>
+    <p>Presence, temporality, memory, and the structure of the Now.</p>
   </div>
 
   <div class="area">
-    <strong>Catholic Theology</strong><br>
-    Grace, suffering, divine action, eternity, and the metaphysics of faith.
+    <h3>Catholic Theology</h3>
+    <p>Grace, suffering, divine action, eternity, and the metaphysics of faith.</p>
   </div>
 
   <div class="area">
-    <strong>Phenomenology</strong><br>
-    Experience, selfhood, and first-person existence.
+    <h3>Phenomenology</h3>
+    <p>Experience, selfhood, and first-person existence.</p>
   </div>
 
   <div class="area">
-    <strong>Metaphysical Anthropology</strong><br>
-    Human identity, moral agency, responsibility, and personhood.
+    <h3>Metaphysical Anthropology</h3>
+    <p>Human identity, moral agency, responsibility, and personhood.</p>
   </div>
 
   <div class="area">
-    <strong>Philosophy of Mathematics</strong><br>
-    Symbolic structures, abstraction, number, and ontological interpretation.
+    <h3>Philosophy of Mathematics</h3>
+    <p>Symbolic structures, abstraction, number, and ontological interpretation.</p>
   </div>
 
 </div>

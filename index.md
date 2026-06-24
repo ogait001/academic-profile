@@ -541,7 +541,7 @@ h1 {
 
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html">Consummatum Est</a>
+  <a href="/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html">The Topology of Presence</a>
 
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
 

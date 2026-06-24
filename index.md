@@ -5,6 +5,7 @@ author: Oscar Gaitán
 description: Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology, and Catholic theology.
 ---
 
+<div class="home">
 
 <h1 class="site-title">Philosophy & Catholic Thought</h1>
 <h2 class="site-subtitle">Oscar Gaitan</h2>
@@ -677,4 +678,4 @@ The essays collected here develop an original philosophical framework at the int
     </p>
   </div>
 
-</div>
+

@@ -18,7 +18,6 @@ description: Independent philosophical research in ontology, temporality, phenom
   Essays written for both scholarly readers and the philosophically curious.
 </p>
 
-
 <div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>

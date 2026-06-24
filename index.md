@@ -484,6 +484,8 @@ h1 + p {
 
 ## Featured Essays - Destacados
 
+<div class="section-divider"></div>
+
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 
   <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a>

@@ -368,7 +368,7 @@ h1 + p {
   margin-top: 0.25rem;
   color: #6b7280;
 }
-/* === RECENT PUBLICATIONS — PHILOSOPHICAL GLOSS STYLE === */
+/* === RECENT PUBLICATIONS — GLOSS STYLE (EXCERPTS PRESERVED) === */
 
 .pub-gloss {
   margin-top: 1.2rem;
@@ -382,27 +382,24 @@ h1 + p {
   border-left: 2px solid #e5e7eb;
 }
 
-.pub-item h3 {
-  margin: 0;
+.pub-item summary {
+  cursor: pointer;
   font-size: 1.05rem;
   color: #111;
 }
 
-.pub-item h3 a {
-  text-decoration: none;
-  color: inherit;
+.pub-item summary strong {
+  font-size: 1.05rem;
 }
 
-.pub-item small {
-  display: block;
-  margin-top: 0.25rem;
-  margin-bottom: 0.4rem;
+.pub-item summary small {
+  margin-left: 0.4rem;
   color: #6b7280;
   font-size: 0.85rem;
 }
 
 .pub-item p {
-  margin: 0;
+  margin-top: 0.6rem;
   font-size: 0.95rem;
   line-height: 1.55;
   color: #374151;
@@ -547,21 +544,20 @@ The essays collected here develop an original philosophical framework at the int
 ## Recent Publications
 
 <div class="pub-gloss">
-
   {% for post in site.posts limit:6 %}
-  <div class="pub-item">
-    <h3>
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-    </h3>
-    <small>{{ post.date | date: "%B %d, %Y" }}</small>
-    <p>{{ post.content | strip_html | truncatewords: 22 }}</p>
-  </div>
+    <div class="pub-item">
+      <details>
+        <summary>
+          <strong>{{ post.title }}</strong>
+          <small>{{ post.date | date: "%B %d, %Y" }}</small>
+        </summary>
+        <p>{{ post.excerpt }}</p>
+      </details>
+    </div>
   {% endfor %}
-
 </div>
 
 <div class="section-divider"></div>
-
 
 </div>
 

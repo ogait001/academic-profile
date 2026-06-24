@@ -160,11 +160,12 @@ h1 {
   line-height: 1.2;
 }
 
-h1 + em,
-h1 + p {
-  margin-top: 0.2rem;
-  margin-bottom: 0.8rem;
-  font-size: 1.05rem;
+.hero-description,
+.hero-audience {
+  text-align: center;
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
   line-height: 1.55;
 }
 

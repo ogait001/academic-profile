@@ -370,7 +370,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
 <div class="section-divider"></div>
 
----
+
 
 ## Featured Essays - Destacados
 <div class="featured-grid">
@@ -397,9 +397,11 @@ Essays written for both scholarly readers and the philosophically curious.
 
 </div>
 
----
 
----
+
+<div class="section-divider"></div>
+
+
 
 ## Research Framework
 
@@ -446,11 +448,9 @@ The essays collected here develop an original philosophical framework at the int
 </div>
 
 
-
-
 [Explore the full Research Framework →](/research-framework/)
 
----
+<div class="section-divider"></div>
 
 ## Research Areas
 
@@ -488,11 +488,7 @@ The essays collected here develop an original philosophical framework at the int
 
 </div>
 
-<div style="margin: 3rem 0;"></div>
-
----
-
-
+<div class="section-divider"></div>
 
 ## Recent Publications
 

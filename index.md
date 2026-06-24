@@ -1,18 +1,23 @@
 ---
 layout: default
 title: Philosophy & Catholic Thought
-author: Oscar Gaitán
+author: Oscar Gaitan
 description: Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology, and Catholic theology.
 ---
 
-<div class="home">
-
 <h1 class="site-title">Philosophy & Catholic Thought</h1>
-<h2 class="site-subtitle">Oscar Gaitan</h2>
 
-<p><em>Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.</em></p>
+<p class="site-author">Oscar Gaitan</p>
 
-<p>Essays written for both scholarly readers and the philosophically curious.</p>
+<p class="hero-description">
+  Independent philosophical research in ontology, temporality,
+  phenomenology, metaphysical anthropology, and Catholic theology.
+</p>
+
+<p class="hero-audience">
+  Essays written for both scholarly readers and the philosophically curious.
+</p>
+
 
 <div class="hero-buttons">
   <a href="/library/">Library</a>
@@ -477,6 +482,27 @@ h1 + p {
   text-align: center;
   margin-bottom: 0.2rem;
   letter-spacing: 0.2px;
+}
+.site-author {
+  text-align: center;
+  font-size: 1.15rem;
+  color: #6b7280;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+.hero-description {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto 0.75rem auto;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+.hero-audience {
+  text-align: center;
+  margin-bottom: 1.2rem;
+  color: #374151;
 }
 
 .site-subtitle {

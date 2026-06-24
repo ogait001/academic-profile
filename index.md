@@ -412,33 +412,46 @@ The essays collected here develop an original philosophical framework at the int
 
 ---
 
-<div class="research-areas">
-
 ## Research Areas
 
-### Ontology
-Questions of being, identity, continuity, and persistence.
+<div class="research-areas-grid">
 
-### Philosophy of Time
-Presence, temporality, memory, and the structure of the Now.
+  <div class="area">
+    <strong>Ontology</strong><br>
+    Questions of being, identity, continuity, and persistence.
+  </div>
 
-### Catholic Theology
-Grace, suffering, divine action, eternity, and the metaphysics of faith.
+  <div class="area">
+    <strong>Philosophy of Time</strong><br>
+    Presence, temporality, memory, and the structure of the Now.
+  </div>
 
-### Phenomenology
-Experience, selfhood, and first-person existence.
+  <div class="area">
+    <strong>Catholic Theology</strong><br>
+    Grace, suffering, divine action, eternity, and the metaphysics of faith.
+  </div>
 
-### Metaphysical Anthropology
-Human identity, moral agency, responsibility, and personhood.
+  <div class="area">
+    <strong>Phenomenology</strong><br>
+    Experience, selfhood, and first-person existence.
+  </div>
 
-### Philosophy of Mathematics
-Symbolic structures, abstraction, number, and ontological interpretation.
+  <div class="area">
+    <strong>Metaphysical Anthropology</strong><br>
+    Human identity, moral agency, responsibility, and personhood.
+  </div>
+
+  <div class="area">
+    <strong>Philosophy of Mathematics</strong><br>
+    Symbolic structures, abstraction, number, and ontological interpretation.
+  </div>
 
 </div>
 
 <div style="margin: 3rem 0;"></div>
 
 ---
+
 
 
 ## Recent Publications

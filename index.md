@@ -451,13 +451,30 @@ h1 + p {
   margin-bottom: 0.2rem;
   line-height: 1.45;      /* slightly tighter line height */
 }
+.site-title {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 0.2rem;
+  letter-spacing: 0.2px;
+}
+
+.site-subtitle {
+  font-size: 1.2rem;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #4b5563;
+}
 </style>
 
-# Oscar Gaitan — Philosophy & Catholic Thought
+<h1 class="site-title">Philosophy & Catholic Thought</h1>
+<h2 class="site-subtitle">Oscar Gaitan</h2>
 
-*Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.*
+<p><em>Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.</em></p>
 
-Essays written for both scholarly readers and the philosophically curious.
+<p>Essays written for both scholarly readers and the philosophically curious.</p>
 
 <div class="hero-buttons">
   <a href="/library/">Library</a>

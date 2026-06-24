@@ -1,3 +1,8 @@
+---
+layout: default
+title: Philosophy & Catholic Thought
+---
+
 <h1 class="site-title">Philosophy & Catholic Thought</h1>
 <h2 class="site-subtitle">Oscar Gaitan</h2>
 

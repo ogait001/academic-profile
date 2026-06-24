@@ -480,23 +480,7 @@ h1 + p {
 }
 </style>
 
-<h1 class="site-title">Philosophy & Catholic Thought</h1>
-<h2 class="site-subtitle">Oscar Gaitan</h2>
-
-<p><em>Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.</em></p>
-
-<p>Essays written for both scholarly readers and the philosophically curious.</p>
-
-<div class="hero-buttons">
-  <a href="/library/">Library</a>
-  <a href="/biblioteca/">Biblioteca</a>
-  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
-  <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
-</div>
-
 <div class="section-divider"></div>
-
-
 
 ## Featured Essays - Destacados
 <div class="featured-grid">

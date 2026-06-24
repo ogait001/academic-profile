@@ -18,14 +18,11 @@ description: Independent philosophical research in ontology, temporality, phenom
 </p>
 
 <p style="
-  text-align:center;
   color:#374151;
   font-size:1.1rem;
-  margin:0 auto 1.2rem auto;
-  max-width:1100px;
+  margin:0.4rem 0 1.2rem 0;
 ">
-  Independent philosophical research in ontology, temporality,
-  phenomenology, and Catholic theology.
+  Independent philosophical research in ontology, temporality, phenomenology, and Catholic theology.
 </p>
 
 <div class="hero-buttons">

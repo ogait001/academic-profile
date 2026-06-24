@@ -1,5 +1,5 @@
 <h1 class="site-title">Philosophy & Catholic Thought</h1>
-<h2 class="site-subtitle">Oscar Gaitán</h2>
+<h2 class="site-subtitle">Oscar Gaitan</h2>
 
 <p><em>Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.</em></p>
 
@@ -484,7 +484,7 @@ h1 + p {
 
 ## Featured Essays - Destacados
 
-<div class="section-divider"></div>
+<div class="featured-grid">
 
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 
@@ -507,6 +507,7 @@ h1 + p {
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
 
 </div>
+
 
 
 

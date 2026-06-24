@@ -7,6 +7,10 @@ description: Independent philosophical research in ontology, temporality, phenom
 
 <h1>Oscar Gaitan - Philosophy & Catholic Thought</h1>
 
+<p style="text-align:center; color:#6b7280; margin-top:0.5rem;">
+Independent philosophical research in ontology, temporality, phenomenology, and Catholic theology.
+</p>
+
 <div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>

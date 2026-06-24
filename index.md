@@ -22,7 +22,7 @@ description: Independent philosophical research in ontology, temporality, phenom
   font-size:1.1rem;
   margin:0.4rem 0 1.2rem 0;
 ">
-  Independent philosophical research in ontology, temporality, phenomenology, and Catholic theology.
+  Independent research in ontology, temporality, phenomenology, and Catholic theology.
 </p>
 
 <div class="hero-buttons">

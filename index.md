@@ -353,6 +353,21 @@ h1 + p {
   border-top: 1px solid #e5e7eb;
   opacity: 0.7;
 }
+.pub-item {
+  padding-top: 1rem;
+  margin-top: 1.4rem;
+  border-top: 1px solid #e5e7eb;
+}
+.pub-item a strong {
+  font-size: 1.12rem;
+  color: #111;
+}
+
+.pub-item small {
+  display: block;
+  margin-top: 0.25rem;
+  color: #6b7280;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

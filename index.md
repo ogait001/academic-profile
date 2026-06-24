@@ -5,12 +5,16 @@ author: Oscar Gaitan
 description: Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology, and Catholic theology.
 ---
 
-<h1>Oscar Gaitan - Philosophy & Catholic Thought</h1>
+<h1>Philosophy & Catholic Thought</h1>
 
-<p style="text-align:center; color:#6b7280; margin-top:0.5rem;">
-Independent philosophical research in ontology, temporality, phenomenology, and Catholic theology.
+<p style="text-align:center; color:#6b7280; margin:0.5rem auto 1.2rem auto; max-width:800px;">
+Oscar Gaitan
 </p>
 
+<p style="text-align:center; color:#6b7280; margin:0 auto 1.2rem auto; max-width:800px;">
+Independent philosophical research in ontology, temporality,
+phenomenology, and Catholic theology.
+</p>
 <div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>

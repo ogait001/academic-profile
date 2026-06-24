@@ -154,13 +154,12 @@ h1 {
   line-height: 1.2;
 }
 
-.hero-description,
 .hero-audience {
-  text-align: center;
+  display: block;
+  width: 100%;
   max-width: 760px;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 1.55;
+  margin: 0 auto 1rem auto;
+  text-align: center;
 }
 
 /* MOBILE HERO REFINEMENT */

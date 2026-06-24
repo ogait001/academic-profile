@@ -8,7 +8,6 @@ description: Independent philosophical research in ontology, temporality, phenom
 <h1>Philosophy & Catholic Thought</h1>
 
 <p style="
-  text-align:center;
   font-size:1.25rem;
   font-weight:600;
   color:#111;

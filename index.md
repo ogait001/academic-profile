@@ -112,20 +112,21 @@ description: Essays and research developing the Gaitan Topology, the Ontological
 }
 
 .hero-buttons a {
+  background: #faf7f2;
+  border: 1px solid #e5ded5;
+  color: #7b5e3b;
   display: inline-block;
   padding: 0.45rem 0.9rem;
-  border: 1px solid #d1d5db;
   border-radius: 999px;
   text-decoration: none;
   font-size: 0.9rem;
-  color: #374151;
-  background: #ffffff;
   transition: all 0.15s ease;
 }
 
 .hero-buttons a:hover {
-  background: #f9fafb;
-  border-color: #9ca3af;
+  background: #f3ede6;
+  border-color: #d6c8b8;
+  color: #5c452c;
 }
 
 /* Tighten hero spacing */

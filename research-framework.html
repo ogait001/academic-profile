@@ -749,5 +749,19 @@ document.addEventListener("click", function(e) {
   });
 });
 </script>
+<script>
+// Close any open term-chip when clicking outside
+document.addEventListener("click", function(e) {
+  const openChips = document.querySelectorAll(".term-chip.open");
+
+  openChips.forEach(chip => {
+    if (!chip.contains(e.target)) {
+      chip.classList.remove("open");
+      const body = chip.querySelector(".expand-body");
+      if (body) body.classList.remove("open");
+    }
+  });
+});
+</script>
 
 

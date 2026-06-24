@@ -157,7 +157,7 @@ description: Independent philosophical research in ontology, temporality, phenom
 /* Tighten hero spacing */
 #top + h1,
 h1 {
-  margin-top: 0.5rem;
+  margin-top: 3rem;
   margin-bottom: 0.4rem;
   line-height: 1.2;
 }

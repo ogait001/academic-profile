@@ -300,6 +300,19 @@ h1 + p {
   display: inline-flex;
   align-items: center;
 }
+/* === RESEARCH AREAS SPACING IMPROVEMENT === */
+
+.research-areas h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.4rem;
+}
+
+.research-areas p {
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+  border-left: 2px solid #e5e7eb;
+  padding-left: 0.75rem;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought
@@ -399,6 +412,8 @@ The essays collected here develop an original philosophical framework at the int
 
 ---
 
+<div class="research-areas">
+
 ## Research Areas
 
 ### Ontology
@@ -419,9 +434,12 @@ Human identity, moral agency, responsibility, and personhood.
 ### Philosophy of Mathematics
 Symbolic structures, abstraction, number, and ontological interpretation.
 
+</div>
+
 <div style="margin: 3rem 0;"></div>
 
 ---
+
 
 ## Recent Publications
 

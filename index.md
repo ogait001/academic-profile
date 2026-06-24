@@ -404,6 +404,29 @@ h1 + p {
   line-height: 1.55;
   color: #374151;
 }
+/* Reduce top spacing of the whole section */
+#recent-publications {
+  margin-top: 1.2rem;
+}
+
+/* Reduce spacing between publication items */
+.pub-gloss {
+  gap: 1.1rem;
+}
+
+/* Gloss block spacing refinements */
+.pub-item p {
+  margin-top: 0.4rem;
+}
+
+.pub-item summary small {
+  margin-bottom: 0.2rem;
+}
+
+/* Prevent double spacing at the bottom */
+.pub-item:last-child {
+  margin-bottom: 0.4rem;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

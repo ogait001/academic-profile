@@ -29,14 +29,11 @@ description: Independent philosophical research in ontology, temporality, phenom
 </p>
 
 <div class="hero-buttons">
-<div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>
   <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
-
-<div class="section-divider"></div>
 
 
 <style>

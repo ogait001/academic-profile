@@ -483,7 +483,7 @@ Essays written for both scholarly readers and the philosophically curious.
 
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a>
 
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time Need Me, or Do I Need Time?</a>
+  <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html</a>
 
   <a href="/catholic-theology/ontology/2026/06/17/the-servant-of-servants.html">The Servant of Servants</a>
 

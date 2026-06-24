@@ -8,11 +8,11 @@ description: Independent philosophical research in ontology, temporality, phenom
 <h1>Philosophy & Catholic Thought</h1>
 
 <p style="
-  font-size:1.25rem;
+  font-size:1.45rem;
   font-weight:600;
   color:#111;
-  margin-top:-0.4rem;
-  margin-bottom:0.7rem;
+  margin-top:0.35rem;
+  margin-bottom:1rem;
 ">
   Oscar Gaitan
 </p>

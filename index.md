@@ -483,7 +483,6 @@ h1 + p {
 <div class="section-divider"></div>
 
 ## Featured Essays - Destacados
-<div class="featured-grid">
 
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 

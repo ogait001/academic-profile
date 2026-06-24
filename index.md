@@ -427,6 +427,30 @@ h1 + p {
 .pub-item:last-child {
   margin-bottom: 0.4rem;
 }
+.pub-gloss {
+  margin-top: 0.8rem;     /* tighter top spacing */
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;            /* THIS is the key: very small gap */
+}
+
+.pub-item {
+  padding-left: 0.7rem;   /* slightly smaller gloss indent */
+  border-left: 2px solid #e5e7eb;
+  padding-top: 0.2rem;    /* minimal vertical padding */
+  padding-bottom: 0.2rem;
+}
+
+.pub-item summary {
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.pub-item p {
+  margin-top: 0.3rem;     /* tighter paragraph spacing */
+  margin-bottom: 0.2rem;
+  line-height: 1.45;      /* slightly tighter line height */
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought

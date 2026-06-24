@@ -347,6 +347,12 @@ h1 + p {
     gap: 1.4rem;
   }
 }
+.section-divider {
+  width: 60%;
+  margin: 3rem auto;
+  border-top: 1px solid #e5e7eb;
+  opacity: 0.7;
+}
 </style>
 
 # Oscar Gaitan — Philosophy & Catholic Thought
@@ -362,7 +368,7 @@ Essays written for both scholarly readers and the philosophically curious.
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
 
-<div style="margin: 3rem 0;"></div>
+<div class="section-divider"></div>
 
 ---
 

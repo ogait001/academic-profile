@@ -7,9 +7,8 @@ description: Independent philosophical research in ontology, temporality, phenom
 
 <h1 class="site-title">Philosophy & Catholic Thought</h1>
 
-<p class="site-author">Oscar Gaitan</p>
-
-<p class="hero-description">
+<p>
+  <strong>Oscar Gaitan</strong><br>
   Independent philosophical research in ontology, temporality,
   phenomenology, metaphysical anthropology, and Catholic theology.
 </p>

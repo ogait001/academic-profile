@@ -600,7 +600,13 @@ The essays collected here develop an original philosophical framework at the int
       <small>{{ post.date | date: "%B %d, %Y" }}</small>
 
       <details>
-        <summary>Excerpt</summary>
+        <summary>
+          {% if post.lang == "es" %}
+            Extracto
+          {% else %}
+            Excerpt
+          {% endif %}
+        </summary>
         <p>{{ post.excerpt }}</p>
       </details>
 

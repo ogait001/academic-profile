@@ -1,8 +1,19 @@
----
-layout: default
-title: Oscar Gaitan — Philosophy & Catholic Thought
-description: Essays and research developing the Gaitan Topology, the Ontological Now, the Ghost Zone, and related philosophical concepts.
----
+<h1 class="site-title">Philosophy & Catholic Thought</h1>
+<h2 class="site-subtitle">Oscar Gaitán</h2>
+
+<p><em>Independent philosophical research in ontology, temporality, phenomenology, metaphysical anthropology and Catholic theology.</em></p>
+
+<p>Essays written for both scholarly readers and the philosophically curious.</p>
+
+<div class="hero-buttons">
+  <a href="/library/">Library</a>
+  <a href="/biblioteca/">Biblioteca</a>
+  <a href="https://philpeople.org/profiles/oscar-gaitan">PhilPeople</a>
+  <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
+</div>
+
+<div class="section-divider"></div>
+
 
 <style>
 .recent-pubs {

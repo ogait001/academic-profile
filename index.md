@@ -593,13 +593,17 @@ The essays collected here develop an original philosophical framework at the int
 <div class="pub-gloss">
   {% for post in site.posts limit:6 %}
     <div class="pub-item">
+
+      <a class="pub-title" href="{{ post.url }}">
+        <strong>{{ post.title }}</strong>
+      </a>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+
       <details>
-        <summary>
-          <strong>{{ post.title }}</strong>
-          <small>{{ post.date | date: "%B %d, %Y" }}</small>
-        </summary>
+        <summary>Excerpt</summary>
         <p>{{ post.excerpt }}</p>
       </details>
+
     </div>
   {% endfor %}
 </div>

@@ -559,7 +559,7 @@ The essays collected here develop an original philosophical framework at the int
 
 <div class="section-divider"></div>
 
-</div>
+
 
 <hr style="margin: 3rem 0 0.75rem; border: 0; border-top: 1px solid #d1d5db;">
 

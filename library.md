@@ -156,7 +156,7 @@ A collection of philosophical essays in ontology, philosophy of time, metaphysic
    data-date="{{ post.date | date: '%Y%m%d' }}">
 
   <img
-    src="{{ '/assets/covers/' | append: post.slug | append: '.png' | relative_url }}"
+    src="{{ '/assets/covers/thumbs/' | append: post.slug | append: '.png' | relative_url }}"
     alt="{{ post.title }}"
     loading="lazy">
 

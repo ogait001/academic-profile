@@ -128,7 +128,7 @@ Una colección de ensayos sobre ontología, filosofía del tiempo, metafísica, 
    data-date="{{ post.date | date: '%Y%m%d' }}">
 
   <img
-    src="{{ '/assets/covers/' | append: post.slug | append: '.png' | relative_url }}"
+    src="{{ '/assets/covers/thumbs/' | append: post.slug | append: '.png' | relative_url }}"
     alt="{{ post.title }}"
     loading="lazy">
 

@@ -526,10 +526,10 @@ h1 {
   color: #4b5563;
 }
 .homepage-epigraph {
-  margin: 1.2rem auto 1.4rem auto;
+  margin: 1.6rem 0 1.8rem 0;
   max-width: 520px;
-  text-align: center;
-  padding: 0 1rem;
+  text-align: left;
+  padding: 0;
 }
 
 .epigraph-text {

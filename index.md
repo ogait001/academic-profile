@@ -24,7 +24,15 @@ description: Independent philosophical research in ontology, temporality, phenom
 ">
   Independent research in ontology, temporality, phenomenology, and Catholic theology.
 </p>
-
+<div class="homepage-epigraph">
+  <p class="epigraph-text">
+    Converso con el hombre que siempre va conmigo<br>
+    —quien habla solo espera hablar a Dios un día—
+  </p>
+  <p class="epigraph-author">
+    — Antonio Machado, <em>&#8220;Retrato&#8221;</em>, <em>Campos de Castilla</em> (1912)
+  </p>
+</div>
 <div class="hero-buttons">
   <a href="/library/">Library</a>
   <a href="/biblioteca/">Biblioteca</a>
@@ -516,6 +524,36 @@ h1 {
   margin-top: 0;
   margin-bottom: 1rem;
   color: #4b5563;
+}
+.homepage-epigraph {
+  margin: 1.2rem auto 1.4rem auto;
+  max-width: 520px;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.epigraph-text {
+  font-size: 0.97rem;
+  font-style: italic;
+  line-height: 1.65;
+  color: #374151;
+  margin: 0;
+}
+
+.epigraph-author {
+  font-size: 0.82rem;
+  margin-top: 0.5rem;
+  color: #6b7280;
+}
+
+@media (max-width: 640px) {
+  .homepage-epigraph {
+    margin: 1rem auto 1.2rem auto;
+    padding: 0 0.5rem;
+  }
+  .epigraph-text {
+    font-size: 0.92rem;
+  }
 }
 </style>
 

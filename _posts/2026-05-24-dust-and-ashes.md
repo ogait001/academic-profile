@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "An exploration of how identity endures across thresholds of becoming."
+description: "A meditation on zero, one, and the unseen ground that carries identity across the thresholds of becoming."
 title: "Zero and One, Dust and Ashes" 
 subtitle: "Positional Notation as a Model of Being"
 date: 2026-05-24

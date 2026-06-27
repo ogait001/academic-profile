@@ -128,7 +128,7 @@ Juntos responden la pregunta cosmológica que la tesis de la expansión no puede
 
 Un universo con un principio depende de un fundamento sustentador no reducible al devenir temporal. Antes de que el universo existiera para ser actualizado, algo mantenía abierta la condición de toda actualización. Ese algo no es un universo previo, no es un estado previo de la materia, no es ninguna condición previa que sea ella misma dentro del sistema del devenir. Es el fundamento del Ahora mismo -- autosuficiente, que no requiere nada fuera de sí mismo, que sostiene todo lo que hay dentro de él por el único acto continuo de ser lo que es. El lenguaje espacial del dentro y el fuera es una limitación de la metáfora, no una afirmación literal: el Ahora no es un contenedor con un exterior, sino la condición de todo devenir, que es ella misma incondicionada.
 
-> Alfa y Omega no son dos puntos en una línea. Son el único fundamento que mantiene la línea abierta -- desde fuera de la línea, en la única gramática adecuada a lo que es más real: YO SOY.
+> Alfa y Omega no son dos puntos en una línea. Son el único fundamento que mantiene la línea abierta -- desde fuera de la línea, en la única gramática adecuada a lo que es más real: YO SOY EL QUE SOY.
 
 <br>
 
@@ -158,13 +158,13 @@ Una galaxia a miles de millones de años luz de distancia es, desde nuestra posi
 
 Pero la distancia es una propiedad de los bucles. No es una propiedad del Ahora.
 
-El Ahora no está situado donde nosotros estamos. Es el fundamento universal de toda actualización -- igualmente presente en esta página y en la galaxia más lejana, sosteniéndolas a ambas en el mismo acto de YO SOY, manteniendo a ambas abiertas en el mismo punto de cruce. Desde el Ahora, nada está lejos. La galaxia que está a miles de millones de años luz de cualquier otra galaxia es simultánea con este momento en el punto de cruce. No aproximadamente simultánea. No conectada causalmente a través de la distancia. Simultánea en el único sentido que importa ontológicamente: ambas están siendo actualizadas en el mismo Ahora.
+El Ahora no está situado donde nosotros estamos. Es el fundamento universal de toda actualización -- igualmente presente en esta página y en la galaxia más lejana, sosteniéndolas a ambas en el mismo acto de YO SOY EL QUE SOY, manteniendo a ambas abiertas en el mismo punto de cruce. Desde el Ahora, nada está lejos. La galaxia que está a miles de millones de años luz de cualquier otra galaxia es simultánea con este momento en el punto de cruce. No aproximadamente simultánea. No conectada causalmente a través de la distancia. Simultánea en el único sentido que importa ontológicamente: ambas están siendo actualizadas en el mismo Ahora.
 
 Esto es lo que la sabiduría popular nombra con más precisión que la mayoría del lenguaje técnico: lejos de aquí, cerca de allá. El *allá* no es otra ubicación. Es el fundamento debajo de toda ubicación. El Ahora no tiene dirección postal. No está más cerca de la Tierra que de Andrómeda. Subyace igualmente a ambas, sosteniéndolas continuamente, manteniéndolas abiertas en el mismo único acto que no tiene distancia dentro de sí porque es la condición de la distancia, no algo sujeto a ella.
 
 Esto resuelve una de las preguntas más difíciles de la teología de la creación: cómo puede Dios estar igualmente presente en todo lo que sostiene cuando todo está tan vastamente separado de todo lo demás? La respuesta es que la presencia divina no es proximidad espacial. Es presencia en el Ahora. Y el Ahora no está en el espacio -- como afirmación metafísica, no física, el espacio está dentro del Ahora más que el Ahora dentro del espacio. El espacio es el medio a través del cual el devenir se despliega. El Ahora es la condición de ese despliegue, anterior e independiente de cualquier configuración espacial.
 
-> La distancia es real. Es una propiedad de los bucles. En el punto de cruce, nada está lejos de nada. La galaxia a miles de millones de años luz está tan cerca de YO SOY como tu pensamiento presente.
+> La distancia es real. Es una propiedad de los bucles. En el punto de cruce, nada está lejos de nada. La galaxia a miles de millones de años luz está tan cerca de YO SOY EL QUE SOY como tu pensamiento presente.
 
 <br>
 

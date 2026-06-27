@@ -82,7 +82,7 @@ Esta no es una pregunta que la física pueda responder desde dentro de sí misma
 
 Sigue la cadena de dependencias hasta su término y lo que se requiere es algo que no es en sí mismo dependiente — un ser no derivativo y autosustentante que fundamenta el momento presente sin necesitar él mismo un momento presente en el que existir. No el primer evento en el tiempo, sino aquel en quien toda la estructura del antes y el después es sostenida simultáneamente.
 
-En el libro del Éxodo, cuando Moisés pregunta por el nombre de Dios, la respuesta no es un nombre propio. Es una afirmación gramatical: *YO SOY EL QUE SOY*. No Yo era. No Yo seré. YO SOY — puro, sin calificativos, presente autosustentante. Apunta precisamente hacia la estructura que el argumento requiere: un ser que no habita el Ahora sino que sustenta la condición de su actualidad. Dios no es el Ahora. Dios es aquello de lo que el Ahora depende — el fundamento sin el cual la condición de toda actualización cesaría.
+En el libro del Exodo, cuando Moisés pregunta por el nombre de Dios, la respuesta no es un nombre propio. Es una afirmación gramatical: *YO SOY EL QUE SOY*. No Yo era. No Yo seré. YO SOY — puro, sin calificativos, presente autosustentante. Apunta precisamente hacia la estructura que el argumento requiere: un ser que no habita el Ahora sino que sustenta la condición de su actualidad. Dios no es el Ahora. Dios es aquello de lo que el Ahora depende — el fundamento sin el cual la condición de toda actualización cesaría.
 
 Dios sustenta el Ahora del modo en que la atención sostiene un pensamiento: en el momento en que el sustento se retira, el pensamiento no cae. Cesa. No hay caída, ni demora, ni transición. Simplemente deja de ser. Retira el fundamento sustentante y no hay Ahora. Ningún evento. Ningún momento en que nada pueda ocurrir — incluido el sufrimiento sobre el que la pregunta interroga.
 
@@ -188,7 +188,7 @@ El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está 
 
 ### Sagradas Escrituras
 
-- La Santa Biblia. Éxodo 3:14 — YO SOY EL QUE SOY.
+- La Santa Biblia. Exodo 3:14 — YO SOY EL QUE SOY.
 - La Santa Biblia. Job 5:17–27; 38:1–41:34.
 - La Santa Biblia. Salmo 22.
 - La Santa Biblia. Mateo 6:24.

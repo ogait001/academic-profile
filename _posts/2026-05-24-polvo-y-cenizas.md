@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Una exploración de como la identidad perdura a través de los umbrales del devenir."
+description: "Una meditación sobre el cero, el uno y el fundamento invisible que sostiene la identidad a través de los umbrales del devenir."
 title: "Cero y Uno, Polvo y Cenizas" 
 subtitle: "La Notación Posicional como Modelo del Ser"
 date: 2026-05-24

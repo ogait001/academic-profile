@@ -186,7 +186,7 @@ El alma perdura. El cosmos perdura. La enumeración perdura. Los tres cruzan el 
 
 ## Referencias
 
-- Escritura: Apocalipsis 1:8; 21:6; 22:13; Éxodo 3:14; Juan 1:1–3; Romanos 8:19–22.
+- Escritura: Apocalipsis 1:8; 21:6; 22:13; Exodo 3:14; Juan 1:1–3; Romanos 8:19–22.
 - Aristóteles. *Física.*
 - Agustín de Hipona. *Confesiones.*
 - Tomás de Aquino. *Suma Teológica.* I, q. 8 (sobre la omnipresencia divina); I, q. 10 (sobre la eternidad).

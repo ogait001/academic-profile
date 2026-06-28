@@ -571,7 +571,7 @@ h1 {
 
   <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">A Critique of Descartes</a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
+  <a href="/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html">The Infinite Interior</a>
   
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 

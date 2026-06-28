@@ -575,7 +575,7 @@ h1 {
   
   <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 
-  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a>
+  <a href="/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html">The Topology of Absolution</a>
   
   <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
 

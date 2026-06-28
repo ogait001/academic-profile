@@ -182,7 +182,7 @@ Por eso el Modo Tres tiene éxito donde los Modos Uno y Dos fracasan. La persecu
 
 ### Das Man a escala — y su límite
 
-Martin Heidegger identificó el mecanismo social de la evacuación antes de que la tecnología llegara para completarlo. Lo llamó *Das Man* — el yo-impersonal, el Uno anónimo en el que la existencia humana se instala por defecto cuando no ha sido reclamada desde dentro. *Das Man* es la condición de un yo que ha perdido su mioidad: la cualidad irreducible por la cual la existencia pertenece a *esta* persona y a ninguna otra. El yo caído no existe desde un centro propio. Existe a través de opiniones heredadas, ansiedades prestadas y normas anónimas.
+Martin Heidegger identificó el mecanismo social de la evacuación antes de que la tecnología llegara para completarlo. Lo llamó *Das Man* — el yo-impersonal, el Uno anónimo en el que la existencia humana se instala por defecto cuando no ha sido reclamada desde dentro. *Das Man* es la condición de un yo que ha perdido su propiedad existencial: la cualidad irreducible por la cual la existencia pertenece a *esta* persona y a ninguna otra. El yo caído no existe desde un centro propio. Existe a través de opiniones heredadas, ansiedades prestadas y normas anónimas.
 
 Se requiere aquí una nota metodológica. El diagnóstico de *Das Man* de Heidegger se usa en este ensayo como un instrumento preciso para identificar el mecanismo social de la evacuación — la manera en que el 'ellos' anónimo reemplaza al 'yo' particular, y la manera en que el costo de la percepción honesta se eleva por encima del umbral que la mayoría de las personas está dispuesta a pagar. En este nivel diagnóstico, el análisis de Heidegger es exacto e irremplazable.
 

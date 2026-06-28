@@ -563,27 +563,27 @@ h1 {
 
 <div class="featured-grid">
 
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html">A Topology of Memory, Possibility, and Grace</a>
 
-  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a>
-
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">The Am that Remains</a>
-
-  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
-
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a>
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html">Four Planes of Existence on the Lemniscate</a>
 
   <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time need Me or Do I need Time?</a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html">A Topology of Memory, Possibility, and Grace</a>
-
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a>
-
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html">The Topology of Presence</a>
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">A Critique of Descartes and a Metaphysics of the Soul</a>
 
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
+  
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
 
-</div>
+  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">Eve's Algorithm</a>
+  
+  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a>
+    
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a>
+  
+  </div>
 
 
 

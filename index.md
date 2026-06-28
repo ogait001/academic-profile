@@ -569,7 +569,7 @@ h1 {
 
   <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time need Me or Do I need Time?</a>
 
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">A Critique of Descartes and a Metaphysics of the Soul</a>
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">A Critique of Descartes</a>
 
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">The Grammar of Displacement</a>
   

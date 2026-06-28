@@ -579,9 +579,9 @@ h1 {
   
   <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html">De-Roling God</a>
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a>
     
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html">The Artificial Selection</a>
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html">Alpha and Omega</a>
   
   </div>
 

@@ -7,7 +7,7 @@ date: 2026-06-17
 categories: [catholic-theology, ontology]
 tags: [humildad, soberbia, autodesprecio, autorreferencia, gracia, Maria, Misterios-Gozosos, punto-de-cruce, fundamento-no-derivado, Topologia-Gaitan]
 lang: es
-excerpt: "La humildad no consiste en pensar menos de uno mismo sino en dejar de ser la medida."
+excerpt: "María no se exalta ni se rebaja. Nunca hace de sí misma la medida."
 doi: 10.5281/zenodo.20738126
 record_url: https://zenodo.org/doi/10.5281/zenodo.20738126
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20738126

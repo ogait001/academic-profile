@@ -21,7 +21,7 @@ tags:
   - ground-of-being
 lang: en
 excerpt: >
-  A philosophical and theological meditation on time and presence, arguing that the invariant Now is sustained by the ground of being named as I AM.
+  A philosophical and theological meditation on time and presence, arguing that the invariant Now is sustained by the ground of being named as I AM WHO I AM.
 doi: "10.5281/zenodo.19502525"
 record_url: "https://zenodo.org/records/19502525"
 pdf_url: "https://zenodo.org/records/19502525/files/does-time-need-me-or-do-i-need-time.pdf"

@@ -7,7 +7,7 @@ date: 2026-06-22
 author: Oscar Gaitan
 lang: es
 categories: [filosofia, teologia, filosofia cristiana]
-excerpt: "El viento no planta el orgullo. Revela la semilla."
+excerpt: "La pregunta nunca fue si otra persona es orgullosa, sino qué revelaría el poder acerca de mí."
 doi: 10.5281/zenodo.20801435
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801435
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801435

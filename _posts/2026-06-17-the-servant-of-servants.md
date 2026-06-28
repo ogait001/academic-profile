@@ -7,7 +7,7 @@ date: 2026-06-17
 categories: [catholic-theology, ontology]
 tags: [humility, pride, self-abasement, self-reference, grace, Mary, Joyful-Mysteries, crossing-point, non-derivative-ground, Gaitan-Topology]
 lang: en
-excerpt: "María no se exalta ni se rebaja. Nunca hace de sí misma la medida."
+excerpt: "Mary neither exalts nor abases herself. She never makes herself the measure."
 doi: 10.5281/zenodo.20738126
 record_url: https://zenodo.org/doi/10.5281/zenodo.20738126
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20738126

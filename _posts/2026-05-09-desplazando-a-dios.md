@@ -96,7 +96,7 @@ La respuesta es no, por la misma razón por la que una regresión infinita de ca
 
 La cadena requiere un término que esté fuera de la serie de Ahoras dependientes — algo que no requiera en sí mismo un Ahora previo para mantenerse abierto, algo que no esté dentro de la sucesión que hace posible. Ese término debe ser no-derivado: que no reciba su existencia de otra condición, que no sea sostenido por algo anterior, que no esté ubicado dentro de la secuencia temporal que fundamenta. Debe simplemente e incondicionalmente ser.
 
-Esta es una conclusión filosófica, no una premisa teológica. El YO SOY del Éxodo — presente puro, incondicionado, autosuficiente — es el nombre que se ajusta a este requisito estructural con precisión. No es meramente simbólico. Es la forma gramatical de la actualidad no-derivada: la única estructura lingüística que corresponde a la exigencia ontológica: no "soy porque algo más me sostiene", sino el presente absoluto que no necesita un fundamento detrás de sí porque él mismo es el fundamento.
+Esta es una conclusión filosófica, no una premisa teológica. El YO SOY EL QUE SOY del Exodo — presente puro, incondicionado, autosuficiente — es el nombre que se ajusta a este requisito estructural con precisión. No es meramente simbólico. Es la forma gramatical de la actualidad no-derivada: la única estructura lingüística que corresponde a la exigencia ontológica: no "soy porque algo más me sostiene", sino el presente absoluto que no necesita un fundamento detrás de sí porque él mismo es el fundamento.
 
 ### Por qué el rol no puede ser refutado
 

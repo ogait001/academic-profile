@@ -7,7 +7,7 @@ date: 2026-06-22
 author: Oscar Gaitan
 lang: en
 categories: [philosophy, theology, ethics, christian philosophy, philosophical anthropological, catholic theology, pride, humility]
-excerpt: "The wind does not plant pride. It reveals the seed."
+excerpt: "The question was never whether another person is proud, but what power would reveal in me."
 doi: 10.5281/zenodo.20801344
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801344
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801344

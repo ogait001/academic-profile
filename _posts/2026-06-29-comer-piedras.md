@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comer Piedras"
-subtitle: "La Tentación de Cristo como Contradiccion Ontológica"
+subtitle: "La Tentación de Cristo como Contradicción Ontológica"
 description: "Un estudio filosófico y teológico de la primera tentación de Cristo, y cómo la sabiduría divina preserva la inteligibilidad y el orden veraz de la creación."
 date: 2026-06-29
 author: Oscar Gaitan

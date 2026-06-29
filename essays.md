@@ -2,7 +2,7 @@
 layout: default
 title: Essays
 permalink: /essays/
-description: Archive of philosophical essays by Oscar Gaitan.
+description: "A collection of philosophical essays in ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology."
 ---
 
 # Essays

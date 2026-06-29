@@ -19,7 +19,7 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 
 ## Indice
 - [I. La Interpretación Tradicional](#i-la-interpretación-tradicional)
-- [II. La Propuesta de Satanás](#ii-la-propuesta-de-Satanás)
+- [II. La Propuesta de Satanás](#ii-la-propuesta-de-satanás)
 - [III. La Metafísica de la Continuidad](#iii-la-metafisica-de-la-continuidad)
 - [IV. El Lenguaje de la Creación](#iv-el-lenguaje-de-la-creación)
 - [V. Transformación y Sustitución](#v-transformación-y-sustitución)

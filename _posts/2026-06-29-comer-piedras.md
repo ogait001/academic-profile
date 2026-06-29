@@ -11,7 +11,7 @@ excerpt: "Cristo no se niega meramente a resistir la tentación, sino a preserva
 doi: 10.5281/zenodo.21046390
 record_url: https://zenodo.org/doi/10.5281/zenodo.21046390
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21046390
-cover: /assets/covers/eating-stones-es.png
+cover: /assets/covers/comer-piedras.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/29/eating-stones.html"
 ---
 

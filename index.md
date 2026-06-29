@@ -555,6 +555,47 @@ h1 {
     font-size: 0.92rem;
   }
 }
+/* FEATURED ESSAY HOVER EXCERPTS */
+.featured-grid a {
+  position: relative;
+}
+
+.featured-grid a[data-excerpt]::after {
+  content: attr(data-excerpt);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: calc(100% + 8px);
+  z-index: 20;
+
+  background: #1f2937;
+  color: #f9fafb;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  padding: 0.6rem 0.75rem;
+  border-radius: 8px;
+
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(4px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+
+  pointer-events: none;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+.featured-grid a[data-excerpt]:hover::after {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* On touch devices, disable the hover tooltip (no real hover) */
+@media (hover: none) {
+  .featured-grid a[data-excerpt]::after {
+    display: none;
+  }
+}
 </style>
 
 <div class="section-divider"></div>
@@ -563,27 +604,37 @@ h1 {
 
 <div class="featured-grid">
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html">A Topology of Memory, Possibility, and Grace</a>
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html"
+     data-excerpt="A philosophical and theological exploration of time through the lemniscate as a topology of memory, possibility, freedom, grace, and providential return.">A Topology of Memory, Possibility, and Grace</a>
 
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html">Four Planes of Existence on the Lemniscate</a>
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html"
+     data-excerpt="A theological-anthropological essay proposing the Gaitan Topology: a four-quadrant ontological framework organized around the crossing point of the Now, presence, grace, and existential displacement.">Four Planes of Existence on the Lemniscate</a>
 
-  <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">Does Time need Me or Do I need Time?</a>
+  <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html"
+     data-excerpt="A philosophical and theological meditation on time and presence, arguing that the invariant Now is sustained by the ground of being named as I AM WHO I AM.">Does Time need Me or Do I need Time?</a>
 
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">A Critique of Descartes</a>
+  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html"
+     data-excerpt="A metaphysical critique of Descartes, arguing not 'I think, therefore I am,' but that thought itself presupposes the prior reality of being.">A Critique of Descartes</a>
 
-  <a href="/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html">The Infinite Interior</a>
-  
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">On Happiness</a>
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html"
+     data-excerpt="An essay on algorithmic displacement read through the prepositions from, anytime, and then.">The Grammar of Displacement</a>
 
-  <a href="/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html">The Topology of Absolution</a>
-  
-  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">Non te egeo: When We Stopped Asking</a>
+  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html"
+     data-excerpt="A philosophical and theological inquiry into happiness, arguing that human longing seeks enduring fullness rather than fleeting satisfaction, and that finite goods cannot satisfy the desire for permanence.">On Happiness</a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">You Cannot Add One Hour</a>
-    
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html">Alpha and Omega</a>
-  
-  </div>
+  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
+     data-excerpt="Algorithms industrialize the ancient temptation of Genesis: redefining reality, perception, and access to divine presence.">Eve's Algorithm</a>
+
+  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html"
+     data-excerpt="A reflection on digital culture's preemptive supply of answers, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the erosion of the capacity to ask.">Non te egeo: When We Stopped Asking</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html"
+     data-excerpt="A philosophical meditation on temporality, finitude, and the will, arguing that human life consists of finite crossings whose moments differ in ontological density.">You Cannot Add One Hour</a>
+
+  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html"
+     data-excerpt="A philosophical and theological meditation on the Now, the cosmos, and Alpha and Omega as the sustaining foundation of temporality and existence.">Alpha and Omega</a>
+
+</div>
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comer Piedras"
-post-subtitle: "La Tentación de Cristo como Contradiccion Ontológica"
+subtitle: "La Tentación de Cristo como Contradiccion Ontológica"
 description: "Un estudio filosófico y teológico de la primera tentación de Cristo, y cómo la sabiduría divina preserva la inteligibilidad y el orden veraz de la creación."
 date: 2026-06-29
 author: Oscar Gaitan
@@ -124,7 +124,7 @@ La propuesta de Satanás no era, por tanto, una invitación a cometer un acto, s
 
 <br>
 
-## IX. "Si eres el Hijo de Dios"
+## IX. Si eres el Hijo de Dios
 
 La tradición ha leído durante mucho tiempo la frase inicial de Satanás -- *"Si eres el Hijo de Dios"* -- como una expresión de duda, una pulla destinada a provocar a Cristo a probar su identidad. Esta lectura es débil, y casi lo contrario de la verdad.
 
@@ -172,7 +172,7 @@ El rechazo de Cristo no es, por tanto, mera obediencia ni disciplina de sí. Es 
 
 <br>
 
-## XII. "No solo de pan"
+## XII. No solo de pan
 
 Cristo responde, y su respuesta tiene su propia metafísica. No dice meramente que prefiera los bienes espirituales a los físicos, como si la réplica fuera un consejo de ascesis. Dice que no solo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios.
 

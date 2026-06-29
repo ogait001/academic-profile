@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EATING STONES"
+title: "Eating Stones"
 post-subtitle: "The Temptation of Christ as Ontological Contradiction"
 description: "A philosophical and theological study of Christ's first temptation, and how divine wisdom preserves the intelligibility and truthful order of creation."
 date: 2026-06-29

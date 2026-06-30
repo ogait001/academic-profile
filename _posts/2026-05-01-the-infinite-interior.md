@@ -77,7 +77,7 @@ Space is not the container of change. It is the condition of it. Change requires
 
 This is not merely a claim about physical space, though it is consistent with what physics tells us. It is an ontological claim: distance is the structural prerequisite of transition. Without it, what we call change would be replacement — the annihilation of one state and the instantaneous creation of another, with nothing connecting them. That is not change. That is discontinuity. And discontinuity destroys identity rather than transforming it.
 
-Time confirms this. As established in the prior work — *Does Time Need Me, or Do I Need Time?* — time is the formal condition of ordered change, not a substance in its own right. Time requires matter. Matter requires space. Space is what gives change its interior — the structured distance across which transition becomes possible rather than merely arbitrary.
+Time confirms this. As established in the prior work — [*Does Time need Me, or do I need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html) — time is the formal condition of ordered change, not a substance in its own right. Time requires matter. Matter requires space. Space is what gives change its interior — the structured distance across which transition becomes possible rather than merely arbitrary.
 
 > Space is not where change happens. Space is why change can happen at all.
 
@@ -91,7 +91,7 @@ Continuity here is not merely epistemic or descriptive; it is ontological — a 
 
 If continuity were merely epistemic, replacement could occur beneath the level of observation; the argument would fail. The claim here is that no such underlying boundary exists.
 
-Return now to the number line — but read it through the lens developed in *Zero Returned*.
+Return now to the number line — but read it through the lens developed in [*Zero Returned: What Decimal Notation suggests about Repetition, Identity, and Infinity*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html).
 
 This is not an arbitrary analogy. The number line is not being used as a metaphor but as a formal disclosure of what distance entails when fully specified. When mathematics specifies an interval completely, what it reveals is that every finite distance contains an infinite interior. That is not a feature of the notation. It is what distance is, when examined without remainder.
 
@@ -103,7 +103,7 @@ Replacement requires a point of discontinuity — a boundary at which one state 
 
 Now consider what this means for the units themselves.
 
-As proposed in *Zero Returned*, one is the ontological primitive — the irreducible unit from which all compositions are built. Two is one and one in relation. Three is one and one and one. Every number beyond one is a community of ones, each unit retaining its individual integrity within the communal coordinate. And the integrity of each one within the composition is preserved precisely by the continuous infinite recursive distance between them. The ones that compose eight do not merge. They do not dissolve into each other. The approach between any two ones is asymptotic — close enough to compose, irreducibly distinct enough to remain themselves.
+As proposed in [*Zero Returned: What Decimal Notation suggests about Repetition, Identity, and Infinity*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html), one is the ontological primitive — the irreducible unit from which all compositions are built. Two is one and one in relation. Three is one and one and one. Every number beyond one is a community of ones, each unit retaining its individual integrity within the communal coordinate. And the integrity of each one within the composition is preserved precisely by the continuous infinite recursive distance between them. The ones that compose eight do not merge. They do not dissolve into each other. The approach between any two ones is asymptotic — close enough to compose, irreducibly distinct enough to remain themselves.
 
 > The infinite interior is not emptiness between units. It is the structured space that makes genuine relation possible without consuming what is related.
 
@@ -129,7 +129,7 @@ Transformation without boundary is modification — it is the continuous reshapi
 
 The human self is the irreducible one — not by definition, but because any attempt to divide it results not in parts of a self, but in the loss of the unity required for experience. What remains after division is not a smaller self. It is fragments that no longer constitute the integrated point of view from which experience is possible. The self is not merely the smallest unit we have named. It is the unit below which selfhood ceases entirely.
 
-Not in the sense that the self is simple — the interior life is among the most complex structures in the known universe. Not in the sense that the self is unchanging — the self changes continuously, across every scale from the cellular to the biographical. But in the ontological sense established in *Zero Returned*: the self is the unit from which all its compositions are built, the ground that persists through every grouping, the one that cannot be further divided without ceasing to be a self at all.
+Not in the sense that the self is simple — the interior life is among the most complex structures in the known universe. Not in the sense that the self is unchanging — the self changes continuously, across every scale from the cellular to the biographical. But in the ontological sense established in [*Zero Returned: What Decimal Notation suggests about Repetition, Identity, and Infinity*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html): the self is the unit from which all its compositions are built, the ground that persists through every grouping, the one that cannot be further divided without ceasing to be a self at all.
 
 And as with every one, the self is preserved through change by the continuous infinite interior of every transition it undergoes.
 

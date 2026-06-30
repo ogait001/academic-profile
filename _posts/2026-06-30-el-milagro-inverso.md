@@ -24,8 +24,8 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 - [VI. La contradicción forzada dentro del signo](#vi-la-contradiccion-forzada-dentro-del-signo)
 - [VII. Arreados, no acogidos](#vii-arreados-no-acogidos)
 - [VIII. Las dos posturas](#viii-las-dos-posturas)
-- [IX. La tentación de la época](#ix-la-tentacion-de-la-epoca)
-- [X. El oficio ejercido contra sí mismo](#x-el-oficio-ejercido-contra-si-mismo)
+- [IX. La tentación de la época](#ix-la-tentación-de-la-época)
+- [X. El oficio ejercido contra sí mismo](#x-el-oficio-ejercido-contra-sí-mismo)
 - [Referencias](#referencias)
 <br><br>
 

@@ -15,6 +15,13 @@ cover: /assets/covers/el-milagro-inverso.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/30/the-inverse-miracle.html"
 ---
 
+<br>
+
+> “La piedra que desecharon los constructores ha venido a ser la piedra angular.”  
+> — Mateo 21:42
+
+<br>
+
 ## Indice
 - [I. Una nota antes del argumento](#i-una-nota-antes-del-argumento)
 - [II. El argumento recordado](#ii-el-argumento-recordado)

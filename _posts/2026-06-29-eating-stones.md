@@ -15,10 +15,11 @@ cover: /assets/covers/eating-stones-en.png
 translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologia%20filosofica/metafisica/filosofia%20cristiana/ontologia/2026/06/29/comer-piedras.html"
 ---
 
-<div align="center">
-<i>June 29, 2026</i><br>
-<blockquote>Solemnity of Saints Peter and Paul</blockquote>
-</div>
+*June 29, 2026*  
+>Solemnity of Saints Peter and Paul
+
+*And I tell you: you are Peter, and upon this rock I will build my Church, and the gates of hell shall not prevail against it. — Matthew 16:18*
+
 
 <br>
 

@@ -15,8 +15,8 @@ cover: /assets/covers/the-inverse-miracle-en.png
 translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologia%20filosofica/metafisica/filosofia%20cristiana/ontologia/2026/06/30/el-milagro-inverso.html"
 ---
 
-> “La piedra que desecharon los constructores ha venido a ser la piedra angular.”  
-> — Mateo 21:42
+> “The stone the builders rejected has become the cornerstone.”  
+> — Matthew 21:42
 
 <br>
 

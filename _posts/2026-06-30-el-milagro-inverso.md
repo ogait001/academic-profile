@@ -18,10 +18,10 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 ## Indice
 - [I. Una nota antes del argumento](#i-una-nota-antes-del-argumento)
 - [II. El argumento recordado](#ii-el-argumento-recordado)
-- [III. La Eucaristía como milagro inverso](#iii-la-eucaristia-como-milagro-inverso)
-- [IV. La inversión: de "si" a "porque"](#iv-la-inversion-de-si-a-porque)
+- [III. La Eucaristía como milagro inverso](#iii-la-eucaristía-como-milagro-inverso)
+- [IV. La inversión: de "si" a "porque"](#iv-la-inversión-de-si-a-porque)
 - [V. Los que ascendieron y luego se invirtieron](#v-los-que-ascendieron-y-luego-se-invirtieron)
-- [VI. La contradicción forzada dentro del signo](#vi-la-contradiccion-forzada-dentro-del-signo)
+- [VI. La contradicción forzada dentro del signo](#vi-la-contradicción-forzada-dentro-del-signo)
 - [VII. Arreados, no acogidos](#vii-arreados-no-acogidos)
 - [VIII. Las dos posturas](#viii-las-dos-posturas)
 - [IX. La tentación de la época](#ix-la-tentación-de-la-época)

@@ -634,6 +634,12 @@ h1 {
   <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html"
      data-excerpt="A philosophical and theological meditation on the Now, the cosmos, and Alpha and Omega as the sustaining foundation of temporality and existence.">Alpha and Omega</a>
 
+ <a href="/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html"
+     data-excerpt="Absolution restores communion with God while the work of temporal restoration continues. A topological meditation on confession, grace, and reconciliation.">The Topology of Absolution</a>
+
+ <a href="/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html"
+     data-excerpt="A philosophical meditation on identity, continuity, and change, proposing the infinite interior as the uninterrupted structure that preserves the self across transformation.">The Infinite Interior</a>
+     
 </div>
 
 

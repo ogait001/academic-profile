@@ -30,7 +30,7 @@ excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el ca
 - [IV. Una Objeción y su Respuesta](#iv-una-objeción-y-su-respuesta)
 - [V. El Ser Asintótico](#v-el-ser-asintótico)
 - [VI. Tres Interlocutores](#vi-tres-interlocutores)
-- [VII. El Ahora como Única Dirección del Cambio](#vii-el-ahora-como-única-dirección-del-cambio)
+- [VII. El Ahora como unica dirección del Cambio](#vii-el-ahora-como-única-dirección-del-cambio)
 - [VIII. El Fundamento](#viii-el-fundamento)
 - [Referencias](#referencias)
 
@@ -76,7 +76,7 @@ El espacio no es el contenedor del cambio. Es su condición. El cambio requiere 
 
 Esto no es solo una afirmación sobre el espacio físico, aunque es coherente con lo que nos dice la física. Es una afirmación ontológica: la distancia es el prerrequisito estructural de la transición. Sin ella, lo que llamamos cambio sería reemplazo — la aniquilación de un estado y la creación instantánea de otro, sin nada que los conecte. Eso no es cambio. Es discontinuidad. Y la discontinuidad destruye la identidad en lugar de transformarla.
 
-El tiempo lo confirma. Como se estableció en el trabajo previo — *¿Necesita el tiempo que yo exista, o necesito yo el tiempo?* — el tiempo es la condición formal del cambio ordenado, no una sustancia en sí misma. El tiempo requiere materia. La materia requiere espacio. El espacio es lo que da al cambio su interior — la distancia estructurada a través de la cual la transición se vuelve posible en lugar de meramente arbitraria.
+El tiempo lo confirma. Como se estableció en el trabajo previo — [*¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?*](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html) — el tiempo es la condición formal del cambio ordenado, no una sustancia en sí misma. El tiempo requiere materia. La materia requiere espacio. El espacio es lo que da al cambio su interior — la distancia estructurada a través de la cual la transición se vuelve posible en lugar de meramente arbitraria.
 
 > El espacio no es donde ocurre el cambio. El espacio es la razón por la que el cambio puede ocurrir.
 
@@ -88,7 +88,8 @@ Y este reencuadre tiene consecuencias para el ser que no han sido desarrolladas.
 
 La continuidad aquí no es meramente epistémica o descriptiva; es ontológica — una propiedad de la transición misma, no de cómo se observa o modela. Si la continuidad fuera meramente epistémica, el reemplazo podría ocurrir por debajo del nivel de observación y el argumento fallaría. La afirmación aquí es que no existe tal límite subyacente.
 
-Regresemos ahora a la recta numérica — pero leámosla a través del lente desarrollado en *El Cero que Regresa*.
+Regresemos ahora a la recta numérica — pero leámosla a través del lente desarrollado en [*El Cero que Regresa:Lo que la Notación Decimal sugiere sobre la Repetición, la Identidad y el Infinito*](https://oscargaitan.org/ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html)
+.
 
 Esto no es una analogía arbitraria. La recta numérica no se utiliza como metáfora sino como una revelación formal de lo que implica la distancia cuando se especifica completamente. Cuando las matemáticas especifican un intervalo de manera completa, lo que revelan es que toda distancia finita contiene un interior infinito. Eso no es una característica de la notación. Es lo que es la distancia, cuando se examina sin residuo.
 
@@ -100,7 +101,7 @@ El reemplazo requiere un punto de discontinuidad — un límite en el que un est
 
 Consideremos ahora lo que esto significa para las unidades mismas.
 
-Como se propuso en *El Cero que Regresa*, el uno es el primitivo ontológico — la unidad irreducible de la que se construyen todas las composiciones. El dos es uno y uno en relación. El tres es uno y uno y uno. Todo número más allá del uno es una comunidad de unos, cada unidad reteniendo su integridad individual dentro de la coordenada comunal. Y la integridad de cada uno dentro de la composición se preserva precisamente por la distancia recursiva infinita continua entre ellos. Los unos que componen el ocho no se fusionan. No se disuelven entre sí. La aproximación entre dos unos cualesquiera es asintótica — suficientemente cercana para componer, irreduciblemente distinta para permanecer ella misma.
+Como se propuso en [*El Cero que Regresa:Lo que la Notación Decimal sugiere sobre la Repetición, la Identidad y el Infinito*](https://oscargaitan.org/ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html), el uno es el primitivo ontológico — la unidad irreducible de la que se construyen todas las composiciones. El dos es uno y uno en relación. El tres es uno y uno y uno. Todo número más allá del uno es una comunidad de unos, cada unidad reteniendo su integridad individual dentro de la coordenada comunal. Y la integridad de cada uno dentro de la composición se preserva precisamente por la distancia recursiva infinita continua entre ellos. Los unos que componen el ocho no se fusionan. No se disuelven entre sí. La aproximación entre dos unos cualesquiera es asintótica — suficientemente cercana para componer, irreduciblemente distinta para permanecer ella misma.
 
 > El interior infinito no es vacío entre unidades. Es el espacio estructurado que hace posible la relación genuina sin consumir lo que relaciona.
 
@@ -126,7 +127,7 @@ La transformación sin límite es modificación — es la remodelación continua
 
 El ser humano es el uno irreducible — no por definición, sino porque cualquier intento de dividirlo no resulta en partes de un ser, sino en la pérdida de la unidad requerida para la experiencia. Lo que queda después de la división no es un ser más pequeño. Son fragmentos que ya no constituyen el punto de vista integrado desde el cual la experiencia es posible. El ser no es meramente la unidad más pequeña que hemos nombrado. Es la unidad por debajo de la cual el ser cesa por completo.
 
-No en el sentido de que el ser sea simple — la vida interior está entre las estructuras más complejas del universo conocido. No en el sentido de que el ser sea inmutable — el ser cambia continuamente, en todas las escalas, desde lo celular hasta la biográfica. Sino en el sentido ontológico establecido en *El Cero que Regresa*: el ser es la unidad de la que se construyen todas sus composiciones, el fundamento que persiste a través de cada agrupación, el uno que no puede dividirse más sin dejar de ser un ser.
+No en el sentido de que el ser sea simple — la vida interior está entre las estructuras más complejas del universo conocido. No en el sentido de que el ser sea inmutable — el ser cambia continuamente, en todas las escalas, desde lo celular hasta la biográfica. Sino en el sentido ontológico establecido en [*El Cero que Regresa:Lo que la Notación Decimal sugiere sobre la Repetición, la Identidad y el Infinito*](https://oscargaitan.org/ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html): el ser es la unidad de la que se construyen todas sus composiciones, el fundamento que persiste a través de cada agrupación, el uno que no puede dividirse más sin dejar de ser un ser.
 
 Y al igual que con cada uno, el ser se preserva a través del cambio por el interior infinito continuo de cada transición que atraviesa.
 
@@ -154,7 +155,7 @@ Esta proposición no surge en aislamiento. Tres figuras en la historia de la fil
 
 <br>
 
-## VII. El Ahora como Única Dirección del Cambio
+## VII. El Ahora como unica dirección del Cambio
 
 Todo cruce se actualiza en el Ahora.
 

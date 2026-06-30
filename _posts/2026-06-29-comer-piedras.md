@@ -15,6 +15,12 @@ cover: /assets/covers/comer-piedras.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/29/eating-stones.html"
 ---
 
+*29 de Junio de 2026*  
+>Solemnity of Saints Peter and Paul
+
+*Y yo te digo a ti: que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del infierno no prevalecerán contra ella. — Mateo 16, 18*
+
+
 <br>
 
 ## Indice

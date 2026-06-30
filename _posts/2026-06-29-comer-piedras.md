@@ -16,7 +16,7 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 ---
 
 *29 de Junio de 2026*  
->Solemnity of Saints Peter and Paul
+>Solemnidad de los Santos Pedro y Pablo 
 
 *Y yo te digo a ti: que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del infierno no prevalecerán contra ella. — Mateo 16, 18*
 

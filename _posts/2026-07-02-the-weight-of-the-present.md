@@ -12,12 +12,19 @@ doi: 10.5281/zenodo.21177683
 record_url: https://zenodo.org/doi/10.5281/zenodo.21177683
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21177683
 cover: /assets/covers/the-weight-of-the-present.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/ontologia/filosofia%20catolica/tomismo/2026/07/02/el-peso-del-presente.html"
 ---
 <br><br>
 
-> Caminante, no hay camino, / se hace camino al andar. / Al andar se hace camino, / y al volver la vista atrás / se ve la senda que nunca / se ha de volver a pisar.
+> Caminante, no hay camino,  
+> se hace camino al andar.  
+> Al andar se hace camino,  
+> y al volver la vista atrás  
+> se ve la senda que nunca  
+> se ha de volver a pisar.  
+>
 > — Antonio Machado, *Campos de Castilla* (1912)
+
 
 <br>
 

@@ -41,7 +41,7 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
     letter-spacing: 0.2px;
   }
   .lx-sub { font-size: 1rem; color: var(--soft); line-height: 1.7; max-width: 640px; }
-  .lx-sub + .lx-sub { margin-top: 0.85rem; font-size: 0.92rem; color: var(--faint); }
+  .lx-sub + .lx-sub { margin-top: 0.85rem; font-size: 0.92rem; color: var(--soft); }
 
   /* ---------- controls ---------- */
   .lx-controls {
@@ -212,7 +212,7 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
   </div>
 
   <div class="lx-controls">
-    <input id="lxSearch" class="lx-search" type="text" placeholder="Search terms and definitions…" aria-label="Search the lexicon">
+    <input id="lxSearch" class="lx-search" type="text" placeholder="Search terms… (press Enter to jump to a term)" aria-label="Search the lexicon">
     <button class="lx-filter active" data-tier="all">All</button>
     <button class="lx-filter" data-tier="1">Foundational</button>
     <button class="lx-filter" data-tier="2">Temporal</button>
@@ -373,6 +373,7 @@ const LEX = {
       card.id = e.id;
       card.dataset.tier = e.tier;
       card.dataset.search = (e.name + " " + e.def + " " + e.fn).toLowerCase();
+      card.dataset.title = e.name.toLowerCase();
       card.innerHTML = `
         <div class="entry-head" role="button" tabindex="0" aria-expanded="false">
           <span class="entry-no">${e.no}</span>
@@ -424,7 +425,12 @@ const LEX = {
 
   function openAndScroll(card) {
     toggle(card, true);
-    card.scrollIntoView({ behavior: "smooth", block: "center" });
+    // wait for the expand animation to begin so the scroll targets the full height
+    requestAnimationFrame(() => {
+      setTimeout(() => {
+        card.scrollIntoView({ behavior: "smooth", block: "center" });
+      }, 60);
+    });
     card.classList.remove("flash"); void card.offsetWidth; card.classList.add("flash");
     history.replaceState(null, "", "#" + card.id);
   }
@@ -446,7 +452,8 @@ const LEX = {
   // search
   const search = document.getElementById("lxSearch");
   const noRes = document.getElementById("lxNoResults");
-  search.addEventListener("input", () => {
+
+  function runSearch() {
     const q = search.value.trim().toLowerCase();
     let any = false;
     document.querySelectorAll(".tier-block").forEach(bl => {
@@ -456,10 +463,29 @@ const LEX = {
         c.classList.toggle("hidden", !hit);
         if (hit) { any = true; tierHasMatch = true; }
       });
-      // hide a tier only if the search is active and nothing in it matched
       bl.classList.toggle("hidden", !!q && !tierHasMatch);
     });
     noRes.style.display = any ? "none" : "block";
+  }
+
+  search.addEventListener("input", runSearch);
+
+  // Enter → if the query names a term, open and scroll to it
+  search.addEventListener("keydown", e => {
+    if (e.key !== "Enter") return;
+    const q = search.value.trim().toLowerCase();
+    if (!q) return;
+    const all = [...document.querySelectorAll(".entry")];
+    // prefer an exact title match, then a title that starts with the query
+    const match = all.find(c => c.dataset.title === q)
+               || all.find(c => c.dataset.title.startsWith(q))
+               || all.find(c => !c.classList.contains("hidden"));
+    if (match) {
+      search.value = "";
+      runSearch();                 // clear the filter so scrolling works
+      openAndScroll(match);
+      search.blur();
+    }
   });
 
   // deep-link on load

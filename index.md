@@ -682,13 +682,13 @@ The essays collected here develop an original philosophical framework at the int
      title="Meaning varies with position, not with subjective interpretation.">
     Topological Relativity
   </a>
-  <a class="pill" href="/lexicon/#condensation"
-     title="Each Now gathers the preceding present rather than replacing it.">
-    Condensation
-  </a>
   <a class="pill" href="/lexicon/#infinite-interior"
      title="The continuous, asymptotic space that preserves identity across transformation.">
     Infinite Interior
+  </a>
+  <a class="pill" href="/lexicon/#condensation"
+     title="Each Now gathers the preceding present rather than replacing it.">
+    Condensation
   </a>
   <a class="pill" href="/lexicon/#inheritance"
      title="Everything the previous moment contributes to the new condensation.">

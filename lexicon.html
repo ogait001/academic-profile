@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lexicon of the Gaitán Topology
+title: Lexicon of the Gaitan Topology
 permalink: /lexicon/
-description: "The Lexicon of the Gaitán Topology — a systematic reference of the twenty-two interconnected concepts and five foundational propositions of Oscar Gaitán's philosophy of time, ontology, and Catholic thought."
+description: "The Lexicon of the Gaitan Topology — a systematic reference of the twenty-two interconnected concepts and five foundational propositions of Oscar Gaitan's philosophy of time, ontology, and Catholic thought."
 ---
 
 <style>
@@ -123,8 +123,16 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
     font-family: "EB Garamond", Garamond, Georgia, serif;
     font-size: 1.18rem; font-weight: 500; flex: 1; letter-spacing: 0.2px;
   }
-  .entry-chev { color: var(--faint); font-size: 0.85rem; transition: transform 0.2s ease; }
-  .entry.open .entry-chev { transform: rotate(180deg); }
+  .entry-chev { color: var(--faint); font-size: 0.85rem; transition: transform 0.2s ease, color 0.2s ease; }
+  .entry.open .entry-chev { transform: rotate(180deg); color: var(--gold); }
+  .entry.open .entry-head { position: sticky; top: 0; background: var(--paper); z-index: 1; }
+  .entry.open .entry-head::after {
+    content: "collapse"; position: absolute; right: 2.8rem; top: 50%;
+    transform: translateY(-50%); font-family: system-ui, sans-serif;
+    font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--faint); opacity: 0; transition: opacity 0.15s ease; pointer-events: none;
+  }
+  .entry.open .entry-head:hover::after { opacity: 1; }
 
   .entry-body { max-height: 0; overflow: hidden; transition: max-height 0.35s ease; }
   .entry-body.open { max-height: 1400px; }
@@ -205,8 +213,8 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
 <div class="lx">
 
   <div class="lx-head">
-    <p class="lx-eyebrow">Gaitán Topology · Reference</p>
-    <h1 class="lx-title">Lexicon of the Gaitán Topology</h1>
+    <p class="lx-eyebrow">Gaitan Topology · Reference</p>
+    <h1 class="lx-title">Lexicon of the Gaitan Topology</h1>
     <p class="lx-sub">Twenty-two interconnected concepts, arranged not alphabetically but by ontological order — from the non-derivative ground through temporal operation, anthropological dynamics, and topological principle, to the cultural pathologies that follow from displacement. Each entry defines a structural operation within the framework, not a dictionary meaning.</p>
     <p class="lx-sub">The <em>Relation</em> of each entry names the concepts with which it stands in constitutive dependence. Those names are live — follow them to read the lexicon as the network it describes.</p>
   </div>
@@ -413,9 +421,14 @@ const LEX = {
       if (t) { openAndScroll(t); }
       return;
     }
-    // 2. Click anywhere in an entry → toggle it open/closed
+    // 2. Click anywhere in an entry → toggle it open/closed,
+    //    unless the click was actually the end of a text selection (so users can copy defs)
     const card = e.target.closest(".entry");
-    if (card) toggle(card);
+    if (card) {
+      const sel = window.getSelection();
+      if (sel && sel.type === "Range" && sel.toString().length > 0) return;
+      toggle(card);
+    }
   });
   body.addEventListener("keydown", e => {
     if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("entry-head")) {

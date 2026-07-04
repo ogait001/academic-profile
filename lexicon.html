@@ -128,7 +128,10 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
 
   .entry-body { max-height: 0; overflow: hidden; transition: max-height 0.35s ease; }
   .entry-body.open { max-height: 1400px; }
+  .entry.open { cursor: pointer; }            /* click anywhere in an open entry to collapse */
   .entry-inner { padding: 0 1.15rem 1.2rem 1.15rem; }
+  .entry-inner .field-def,
+  .entry-inner .field-fn { cursor: auto; }    /* let users select the definition text */
 
   .field-label {
     font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
@@ -149,12 +152,13 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
   }
   .rel-targets { display: flex; flex-wrap: wrap; gap: 0.35rem; }
   .rel-link {
-    font-size: 0.8rem; text-decoration: none; color: var(--soft);
+    font: inherit; font-size: 0.8rem; text-decoration: none; color: var(--soft);
     background: var(--panel); border: 1px solid var(--gold-soft);
     padding: 0.2rem 0.65rem; border-radius: 999px;
-    transition: all 0.13s ease; cursor: pointer;
+    transition: all 0.13s ease; cursor: pointer; line-height: 1.4;
   }
   .rel-link:hover { background: #f1e9dd; border-color: var(--gold); color: var(--gold); }
+  .rel-link:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
   .rel-plain {
     font-size: 0.8rem; color: var(--soft);
     padding: 0.2rem 0.55rem;
@@ -184,6 +188,7 @@ description: "The Lexicon of the Gaitán Topology — a systematic reference of 
   }
   .lx-foot a { color: var(--gold); text-decoration: none; }
   .no-results { display: none; padding: 2rem 0; text-align: center; color: var(--faint); font-size: 0.9rem; }
+  .hidden { display: none !important; }
 
   @media (max-width: 640px) {
     .lx { padding: 1.8rem 1.1rem 3rem; }
@@ -344,7 +349,7 @@ const LEX = {
   function relRow(verb, target) {
     const known = byId[target];
     if (known) {
-      return `<a class="rel-link" href="#${target}" data-jump="${target}">${known.name.replace(/\s*\(.*\)/,'')}</a>`;
+      return `<button type="button" class="rel-link" data-jump="${target}">${known.name.replace(/\s*\(.*\)/,'')}</button>`;
     }
     return `<span class="rel-plain">${target}</span>`;
   }
@@ -398,15 +403,18 @@ const LEX = {
   }
 
   body.addEventListener("click", e => {
+    // 1. Relation pill → jump to target, do NOT toggle the current entry
     const jump = e.target.closest("[data-jump]");
     if (jump) {
       e.preventDefault();
+      e.stopPropagation();
       const t = document.getElementById(jump.dataset.jump);
       if (t) { openAndScroll(t); }
       return;
     }
-    const head = e.target.closest(".entry-head");
-    if (head) toggle(head.parentElement);
+    // 2. Click anywhere in an entry → toggle it open/closed
+    const card = e.target.closest(".entry");
+    if (card) toggle(card);
   });
   body.addEventListener("keydown", e => {
     if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("entry-head")) {
@@ -427,8 +435,10 @@ const LEX = {
       document.querySelectorAll(".lx-filter").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       const tier = btn.dataset.tier;
+      // clear any active search when switching filters
+      if (search.value) { search.value = ""; search.dispatchEvent(new Event("input")); }
       document.querySelectorAll(".tier-block").forEach(bl => {
-        bl.style.display = (tier === "all" || bl.dataset.tier === tier) ? "" : "none";
+        bl.classList.toggle("hidden", !(tier === "all" || bl.dataset.tier === tier));
       });
     });
   });
@@ -439,14 +449,15 @@ const LEX = {
   search.addEventListener("input", () => {
     const q = search.value.trim().toLowerCase();
     let any = false;
-    document.querySelectorAll(".entry").forEach(c => {
-      const hit = !q || c.dataset.search.includes(q);
-      c.style.display = hit ? "" : "none";
-      if (hit) any = true;
-    });
     document.querySelectorAll(".tier-block").forEach(bl => {
-      const visible = bl.querySelectorAll('.entry:not([style*="display: none"])').length;
-      bl.style.display = visible ? "" : "none";
+      let tierHasMatch = false;
+      bl.querySelectorAll(".entry").forEach(c => {
+        const hit = !q || c.dataset.search.includes(q);
+        c.classList.toggle("hidden", !hit);
+        if (hit) { any = true; tierHasMatch = true; }
+      });
+      // hide a tier only if the search is active and nothing in it matched
+      bl.classList.toggle("hidden", !!q && !tierHasMatch);
     });
     noRes.style.display = any ? "none" : "block";
   });

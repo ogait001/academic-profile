@@ -656,37 +656,37 @@ The essays collected here develop an original philosophical framework at the int
 ### Original Concepts & Structural Propositions
 <div class="pill-grid">
 
-  <a class="pill" href="/research-framework/#now"
+  <a class="pill" href="/lexicon/#now"
      title="The invariant point of actualization where every being becomes actual.">
     The Ontological Now
   </a>
 
-  <a class="pill" href="/research-framework/#non-derivative"
+  <a class="pill" href="/lexicon/#non-derivative"
      title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
     Non‑derivative
   </a>
 
-  <a class="pill" href="/research-framework/#temporal-density"
+  <a class="pill" href="/lexicon/#temporal-density"
      title="A moment's density depends on the breadth of the trajectory it renders visible.">
     Temporal Density
   </a>
 
-  <a class="pill" href="/research-framework/#structural-inertia"
+  <a class="pill" href="/lexicon/#structural-inertia"
      title="The ontological resistance to change arising from repeated acts in the Now.">
     Structural Inertia
   </a>
 
-  <a class="pill" href="/research-framework/#flat-sight"
-     title="Perceiving content without perceiving position.">
-    Flat Sight
+  <a class="pill" href="/lexicon/#flat-view"
+     title="Perceiving content without perceiving position; the world without moral relief or depth.">
+    Flat View
   </a>
 
-  <a class="pill" href="/research-framework/#topological-relativity"
+  <a class="pill" href="/lexicon/#topological-relativity"
      title="Meaning varies with position, not with subjective interpretation.">
     Topological Relativity
   </a>
 
-  <a class="pill" href="/research-framework/#residency"
+  <a class="pill" href="/lexicon/#residency"
      title="The unfinished exerts a structural pull on the will.">
     Residency
   </a>
@@ -694,7 +694,7 @@ The essays collected here develop an original philosophical framework at the int
 </div>
 
 
-[Explore the full Research Framework →](/research-framework/)
+[Open the full Lexicon →](/lexicon/)
 
 <div class="section-divider"></div>
 

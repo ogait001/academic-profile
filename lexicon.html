@@ -499,9 +499,10 @@ const LEX = {
     const q = search.value.trim().toLowerCase();
     if (!q) return;
     const all = [...document.querySelectorAll(".entry")];
-    // prefer an exact title match, then a title that starts with the query
+    // match priority: exact title → title starts with query → title contains query → first visible
     const match = all.find(c => c.dataset.title === q)
                || all.find(c => c.dataset.title.startsWith(q))
+               || all.find(c => c.dataset.title.includes(q))
                || all.find(c => !c.classList.contains("hidden"));
     if (match) {
       search.value = "";

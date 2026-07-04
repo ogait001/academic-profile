@@ -406,6 +406,16 @@ const LEX = {
     const b = card.querySelector(".entry-body");
     const head = card.querySelector(".entry-head");
     const open = force !== undefined ? force : !card.classList.contains("open");
+    // single-open: when opening this entry, close any other that is open
+    if (open) {
+      document.querySelectorAll(".entry.open").forEach(other => {
+        if (other !== card) {
+          other.classList.remove("open");
+          other.querySelector(".entry-body").classList.remove("open");
+          other.querySelector(".entry-head").setAttribute("aria-expanded", "false");
+        }
+      });
+    }
     card.classList.toggle("open", open);
     b.classList.toggle("open", open);
     head.setAttribute("aria-expanded", open);

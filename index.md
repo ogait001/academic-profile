@@ -318,6 +318,12 @@ h1 {
   transition: background 0.15s ease, border-color 0.15s ease;
 }
 
+.pill,
+.pill:link,
+.pill:visited {
+  color: #111 !important;
+  text-decoration: none;
+}
 .pill:hover {
   background: #ececec;
   border-color: #c8c8c8;
@@ -654,7 +660,8 @@ h1 {
 The essays collected here develop an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 ### Original Concepts & Structural Propositions
-<div class="pill-grid">
+
+<div class="pill-grid" markdown="0">
   <a class="pill" href="/lexicon/#now"
      title="The invariant point of actualization where every being becomes actual.">
     The Ontological Now

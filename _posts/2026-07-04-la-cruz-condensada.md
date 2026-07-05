@@ -21,10 +21,10 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/c
 
 - [I. El Pasado que no se marcha](#i-el-pasado-que-no-se-marcha)
 - [II. La Culpa no es el mismo tipo de cosa que la historia](#ii-la-culpa-no-es-el-mismo-tipo-de-cosa-que-la-historia)
-- [III. Lo que sucedió en la Cruz](#iii-lo-que-sucedio-en-la-cruz)
-- [IV. Un solo Sacrificio, no una línea temporal](#iv-un-solo-sacrificio-no-una-linea-de-tiempo)
-- [V. La Salvación como una Vida, no un instante](#v-la-salvacion-como-una-vida-no-un-instante)
-- [VI. Conclusión: Lo que este marco afirma y lo que no afirma](#vi-conclusion-lo-que-este-marco-afirma-y-lo-que-no-afirma)
+- [III. Lo que sucedió en la Cruz](#iii-lo-que-sucedió-en-la-cruz)
+- [IV. Un solo Sacrificio, no una línea temporal](#iv-un-solo-sacrificio-no-una-línea-temporal)
+- [V. La Salvación como una Vida, no un instante](#v-la-salvación-como-una-vida-no-un-instante)
+- [VI. Conclusión: Lo que este marco afirma y lo que no afirma](#vi-conclusión-lo-que-este-marco-afirma-y-lo-que-no-afirma)
 - [Referencias](#referencias)
 
 <br><br>

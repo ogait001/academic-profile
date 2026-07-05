@@ -77,7 +77,7 @@ Este es el sentido en que la Cruz es condensada. Es condensada no porque el peca
 
 <br>
 
-## IV. Un solo Sacrificio, no una linea temporal
+## IV. Un solo Sacrificio, no una línea temporal
 
 Una aclaración más pertenece aquí, porque una inferencia natural pero equivocada tiende a seguirse de pensar la Cruz históricamente: que su eficacia debe dividirse por el calendario — efectiva para quienes vinieron después, cuestión abierta para quienes murieron antes. Esto es un malentendido de qué clase de acto es la Cruz.
 

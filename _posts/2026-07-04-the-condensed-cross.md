@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21208903
 record_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 cover: /assets/covers/the-condensed-cross.png
-translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/filosofia%20catolica/teologia%20de%20la%20expiacion/2026/07/04/la-cruz-condensada.html"
+translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/filosofia%20catolica/teologia%20de%20la%20expiacion/2026/07/04/la-cruz-condensada.html#iv-un-solo-sacrificio-no-una-l%C3%ADnea-temporal"
 ---
 
 <br><br>
@@ -31,7 +31,7 @@ translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/filos
 
 ## I. The Past That Does Not Leave
 
-Two results of this topology are presupposed here and argued elsewhere; they are recalled, not re-derived. The first is condensation: every present gathers the preceding state into itself rather than succeeding it, so that the past survives not as a set of still-existing moments trailing behind us but by ceasing to be a moment and becoming a constitution — the settled shape, the structural inertia, of the one who now exists (*The Weight of the Present*). The second is the distinction of levels: the past is not one province of reality alongside present and future but the only wholly actualized dimension of a person's temporal being, condensed entire into whatever the present now is, whether or not memory can recover it (*When Is the Present?*).
+Two results of this topology are presupposed here and argued elsewhere; they are recalled, not re-derived. The first is condensation: every present gathers the preceding state into itself rather than succeeding it, so that the past survives not as a set of still-existing moments trailing behind us but by ceasing to be a moment and becoming a constitution — the settled shape, the structural inertia, of the one who now exists ([*The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming*](https://oscargaitan.org/metaphysics/philosophical%20theology/ontology/catholic%20philosophy/thomism/2026/07/02/the-weight-of-the-present.html)). The second is the distinction of levels: the past is not one province of reality alongside present and future but the only wholly actualized dimension of a person's temporal being, condensed entire into whatever the present now is, whether or not memory can recover it ([*When Is the Present? On the Invariant Now and Temporal Actuality*](https://oscargaitan.org/metaphysics/ontology/philosophical%20theology/catholic%20philosophy/thomism/2026/07/03/when-is-the-present.html)).
 
 *The past is accumulated, not left behind.*
 

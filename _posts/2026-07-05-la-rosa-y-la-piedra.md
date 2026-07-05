@@ -7,7 +7,7 @@ date: 2026-07-05
 author: Oscar Gaitan
 lang: es
 categories: [metafisica, filosofia de la religion, teologia filosofica, semiotica]
-excerpt: "Una meditacion filosofica sobre los nombres, la identidad y los signos, que sostiene que los nombres solo permanecen veraces al corresponder fielmente a realidades que perduran de continuo."
+excerpt: "Una meditación filosofica sobre los nombres, la identidad y los signos, que sostiene que los nombres solo permanecen veraces al corresponder fielmente a realidades que perduran de continuo."
 doi: 10.5281/zenodo.21209972
 record_url: https://zenodo.org/doi/10.5281/zenodo.21209972
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21209972

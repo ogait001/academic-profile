@@ -7,7 +7,7 @@ date: 2026-07-04
 author: Oscar Gaitan
 lang: es
 categories: [metafisica, teologia filosofica, filosofia catolica, teologia de la expiacion]
-excerpt: "El perdon no borra la historia, sino que la redime. Este ensayo ofrece una explicacion ontologica de la redencion mediante la condensacion, la continuidad y la identidad perdurable de la persona humana."
+excerpt: "El perdón no borra la historia, sino que la redime. Este ensayo ofrece una explicación ontológica de la redención mediante la condensación, la continuidad y la identidad perdurable de la persona humana."
 doi: 10.5281/zenodo.21208903
 record_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21208903

@@ -28,7 +28,7 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20religion
 - [Resumen](#resumen)
 - [I. Una Rosa, Cenizas y un Verso Final](#i-una-rosa-cenizas-y-un-verso-final)
 - [II. Lo que un Nombre No Puede Hacer](#ii-lo-que-un-nombre-no-puede-hacer)
-- [III. Lo que un Nombre Sí Puede Hacer](#iii-lo-que-un-nombre-si-puede-hacer)
+- [III. Lo que un Nombre Sí Puede Hacer](#iii-lo-que-un-nombre-sí-puede-hacer)
 - [IV. ¿Conservamos Nuestros Nombres?](#iv-conservamos-nuestros-nombres)
 - [V. El Nombre Desnudo](#v-el-nombre-desnudo)
 - [VI. Conclusión: Lo que la Rosa le Enseña a la Piedra](#vi-conclusión-lo-que-la-rosa-le-enseña-a-la-piedra)

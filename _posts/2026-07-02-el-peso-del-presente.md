@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Peso del Presente"
-subtitle: "Sobre la Condensacion, la Gracia y la Continuidad del Devenir"
+subtitle: "Sobre la Condensación, la Gracia y la Continuidad del Devenir"
 description: "Condensación, gracia y continuidad en la metafísica del devenir."
 date: 2026-07-02
 author: Oscar Gaitan

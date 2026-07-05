@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21209972
 record_url: https://zenodo.org/doi/10.5281/zenodo.21209972
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21209972
 cover: /assets/covers/the-rose-and-the-stone.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metafisica/filosofia%20de%20la%20religion/teologia%20filosofica/semiotica/2026/07/05/la-rosa-y-la-piedra.html"
 ---
 
 > *Stat rosa pristina nomine, nomina nuda tenemus.*

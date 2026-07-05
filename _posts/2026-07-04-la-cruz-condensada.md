@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Cruz Condensada"
-subtitle: "Hacia una Metafisica de la Redención Histórica"
+subtitle: "Hacia una Metafísica de la Redención Histórica"
 description: "Una explicacion metafisica de la redencion, el perdon y la Cruz"
 date: 2026-07-04
 author: Oscar Gaitan

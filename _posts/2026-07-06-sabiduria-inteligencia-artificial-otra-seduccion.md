@@ -131,7 +131,7 @@ El peligro, entonces, no es una máquina llena. Es un humano vaciado. La máquin
 
 <br>
 
-## VI. Ninguna maquina se ha aburrido jamas
+## VI. Ninguna máquina se ha aburrido jamas
 
 He aquí un hecho que parece trivial y no lo es. Ninguna máquina se ha aburrido jamás. No porque le falte cómputo --- el aburrimiento no es una escasez de procesamiento. Un sistema puede quedar inactivo, puede esperar, puede mantener un estado nulo indefinidamente sin el más leve rastro de lo que padece una persona aburrida. La razón está más hondo, y al seguirla hacia abajo nos devuelve, inesperadamente, al suelo que estableció el trabajo anterior.
 

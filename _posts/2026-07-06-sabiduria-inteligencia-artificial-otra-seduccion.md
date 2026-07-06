@@ -26,10 +26,10 @@ Geppetto talló un muñeco y ansió que llegara a ser un niño de verdad. La inv
 - [Una nota sobre el metodo](#una-nota-sobre-el-metodo)
 - [I. La apertura equivocada](#i-la-apertura-equivocada)
 - [II. Lo que desaparece](#ii-lo-que-desaparece)
-- [III. La sabiduría artificial no existe](#iii-la-sabiduría-artificial-no-existe-y-todos-lo-saben)
+- [III. La sabiduría artificial no existe](#iii-la-sabiduría-artificial-no-existe)
 - [IV. El derivado y el derivado del derivado](#iv-el-derivado-y-el-derivado-del-derivado)
 - [V. Llevar el razonamiento humano a la Nada](#v-llevar-el-razonamiento-humano-a-la-nada)
-- [VI. Ninguna maquina se ha aburrido jamas](#vi-ninguna-maquina-se-ha-aburrido-jamas)
+- [VI. Ninguna máquina se ha aburrido jamas](#vi-ninguna-máquina-se-ha-aburrido-jamas)
 - [VII. Geppetto invertido](#vii-geppetto-invertido)
 - [VIII. Otra seducción](#viii-otra-seducción)
 - [IX. Conclusión: el suelo que no puede fabricarse](#ix-conclusión-el-suelo-que-no-puede-fabricarse)
@@ -77,7 +77,7 @@ Esta es una afirmación más aguda y más defendible que la negación que dejamo
 
 <br>
 
-## III. La sabiduría artificial no existe --- y todos lo saben
+## III. La sabiduría artificial no existe
 
 Hay una prueba que el lenguaje realiza en nuestro nombre, y vale la pena detenerse en ella porque demuestra el punto sin una sola premisa metafísica.
 

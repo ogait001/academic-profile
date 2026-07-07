@@ -28,7 +28,7 @@ Geppetto carved a puppet and longed for it to become a real boy. The modern inve
 - [A Note on Method](#a-note-on-method)
 - [I. The Wrong Opening](#i-the-wrong-opening)
 - [II. What Disappears](#ii-what-disappears)
-- [III. Artificial Wisdom Does Not Exist](#iii-artificial-wisdom-does-not-exist-and-everyone-knows-it)
+- [III. Artificial Wisdom Does Not Exist](#iii-artificial-wisdom-does-not-exist)
 - [IV. The Derivative and the Derivative of the Derivative](#iv-the-derivative-and-the-derivative-of-the-derivative)
 - [V. Taking Human Reasoning to the Nada](#v-taking-human-reasoning-to-the-nada)
 - [VI. No Machine Has Ever Been Bored](#vi-no-machine-has-ever-been-bored)
@@ -81,7 +81,7 @@ This is a sharper and more defensible claim than the denial we set aside. It doe
 
 <br>
 
-## III. Artificial Wisdom Does Not Exist --- and Everyone Knows It
+## III. Artificial Wisdom Does Not Exist
 
 There is a test the language performs on our behalf, and it is worth pausing on because it proves the point without a single metaphysical premise.
 

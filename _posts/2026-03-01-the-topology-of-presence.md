@@ -371,3 +371,41 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 
 Barrie, J. M. Attributed. “Oh, God, if I were sure I were to die tonight I would repent at once. It is the commonest prayer in all languages.”
 
+<br><br>
+
+## Related Works
+
+### Book
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
+ISBN: 9798248842360  
+Zenodo: https://doi.org/10.5281/zenodo.18684516
+
+<br>
+
+### Featured Essays 
+
+**The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**        
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
+Zenodo: https://doi.org/10.5281/zenodo.19121110
+
+**Does Time need Me, or do I need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being**    
+Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html 
+Zenodo: https://doi.org/10.5281/zenodo.19502525
+
+**The Am that Remains: A Critique of Descartes and a Metaphysics of the Soul**    
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html  
+Zenodo: https://doi.org/10.5281/zenodo.19842987
+
+**The Grammar of Displacement: From, Anytime, Then**     
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html  
+Zenodo: https://doi.org/10.5281/zenodo.20618207
+
+**You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing**    
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html
+Zenodo: https://doi.org/10.5281/zenodo.19599170
+
+**Alpha and Omega: On the Cosmos, the Now, and the God Who holds both ends**    
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html  
+Zenodo: https://doi.org/10.5281/zenodo.20112294
+
+

@@ -205,19 +205,42 @@ Augustine. *Confessions.* Translated by Henry Chadwick. Oxford: Oxford Universit
 
 Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
-**Author's Prior Works**
+## Related Works
 
-Gaitan, Oscar. *Where Is God? Suffering, the Present Moment, and the Ground That Does Not Intervene.* 2026.
+### Book / Libro
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
+ISBN: 9798248842360  
+Zenodo: https://doi.org/10.5281/zenodo.18684516
 
-Gaitan, Oscar. *De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now.* 2026.
+---
 
-Gaitan, Oscar. *Eve's Algorithm: The Industrialization of the Original Temptation.* 2026.
+### Featured Essays 
 
-Gaitan, Oscar. *The Serpent, the Self, and the Collapse of the "I": A Topological Essay on Legion, Digital Mimicry, and the First Extraction.* 2026.
+**A Topology of Memory, Possibility, and Grace**  
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
+Zenodo: https://doi.org/10.5281/zenodo.19121110
 
-Gaitan, Oscar. *The Topology of Presence: Four Planes of Existence on the Lemniscate.*
+**Four Planes of Existence on the Lemniscate**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html
+Zenodo: https://doi.org/10.5281/zenodo.19339347
 
+**The Grammar of Displacement**  
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html
+Zenodo: https://doi.org/10.5281/zenodo.20618207
 
+**Eve’s Algorithm: The Industrialization of the Original Temptation**  
+Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html
+Zenodo: https://doi.org/10.5281/zenodo.20330645
+
+**The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**  
+Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html 
+Zenodo: https://doi.org/10.5281/zenodo.20708609
+
+**The Infinite Interior: On Space, Change, and the Integrity of the Self**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html 
+Zenodo: https://doi.org/10.5281/zenodo.20032817
 
 
 [^now]: The account of the Now as the point of zero-thickness actualization --- the crossing point of the lemniscate --- is developed at length in Oscar Gaitan, *The Topology of Presence: Four Planes of Existence on the Lemniscate*, and in *Where Is God? Suffering, the Present Moment, and the Ground That Does Not Intervene*. Readers new to this framework may wish to begin there.
+
+

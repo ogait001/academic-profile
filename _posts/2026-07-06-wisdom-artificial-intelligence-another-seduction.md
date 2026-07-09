@@ -219,27 +219,27 @@ Zenodo: https://doi.org/10.5281/zenodo.18684516
 ### Featured Essays 
 
 **A Topology of Memory, Possibility, and Grace**  
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  
 Zenodo: https://doi.org/10.5281/zenodo.19121110
 
 **Four Planes of Existence on the Lemniscate**  
-Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html  
 Zenodo: https://doi.org/10.5281/zenodo.19339347
 
 **The Grammar of Displacement**  
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html  
 Zenodo: https://doi.org/10.5281/zenodo.20618207
 
 **Eve’s Algorithm: The Industrialization of the Original Temptation**  
-Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html
+Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html  
 Zenodo: https://doi.org/10.5281/zenodo.20330645
 
 **The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**  
-Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html 
+Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html   
 Zenodo: https://doi.org/10.5281/zenodo.20708609
 
 **The Infinite Interior: On Space, Change, and the Integrity of the Self**  
-Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html 
+Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html   
 Zenodo: https://doi.org/10.5281/zenodo.20032817
 
 <br><br>

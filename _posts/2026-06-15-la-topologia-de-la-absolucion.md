@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "El perdón elimina la frontera; la transformación sana la curvatura sin sustituir a la persona."
+description: "Estudio filosófico sobre la absolución, la agencia y la identidad en la Topología Gaitan, analizando cómo la culpa, el orgullo y la santificación configuran la transformación continua del yo."
 title: "La Topología de la Absolución" 
 subtitle: "Continuidad, Agencia y la No-sustitución del Yo"
 date: 2026-06-15

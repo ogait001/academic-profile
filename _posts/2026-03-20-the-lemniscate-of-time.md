@@ -1453,16 +1453,16 @@ Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. Chapt
 
 <br><br>
 
-## Related Works / Obras Relacionadas
+## Related Works
 
-### Book / Libro
+### Book
 **The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
 ISBN: 9798248842360  
 Zenodo: https://doi.org/10.5281/zenodo.18684516
 
 <br>
 
-### Featured Essays — Destacados
+### Featured Essays
 
 **The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**      
 Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  

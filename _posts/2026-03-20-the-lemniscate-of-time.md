@@ -1451,8 +1451,42 @@ Bernoulli, Jacob. Lemniscate of Bernoulli. Introduced in: *Acta Eruditorum*. Lei
 
 Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. Chapters 8–9. — The imaginary time framework. The orthogonal axis to real time as a mathematical bridge between incompatible states. Analogy for the Ghost Zone topology.
 
-### VI. Author's First Monograph
+<br><br>
 
-Gaitan, Oscar. *The Lemniscate of Time*. Independent publication, 2024. License CC BY-NC 4.0. Available at: Zenodo, OSF, Academia.edu. — The first monograph establishes the lemniscate as a contemplative heuristic for the doctrines of the Fall, the Incarnation, the sacraments, and eschatology. The present volume presupposes it and constitutes its continuation at the biographical, phenomenological, and social level.
+## Related Works / Obras Relacionadas
+
+### Book / Libro
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
+ISBN: 9798248842360  
+Zenodo: https://doi.org/10.5281/zenodo.18684516
+
+<br>
+
+### Featured Essays — Destacados
+
+**The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**      
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  
+Zenodo: https://doi.org/10.5281/zenodo.19121110
+
+**The Topology of Presence: Four Planes of Existence on the Lemniscate**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html  
+Zenodo: https://doi.org/10.5281/zenodo.19339347
+
+**Does Time need Me, or do I need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being**  
+Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html   
+Zenodo: https://doi.org/10.5281/zenodo.19502525
+
+**The Am that Remains: A Critique of Descartes and a Metaphysics of the Soul**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html      
+Zenodo: https://doi.org/10.5281/zenodo.19842987
+
+**You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing**  
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html  
+Zenodo: https://doi.org/10.5281/zenodo.19599170
+
+**Alpha and Omega: On the Cosmos, the Now, and the God Who holds both ends**  
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html    
+Zenodo: https://doi.org/10.5281/zenodo.20112294
+
 
 

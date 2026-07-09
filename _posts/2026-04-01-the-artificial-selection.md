@@ -169,7 +169,6 @@ The Now is not ours. What we place in it is.
 - Aquinas, Thomas. *Summa Theologiae.* Translated by the Fathers of the English Dominican Province.
 - Augustine of Hippo. *Confessions.* Translated by Henry Chadwick. Oxford University Press, 1991.
 - Darwin, Charles. *On the Origin of Species by Means of Natural Selection.* John Murray, 1859.
-- Gaitan, Oscar. *Does Time Need Me, or Do I Need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being.* 2026.
 - Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. Harper & Row, 1962.
 - Kolbert, Elizabeth. *The Sixth Extinction: An Unnatural History.* Henry Holt, 2014.
 - Merleau-Ponty, Maurice. *Phenomenology of Perception.* Translated by Donald Landes. Routledge, 2012.
@@ -177,6 +176,44 @@ The Now is not ours. What we place in it is.
 - *The Holy Bible:* Book of Exodus; Gospel of John.
 
   <br>
+
+## Related Works
+
+### Book
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
+ISBN: 9798248842360  
+Zenodo: https://doi.org/10.5281/zenodo.18684516
+
+<br>
+
+### Featured Essays
+
+**The Grammar of Displacement: From, Anytime, Then**   
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html   
+Zenodo: https://doi.org/10.5281/zenodo.20618207
+
+**On Happiness: Its Duration, its Name, and what Endures**  
+Website: https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html    
+Zenodo: https://doi.org/10.5281/zenodo.20146258
+
+**Eve’s Algorithm: The Industrialization of the Original Temptation**  
+Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html  
+Zenodo: https://doi.org/10.5281/zenodo.20330645
+
+**Non te egeo - I do not need you: When We Stopped Asking**  
+Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html    
+Zenodo: https://doi.org/10.5281/zenodo.20242868
+
+
+**The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**  
+Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html   
+Zenodo: https://doi.org/10.5281/zenodo.20708609
+
+**The Infinite Interior: On Space, Change, and the Integrity of the Self**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html   
+Zenodo: https://doi.org/10.5281/zenodo.20032817
+
+<br>
 
 ## Note on Sources and Method
 

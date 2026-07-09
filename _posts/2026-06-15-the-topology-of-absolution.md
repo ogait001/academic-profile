@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Topology of absolution, agency, identity, and sanctification."
+description: "A philosophical study of absolution, agency, and identity within the Gaitan Topology, examining how guilt, pride, and sanctification shape the continuous transformation of the self."
 title: "The Topology of Absolution"
 subtitle: "Continuity, Agency, and the Non-replacement of the Self"
 date: 2026-06-15

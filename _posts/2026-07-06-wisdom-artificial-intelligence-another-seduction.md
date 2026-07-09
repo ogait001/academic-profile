@@ -205,14 +205,16 @@ Augustine. *Confessions.* Translated by Henry Chadwick. Oxford: Oxford Universit
 
 Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
+<br><br>
+
 ## Related Works
 
-### Book / Libro
+### Book 
 **The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
 ISBN: 9798248842360  
 Zenodo: https://doi.org/10.5281/zenodo.18684516
 
----
+<br>
 
 ### Featured Essays 
 
@@ -240,6 +242,7 @@ Zenodo: https://doi.org/10.5281/zenodo.20708609
 Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html 
 Zenodo: https://doi.org/10.5281/zenodo.20032817
 
+<br><br>
 
 [^now]: The account of the Now as the point of zero-thickness actualization --- the crossing point of the lemniscate --- is developed at length in Oscar Gaitan, *The Topology of Presence: Four Planes of Existence on the Lemniscate*, and in *Where Is God? Suffering, the Present Moment, and the Ground That Does Not Intervene*. Readers new to this framework may wish to begin there.
 

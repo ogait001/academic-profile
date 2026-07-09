@@ -1,13 +1,13 @@
 ---
 layout: post
-description: "A meditation on zero, one, and the unseen ground that carries identity across the thresholds of becoming."
+description: "A metaphysical reading of positional notation, showing how zero as foundation and one as form reveal a structure of identity sustained through each threshold."
 title: "Zero and One, Dust and Ashes" 
 subtitle: "Positional Notation as a Model of Being"
 date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]
 lang: en
-excerpt: "A meditation on zero, one, and the unseen ground that carries identity across the thresholds of becoming."
+excerpt: "An exploration of how positional notation models the self: a form that saturates its order and a hidden foundation that carries it through every crossing."
 doi: "10.5281/zenodo.20369064"
 record_url: "https://zenodo.org/records/20369064"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369064"

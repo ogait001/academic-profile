@@ -1,13 +1,13 @@
 ---
 layout: post
-description: "Hume, personal identity, invariance, contingency, and the ground of the self."
+description: "A study of Hume’s introspection and the structured self, showing how invariance and contingency point to a non‑derived ground that never appears among contents."
 title: "The Ground that does not appear"
 subtitle: "Hume, Invariance, and the Self"
 date: 2026-06-15
 categories: [ontology, catholic-theology, philosophy-of-time]
 tags: [hume, invariance, the-self, bundle-theory, non-derivative, crossing-point, structured-whole, augustine, i-am, contingency, introspection, gaitan-topology]
 lang: en
-excerpt: "Hume could not find the self because invariants do not appear among the things that vary."
+excerpt: "An analysis of why the self does not appear in introspection: invariants sustain what varies, and only a non‑derived ground prevents the structured self from collapsing."
 doi: "10.5281/zenodo.20710961"
 record_url: "https://zenodo.org/records/20710961"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20710961"

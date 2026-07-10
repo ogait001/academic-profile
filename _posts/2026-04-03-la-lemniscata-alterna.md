@@ -180,4 +180,6 @@ Los siguientes pasajes son referenciados o evocados a lo largo del ensayo:
 - Moore, E.H. «On the reciprocal of the general algebraic matrix.» *Bulletin of the American Mathematical Society* 26 (1920): 394–395.
 - Penrose, Roger. «A generalized inverse for matrices.» *Mathematical Proceedings of the Cambridge Philosophical Society* 51, n.º 3 (1955): 406–413. La pseudoinversa de Moore-Penrose como análogo estructural del deseo.
 
+<br>
 
+{% include further-reading-es.html %}

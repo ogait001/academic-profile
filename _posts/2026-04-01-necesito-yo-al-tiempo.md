@@ -180,7 +180,7 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 
 **YO SOY EL QUE SOY.**
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -192,6 +192,8 @@ Y sin embargo ninguno de nosotros — ni la criatura ni el tiempo dentro del cua
 - Henri Bergson. *Tiempo y libre albedrío.*
 - Albert Einstein. *La relatividad: La teoría especial y general.*
 - La Santa Biblia. Libro de Eclesiastés · Libro del Exodo · Evangelio de Juan
+
+<br>
 
 {% include further-reading-es.html %}
 

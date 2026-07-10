@@ -371,3 +371,8 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 
 Barrie, J. M. Attributed. “Oh, God, if I were sure I were to die tonight I would repent at once. It is the commonest prayer in all languages.”
 
+<br><br>
+
+{% include further-reading-en.html %}
+
+

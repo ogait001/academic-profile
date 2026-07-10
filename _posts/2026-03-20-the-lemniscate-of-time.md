@@ -1451,8 +1451,8 @@ Bernoulli, Jacob. Lemniscate of Bernoulli. Introduced in: *Acta Eruditorum*. Lei
 
 Hawking, Stephen. *A Brief History of Time*. New York: Bantam Books, 1988. Chapters 8–9. — The imaginary time framework. The orthogonal axis to real time as a mathematical bridge between incompatible states. Analogy for the Ghost Zone topology.
 
-### VI. Author's First Monograph
+<br><br>
 
-Gaitan, Oscar. *The Lemniscate of Time*. Independent publication, 2024. License CC BY-NC 4.0. Available at: Zenodo, OSF, Academia.edu. — The first monograph establishes the lemniscate as a contemplative heuristic for the doctrines of the Fall, the Incarnation, the sacraments, and eschatology. The present volume presupposes it and constitutes its continuation at the biographical, phenomenological, and social level.
+{% include further-reading-en.html %}
 
 

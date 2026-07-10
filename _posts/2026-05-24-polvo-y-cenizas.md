@@ -1,13 +1,13 @@
 ---
 layout: post
-description: "Una meditación sobre el cero, el uno y el fundamento invisible que sostiene la identidad a través de los umbrales del devenir."
+description: "Lectura metafísica de la notación posicional, donde el cero como fundamento y el uno como forma revelan una identidad sostenida a través de cada umbral."
 title: "Cero y Uno, Polvo y Cenizas" 
 subtitle: "La Notación Posicional como Modelo del Ser"
 date: 2026-05-24
 categories: [catholic-theology, philosophy-of-time, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, phenomenology, theological-anthropology, philosophy-of-religion, time-and-eternity, self-and-identity, mathematics, positional-notation, zero, threshold, dust-and-ashes]
 lang: es
-excerpt: "Una meditación sobre el cero, el uno y el fundamento invisible que sostiene la identidad a través de los umbrales del devenir."
+excerpt: "Exploración de cómo la notación posicional modela el yo: una forma que satura su orden y un fundamento invisible que lo sostiene en cada cruce."
 doi: "10.5281/zenodo.20369087"
 record_url: "https://zenodo.org/records/20369087"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369087"

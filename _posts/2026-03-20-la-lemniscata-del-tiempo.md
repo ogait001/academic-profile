@@ -1453,9 +1453,9 @@ Bernoulli, Jacob. Lemniscata de Bernoulli. Introducida en: *Acta Eruditorum*. Le
 
 Hawking, Stephen. *Historia del tiempo: Del big bang a los agujeros negros*. Trad. Miguel Ortuño. Barcelona: Crítica, 1988. Capítulos 8–9. — El marco del tiempo imaginario. El eje ortogonal al tiempo real como puente matemático entre estados incompatibles. Analogía para la topología de la Zona Fantasma.
 
-### VI. Primer Monográfico del Autor
+<br>
 
-Gaitan, Oscar. *La Lemniscata del Tiempo*. Publicación independiente, 2024. Licencia CC BY-NC 4.0. Disponible en: Zenodo, OSF, Academia.edu. — El primer monográfico establece la lemniscata como heurística contemplativa para las doctrinas de la Caída, la Encarnación, los sacramentos y la escatología. El presente volumen presupone su lectura y constituye su continuación en el nivel biográfico, fenomenológico y social.
+{% include further-reading-es.html %}
 
 
 

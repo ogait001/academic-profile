@@ -393,3 +393,4 @@ Heidegger, Martin. *Ser y Tiempo*. Traducción de John Macquarrie y Edward Robin
 
 Barrie, J. M. Atribuido. «Oh, Dios, si estuviera seguro de que voy a morir esta noche, me arrepentiría de inmediato. Es la oración más común en todas las lenguas.»
 
+{% include further-reading-es.html %}

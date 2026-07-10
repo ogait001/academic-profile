@@ -1,13 +1,13 @@
 ---
 layout: post
-description: "A meditation on the three final states"
+description: "A study of how time ends for the person, describing Heaven, Purgatory, and Hell as permanent modes of existing in the Now once temporal succession ceases."
 title: "Where Does Time End?" 
 subtitle: "The Three Nows: Never. Never. Forever."
 date: 2026-04-14
 categories: [philosophy-of-time, catholic-theology, ontology]
 tags: [lemniscate, gaitan-topology, crossing-point, eschatology, time-and-eternity, theological-anthropology, philosophy-of-religion, phenomenology]
 lang: en
-excerpt: "A theological meditation on the end of personal time, where Heaven, Purgatory, and Hell emerge as enduring modes of existence at the crossing point of the Now."
+excerpt: "A theological meditation on the final states as orientations of the will in the Now, showing that Heaven, Purgatory, and Hell differ only by the definitive direction of the self."
 doi: "10.5281/zenodo.19581285"
 record_url: "https://zenodo.org/records/19581285"
 pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"

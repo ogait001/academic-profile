@@ -201,4 +201,41 @@ Augustine of Hippo. *Confessions*. Translated by Henry Chadwick. Oxford: Oxford 
 
 Girard, René. *I See Satan Fall Like Lightning*. Translated by James G. Williams. Maryknoll, NY: Orbis Books, 2001.
 
+<br><br>
+
+## Related Works
+
+### Book 
+**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
+ISBN: 9798248842360  
+Zenodo: https://doi.org/10.5281/zenodo.18684516
+
+<br>
+
+### Featured Essays
+
+
+**The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**      
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  
+Zenodo: https://doi.org/10.5281/zenodo.19121110
+
+**The Topology of Presence: Four Planes of Existence on the Lemniscate**  
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html  
+Zenodo: https://doi.org/10.5281/zenodo.19339347
+
+**Alpha and Omega: On the Cosmos, the Now, and the God Who holds both ends**  
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html    
+Zenodo: https://doi.org/10.5281/zenodo.20112294
+
+**The Grammar of Displacement: From, Anytime, Then**   
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html   
+Zenodo: https://doi.org/10.5281/zenodo.20618207
+
+**Eve’s Algorithm: The Industrialization of the Original Temptation**  
+Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html  
+Zenodo: https://doi.org/10.5281/zenodo.20330645
+
+**Non te egeo - I do not need you: When We Stopped Asking**  
+Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html    
+Zenodo: https://doi.org/10.5281/zenodo.20242868
 

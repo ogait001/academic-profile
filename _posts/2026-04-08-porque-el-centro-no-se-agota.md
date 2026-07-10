@@ -26,9 +26,9 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/08/why-t
 - [VI. Por qué el Centro no se agota](#vi-por-qué-el-centro-no-se-agota)
 - [Referencias](#referencias)
 
-<br>
+<br><br>
 
----
+
 
 ## I. Por qué la Esperanza es lo último que muere
 
@@ -167,3 +167,4 @@ Moore, E. H. «On the Reciprocal of the General Algebraic Matrix.» *Bulletin of
 
 Penrose, Roger. «A Generalized Inverse for Matrices.» *Proceedings of the Cambridge Philosophical Society*, 1955.
 
+{% include further-reading-es.html %}

@@ -18,6 +18,7 @@ excerpt: "Una meditación filosófica sobre la identidad y la perduración, que 
 
 ## Indice
 
+- [Nota sobre fuentes y método](#nota-sobre-fuentes-y-método)
 - [I. La tesis](#i-la-tesis)
 - [II. Lo que Darwin realmente encontró](#ii-lo-que-darwin-realmente-encontró)
 - [III. La honestidad de la naturaleza y sus límites](#iii-la-honestidad-de-la-naturaleza-y-sus-límites)
@@ -27,11 +28,15 @@ excerpt: "Una meditación filosófica sobre la identidad y la perduración, que 
 - [VII. El Ahora Deshabitado](#vii-el-ahora-deshabitado)
 - [VIII. Lo que queda](#viii-lo-que-queda)
 - [Referencias](#referencias)
-- [Nota sobre fuentes y método](#nota-sobre-fuentes-y-método)
+
 
 <br>
 
----
+## Nota sobre fuentes y método
+
+Este ensayo extiende el marco lemniscático desarrollado en [*¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?*](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html), aplicando su estructura ontológica a la ecología, la economía política y la filosofía de la tecnología. Las referencias filosóficas y científicas no son fuentes del argumento sino testigos paralelos de algunos de sus aspectos. La ilustración de la plantación forestal se apoya en la literatura ecológica sobre monocultivos gestionados y pérdida de biodiversidad. El giro teológico de la Sección VII se ofrece como un modelo interpretativo para la pregunta estructural que plantea el argumento, no como una conclusión que el ensayo impone. El argumento se sostiene o cae por su coherencia estructural independientemente de si ese modelo es aceptado.
+
+<br>
 
 ## I. La tesis
 
@@ -180,7 +185,5 @@ El Ahora no es nuestro. Lo que ponemos en él sí lo es.
 
 <br>
 
-## Nota sobre fuentes y método
 
-Este ensayo extiende el marco lemniscático desarrollado en *¿Necesita el tiempo, o necesito yo el tiempo?* (Gaitan, 2026), aplicando su estructura ontológica a la ecología, la economía política y la filosofía de la tecnología. Las referencias filosóficas y científicas no son fuentes del argumento sino testigos paralelos de algunos de sus aspectos. La ilustración de la plantación forestal se apoya en la literatura ecológica sobre monocultivos gestionados y pérdida de biodiversidad. El giro teológico de la Sección VII se ofrece como un modelo interpretativo para la pregunta estructural que plantea el argumento, no como una conclusión que el ensayo impone. El argumento se sostiene o cae por su coherencia estructural independientemente de si ese modelo es aceptado.
 

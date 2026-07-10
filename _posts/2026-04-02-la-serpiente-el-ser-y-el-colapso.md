@@ -206,5 +206,7 @@ No proyectado hacia un futuro que nunca llega.
 
 - Girard, René. *Veo a Satanás caer como el relámpago*. Traducción de James G. Williams. Maryknoll, NY: Orbis Books, 2001.
 
+<br>
+
 {% include further-reading-es.html %}
 

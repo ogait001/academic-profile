@@ -29,7 +29,6 @@ translation_url: 'https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10
 - [IX. YO SOY EL QUE SOY](#ix-yo-soy-el-que-soy)
 - [X. De vuelta a la pregunta](#x-de-vuelta-a-la-pregunta)
 - [Referencias](#referencias)
-- [Nota sobre fuentes y método](#nota-sobre-fuentes-y-método)
 
 <br>
 

@@ -382,30 +382,112 @@ Zenodo: https://doi.org/10.5281/zenodo.18684516
 
 <br>
 
-### Featured Essays 
+<h3>Featured Essays</h3>
 
-**The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**        
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  
-Zenodo: https://doi.org/10.5281/zenodo.19121110
+<ul>
+  <li>
+    <strong>The Lemniscate of Time: A Topology of Memory, Possibility, and Grace</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.19121110">DOI: 10.5281/zenodo.19121110</a>
+  </li>
 
-**Does Time need Me, or do I need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being**    
-Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html   
-Zenodo: https://doi.org/10.5281/zenodo.19502525
+  <li>
+    <strong>The Topology of Presence: Four Planes of Existence on the Lemniscate</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.19339347">DOI: 10.5281/zenodo.19339347</a>
+  </li>
 
-**The Am that Remains: A Critique of Descartes and a Metaphysics of the Soul**    
-Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html    
-Zenodo: https://doi.org/10.5281/zenodo.19842987
+  <li>
+    <strong>Does Time Need Me, or Do I Need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.19502525">DOI: 10.5281/zenodo.19502525</a>
+  </li>
 
-**The Grammar of Displacement: From, Anytime, Then**     
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html    
-Zenodo: https://doi.org/10.5281/zenodo.20618207
+  <li>
+    <strong>The Am that Remains: A Critique of Descartes and a Metaphysics of the Soul</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.19842987">DOI: 10.5281/zenodo.19842987</a>
+  </li>
 
-**You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing**    
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html  
-Zenodo: https://doi.org/10.5281/zenodo.19599170
+  <li>
+    <strong>You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.19599170">DOI: 10.5281/zenodo.19599170</a>
+  </li>
 
-**Alpha and Omega: On the Cosmos, the Now, and the God Who holds both ends**    
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html    
-Zenodo: https://doi.org/10.5281/zenodo.20112294
+  <li>
+    <strong>Alpha and Omega: On the Cosmos, the Now, and the God Who Holds Both Ends</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20112294">DOI: 10.5281/zenodo.20112294</a>
+  </li>
+
+  <li>
+    <strong>The Grammar of Displacement: From, Anytime, Then</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20618207">DOI: 10.5281/zenodo.20618207</a>
+  </li>
+
+  <li>
+    <strong>On Happiness: Its Duration, Its Name, and What Endures</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20146258">DOI: 10.5281/zenodo.20146258</a>
+  </li>
+
+  <li>
+    <strong>Eve's Algorithm: The Industrialization of the Original Temptation</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20330645">DOI: 10.5281/zenodo.20330645</a>
+  </li>
+
+  <li>
+    <strong>Non te egeo - I Do Not Need You: When We Stopped Asking</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20242868">DOI: 10.5281/zenodo.20242868</a>
+  </li>
+
+  <li>
+    <strong>The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20708609">DOI: 10.5281/zenodo.20708609</a>
+  </li>
+
+  <li>
+    <strong>The Infinite Interior: On Space, Change, and the Integrity of the Self</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20032817">DOI: 10.5281/zenodo.20032817</a>
+  </li>
+
+  <li>
+    <strong>Against You Alone: On Judgment, the Soul as Witness to Itself, and the Two Responses that Remain</strong><br>
+    Website:
+    <a href="https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html">OscarGaitan.org</a><br>
+    Zenodo:
+    <a href="https://doi.org/10.5281/zenodo.20087687">DOI: 10.5281/zenodo.20087687</a>
+  </li>
+</ul>
 
 

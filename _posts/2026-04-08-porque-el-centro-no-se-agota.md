@@ -167,4 +167,6 @@ Moore, E. H. «On the Reciprocal of the General Algebraic Matrix.» *Bulletin of
 
 Penrose, Roger. «A Generalized Inverse for Matrices.» *Proceedings of the Cambridge Philosophical Society*, 1955.
 
+<br>
+
 {% include further-reading-es.html %}

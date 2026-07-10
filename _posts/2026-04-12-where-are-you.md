@@ -291,25 +291,25 @@ Zenodo: https://doi.org/10.5281/zenodo.18684516
 ### Featured Essays
 
 **Against You Alone: On Judgment, the Soul as Witness to Itself, and the Two Responses that Remain**
-Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html
+Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html  
 Zenodo: https://doi.org/10.5281/zenodo.20087687  
 
 **The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**  
-Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html 
+Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html   
 Zenodo: https://doi.org/10.5281/zenodo.20708609
 
 **The Topology of Presence: Four Planes of Existence on the Lemniscate**  
-Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html
+Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html  
 Zenodo: https://doi.org/10.5281/zenodo.19339347
 
 **Does Time need Me, or do I need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being**  
-Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html 
+Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html   
 Zenodo: https://doi.org/10.5281/zenodo.19502525
 
 **You Cannot Add One Hour: On Temporal Density, the Formation of the Will, and the Finitude of the Crossing**  
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html
+Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html  
 Zenodo: https://doi.org/10.5281/zenodo.19599170
 
 **The Infinite Interior: On Space, Change, and the Integrity of the Self**  
-Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html 
+Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html   
 Zenodo: https://doi.org/10.5281/zenodo.20032817

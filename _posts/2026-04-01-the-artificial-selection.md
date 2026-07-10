@@ -18,6 +18,7 @@ translation_url: "/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-s
 
 ## Table of Contents
 
+- [Note on Sources and Method](#note-on-sources-and-method)
 - [I. The Thesis](#i-the-thesis)
 - [II. What Darwin Actually Found](#ii-what-darwin-actually-found)
 - [III. Nature’s Honesty and Its Limits](#iii-natures-honesty-and-its-limits)
@@ -27,7 +28,13 @@ translation_url: "/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-s
 - [VII. The Uninhabited Now](#vii-the-uninhabited-now)
 - [VIII. What Remains](#viii-what-remains)
 - [References](#references)
-- [Note on Sources and Method](#note-on-sources-and-method)
+
+
+<br>
+
+## Note on Sources and Method
+
+This essay extends the lemniscate framework developed in [*Does Time need Me, or do I need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html), applying its ontological structure to ecology, political economy, and the philosophy of technology. The philosophical and scientific references are not sources for the argument but parallel witnesses to aspects of it. The timber plantation illustration draws on ecological literature concerning managed monocultures and biodiversity loss. The theological turn in Section VII is offered as one interpretive model for the structural question the argument raises, not as a conclusion the essay imposes. The argument stands or falls on its structural coherence independently of whether that model is accepted.
 
 <br>
 
@@ -177,45 +184,9 @@ The Now is not ours. What we place in it is.
 
   <br>
 
-## Related Works
-
-### Book
-**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
-ISBN: 9798248842360  
-Zenodo: https://doi.org/10.5281/zenodo.18684516
-
-<br>
-
-### Featured Essays
-
-**The Grammar of Displacement: From, Anytime, Then**   
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html   
-Zenodo: https://doi.org/10.5281/zenodo.20618207
-
-**On Happiness: Its Duration, its Name, and what Endures**  
-Website: https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html    
-Zenodo: https://doi.org/10.5281/zenodo.20146258
-
-**Eve’s Algorithm: The Industrialization of the Original Temptation**  
-Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html  
-Zenodo: https://doi.org/10.5281/zenodo.20330645
-
-**Non te egeo - I do not need you: When We Stopped Asking**  
-Website: https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html    
-Zenodo: https://doi.org/10.5281/zenodo.20242868
+{% include further-reading-en.html %}
 
 
-**The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**  
-Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html   
-Zenodo: https://doi.org/10.5281/zenodo.20708609
 
-**The Infinite Interior: On Space, Change, and the Integrity of the Self**  
-Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html   
-Zenodo: https://doi.org/10.5281/zenodo.20032817
 
-<br>
-
-## Note on Sources and Method
-
-This essay extends the lemniscate framework developed in *Does Time Need Me, or Do I Need Time?* (Gaitan, 2026), applying its ontological structure to ecology, political economy, and the philosophy of technology. The philosophical and scientific references are not sources for the argument but parallel witnesses to aspects of it. The timber plantation illustration draws on ecological literature concerning managed monocultures and biodiversity loss. The theological turn in Section VII is offered as one interpretive model for the structural question the argument raises, not as a conclusion the essay imposes. The argument stands or falls on its structural coherence independently of whether that model is accepted.
 

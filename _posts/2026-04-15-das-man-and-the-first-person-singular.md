@@ -48,13 +48,13 @@ translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona
 
 <br>
 
----
+
 
 ## Abstract
 
 This essay examines Martin Heidegger's concept of *Das Man* through literature, theology, and contemporary social life. It argues that anonymity, conformity, and relational fragility emerge where the first person singular is displaced by impersonal collective forms. Through Hans Christian Andersen, Franz Kafka, Lope de Vega, and biblical anthropology, the essay proposes that authentic communion requires selves first gathered into presence.
 
----
+
 
 <br>
 
@@ -66,8 +66,7 @@ What this essay adds is not a continuation of the series but a lateral movement:
 
 The figures employed here — Hans Christian Andersen, Lope de Vega, Franz Kafka, Jenny Curran, and Herbert Kappler — are not repeated here as ornaments or recycled examples. They are reconsidered from a different angle: not the individual's path within the lemniscate, but the social world in which that path unfolds.
 
----
-
+<br>
 
 ## I. The Grammar of the Anonymous
 
@@ -235,5 +234,5 @@ The first person singular is the minimum condition of every form of authentic hu
 ### Historical Reference
 - Kappler, Herbert. SS-Obersturmbannführer; chief of the German Security Police in Rome, 1942–1944. Responsible for the Ardeatine Caves massacre (March 24, 1944).
 
-
+{% include further-reading-en.html %}
 

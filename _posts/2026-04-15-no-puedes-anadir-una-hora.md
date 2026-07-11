@@ -27,9 +27,9 @@ excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la vol
 - [VII. La línea que cierra la serie](#vii-la-línea-que-cierra-la-serie)
 - [Referencias](#referencias)
 
-<br>
+<br><br>
 
----
+
 
 ## I. La Pregunta que Nadie Hace
 
@@ -178,3 +178,6 @@ Aquí. Ahora. Enteramente.
 - Agustín de Hipona. *Confesiones.*
 - Tomás de Aquino. *Suma Teológica.* I–II, qq. 49–54 (sobre el hábito); I, q. 9 (sobre la inmutabilidad y el acto).
 
+<br>
+
+{% include further-reading-es.html %}

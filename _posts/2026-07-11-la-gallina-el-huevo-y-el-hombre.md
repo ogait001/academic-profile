@@ -142,7 +142,7 @@ Gaitan, Oscar. *El peso del presente: sobre la Condensación, la gracia y la con
 
 Gaitan, Oscar. *Carta a un ateo.* 2026.
 
-Gaitan, Oscar. *Cero devuelto: una lectura ontológica de la estructura decimal.* Zenodo, 2026.
+Gaitan, Oscar. *El Cero que Regresa: Lo que la Notación Decimal sugiere sobre la Repetición, la Identidad y el Infinito* Zenodo, 2026.
 
 Gaitan, Oscar. *¿Necesita el tiempo de mí, o necesito yo del tiempo?* Zenodo, 2026.
 

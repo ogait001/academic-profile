@@ -45,7 +45,7 @@ lang: es
 
 <br>
 
----
+
 
 ## I. El llamado
 
@@ -288,3 +288,6 @@ La pregunta es solo si estás mirando hacia ella.
 - Catecismo de la Iglesia Católica. CCC 633, 637, 1026–1029, 1992–2001.
 - Dante Alighieri. *Divina Commedia*. Inferno, Canto I.
 
+<br>
+
+{% include further-reading-en.html %}

@@ -20,7 +20,7 @@ Nota sobre la relación con trabajos anteriores: Este ensayo continúa temas des
 
 ---
 
-<br>
+<br><br>
 
 
 Hay una pregunta tan fundamental que la filosofía occidental pasó siglos rodeando en vez de atravesar. Martin Heidegger la llamó la *Seinsfrage* — la pregunta por el Ser — y tuvo razón al señalar que la tradición había olvidado en gran medida formularla. ¿Qué significa realmente el ‘es’ en cualquier enunciado de existencia? No *qué* son las cosas, que es el asunto de la ciencia y la lógica, sino qué está haciendo el ‘es’ — a qué apunta, qué lo fundamenta, qué lo mantiene abierto.
@@ -76,6 +76,8 @@ La tradición clásica nombra tal actualidad autosustentada en el lenguaje del �
 - Aquino, Tomás de. *Suma Teológica*. Varias ediciones.
 - Aristóteles. *Física*. Varias ediciones.
 - Heidegger, Martin. *Ser y tiempo*. Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
-- La Santa Biblia. Libro del Éxodo; Evangelio de Lucas.
+- La Santa Biblia. Libro del Exodo; Evangelio de Lucas.
 
+<br>
 
+{% include further-reading-es.html %}

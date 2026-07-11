@@ -234,5 +234,7 @@ The first person singular is the minimum condition of every form of authentic hu
 ### Historical Reference
 - Kappler, Herbert. SS-Obersturmbannführer; chief of the German Security Police in Rome, 1942–1944. Responsible for the Ardeatine Caves massacre (March 24, 1944).
 
+<br>
+
 {% include further-reading-en.html %}
 

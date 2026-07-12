@@ -32,7 +32,7 @@ excerpt: "Una reflexión sobre el karma y la gracia, que sostiene que la realida
 
 <br>
 
----
+
 
 ## Preludio — La piedra y la sentencia
 
@@ -50,7 +50,7 @@ En esa única sentencia la misericordia y la verdad permanecen indivisas. La muj
 
 Este ensayo sostiene que cualquier visión de la realidad gobernada únicamente por el retorno, el pago y la consecuencia exacta no puede dar cuenta de ese momento. Puede dar cuenta de las piedras. No puede dar cuenta de la voz.
 
----
+
 
 <br>
 
@@ -82,7 +82,7 @@ En un sistema kármico, no hay interpelación. Ningún *¿dónde estás?* Ningun
 
 > El karma es el bucle sin punto de cruce. Y un bucle sin punto de cruce es un sistema en el cual nada genuinamente nuevo puede ocurrirte. Solo lo que tú mismo has puesto en movimiento.
 
-
+<br>
 
 ## II. El recaudador en el centro
 
@@ -114,7 +114,7 @@ Esto no es un argumento de que las consecuencias no existen. Existen. El hijo de
 
 Y ese algo más es lo que el karma no puede explicar.
 
-
+<br>
 
 ## III. La herida que no espera
 
@@ -142,7 +142,7 @@ Un matiz es esencial aquí. No todo sufrimiento es consecuencia de una acción i
 
 > El cobrador de deudas llega tarde. Muchas almas ya están sangrando por la deuda misma. Y lo que necesitan en el punto de cruce no es otra adición al libro de cuentas. Es alguien que pueda dirigirse a la herida que el libro de cuentas solo mide.
 
-
+<br>
 
 ## IV. David — El asesino que se volvió
 
@@ -173,7 +173,7 @@ Las consecuencias permanecen. El niño muere. La espada no se aparta. Los bucles
 
 > El karma dice: eres lo que hiciste. La misericordia dice: estás en el punto de cruce, y lo que hiciste está en los bucles, y el punto de cruce no está gobernado por los bucles.
 
-
+<br>
 
 ## V. Pablo — El perseguidor que fue interpelado
 
@@ -206,7 +206,7 @@ Esa frase no es una abstracción teológica. Es autobiografía. Pablo sabe, desd
 
 Agustín, quien leyó a Pablo con más atención que quizá cualquier otra mente en la historia cristiana, entendió exactamente lo que esto significa. La gracia no es la recompensa de una voluntad que se ha corregido a sí misma. La gracia es lo que llega al punto de cruce para encontrarse con una voluntad que no puede corregirse a sí misma — la voluntad *incurvatus in se*, doblada tan profundamente hacia adentro que su propio esfuerzo solo aprieta la curva. La voluntad no escala de regreso a la fuente por esfuerzo. Es encontrada en el camino, derribada al suelo, e interpelada con una pregunta que no anticipó.
 
-
+<br>
 
 ## VI. La mujer — La piedra que no fue lanzada
 
@@ -241,7 +241,7 @@ El mandato es real — *vete, y no peques más* — porque la misericordia no es
 
 El karma no puede dar cuenta de esto. No porque el karma sea poco inteligente, sino porque el karma es estructural, y la estructura que describe no tiene posición para una presencia que perdona. El perdón no es una categoría kármica. Es la introducción, en el punto de cruce, de algo que el sistema cerrado no puede generar desde adentro de sí mismo.
 
-
+<br>
 
 ## VII. La Magdalena — La primera interpelación en el sepulcro vacío
 
@@ -278,7 +278,7 @@ Y la primera persona a quien se le dice que lleve esta noticia es aquella de qui
 
 > Eso no es karma. Eso es el fundamento de la realidad operando como una persona que tiene preferencias — que elige a quién interpelar primero, y cuya elección no está gobernada por el libro de cuentas sino por algo que el libro de cuentas no puede calcular.
 
-
+<br>
 
 ## VIII. El argumento
 
@@ -308,7 +308,7 @@ Porque una persona no puede vivir en un fundamento que no la ve. No puede volver
 
 > Un mecanismo puede retornar lo que fue enviado. Solo una persona puede ofrecer lo que no fue.
 
-
+<br>
 
 ## IX. El Punto de Cruce
 
@@ -376,4 +376,6 @@ Y está esperando — con una paciencia que el sistema no puede calcular y que e
 - Catecismo de la Iglesia Católica. CCC 633, 637, 1026–1029, 1992–2001.
 - Lutero, Martín. *Lecciones sobre Romanos*. 1515–1516. (Fuente de la frase *incurvatus in se*, derivada de la teología agustiniana.)
 
+<br>
 
+{% include further-reading-es.html %}

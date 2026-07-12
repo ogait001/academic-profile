@@ -49,7 +49,7 @@ translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-p
 
 <br>
 
----
+
 
 ## I. The Error in the "therefore"
 
@@ -65,7 +65,7 @@ But the soul endures.
 
 Which means the therefore points in the wrong direction. I am not because I think. I think because I am. And I am whether I think or not.
 
----
+<br>
 
 ## II. The Chain of Interference
 
@@ -81,7 +81,7 @@ Not destroyed. Not absent. Buried.
 
 Knowing all the while.
 
----
+<br>
 
 ## III. What the Soul Already Is
 
@@ -97,7 +97,7 @@ Augustine found it in the soul's self-knowledge — the interior teacher that pr
 
 All three are pointing at the same truth from different angles: the soul's knowing is not built. It is uncovered.
 
----
+<br>
 
 ## IV. Partial Silence, Permanent Silence
 
@@ -115,7 +115,7 @@ The loops fall silent.
 
 What remains is not a soul that has lost its faculties and sits in confused darkness. It is a soul that has lost everything that was preventing it from being fully what it is. The silence is not emptiness. It is the knowing that was always there, encountered for the first time without interference.
 
----
+<br>
 
 ## V. Knows for the First Time
 
@@ -129,7 +129,7 @@ This is what Paul means: *then I shall know even as I am known.* Not that knowle
 
 The knowing was always present beneath the interference. What changes at death is not its existence but its conditions: for the first time, it operates without interference. The good life prepares the soul to receive what it sees without being destroyed by it. But the seeing itself is not the reward. It is what was always waiting on the other side of the chain.
 
----
+<br>
 
 ## VI. The Cogito Revisited
 
@@ -143,7 +143,7 @@ The cogito was always a description of exile. It captured what the soul looks li
 
 At death, the obstruction is removed. The soul does not need to find itself in the reflection of its thinking. It simply is — and knows that it is — and knows what it is — without the *therefore*.
 
----
+<br>
 
 ## VII. What the Series Has Built
 
@@ -163,7 +163,7 @@ This is why the address was always there. This is why mercy was always present a
 
 The mystics spent their lives trying to reach this. Death arrives at it structurally.
 
----
+<br>
 
 ## VIII. The Am That Remains
 
@@ -189,7 +189,7 @@ I think because I am.
 
 And when the thinking ends, the am remains — and for the first time without interference, knows itself entire.
 
-<br>
+<br><br>
 
 ## References
 
@@ -209,3 +209,6 @@ And when the thinking ends, the am remains — and for the first time without in
 - Aquinas, Thomas. *Summa Theologiae*. I, qq. 75–89 (on the soul and its faculties); I, q. 54 (on angelic knowledge).
 - Descartes, René. *Meditations on First Philosophy.*
 
+<br>
+
+{% include further-reading-en.html %}

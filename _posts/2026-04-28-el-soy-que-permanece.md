@@ -30,7 +30,7 @@ excerpt: "Una crítica metafísica de Descartes, que sostiene no “pienso, lueg
 
 <br>
 
----
+
 
 ## I. El error en el "por lo tanto"
 
@@ -46,7 +46,7 @@ Pero el alma perdura.
 
 Lo que significa que el *luego* apunta en la dirección equivocada. No soy porque pienso. Pienso porque soy. Y soy tanto si pienso como si no.
 
----
+<br>
 
 ## II. La cadena de interferencia
 
@@ -62,7 +62,7 @@ No destruida. No ausente. Enterrada.
 
 Conociendo todo el tiempo.
 
----
+<br>
 
 ## III. Lo que el alma ya es
 
@@ -78,7 +78,7 @@ Agustín lo encontró en el autoconocimiento del alma — el maestro interior qu
 
 Los tres apuntan a la misma verdad desde ángulos diferentes: el conocimiento del alma no se construye. Se descubre.
 
----
+<br>
 
 ## IV. Silencio parcial, silencio permanente
 
@@ -96,7 +96,7 @@ Los bucles caen en silencio.
 
 Lo que permanece no es un alma que ha perdido sus facultades y se sienta en oscuridad confusa. Es un alma que ha perdido todo lo que le impedía ser plenamente lo que es. El silencio no es vacío. Es el conocimiento que siempre estuvo ahí, encontrado por primera vez sin interferencia.
 
----
+<br>
 
 ## V. Conoce por primera vez
 
@@ -110,7 +110,7 @@ Esto es lo que Pablo quiere decir: *entonces conoceré como soy conocido*. No qu
 
 El conocimiento siempre estuvo presente debajo de la interferencia. Lo que cambia en la muerte no es su existencia sino sus condiciones: por primera vez, opera sin interferencia. La vida buena prepara al alma para recibir lo que ve sin ser destruida por ello. Pero el ver mismo no es la recompensa. Es lo que siempre estuvo esperando al otro lado de la cadena.
 
----
+<br>
 
 ## VI. El cogito revisado
 
@@ -124,7 +124,7 @@ El cogito fue siempre una descripción del exilio. Capturó lo que el alma parec
 
 En la muerte, la obstrucción es retirada. El alma no necesita encontrarse a sí misma en el reflejo de su pensamiento. Simplemente es — y sabe que es — y sabe lo que es — sin el 'por lo tanto'.
 
----
+<br>
 
 ## VII. Lo que la serie ha construido
 
@@ -144,7 +144,7 @@ Por eso el llamado siempre estuvo ahí. Por eso la misericordia siempre estuvo p
 
 Los místicos pasaron sus vidas intentando alcanzar esto. La muerte llega a ello estructuralmente.
 
----
+<br>
 
 ## VIII. El "Soy" que permanece
 
@@ -170,7 +170,7 @@ Pienso porque soy.
 
 > Y cuando el pensamiento termina, el "Soy" permanece — y por primera vez sin interferencia, se conoce a sí mismo entero.
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -182,4 +182,6 @@ Pienso porque soy.
 - Tomás de Aquino. *Suma Teológica*. I, qq. 75–89 (sobre el alma y sus facultades); I, q. 54 (sobre el conocimiento angélico).
 - René Descartes. *Meditaciones metafísicas*.
 
+<br>
 
+{% include further-reading-es.html %}

@@ -60,3 +60,6 @@ And the question that never goes away is not only a doubt — it is a knock.
 - Rowe, William L. *Can God Be Free?*
 - Exodus 3:14.
 
+<br>
+
+{% include further-reading-en.html %}

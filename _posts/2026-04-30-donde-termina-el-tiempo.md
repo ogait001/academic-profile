@@ -30,8 +30,6 @@ excerpt: "Exploración teológica de los estados finales como orientaciones de l
 
 <br>
 
----
-
 ## I. El prefacio de esta indagación
 
 Estos ensayos no pretenden descubrir una nueva doctrina. Pretenden mirar las antiguas desde un ángulo poco habitual — encontrar en la estructura del tiempo, la geometría de la voluntad y la lógica del Ahora un conjunto de imágenes que puedan ayudarnos a ver, con ligeramente mayor precisión, lo que la tradición siempre ha creído. El objetivo no es la novedad. Es la claridad. No un nuevo mapa del mundo invisible, sino una luz diferente que cae sobre un mapa que ya tenemos.
@@ -44,9 +42,7 @@ No para el universo — esa es una pregunta diferente. Para la persona. Para el 
 
 La tradición nombra tres estados finales: el Cielo, el Purgatorio, el Infierno. No tres lugares en el espacio — la propia tradición es cuidadosa con esto, más cuidadosa de lo que la imaginación popular permite. Tres modos de existir en relación definitiva con el Dios que es, en la gramática del Exodo, simple y absolutamente: YO SOY EL QUE SOY.
 
-----
-
-<br><br>
+<br>
 
 ## II. Lo que significaría el fin del tiempo
 
@@ -62,7 +58,7 @@ Esto no significa que el alma deje de existir. Significa que el alma existe fuer
 
 La voluntad. Y su orientación definitiva.
 
-----
+<br>
 
 ## III. El Cielo: el Ahora sin fin
 
@@ -86,7 +82,7 @@ Lo que podemos decir, dentro del marco, es esto: el cuerpo resucitado no es la r
 
 El cuerpo resucitado es ese vehículo consumado. Ya no el medio del devenir, sino la forma del haber llegado a ser plenamente.
 
-----
+<br>
 
 ## IV. El Purgatorio: ordenado hacia el Ahora
 
@@ -110,7 +106,7 @@ Esto no es sustitución en el sentido legal. Es comunión en el sentido estructu
 
 Los testimonios escriturísticos de esta doctrina no son accidentales. Judás Macabeo ofrece sacrificios por los muertos porque los muertos pueden beneficiarse de lo que los vivos ofrecen en el punto de cruce (2 Macabeos 12:38–46). La advertencia del Señor — *reconcíliate pronto con tu adversario mientras estés en el camino con él, no sea que el adversario te entregue al juez y el juez al alguacil y seas echado en la prisión; en verdad te digo que no saldrás de allí hasta que hayas pagado el último centavo* (Mateo 5:25–26) — implica un estado de pasaje purificador entre esta vida y el destino definitivo. Y la advertencia de que el pecado contra el Espíritu Santo no será perdonado ni en esta era ni en la era por venir implica, como lo lee la tradición, que otros pecados pueden ser atendidos en la era por venir (Marcos 3:29). No como una segunda oportunidad — la orientación de la voluntad queda fijada en la muerte — sino como la consumación de una purificación ya comenzada, llevada adelante por las oraciones de quienes aún están en el Ahora.
 
-----
+<br>
 
 ## V. El Infierno: el Ahora invertido
 
@@ -160,7 +156,7 @@ Este es el horror preciso del Ahora invertido. No la ausencia del punto de cruce
 
 En el Infierno, esa pregunta ha recibido su respuesta definitiva.
 
-----
+<br>
 
 ## VI. Los tres Ahoras
 
@@ -172,7 +168,7 @@ Podemos ver ahora los tres estados finales no como tres lugares en el espacio, n
 
 **En el Infierno**, el alma está en el Ahora pero vuelta en dirección contraria a lo que el Ahora contiene. No ha escapado del punto de cruce — nada escapa del punto de cruce, porque el punto de cruce es la condición de la existencia misma. Pero su voluntad, fijada en la muerte en rechazo permanente, mira en dirección contraria a la misericordia que permanece presente en el centro. El Ahora continúa. El tic-tac continúa. La existencia continúa. Pero sin orientación hacia lo que fundamenta la existencia, el Ahora se convierte — en la única imagen adecuada — en un reloj en una pared de una habitación vacía, tic-tac eternamente, marcando nada, contando hacia nada, en la presencia de todo lo que ha rechazado.
 
-----
+<br>
 
 ## VII. El cuerpo resucitado y el fin del argumento
 
@@ -205,7 +201,7 @@ La diferencia es solo la dirección del rostro.
 
 *El tiempo no termina desapareciendo, sino dejando de ser necesario.*
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -223,4 +219,6 @@ Dante Alighieri. *La Divina Comedia*.
 
 *Catecismo de la Iglesia Católica.* CCC 1020–1060.
 
+<br>
 
+{% include further-reading-en.html %}

@@ -47,8 +47,6 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 
 <br>
 
----
-
 ## I. The Fear
 
 We speak of time as though it were a force pressing against us from outside — a tide that carries us forward whether we consent or not, that erodes us slowly, that will eventually swallow us whole. We say we are running out of time, that time is passing, that we are losing time as though something is being taken from us by an entity with its own agenda and its own momentum.
@@ -57,7 +55,7 @@ But what if that fear is built on a misreading? What if time is not the powerful
 
 > *Time has never moved. Only events are actualized — within the one Now that was here before us and will hold the last moment of our existence exactly as it holds this one.*
 
----
+<br>
 
 ## II. What Time Is Not
 
@@ -67,7 +65,7 @@ What we are asking about is *ontological time*: the condition that makes change 
 
 When Ecclesiastes says there is a time for everything — a time to be born and a time to die, a time to weep and a time to laugh — it is not describing a ticking dimension. It is describing order, season, fittingness. The right unfolding of events within reality. That is precisely what ontological time is: the condition that makes ordered change possible. Clocks measure it. They do not constitute it.
 
----
+<br>
 
 ## III. The Dependent Condition
 
@@ -83,7 +81,7 @@ This means time is not a substance. It is not a thing that exists in its own rig
 
 So already the fear begins to dissolve. We are afraid of time as though it were a river carrying us to a waterfall. But a river requires water, gravity, and a channel. Time requires matter, change, and space. Neither the river nor time is primary. Both are relational emergences — real, but not self-sustaining.
 
----
+<br>
 
 ## IV. The Now
 
@@ -97,7 +95,7 @@ The Now is not a boundary in the ordinary sense — not a wall between two terri
 
 This is why you cannot step outside the Now to observe it. You can remember the past only now. You can anticipate the future only now. Every act of consciousness, every breath, every decision, occurs now. The Now is not one moment among many. It is the only mode of existence that is ever actual.
 
----
+<br>
 
 ## V. The Inversion
 
@@ -115,7 +113,7 @@ What we call flow is real — but it is the flow of content, not of the present 
 
 The present does not move along time; rather, time is the ordering of what becomes present.
 
----
+<br>
 
 ## VI. The Lemniscate
 
@@ -131,7 +129,7 @@ This is also where agency lives. At the crossing point, you are neither narratin
 
 It is also worth noting that the lemniscate does not describe time alone. Time itself is invariant — the Now does not move. But time, matter, and space together produce a lemniscatic movement of reality. None of the three generates motion alone. What moves is their composite — the continuous becoming of existence, crossing through the Now, always forward, always singular.
 
----
+<br>
 
 ## VII. One Now
 
@@ -147,7 +145,7 @@ This has a consequence for identity that modern speculation has missed. The mult
 
 One time to be born. One time to die. Not one time to be born and to die in the same Now — sequence is real, order is real, the arc of a life is real and unrepeatable. The lemniscate does not loop back and repeat. It crosses at the Now and continues. You pass through the crossing point once per moment, always forward, always singular.
 
----
+<br>
 
 ## VIII. The Question the Now Raises
 
@@ -161,7 +159,7 @@ And if the Now ceased — even for an instant — there would be no instant in w
 
 So what sustains it? This is not a religious question masquerading as philosophy. It is a genuine structural question. Every dependent thing points to something it depends on. Time depends on matter and space. Matter depends on the Now. The Now depends on something it cannot provide for itself. Follow the chain of dependencies to its terminus, and you find something that must be self-sustaining — not because faith demands it, but because the alternative is that nothing is sustained at all.
 
----
+<br>
 
 ## IX. I AM WHO I AM
 
@@ -177,7 +175,7 @@ The prologue of John's Gospel reaches for the same truth from a different angle:
 
 > *The Now is not God. But the Now is the closest created point of contact with God that every human being — believer or not — touches at every single moment of their existence. You cannot step outside it. You cannot avoid it. The Now is where God and creature meet.*
 
----
+<br>
 
 ## X. Back to the Question
 
@@ -195,7 +193,7 @@ And yet neither of us — neither the creature nor the time within which the cre
 
 **I AM WHO I AM.**
 
-<br>
+<br><br>
 
 ## References
 
@@ -208,5 +206,7 @@ And yet neither of us — neither the creature nor the time within which the cre
 - Einstein, Albert. *Relativity: The Special and the General Theory.*
 - The Holy Bible: Ecclesiastes; Exodus; Gospel of John.
 
+<br>
 
+{% include further-reading-en.html %}
 

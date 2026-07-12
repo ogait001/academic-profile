@@ -32,13 +32,9 @@ translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person
 
 <br>
 
----
-
 ## Resumen
 
 Este ensayo examina el concepto de *Das Man* de Martin Heidegger a través de la literatura, la teología y la vida social contemporánea. Sostiene que el anonimato, la conformidad y la fragilidad relacional emergen allí donde la primera persona del singular es desplazada por formas colectivas impersonales. A través de Hans Christian Andersen, Franz Kafka, Lope de Vega y la antropología bíblica, el ensayo propone que la comunión auténtica requiere yos previamente recogidos en la presencia.
-
----
 
 <br>
 
@@ -50,7 +46,7 @@ Lo que este ensayo añade no es una continuación de la serie sino un movimiento
 
 Las figuras empleadas aquí — Hans Christian Andersen, Lope de Vega, Franz Kafka, Jenny Curran y Herbert Kappler — no son repeticiones ni adornos. Son reexaminadas desde un ángulo distinto: no el camino individual dentro del lemniscata, sino el mundo social en que ese camino se despliega.
 
----
+<br>
 
 ## I. La gramática del anónimo
 
@@ -66,7 +62,7 @@ La pregunta rectora de este ensayo es práctica y urgente: ¿qué ocurre con la 
 
 No son preguntas retóricas. Describen la condición real de muchas relaciones, comunidades e instituciones públicas contemporáneas. Lo que sigue es un diagnóstico: un intento de trazar los mecanismos sociales por los que se agota la primera persona del singular, las figuras literarias e históricas en las que ese agotamiento se hace visible, y las condiciones estructurales bajo las que la primera persona puede recuperarse.
 
----
+<br>
 
 ## II. El traje nuevo del emperador
 
@@ -84,7 +80,7 @@ La tesis filosófica latente en el cuento de Andersen es esta: *Das Man* no corr
 
 La vida contemporánea está saturada de la corte del emperador. Los mecanismos son distintos — más distribuidos, más fluidos, acelerados por el espejeo social constante de las plataformas digitales — pero la estructura es idéntica. El anónimo "ellos" de una línea de tiempo, una sección de comentarios o un consenso profesional cumple la misma función que la corte: eleva el costo de la percepción honesta por encima del umbral que la mayoría está dispuesta a pagar. El resultado no es malicia sino *Das Man* a escala — una civilización de cortesanos, cada uno privadamente inseguro, cada uno públicamente asintiendo, la actuación compartida sosteniendo una apariencia en la que nadie cree individualmente pero que todos confirman.
 
----
+<br>
 
 ## III. Fuenteovejuna — La contraimagen
 
@@ -104,7 +100,7 @@ Lope de Vega entendió, escribiendo a comienzos del siglo XVII, lo que Heidegger
 
 El argumento posterior del ensayo — que la comunión auténtica requiere personas reunidas primero en sí mismas — ya es visible aquí, en negativo: la comunidad que puede hablar como una es la comunidad que primero ha sido muchos yos reales. El auténtico "nosotros" presupone el auténtico "yo".
 
----
+<br>
 
 ## IV. El yo útil: Gregor Samsa
 
@@ -122,7 +118,7 @@ Gregor Samsa no es la tragedia de un hombre que se convirtió en algo inhumano. 
 
 La resonancia contemporánea de esta estructura no es difícil de localizar — aunque vale la pena señalar que esta aplicación extiende *Das Man* más allá del uso original de Heidegger, que concierne a la estructura existencial más que a los arreglos económicos. La economía del rendimiento — la organización de la identidad en torno a la productividad y el resultado — está tan normalizada que su lógica condicional rara vez se nombra. Uno pertenece mientras produce. Uno es amado, o algo indistinguible del amor, mientras se desempeña la función. La historia de Gregor es extrema porque Kafka sigue la lógica hasta el final sin titubear. Pero la lógica misma es familiar. La persona que ha constituido todo su yo a través del servicio y el desempeño fiel vive la condición de Gregor a temperatura más baja. Aún no se ha convertido en insecto. Pero si la función alguna vez falla — por enfermedad, por vejez, por el simple hecho de ser reemplazado — descubrirá lo que descubrió Gregor: que el yo que construyó no era un yo en absoluto, sino una posición. Y las posiciones son reemplazables.
 
----
+<br>
 
 ## V. La máquina anónima
 
@@ -136,7 +132,7 @@ Kappler importa aquí no como monstruo ni como mártir sino como evidencia de qu
 
 Este es el extremo administrativo de la corte del emperador: no un público que actúa de acuerdo para preservar su posición social, sino un aparato estatal que actúa en conformidad para preservar la coherencia institucional. Ambos son expresiones de *Das Man*: la sustitución de la visión moral de la primera persona por el anónimo "ellos" de un dispositivo colectivo. La diferencia es solo de escala, de permanencia institucional y del peso de las consecuencias.
 
----
+<br>
 
 ## VI. El yo en órbita: Jenny Curran
 
@@ -154,7 +150,7 @@ El contraste con Gregor Samsa es clarificador. El desplazamiento de Gregor es la
 
 En su lecho de muerte, Jenny le dice a Forrest: *"Ojalá hubiera podido estar allí contigo."* La nota gramatical no es incidental. Condicional pasado. El tiempo verbal de quien ha reconocido, demasiado tarde, que la presencia siempre estuvo disponible. No "estaré" — la gramática de la serpiente. No "estoy" — el nombre divino, por fin disponible. Sino "habría podido estar" — el reconocimiento de que el punto de cruce siempre estuvo ahí, de que las órbitas fueron un largo vuelo desde un centro que nunca se movió. El público que buscaba no estaba en ninguna de las escenas que atravesó. Estaba en el único lugar en que no pudo quedarse.
 
----
+<br>
 
 ## VII. Los dos se hacen uno / Legión
 
@@ -174,7 +170,7 @@ La crisis contemporánea de las relaciones y los compromisos es, en muchos casos
 
 Esto no es un fracaso moral. Es una condición ontológica — la condición de yos formados en ausencia de presencia, modelados por el desplazamiento, buscando el lugar de presencia en el único sitio donde no puede encontrarse: fuera de sí mismos. Las asociaciones frágiles, los compromisos cambiantes, la intimidad deseada pero no sostenida — son síntomas de Legión intentando entrar en una alianza que requiere la posesión de sí misma del Génesis. La tragedia no es que el amor fracase. La tragedia es que lo que llega al umbral del amor a menudo aún no es del todo un yo.
 
----
+<br>
 
 ## VIII. El retorno de la primera persona del singular
 
@@ -198,7 +194,7 @@ La primera persona del singular es la condición mínima de toda forma de vida h
 
 **Aquí. Ahora. Enteramente.**
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -217,4 +213,7 @@ La primera persona del singular es la condición mínima de toda forma de vida h
 **Referencia histórica**
 - Kappler, Herbert. SS-Obersturmbannführer; jefe de la Policía de Seguridad alemana en Roma, 1942–1944. Responsable de la masacre de las Fosas Ardeatinas (24 de marzo de 1944).
 
+<br>
+
+{% include further-reading-es.html %}
 

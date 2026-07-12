@@ -43,7 +43,6 @@ translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/22/neces
 9. [I AM WHO I AM](#ix-i-am-who-i-am)
 10. [Back to the Question](#x-back-to-the-question)
 11. [References](#references)
-12. [Note on Sources and Method](#note-on-sources-and-method)
 
 <br>
 

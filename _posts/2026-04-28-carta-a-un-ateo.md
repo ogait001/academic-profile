@@ -19,7 +19,7 @@ translation_url: /ontology/philosophy-of-time/2026/04/28/a-letter-to-an-atheist.
 
 **Resumen:** Este ensayo desarrolla un argumento metafísico conciso sobre la contingencia, la terminación explicativa, el ser necesario y el ocultamiento divino. Sostiene que una regresión infinita de realidades existencialmente dependientes no logra explicar la existencia, y que un fundamento necesario del ser ofrece un punto de llegada más coherente que un universo contingente bruto. Siguiendo la tradición del teísmo clásico, el ensayo examina además la simplicidad, la atemporalidad y los límites del método empírico.
 
----
+<hr />
 
 <br>
 
@@ -50,3 +50,6 @@ El argumento de este ensayo no procede localizando un objeto observable en la na
 - Rowe, William L. *Can God Be Free?*
 - Exodo 3:14.
 
+<br>
+
+{% include further-reading-es.html %}

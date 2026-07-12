@@ -55,7 +55,7 @@ Los siguientes términos tienen significados específicos a lo largo de este ens
 
 **Orientación de la voluntad** — La dirección habitual del deseo y el consentimiento — hacia o lejos del bien. No constituida por actos aislados sino por el patrón que esos actos sedimentan con el tiempo. El carácter no es reducible a episodios; es trayectoria.
 
-**SOY** — Una abreviatura reverencial utilizada en este ensayo para el fundamento autosustentable del ser, contemplado en la tradición bíblica a través de la autorrevelación divina "YO SOY EL QUE SOY" (Éxodo). El término no pretende reemplazar el nombre sagrado, sino señalar filosóficamente hacia la realidad última y no contingente.
+**SOY** — Una abreviatura reverencial utilizada en este ensayo para el fundamento auto-sustentable del ser, contemplado en la tradición bíblica a través de la autorrevelación divina "YO SOY EL QUE SOY" (Exodo). El término no pretende reemplazar el nombre sagrado, sino señalar filosóficamente hacia la realidad última y no contingente.
 
 <br><br>
 
@@ -75,7 +75,7 @@ El argumento se mueve en cuatro direcciones desde un único centro. El centro es
 
 La conclusión a la que llega el argumento no se impone desde fuera. Es sugerida por él. La actualidad contingente no parece autoexplicativa. Si cada estado actual deriva solo de otro estado contingente, la explicación se difiere en lugar de completarse. El argumento por tanto apunta hacia un fundamento no derivado de la actualidad — que el ensayo identifica, siguiendo la lógica del argumento, con el SOY del Éxodo.
 
----
+<hr/>
 
 ## Movimiento I: La Estructura del Es
 
@@ -515,4 +515,6 @@ Las siguientes objeciones representan los desafíos filosóficos más serios al 
 - La Santa Biblia: Libro de Eclesiastés; Libro del Éxodo; Evangelio de Juan; Evangelio de Lucas; Primera Carta a los Corintios; Segunda Carta de Pedro; Evangelio de Mateo.
 - Gladiator (dir. Ridley Scott).
 
+<br>
 
+{% include further-reading-es.html %}

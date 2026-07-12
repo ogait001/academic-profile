@@ -29,7 +29,7 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-pu
 
 <br>
 
----
+
 
 ## I. The Question Nobody Asks
 
@@ -42,8 +42,6 @@ We established that time is not a substance. It is a dependent condition — ari
 What we did not ask is whether time is uniform. Whether every region of the created order contains the same weight of temporal reality. Whether the moment in which a man decides the direction of his life is the same kind of moment as the empty interval between two heartbeats.
 
 It is not. And understanding why will change how we read everything the previous essays established.
-
----
 
 <br>
 
@@ -63,7 +61,7 @@ The structural reason is this: if time is the condition of ordered change, and c
 
 David's words — *I have sinned against the Lord* — are more temporally dense than the months of evasion that preceded them. Not longer. Denser. More actual.
 
----
+<br>
 
 ## III. Two Orders of Change
 
@@ -81,7 +79,7 @@ The body matters. Not as a container for the soul, not as a prison from which it
 
 After death, the body is gone. The will remains. Within this framework — and in alignment with the Augustinian and Thomistic tradition that grounds it — ontological orientation can no longer unfold as temporal sequence once the body is removed. The will exists in whatever posture it has finally assumed: not frozen arbitrarily, but fixed as the culmination of everything it chose while it still had the medium of time in which to choose. This is a model-dependent conclusion, not a universally held premise. But it follows from the framework's own logic: if temporal change requires the body as its medium, then the absence of the body is the absence of the condition for further temporal reorientation.
 
----
+<br>
 
 ## IV. Fall, Habit, and Fixation
 
@@ -103,7 +101,7 @@ But trajectories are real. Habits form. The will that has spent years oriented a
 
 Every Now that passes without engagement subtly confirms the will's current trajectory.
 
----
+<br>
 
 ## V. You Cannot Add One Hour
 
@@ -135,7 +133,7 @@ The urgency does not come from running out. It comes from the fact that this mom
 
 **You cannot add one hour. But every hour given is entire.**
 
----
+<br>
 
 ## VI. What the Four Insights Show Together
 
@@ -149,7 +147,7 @@ The will is formed across time. Not fixed by single moments — except the final
 
 And the crossing is finite. Not unlimited. Not endlessly repeated beyond death. The number of times the lemniscate carries the soul back to the center is given, not chosen. Nobody adds to it. But nobody needs to — because each crossing is complete. Each one contains the full weight of what the Now has always contained: the address, the mercy, the open crossing point, the question that was asked in Eden and has been asked at every Now since.
 
----
+<br>
 
 ## VII. The Line That Closes the Series
 
@@ -169,7 +167,7 @@ Time is not what you are running through. It is what you are being given — at 
 
 Here. Now. Entirely.
 
-<br>
+<br><br>
 
 ## References
 
@@ -178,3 +176,6 @@ Here. Now. Entirely.
 - Augustine of Hippo. *Confessions.*
 - Thomas Aquinas. *Summa Theologiae.* I–II, qq. 49–54 (on habit); I, q. 9 (on immutability and act).
 
+<br>
+
+{% include further-reading-en.html %}

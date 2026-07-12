@@ -37,8 +37,6 @@ translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
 
 <br>
 
----
-
 ## Resumen
 
 El conteo humano codifica inconscientemente dos intuiciones a la vez. La primera es lineal: la cantidad aumenta sin límite, cada número sucede al anterior, el conteo se extiende para siempre hacia un horizonte que nunca se cierra. La segunda es cíclica: los símbolos que llevan el conteo regresan, década tras década, escala tras escala, en un patrón ininterrumpido de recurrencia que ninguna acumulación logra interrumpir. Estas dos intuiciones han coexistido siempre dentro del sistema decimal. Rara vez han sido examinadas juntas.
@@ -50,8 +48,6 @@ La dualidad incorporada en la notación decimal refleja tensiones metafísicas p
 Lo que sigue es una meditación metafísica sobre la recurrencia incorporada en la representación numérica. No desafía la estructura formal de la aritmética. No propone un nuevo fundamento para las matemáticas. Propone algo más modesto y, creo, más interesante: que la recta numérica decimal contiene una geometría que nunca se le ha pedido mostrar, y que cuando se le pide, lo que aparece es la lemniscata — la curva en forma de ocho de cruces infinitos dentro de un espacio acotado, la forma del retorno sin fin.
 
 > Los dígitos no parten. Regresan. Y cada regreso es más alto que el anterior.
-
----
 
 <br>
 
@@ -69,7 +65,7 @@ El supuesto que vale la pena examinar no es la aritmética. Es la geometría —
 
 El cero aparece en el origen. Luego otra vez en el diez. Luego otra vez en el veinte, treinta, cuarenta — en cada límite de década, sin excepción, sin fin. El cinco aparece en el punto medio de cada década — en 5, en 15, en 55, en 500.005 — siempre equidistante del cero que tiene detrás y del cero que tiene adelante. Los dígitos del 1 al 9 trazan la misma secuencia en cada década, en cada orden de magnitud, desde el número más pequeño que un niño aprende primero hasta el más grande que un cosmólogo puede nombrar. El sistema decimal codifica dos cosas simultáneamente: partida ilimitada en valor, y recurrencia perfecta en forma. La recta numérica muestra solo la primera.
 
----
+<br>
 
 ## II. El Punto de Cruce
 
@@ -87,7 +83,7 @@ Esto es lo que significa el valor posicional, comprendido ontológicamente. La p
 
 Centro y límite. Acumulación y reinicio. Lo uno y lo múltiple. Estas no son categorías filosóficas abstractas. Son la estructura de cada número que jamás has escrito.
 
----
+<br>
 
 ## III. El Afelio en el Cinco
 
@@ -103,7 +99,7 @@ La intuición metafísica aquí codificada es la intuición del límite — que 
 
 > Una partida. Un máximo. Un retorno. Un cruce. No un segmento de una línea infinita. Un bucle.
 
----
+<br>
 
 ## IV. El Infinito como Frecuencia
 
@@ -117,7 +113,7 @@ El infinito, leído a través de la lemniscata, no es partida sin fin. Es recurr
 
 Progreso y retorno. Devenir e identidad. Estas no son contradicciones que el sistema decimal no logra resolver. Son tensiones que sostiene simultáneamente, en cada número jamás escrito, sin comentario y sin colapso. La lemniscata es la forma de ese sostenimiento.
 
----
+<br>
 
 ## V. Objeciones y Límites
 
@@ -131,7 +127,7 @@ Una proposición que no reconoce sus propios límites no es un argumento filosó
 
 **Cuarto, y más importante:** esto es geometría interpretativa y lectura ontológica, no aritmética de reemplazo. La tesis es que el sistema decimal contiene una estructura de lemniscata que nunca ha sido nombrada, y que nombrarla ilumina algo sobre cómo los seres humanos experimentan el conteo, la recurrencia y el infinito dentro del sistema que realmente usan. Un nuevo lente, no un nuevo fundamento. Dentro de estos límites, la proposición se sostiene.
 
----
+<br>
 
 ## VI. Lo que el Boceto Ya Sabía
 
@@ -149,11 +145,11 @@ La recta numérica nos dio la flecha. La lemniscata nos da el cruce. Ambas son v
 
 > El infinito no está allá afuera, más allá de la flecha, más allá del último número que puedas nombrar. Está aquí: en el punto de cruce, en el retorno, en el cero que sigue regresando cargándolo todo.
 
----
+<br>
 
 *El número avanza linealmente en valor, pero la notación decimal revela retornos cíclicos en forma; la lemniscata captura esta oculta coexistencia de progresión y recurrencia.*
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -164,4 +160,6 @@ La recta numérica nos dio la flecha. La lemniscata nos da el cruce. Ambas son v
 - Heidegger, Martin. *El Ser y el Tiempo*. Harper & Row, 1962.
 - Husserl, Edmund. *Filosofía de la Aritmética*. Kluwer, 2003.
 
+<br>
 
+{% include further-reading-en.html %}

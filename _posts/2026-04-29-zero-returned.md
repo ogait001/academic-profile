@@ -37,7 +37,7 @@ translation_url: /ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-c
 
 <br>
   
----
+
 
 ## Abstract
 
@@ -51,7 +51,7 @@ What follows is a metaphysical meditation on recurrence embedded in number repre
 
 **The digits do not depart. They return. And each return is higher than the last.**
 
----
+
 
 <br>
 
@@ -69,7 +69,7 @@ The assumption worth examining is not the arithmetic. It is the geometry — spe
 
 Zero appears at the origin. Then again at ten. Then again at twenty, thirty, forty — at every decade boundary, without exception, without end. Five appears at the midpoint of every decade — at 5, at 15, at 55, at 500,005 — always equidistant from the zero behind and the zero ahead. The digits 1 through 9 trace the same sequence in every decade, at every order of magnitude, from the smallest number a child first learns to the largest a cosmologist can name. The decimal system encodes two things simultaneously: unbounded departure in value, and perfect recurrence in form. The number line shows only the first.
 
----
+<br>
 
 ## II. The Crossing Point
 
@@ -87,7 +87,7 @@ This is what place value means, understood ontologically. The position of the ze
 
 Center and boundary. Accumulation and reset. One and many. These are not abstract philosophical categories. They are the structure of every number you have ever written.
 
----
+<br>
 
 ## III. The Aphelion at Five
 
@@ -103,7 +103,7 @@ The metaphysical intuition encoded here is the intuition of limit — that every
 
 **A departure. A maximum. A return. A crossing. Not a segment of an infinite line. A loop.**
 
----
+<br>
 
 ## IV. Infinity as Frequency
 
@@ -117,7 +117,7 @@ Infinity, read through the lemniscate, is not endless departure. It is unbounded
 
 Progress and return. Becoming and identity. These are not contradictions that the decimal system fails to resolve. They are tensions it holds simultaneously, in every number ever written, without comment and without collapse. The lemniscate is the shape of that holding.
 
----
+<br>
 
 ## V. Objections and Limits
 
@@ -131,7 +131,7 @@ Third: five as aphelion is a property of modulo ten arithmetic, not a universal 
 
 Fourth, and most important: this is interpretive geometry and ontological reading, not replacement arithmetic. The claim is that the decimal system contains a lemniscate structure that has never been named, and that naming it illuminates something about how human beings experience counting, recurrence, and infinity within the system they actually use. A new lens, not a new foundation. Within these limits, the proposition stands.
 
----
+<br>
 
 ## VI. What the Sketch Already Knew
 
@@ -151,7 +151,7 @@ Infinity is not out there, past the arrow, beyond the last number you can name. 
 
 *Number advances linearly in value, yet decimal notation reveals cyclical returns in form; the lemniscate captures this hidden coexistence of progression and recurrence.*
 
-<br>
+<br><br>
 
 ## References
 
@@ -162,5 +162,7 @@ Infinity is not out there, past the arrow, beyond the last number you can name. 
 - Heidegger, Martin. *Being and Time.* Harper & Row, 1962.
 - Husserl, Edmund. *Philosophy of Arithmetic.* Kluwer, 2003.
 
+<br>
 
+{% include further-reading-en.html %}
   

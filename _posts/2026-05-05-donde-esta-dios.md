@@ -36,8 +36,6 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/05/where
 
 <br><br>
 
----
-
 ## Resumen
 
 Este ensayo examina la pregunta *¿Dónde está Dios?* no como un desafío retórico a esquivar sino como una indagación estructural a responder con precisión. Argumenta que la pregunta, tal como se formula habitualmente, descansa sobre un supuesto equivocado: que la presencia de Dios debería ser visible como intervención dentro de los eventos. Una vez que ese supuesto se examina, una respuesta diferente se vuelve posible. Dios no es un agente dentro de los eventos. Dios es el fundamento sustentante del momento presente en el que los eventos ocurren. Sin ese fundamento, no hay momento en el que intervenir — ningún evento que pueda ocurrir, ninguna libertad que pueda ejercerse, ningún sufrimiento que pueda nombrarse. La pregunta acerca de dónde está Dios no puede responderse desde dentro del supuesto que ella misma introduce. Debe responderse desde la estructura de lo que es el momento presente y lo que requiere.
@@ -182,7 +180,7 @@ El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está 
 
 > *Dios está presente como el fundamento sustentante del Ahora en el que todo acto — bueno o malo — se vuelve real.*
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -202,4 +200,6 @@ El sufrimiento no es el silencio de Dios. Es lo que suena cuando el Ahora está 
 - Catecismo de la Iglesia Católica. §309–314.
 - Darío, Rubén. "Lo Fatal." *Cantos de Vida y Esperanza*. 1905.
 
+<br>
 
+{% include further-reading-es.html %}

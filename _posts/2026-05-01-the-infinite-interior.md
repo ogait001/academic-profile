@@ -35,17 +35,13 @@ translation_url: /ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior
 - [VIII. The Ground](#viii-the-ground)
 - [References](#references)
 
-<br><br>
-
----
+<br>
 
 ## Abstract
 
 Space is not the container of change. It is the condition of it. Without distance there is no transition. Without transition there is no time. And without the infinite recursive distance that exists between every two states of a self, there would be no self — only a series of replacements, each one erasing what came before. The self persists because the distance it must cross is inexhaustible.
 
 This essay proposes that identity — the persistence of the self through change — is not a philosophical problem requiring a solution. It is a geometric fact requiring a name. The name is the **infinite interior**: the continuous asymptotic space between any two states of a being, which is necessarily unbroken, and therefore preserving of the one who undergoes it.
-
----
 
 <br>
 
@@ -199,7 +195,7 @@ God does not preserve the self by intervening in change from outside. God preser
 
 Space is not the container of change. It is the condition of it. And the continuous infinite interior of every transition — inexhaustible, asymptotic, necessarily unbroken, held open at every moment by what sustains both the Now and the distance — is what makes the self possible: not despite change, but through it, one crossing at a time, always intact, always held.
 
-<br>
+<br><br>
 
 ## References
 
@@ -214,4 +210,6 @@ Space is not the container of change. It is the condition of it. And the continu
 - Plutarch. *Life of Theseus*. Translated by John Dryden. Modern Library, 2001.
 - Thomas Aquinas. *Summa Theologiae*. Translated by the Fathers of the English Dominican Province. Benziger Bros., 1947.
 
+<br>
 
+{% include further-reading-en.html %}

@@ -14,11 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20584786"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/god-the-universe-and-the-now.html"
 ---
 
-
+<br>
 
 *Solemnidad del Corpus Christi*
 
-* * *
+<br>
 
 ## Tabla de contenido
 
@@ -35,7 +35,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
 - [XI. Los que llegaron de todas formas](#xi-los-que-llegaron-de-todas-formas)
 - [Referencias](#referencias)
 
-
+<br>
 
 ## I. La criatura que no puede añadir una hora
 
@@ -49,7 +49,7 @@ Ni un solo momento. Ni uno. La criatura que no puede añadir una hora a su vida 
 
 Este ensayo trata sobre qué es ese algo. Y sobre la creencia -- antigua y contemporánea, sofisticada y simple -- de que la explicación es suficiente. De que si la estructura puede trazarse en un mapa, el fundamento que la sostiene no necesita ser enfrentado.
 
-
+<br>
 
 ## II. Vivimos en un mundo material
 
@@ -71,7 +71,7 @@ Pero si la imaginación puede producir verdad -- si puede aprehender genuinament
 
 El dilema es exacto: o bien la inteligibilidad es una característica fundamental de la realidad, en cuyo caso el argumento hacia un fundamento racional y personal se vuelve ineludible; o bien la inteligibilidad es una propiedad emergente de materia fundamentalmente ininteligible, en cuyo caso nuestra confianza en cualquier razonamiento -- incluido el razonamiento que produjo esta conclusión -- carece de fundamento. El materialista no puede tener a la vez un marco racional confiable y un fundamento fundamentalmente no racional. Debe hacerse una elección. Y hacerla honestamente conduce a un lugar adonde el proyecto moderno preferiría no ir.
 
-
+<br>
 
 ## III. La objeción más fuerte
 
@@ -95,7 +95,7 @@ Más precisamente: si la imaginación y la razón se explican completamente por 
 
 El fundamento no derivativo no es derrotado por la emergencia. Es requerido por ella -- como la condición que hace de la inteligibilidad una característica de la realidad en lugar de un accidente local de la organización biológica.
 
-
+<br>
 
 ## IV. La jerarquía que nadie quiere
 
@@ -111,7 +111,7 @@ Y debajo del Ahora -- como su fundamento -- el argumento requiere un ser necesar
 
 El universo es la totalidad de las actualizaciones creadas que se despliegan en el Ahora. No es el fundamento necesario -- es derivativo, contingente, dependiente. No es el Ahora -- tiene extensión, masa, ubicación en el espacio. Es el teatro donde la criatura encarnada vive el encuentro que el Ahora hace posible. El cosmos es el escenario. El punto de contacto es el Ahora.
 
-
+<br>
 
 ## V. Del ser necesario al Dios que interpela
 
@@ -129,7 +129,7 @@ Uno puede rechazar esa identificación. Pero no puede rechazarla por motivos fil
 
 Esta es la jerarquía que nadie quiere. Porque si el fundamento es personal, la criatura no es meramente contingente -- es interpelada. Y ser interpelado requiere una respuesta.
 
-
+<br>
 
 ## VI. Dioses que reflejan mi imagen
 
@@ -149,7 +149,7 @@ El *imago Dei* -- ser la imagen de Dios -- es la única antropología que realme
 
 Pequeñez soberana sobre grandeza dependiente -- elegida libremente, cada generación, desde Atenas.
 
-
+<br>
 
 ## VII. Non serviam - Non te egeo
 
@@ -175,7 +175,7 @@ Este desplazamiento no fue impuesto por la fuerza. Se fue derivando -- lo cual e
 
 Este es el *non te egeo* como estructura en lugar de elección -- no pronunciado como una decisión, sino derivado mañana tras mañana, antes de que la primera pregunta del día haya tenido tiempo de formarse. El rebelde medieval al menos sabía qué estaba rechazando. El sujeto moderno, completamente abastecido, no experimenta ningún rechazo en absoluto. Simplemente no falta nada. Y esa es la medida más precisa de la pérdida: que no se siente como tal.
 
-
+<br>
 
 ## VIII. La explicación no es fundamento
 
@@ -191,7 +191,7 @@ Consideremos cómo opera. Un ser humano experimenta algo que se siente como encu
 
 Todo marco explicativo comienza después de que la existencia ya existe. Después de que el Ahora ya opera. Después de que la inteligibilidad ya está en su lugar. Lo que tales marcos no pueden abordar es por qué nada de esto es el caso. ¿Por qué hay algo en lugar de nada? ¿Por qué el universo es inteligible en absoluto? ¿Por qué existe el Ahora? Estas no son preguntas retóricas. Son las preguntas que el fundamento no derivativo debe responder. Y la respuesta del marco moderno no es una respuesta. Es un cambio de tema.
 
-
+<br>
 
 ## IX. El orden imaginado contemporáneo
 
@@ -211,7 +211,7 @@ Ahora consideremos lo que ofrece la arquitectura de suficiencia: miles de oracio
 
 La habitación está llena. La puerta está abierta. Y no extrañamos el silencio, porque no podemos recordar qué íbamos a preguntar.
 
-
+<br>
 
 ## X. El teatro que nadie visita
 
@@ -223,7 +223,7 @@ El universo es el teatro de este encuentro -- el escenario físico donde la cria
 
 Las maquinarias -- económicas, algorítmicas, ideológicas -- no asaltan el centro. Seducen hacia el borde. Hacen que el borde sea cómodo, entretenido, suficientemente satisfactorio. Solo necesitan ocupar la atención de la criatura lo suficiente como para que el punto de cruce nunca sea visitado. El teatro está de pie. El escenario está preparado. El encuentro está disponible. La criatura está en otro lugar.
 
-
+<br>
 
 ## XI. Los que llegaron de todas formas
 
@@ -252,7 +252,7 @@ El universo es la totalidad de las actualizaciones creadas sostenidas por el Aho
 
 El encuentro todavía está disponible. La habitación todavía está ahí. La puerta, a pesar de todo, todavía se cierra.
 
-
+<br><br>
 
 ## Referencias
 
@@ -263,15 +263,15 @@ El encuentro todavía está disponible. La habitación todavía está ahí. La p
 - Harari, Yuval Noah. *Sapiens: De animales a dioses*. Nueva York: Harper, 2015.
 - Harari, Yuval Noah. *Homo Deus: Breve historia del manana*. Nueva York: Harper, 2017.
 
-**Filosofia clasica**
+**Filosofía clásica**
 
-- Aristoteles. *Metafisica*. Traduccion de W. D. Ross. Oxford: Clarendon Press, 1924.
-- Tomas de Aquino. *Suma teologica*. Traduccion de los Padres de la Provincia Dominicana Inglesa. Westminster, MD: Christian Classics, 1981.
-- Agustin de Hipona. *Confesiones*. Traduccion de Henry Chadwick. Oxford: Oxford University Press, 1991.
+- Aristóteles. *Metafísica*. Traducción de W. D. Ross. Oxford: Clarendon Press, 1924.
+- Tomás de Aquino. *Suma teológica*. Traducción de los Padres de la Provincia Dominicana Inglesa. Westminster, MD: Christian Classics, 1981.
+- Agustín de Hipona. *Confesiones*. Traducción de Henry Chadwick. Oxford: Oxford University Press, 1991.
 
-**Filosofia moderna**
+**Filosofía moderna**
 
-- Kastrup, Bernardo. *Por que el materialismo es una tonteria*. Winchester, Reino Unido: Iff Books, 2014.
+- Kastrup, Bernardo. *Por que el materialismo es una tontería*. Winchester, Reino Unido: Iff Books, 2014.
 - Nagel, Thomas. *Mente y cosmos*. Oxford: Oxford University Press, 2012.
 - Plantinga, Alvin. *Garantia y funcion adecuada*. Oxford: Oxford University Press, 1993.
 
@@ -285,3 +285,6 @@ El encuentro todavía está disponible. La habitación todavía está ahí. La p
 - Dario, Ruben. *Poesias completas*. Madrid: Aguilar.
 - Barrie, J. M. Cartas y escritos reunidos varios.
 
+<br>
+
+{% include further-reading-es.html %}

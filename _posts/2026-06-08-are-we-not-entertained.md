@@ -14,13 +14,13 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20599987"
 translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08/acaso-no-estamos-entretenidos.html"
 ---
 
-
+<br>
 
 > At the entrance to the swamp road there was a sign that read Macondo, and a larger one on the main street that read God exists. In every house keys had been written down to memorize objects and feelings. But the system demanded such vigilance and such moral fortitude that many succumbed to the spell of an imaginary reality, invented by themselves, which was less practical but more comforting.
 >
 > -- Gabriel Garcia Marquez, *One Hundred Years of Solitude*
 
-
+<br>
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08
 - [V. Are We Not Entertained?](#v-are-we-not-entertained)
 - [References](#references)
 
-
+<br>
 
 ## I. The Algorithmic Cane
 
@@ -57,7 +57,7 @@ The cane does not make you fall. That is what makes it so effective. It makes yo
 
 The cane makes movement possible, but it also determines the direction of travel. Once the support becomes indispensable, the question is no longer whether one can walk, but where one is being led.
 
-
+<br>
 
 ## II. The Arena
 
@@ -81,7 +81,7 @@ The rich man's table is now a feed. The crumbs are reels.
 
 Lazarus sat at the gate covered with sores, longing to eat what fell from the rich man's table. He did not have a device. He had a gate, his sores, and the bare fact of his need -- unmediated, unoptimized, not yet converted into content. The new Lazarus no longer waits for crumbs; he waits for the latest post from so-and-so. He wants to 'keep up' with the unstable lives of equally unstable souls -- those televised biographies that reinvent themselves every week and that she or he follows as if they were fate. The gate has been replaced by a feed. The sores have been converted into a wellness journey. And the longing -- the bare, unmediated longing that is the creature's most honest posture -- has been formatted and delivered back as content about longing.
 
-
+<br>
 
 ## III. The Digital Brick
 
@@ -101,7 +101,7 @@ The digital brick is not evil. It is efficient. It is extraordinarily good at de
 
 You can watch a thousand videos about swimming. None of them will teach your body to float.
 
-
+<br>
 
 ## IV. Dickinson
 
@@ -123,7 +123,7 @@ What Dickinson knew -- what the closed room makes possible and the open feed doe
 
 That poverty is now systematically prevented. Not by prohibition. By supply.
 
-
+<br>
 
 ## V. Are We Not Entertained?
 
@@ -157,7 +157,7 @@ It can only be asked in the dark, alone, with the door closed, by the creature t
 
 *"Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened."* -- Matthew 7:7-8
 
-
+<br><br>
 
 ## References
 
@@ -174,5 +174,7 @@ It can only be asked in the dark, alone, with the door closed, by the creature t
 - Postman, Neil. *Technopoly*. Vintage Books, 1993.
 - Scott, Ridley, director. *Gladiator*. Universal Pictures and DreamWorks Pictures, 2000.
 
+<br>
 
+{% include further-reading-en.html %}
   

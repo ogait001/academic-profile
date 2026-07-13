@@ -33,9 +33,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277874"
 translation_url: "/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-mercy-of-time.html"
 ---
 
+<br>
+
 > *Nota: Las siguientes proposiciones se ofrecen como ensayo filosófico, no como pronunciamiento doctrinal. Se comprometen con la tradición —y expresan profundo respeto por ella—, en particular por las contribuciones de Henri de Lubac y Karl Rahner sobre la relación entre naturaleza y gracia, y sobre la distinción entre alma y espíritu, al tiempo que proponen un marco que el autor reconoce como parcial, exploratorio y sujeto a corrección.*
 
----
+<br>
 
 ## Indice
 
@@ -47,7 +49,7 @@ translation_url: "/catholic-theology/ontology/philosophy-of-time/2026/05/18/the-
 - [VI. Una Proposición, no una Conclusión](#vi-una-proposición-no-una-conclusión)
 - [Referencias](#referencias)
 
----
+<br>
 
 ## I. La Cuestión de la Composición
 
@@ -61,7 +63,7 @@ El presente marco insiste en la voluntad como complemento humano y temporal de l
 
 La tesis central, que las secciones siguientes desarrollan, es ésta: **la existencia temporal es la preservación misericordiosa de la plasticidad moral.** Todo lo demás en este ensayo —la función mediadora del alma, la tendencia inercial de la voluntad, la comparación angélica, la fijeza de la muerte— sirve a esa proposición.
 
----
+<br>
 
 ## II. El Alma: Imago Dei y Orientación Constitutiva
 
@@ -77,7 +79,7 @@ El contraste con el modo angélico se vuelve iluminador precisamente aquí. Si l
 
 El alma humana, por el contrario, existe en el tiempo. Puede caer y volver. Puede mancharse y purificarse. Mantiene abierta la historia moral de la persona, en tensión, hasta que la muerte la cierra.
 
----
+<br>
 
 ## III. La Voluntad: El Complemento Humano
 
@@ -91,7 +93,7 @@ Esta es la gravedad de lo temporal: no una caída dramática sino una redirecci�
 
 Dentro del marco simbólico cristiano, el *Pater Noster* puede leerse como un reconocimiento formal de esta deriva. Cuando Jesús manda a sus discípulos orar —y *manda* es la palabra correcta; es audaz aquí— señala que la voluntad, librada a su propia gravedad acumulada, tiende a ser capturada. *«No nos dejes caer en la tentación»* es el alma reafirmando su orientación contra el tirón de la inercia. La oración, en esta lectura, no es sentimiento. Es resistencia a la deriva ontológica.
 
----
+<br>
 
 ## IV. Alma y Espíritu: La Distinción que Hace Inteligible la Misericordia
 
@@ -107,7 +109,7 @@ Pero el alma también impide la visión beatífica durante la vida temporal —y
 
 Dicho llanamente: **el alma es la misericordia que hace posible el tiempo.** Mantiene al espíritu en suspensión entre el cierre ontológico y la glorificación prematura, el tiempo suficiente para que la voluntad haga lo que sólo ella puede hacer —elegir, repetidamente, a lo largo de una vida, en presencia de la gracia ofrecida en cada punto de cruce—.
 
----
+<br>
 
 ## V. El Punto de Cruce y la Fijeza de la Muerte
 
@@ -119,7 +121,7 @@ Por esto la comparación con el ángel resulta arquitectónicamente pertinente e
 
 El cielo es el estado en que la gracia acumulada del alma la ha vuelto transparente: nada queda que obstruya la consumación del espíritu en Dios. El infierno es el estado de *fijación terminal*: la voluntad se ha identificado tan completamente con sus propios surcos que el alma se ha endurecido permanentemente en opacidad —el espíritu sellado respecto a Dios no por castigo externo, sino por el peso irreversible de lo que eligió, a través del tiempo, llegar a ser—. El purgatorio, entendido desde este marco, sería la condición en la que la fijación ha ocurrido pero queda inercia residual por resolver —una aplicación del mismo mecanismo, no una afirmación teológica separada—.
 
----
+<br>
 
 ## VI. Una Proposición, no una Conclusión
 
@@ -129,7 +131,7 @@ De lo que estoy más seguro es esto: la condición humana es la de conocer el fa
 
 Ese suspenso no es debilidad. Es la estructura de la libertad. Y la libertad, por costosa que sea, es lo que distingue a la criatura humana de todas las demás: el único ser que puede decir sí o no al Dios cuya imagen ya porta.
 
----
+<br><br>
 
 ## Referencias
 
@@ -158,3 +160,6 @@ Agustín de Hipona. *La Trinidad (De Trinitate).* Traducción de Edmund Hill, O.
 - Boecio. *La consolación de la filosofía (The Consolation of Philosophy).* Traducción de Victor Watts. Londres: Penguin Classics, 1999.
 - Heidegger, Martin. *Ser y tiempo (Being and Time / Sein und Zeit).* Traducción de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 
+<br>
+
+{% include further-reading-es.html %}

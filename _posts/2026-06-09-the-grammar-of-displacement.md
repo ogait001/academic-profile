@@ -14,9 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618207"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/la-gramatica-del-desplazamiento.html"
 ---
 
+<br>
+
 Let me say it before anything else, so that no reader mistakes the target: this is not a critique of technology. Technology is not the trap. The coliseum was a marvel of engineering, and the engineering was never the problem. The problem was what happened to the populo seated in it -- and the discovery, late and quiet, that the populo was never the audience. The populo was the product. What follows is a critique of that arrangement, written in the only place such a critique can honestly be written: from inside it.
 
-
+<br>
 
 ## Table of Contents
 
@@ -28,7 +30,7 @@ Let me say it before anything else, so that no reader mistakes the target: this 
 - [VI. Coda: The Address and the Hour](#vi-coda-the-address-and-the-hour)
 - [References](#references)
 
-
+<br>
 
 ## I. The World Is Mine
 
@@ -38,7 +40,7 @@ The world became his by passage through a death, and the cry has weight because 
 
 We have kept the cry and deleted the journey. The world is mine -- here, in the palm of my hand. I can buy from here, sell from here, trade from here. I do not need to stand in the pit of the Chicago Mercantile Exchange making the strange hand signals of the open outcry, pressed against other bodies in a room built for that one purpose. I do not need to drive to Sears. I can be entertained from here, learn from here, worship from here -- and let us say it plainly, I can sin from here and spy from here. The same possession Dantes won through death, tide, and body is now issued to everyone at no charge, and it weighs exactly what it cost.
 
-
+<br>
 
 ## II. From
 
@@ -54,7 +56,7 @@ There is a deeper inversion underneath. Markets act from nowhere; networks and i
 
 Scripture, as it happens, has already claimed the territory of the palm, twice, and both texts stand against ours with terrible precision. *Behold*, says the Lord to a Zion that feels forgotten, *I have engraved you on the palms of my hands* (Isaiah 49:16). Man carried in the divine palm, incised there, permanent. We have answered with the opposite image: man carrying his whole world in his own palm, needing no carrying. And there is the other text, the one from Revelation 13, about the mark without which no one may buy or sell, set on the right hand. I am not announcing its fulfillment; I read it as I read all my figures -- as a structural witness, not a prediction. But the structure is exact, and it should be allowed to disturb us: the hand as the locus where commerce is conditioned, where the capacity to buy, sell, and trade is granted through what the hand holds. I can buy, sell, and trade from the palm of my hand. The two palms -- the one that carries us and the one we close around the brick -- need only be placed side by side. The essay does not have to argue. It has to point.
 
-
+<br>
 
 ## III. Anytime
 
@@ -68,7 +70,7 @@ I remember the night before the first day of class. The new pair of jeans, bough
 
 Dantes waited for the tide. That is the other thing his story knows: time was something a man submitted to and cooperated with. The sea had conditions; the treasure had an hour. The world in the palm has neither -- which is exactly why it cannot be won. Only scrolled.
 
-
+<br>
 
 ## IV. Then
 
@@ -78,7 +80,7 @@ You have already met this grammar. The reunion with no date and the class with n
 
 Now the recursion, which I would find comic if it were not so close to the bone. If I need a song for Father's Day, I just tell Siri to find me one. Before, I had to *know* the songs -- Chapin's "Cat's in the Cradle," Cat Stevens' "Father and Son," Paul Anka's "Papa." To know them meant they lived in me; they were carried, the way Polo carried the road and Dantes carried the Chateau d'If. And the most famous of the three is precisely a warning about a father who was never present. So the man who outsources the Father's Day song to the assistant in his palm is re-enacting the very failure the song was written to warn him about. The outsourcing of the memory is the absence the memory was about. Ask the palm to produce the song and you receive the artifact stripped of its admonition: a carried warning that no one carries, generated on demand by a man who no longer has to know what it says.
 
-
+<br>
 
 ## V. The Sign on Main Street
 
@@ -88,7 +90,7 @@ Read that sign slowly. A town that must write down that God exists is a town tha
 
 This is why I keep insisting that God, in our hour, is not being attacked. Attack was the old repertoire -- the medieval blasphemer, the nineteenth- and twentieth-century militant. Those were tactics of relation. Non serviam is rebellion, and rebellion is theocentric: Milton's Satan cannot stop looking at the One he refuses, and refusal keeps the Refused at the center of existence. Denial, too, is relation: you do not write against God for a lifetime unless God matters. The devil needs God to defy; the atheist needs God to deny. The man with the brick in his palm needs neither. Non te egeo -- I do not need you -- is the first posture in history that requires no posture at all. It is not concluded; it is absorbed. It is not an argument; it is an atmosphere. Nietzsche's madman runs into the marketplace crying that God is dead, and the merchants laugh -- not because they disagree, but because they are busy buying and selling. The marketplace has since been folded into the palm, and the laughter has been replaced by something quieter: the scroll. You cannot refute non te egeo, because it was never asserted. The populo did not take a position against God. The landscape simply lost the dimension in which God was elevated -- the same flattening, in its final register.
 
-
+<br>
 
 ## VI. Coda: The Address and the Hour
 
@@ -104,7 +106,7 @@ It requires the body to travel, the knee to bend, the hour to be kept -- and at 
 
 The altar is the most radical and complete site of this architecture because it returns a man to the transcendent Presence that makes place sacred. Yet, the same revolution begins wherever the body reclaims its terrain from the ether. It is found in the deliberate topography of a dinner table where the bricks remain in pockets, forcing eyes to meet across a shared bread. It is found in the secular liturgy of the classroom that demands thirty distinct lives converge on a single, unrepeatable morning. It is found when we reject the efficiency of the digital message to walk the actual, physical miles to a friend's front door, recognizing that the friction of the journey is the very thing that gives the arrival its weight. Each of these thresholds is a resistance. The man who walks there -- on foot, at the hour, leaving the brick behind -- has already begun the only revolution this essay knows how to recommend. He has left a path behind him. However short the walk, it is the steppe.
 
-
+<br><br>
 
 ## References
 
@@ -117,4 +119,6 @@ The altar is the most radical and complete site of this architecture because it 
 - Nietzsche, Friedrich. *Thus Spoke Zarathustra*. Translated by Walter Kaufmann. New York: Penguin Books, 1978.
 - Stevens, Cat. "Father and Son." On *Tea for the Tillerman*. Island Records, 1970. Vinyl LP.
 
+<br>
 
+{% include further-reading-en.html %}

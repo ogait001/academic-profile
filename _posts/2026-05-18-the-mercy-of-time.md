@@ -32,9 +32,11 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-
 excerpt: "Temporal existence preserves moral plasticity by suspending immediate ontological fixation, allowing the will to choose repeatedly across a life in the presence of grace."
 ---
 
+<br>
+
 > *Note: The following propositions are offered as a philosophical essay, not as doctrinal pronouncement. They engage with and express deep respect for the tradition — particularly the contributions of Henri de Lubac and Karl Rahner on the relationship between nature and grace, and the distinction between soul and spirit — while proposing a framework the author acknowledges as partial, exploratory, and subject to correction.*
 
----
+<br>
 
 ## Table of Contents
 
@@ -46,7 +48,7 @@ excerpt: "Temporal existence preserves moral plasticity by suspending immediate 
 - [VI. A Proposition, Not a Conclusion](#vi-a-proposition-not-a-conclusion)
 - [References](#references)
 
----
+<br>
 
 ## I. The Question of Composition
 
@@ -60,7 +62,7 @@ The present framework insists on the will as the human and temporal complement t
 
 The central thesis, which the following sections develop, is this: **temporal existence is the merciful preservation of moral plasticity.** Everything else in this essay — the soul's mediating function, the will's inertial tendency, the angelic comparison, the fixity of death — serves that proposition.
 
----
+<br>
 
 ## II. The Soul: Imago Dei and Structural Orientation
 
@@ -76,7 +78,7 @@ The contrast with the angelic mode becomes illuminating precisely here. If rebel
 
 The human soul, by contrast, exists in time. It can fall and return. It can be stained and cleansed. It holds the person's moral history open, in tension, until death closes it.
 
----
+<br>
 
 ## III. The Will: The Human Complement
 
@@ -90,7 +92,7 @@ This is the gravity of the temporal: not a dramatic fall but a gradual redirecti
 
 Within the Christian symbolic framework, the *Pater Noster* may be read as a formal acknowledgment of this drift. When Jesus commands his disciples to pray — and *commands* is the right word; he is bold here — he signals that the will, left to its own accumulated gravity, tends toward capture. *"Lead us not into temptation"* is the soul reasserting its orientation against inertia's pull. Prayer, on this account, is not sentiment. It is resistance to ontological drift.
 
----
+<br>
 
 ## IV. Soul and Spirit: The Distinction That Makes Mercy Intelligible
 
@@ -106,7 +108,7 @@ But the soul also prevents the beatific vision during temporal life — and here
 
 To say this plainly: **the soul is the mercy that makes time possible.** It holds the spirit in suspension between ontological closure and premature glorification long enough for the will to do what only the will can do — choose, repeatedly, across a life, in the presence of grace offered at each crossing point.
 
----
+<br>
 
 ## V. The Crossing Point and the Fixity of Death
 
@@ -118,7 +120,7 @@ This is why the comparison to the angel becomes architecturally apt at the limit
 
 Heaven is the state in which the soul's accumulated grace has rendered it transparent: nothing left to obstruct the spirit's consummation in God. Hell is the state of terminal fixation: the will has so thoroughly identified with its own grooves that the soul has hardened permanently into opacity — the spirit sealed from God not by external punishment but by the irreversible weight of what it chose, across time, to become. Purgatory, understood through this framework, would be the condition in which fixation has occurred but residual inertia remains to be resolved — an application of the same mechanism, not a separate theological claim.
 
----
+<br>
 
 ## VI. A Proposition, Not a Conclusion
 
@@ -128,7 +130,7 @@ What I am most confident of is this: the human condition is one of knowing the l
 
 That suspension is not weakness. It is the structure of freedom. And freedom, however costly, is what distinguishes the human creature from every other: the only being who can say yes or no to the God whose image it already carries.
 
----
+<br><br>
 
 ## References
 
@@ -157,4 +159,6 @@ Augustine of Hippo. *The Trinity (De Trinitate).* Translated by Edmund Hill, O.P
 - Boethius. *The Consolation of Philosophy.* Translated by Victor Watts. London: Penguin Classics, 1999.
 - Heidegger, Martin. *Being and Time (Sein und Zeit).* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
+<br>
 
+{% include further-reading-en.html %}

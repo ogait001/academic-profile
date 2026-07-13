@@ -15,11 +15,11 @@ excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y t
 ---
 
 <br><br>
+
 *Non sumus Deus tuus; quaere super nos.*
 — Agustín de Hipona, *Confesiones*
-<br><br><br>
 
-
+<br><br>
 
 ## Indice
 
@@ -36,7 +36,7 @@ excerpt: "Non sumus Deus tuus; quaere super nos. Una indagación filosófica y t
 - [X. Qué duración tiene realmente la felicidad](#x-qué-duración-tiene-realmente-la-felicidad)
 - [Referencias](#referencias)
 
----
+<br>
 
 ## Nota sobre el Método
 
@@ -52,7 +52,7 @@ Las identificaciones teológicas, en particular el marco de la *beatitudo* tomad
 
 Una nota terminológica: el *yo*, tal como se usa a lo largo del ensayo, se refiere al alma y la voluntad en la tradición filosófica católica. Un tratamiento ontológico completo — incluida la cuestión de si esto constituye una afirmación de substancia, una afirmación de proceso, o algo que resiste ambas categorías — se desarrolla en [*El Soy que Permanece: Una Crítica a Descartes y una Metafísica del Alma*](https://oscargaitan.org/ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-permanece.html) (Gaitan, 2026) y se asume aquí sin reiterar el argumento.
 
----
+<br>
 
 ## I. La Palabra y Lo que Carga
 
@@ -64,7 +64,7 @@ Esta herencia ayuda a explicar una frustración persistente: la búsqueda de la 
 
 El argumento de este ensayo no es, por tanto, lingüístico. Es filosófico. La afirmación no es que la etimología pruebe algo sobre los límites del concepto. La afirmación es que el fenómeno que la mayoría de las personas busca realmente cuando usa la palabra se nombra y se comprende mejor a través de un marco diferente — cuya estructura este ensayo intenta especificar.
 
----
+<br>
 
 ## II. El Modelo Metafísico
 
@@ -80,7 +80,7 @@ Esto produce la restricción rectora del modelo, que requiere una formulación p
 
 La búsqueda de una felicidad que perdura acumulándose en los bucles es, dentro de este modelo, una búsqueda conducida en el lugar equivocado — no porque los bucles no contengan nada real, sino porque lo que en ellos es real es la actividad presente de recuperación, no la ocurrencia original que se recupera. El lector que impugna el modelo tiene una posición metafísica genuinamente diferente. Este ensayo no intenta obligar a la adhesión — solo mostrar qué se sigue si el modelo se acepta como instrumento filosófico.
 
----
+<br>
 
 ## III. Residencia y Referencia: Por qué el Sufrimiento Parece Durar Más
 
@@ -98,7 +98,7 @@ Giovanni Papini, en *Giudizio Universale*, le da a Eloísa una formulación que 
 
 La asimetría no viola el modelo. Tanto la felicidad como el sufrimiento ocurren dentro de momentos de la misma estructura ontológica. Lo que difiere no es la duración de los momentos sino el modo de la relación del yo con la memoria: un evento se completa y se convierte en coordenada; el otro permanece abierto y se convierte en residencia. La duración no se experimenta porque el momento sea más largo. Se experimenta porque el yo no lo abandona.
 
----
+<br>
 
 ## IV. Tres Palabras, Tres Marcos
 
@@ -114,7 +114,7 @@ La distinción importa específicamente para las Bienaventuranzas. Lo que sigue 
 
 Esta lectura se ofrece como filosóficamente coherente con el texto. No se presenta como el significado original del texto. El ensayo no requiere la afirmación exegética — solo requiere que la distinción entre *happ*, *makarios* y *ṭūwayhūn* ilustre cuentas estructuralmente diferentes del bienestar humano, lo cual hace independientemente de la semántica histórica precisa.
 
----
+<br>
 
 ## V. Presencia y Aceptación
 
@@ -128,7 +128,7 @@ El movimiento desde el punto de cruce — desde lo que el yo realmente es, hacia
 
 El aparato moderno de la comparación — la vida curada, el yo optimizado, las métricas de éxito según uno u otro estándar cultural — opera precisamente contra la segunda coordenada. Instala una plantilla ajena como medida del propio punto de cruce del yo, asegurando que incluso cuando el yo llega al momento presente, llega ya midiendo la distancia entre lo que es y lo que debería ser. Una vida evaluada por si corresponde a la plantilla es una vida cuyo yo está perpetuamente ligeramente al margen de su propia actualidad.
 
----
+<br>
 
 ## VI. Los Trescientos de Gedeón: Una Lectura Filosófica
 
@@ -142,7 +142,7 @@ Lamer desde las manos ahuecadas es recibir sin ser desplazado por lo que se reci
 
 Si esto es lo que el texto significa en su contexto original es una cuestión para exégetas y está fuera del alcance de este ensayo. Lo que la escena modela, leída a través del marco, es la capacidad estructural que el modelo identifica como necesaria para *ṭūwayhūn*: recibir plenamente mientras se permanece en el punto de cruce. No la negación de la necesidad del cuerpo. No el distanciamiento espiritual de la realidad física. La simple capacidad de permanecer erguido mientras se bebe — recibir el don sin perder al yo que lo recibe.
 
----
+<br>
 
 ## VII. Lo que el Texto de Qohélet Permite
 
@@ -157,7 +157,7 @@ Tres observaciones. **Primera:** la satisfacción en comer, beber y trabajar se 
 
 **Tercera:** la satisfacción se encuentra en el propio trabajo — no después de él ni a pesar de él. El *happ* llega desde afuera, como fortuna. La satisfacción que nombra Qohélet se encuentra dentro del acto, que el modelo lee como función de cómo se habita el acto, no de lo que entrega externamente.
 
----
+<br>
 
 ## VIII. Una Breve Comparación con el Diagnóstico Budista
 
@@ -167,7 +167,7 @@ La diferencia está en la respuesta. La respuesta budista amplia a la impermanen
 
 El marco de este ensayo no prescribe el desapego. Prescribe la recepción correcta. El rostro del hijo por la mañana, la comida, la satisfacción en el trabajo honesto — estos son dones que deben recibirse en el punto de cruce: plenamente, como eventos completos, sin aferrarse a su extensión más allá del momento de su ocurrencia. La diferencia entre los dos marcos no es que el budismo considere los fenómenos irreales — eso malrepresentaría una tradición cuyo tratamiento de la originación dependiente es considerablemente más matizado. La diferencia es que el budismo trata los fenómenos condicionados como no fiables en última instancia como refugio duradero, y responde con el camino del no-apego, mientras que el marco católico los trata como dones reales cuya completud se ubica en el punto de cruce más que en su extensión a través del tiempo, y responde con la práctica de la recepción correcta. Ambos diagnostican el mismo problema en la felicidad condicionada. Prescriben respuestas estructuralmente diferentes.
 
----
+<br>
 
 ## IX. Beatitudo e Inercia Estructural
 
@@ -183,7 +183,7 @@ Esperar alcanzar la *beatitudo* en el lecho de muerte es, dentro de este marco, 
 
 El peso práctico de esto es motivador más que punitivo: cada punto de cruce importa. No solo los dramáticos. Cada mañana ordinaria. Cada comida recibida en plena presencia o consumida en la distracción. Cada momento de llegada o partida. Cada uno está formando algo. La pregunta es solo qué.
 
----
+<br>
 
 ## X. Qué Duración Tiene Realmente la Felicidad
 
@@ -201,7 +201,7 @@ Lo cual no es menos que la duración. Es más — porque la duración siempre se
 
 El don ya es tan grande como necesita ser. Tiene exactamente el tamaño del Ahora — que, dentro de este modelo, contiene todo lo que es alguna vez actual, y que está abierto, en cada momento, por lo que no requiere a su vez un momento para existir.
 
----
+<br><br>
 
 ## Referencias
 
@@ -216,4 +216,6 @@ El don ya es tan grande como necesita ser. Tiene exactamente el tamaño del Ahor
 - Papini, Giovanni. *Giudizio Universale.* Florencia: Vallecchi, 1923.
 - Payne Smith, R. *Thesaurus Syriacus.* Oxford: Clarendon Press, 1879.
 
+<br>
 
+{% include further-reading-es.html %}

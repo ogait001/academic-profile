@@ -109,6 +109,3 @@ I do not write against philosophy. I write against the belief that wisdom belong
 
 {% include further-reading-en.html %}
 
-
-*Independent scholar*
-*June 1, 2026*

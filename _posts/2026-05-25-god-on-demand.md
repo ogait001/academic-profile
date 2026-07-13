@@ -14,7 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385839"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/dios-a-la-carta.html"
 ---
 
+<br>
+
 > "Where the tabernacle ceases to be the center, the Holy Mass takes on the form of a druidic circle: the celebrant becomes -- by structure -- a ritual shaman rather than a minister of the Most Blessed Sacrament."
+
+<br>
 
 ## Table of Contents
 
@@ -28,6 +32,8 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [VIII. To Keep the Sacred Sacred](#viii-to-keep-the-sacred-sacred)
 - [References](#references)
 
+<br>
+
 ## I. The Closed Room and the Burning Chapel
 
 There is an instruction at the heart of how a Christian is taught to pray, and it is so simple that it has nearly stopped being heard. Go into your room, close the door, and speak to your Father in secret. The closed room. The shut door. The silence before the speaking. The instruction is not primarily about piety. It is a phenomenological prescription: it describes the conditions under which a soul can be present to what holds it in being. The closed room is not a location. It is a state of withdrawal from the noise that fills every other space, so that the question can form and the address can be made.
@@ -38,6 +44,8 @@ And the burning chapel -- the side chapel or the parish church with the lamp lit
 
 The *accessus* -- the Latin word for the soul's drawing near to God, used by Aquinas and the whole scholastic tradition as the structural name for what devotion is -- is not the same word as access. *Accessus* is what the body and soul together do when they approach. Access is what a service is when it is available. The new pastoral imagination has confused these, and the confusion is the diagnosis.
 
+<br>
+
 ## II. The Underlying Principle
 
 Before the diagnosis can be developed, the principle that governs it should be named, because every claim that follows is a consequence of it. The principle is this: the simulation of an encounter suppresses the seeking of the actual encounter. Where a soul is offered a representation of what it needs, the representation can satiate the hunger that would have driven the soul toward the real thing. The hunger is not satisfied; it is preempted. The soul that has consumed the photograph of the meal believes, for a time, that it has eaten. The famine that would have brought it to the table has been displaced into a sense of fullness, and the table is not approached. This is the structural pattern that operates wherever simulation is offered in place of presence, and it operates on the Catholic faithful at the moment they reach for what the Church has, to a meaningful degree, taught them is now available without their having to come.
@@ -45,6 +53,8 @@ Before the diagnosis can be developed, the principle that governs it should be n
 Everything that follows in this essay is the application of this single principle to specific aspects of contemporary Catholic life. The architectural displacement of the tabernacle. The body's response to the rearranged building. The phone in the pew at Mass. The 24-hour Adoration stream. The rescheduling of Exposition. The members-only Catholic content. The closing of the chapels at night. Each is a particular form of the same disorder: simulation in place of presence, content in place of encounter, access in place of *accessus*. The polemic that follows is not against any one initiative or any one person. It is against the structure these initiatives share, which is the structure of preempted seeking.
 
 Technology itself is not the disorder under examination. Digital media have extended communication, education, pastoral care, and evangelization in ways of real human value. Christian life has always employed mediation. The concern here is narrower: the moment when mediation is mistaken for equivalence, when representation substitutes for embodied approach, and when convenience preempts the seeking that certain encounters require.
+
+<br>
 
 ## III. The Displacement of the Tabernacle
 
@@ -56,6 +66,8 @@ This is what is meant by the loss of the sacred at the level where the loss is h
 
 This argument is not about preference for older buildings. A church built tomorrow with the tabernacle at the architectural center and the lamp burning beside it would serve the structural purpose equally; a thousand-year-old church reordered to displace the tabernacle would fail it. The age of the building is incidental. The geometry is what matters. The defense being mounted here is not nostalgia for a past style but the recognition that certain structural arrangements instantiate the geometry the body needs to enact contrition in three moments, and other arrangements do not. The arrangement is what is being defended, not the century.
 
+<br>
+
 ## IV. The Babelic Brick
 
 And so the phone comes out of the pocket. The critique here is not of the device as instrument of communication, labor, or ordinary human coordination, but of the structure by which it becomes a substitute for encounter. The screen lights up in the pew. The notifications arrive in the middle of the Eucharistic Prayer -- a piece of babelic brick, small enough to hold in the palm, bright enough to reorient the eye away from the altar at exactly the moment the altar most demands the eye. The man in the soccer jersey thumbs his way through the notification while the priest elevates the Host. He is not malicious. He is not deliberately profaning anything. He is responding to the architecture more honestly than he knows. Where the building most clearly announces that this is a place where something is present that is not present elsewhere, the phone tends to stay in the pocket; where the building's announcement has been weakened, the phone tends to come out. The disorder is not principally in his body. It is, to a substantial degree, in the building that has lost some of its capacity to teach his body what no homily can teach a body whose phone is in its hand.
@@ -65,6 +77,8 @@ The brick is babelic in two senses, and both belong to the diagnosis.
 The first sense is the confusion of tongues. The Mass is, in its constitution, the gathering of a multitude into a single Now -- the assembly drawn together into the *hic et nunc* of the Sacrifice, every soul present at the same altar at the same moment, the dispersion of Genesis reversed by the Eucharist as it was reversed at Pentecost. The phone shatters this. Every soul in the pew is on a different feed. Every screen is delivering a different stream of curated content, a different inflection of the algorithm, a different fragment of the noise that the algorithm has tuned to that particular soul. The unified attention of the assembly is dissolved into a thousand private dispersions. The body is at Mass. The mind is in a thousand other places, no two of them the same. Pentecost is reversed in the building Pentecost made possible. The dispersion of Babel reasserts itself at the moment of the Eucharist, in the device that the worshipper has brought with them and is unwilling to put down.
 
 The second sense is the project of Babel itself. *Let us build us a city and a tower, whose top may reach unto heaven.* The Tower of Babel was the original on-demand model. The aspiration was to make the heights available by force of human construction, to take heaven without asking, to climb to the sacred on the strength of engineering alone. God dispersed the builders not because the heights are forbidden to be sought, but because the heights are not available to be reached on those terms. The heights are available to be received as gift. The Babel project was the refusal of that condition. The phone becomes a babelic brick when configured as a substitute for encounter rather than an instrument of communication. Heaven on-demand. The Sacrament streaming. The Real Presence in the palm of the hand. The aspiration is identical to Babel's; only the technology has improved. The brick is small because the engineering is better. The disorder is the same disorder.
+
+<br>
 
 ## V. The Streaming Sacrament
 
@@ -80,6 +94,8 @@ The same disorder operates at the temporal scale when devotional practices are m
 
 And the gating of formation behind paid tiers is the final form of the disorder, because it touches the Great Commission at its most basic level. *Freely you have received, freely give. Whosoever will, let him come. Go therefore and make disciples of all nations.* The Gospel is, by its constitution, the most non-exclusive thing in existence. A distinction is owed here, because not all charging is the same thing. An apostolate that asks the faithful to share in the real costs of producing and distributing its work -- server bandwidth, video production, translation, the salaries of those who serve the apostolate full-time -- is doing what the Church has always done when it has accepted offerings to support the works of evangelization. This is not the disorder. The disorder is the gating, the structural decision to place the formation itself behind exclusive tiers, to offer one body of content for free and another, deeper or more intimate, only to subscribers, to treat the apostolate as a subscription business with premium and free strata. The marketing model imported when this gating is adopted is the model that contemporary platforms have refined to its most aggressive form: parasocial intimacy mimicked, exclusive access monetized, the simulation of relationship sold by subscription to subscribers who pay for the feeling of access to someone they will never actually meet. To apply this model to the Gospel is to import a structure that was designed to deliver simulation, and to use it to deliver what is supposed to be the actual encounter. The model cannot do what is being asked of it. The model was built for the photograph of the meal. Asking it to feed the hungry is asking it to do what it was constitutively designed not to do.
 
+<br>
+
 ## VI. What the Soul Loses
 
 The losses are not abstract. The losses are specific, and they fall, in different ways, on three kinds of soul.
@@ -90,6 +106,8 @@ The soul at Mass in the auditorium church needs the body's catechesis. It needs 
 
 And the soul that has never seen the older arrangement, that has never knelt before a centrally-placed tabernacle with the lamp burning, that has grown up with the streaming Sacrament and the moved Exposition and the members-only content as the only Church it has ever known -- this soul has the deepest loss, because it does not yet know that anything has been displaced. It has been given a simulation of the sacred from its first communion onward, and the simulation has worked in the sense that the soul feels it has met the Lord. The hunger that would have driven it to seek the meeting more deeply has been preempted by the photographs. When the famine comes -- and the famine comes for every soul eventually -- this soul will reach for what has always satisfied it, and what has always satisfied it will be the streaming, the app, the members-only content. The famine may pass, or seem to pass, with the satiation reasserted. The third moment may not be performed, because the soul has not been taught that the third moment is asked of it. The going may have been removed from the repertoire of what the soul knows to do. The prodigal may not arise, because no one ever showed the prodigal that there was anywhere to go.
 
+<br>
+
 ## VII. The Inversion in the Palm
 
 *Behold, I have graven thee upon the palms of my hands.* The line is from Isaiah, and it names the geometry that the older arrangement made visible. The soul is held in God's palm. The architecture of the church is the building of this image at communal scale: the worshipper enters and is held by what the building enshrines. The lamp at the tabernacle is the lit witness that the holding is real. The Real Presence is the holding made tangible. The soul does not produce this geometry. The soul receives it. The soul comes to the place where the holding happens and is held.
@@ -98,6 +116,8 @@ The phone in the pew is the visible form of the inverted geometry. The soul that
 
 The recovery, if there is to be one, will not come from better content. It will not come from improved engagement strategies. It will not come from optimizing the streaming experience, from refining the members-only tier, from making the Adoration feed more attractive to younger demographics. These are precisely the wrong direction. They are the continuation of the disorder by people who believe they are pastoring against it. The recovery, if it comes, will come from a much simpler and much harder set of acts. Put the tabernacle back at the center of the building, where the architecture has been reordered against it. Light the lamp. Open the chapel at night. Close the door behind the body that has crossed the threshold. Limit the streaming of the Sacrament to those it was originally intended to serve -- the impeded, the bedridden, the unable. Stop selling the Gospel by subscription. Stop scheduling the liturgical week to maximize attendance. Restore the geometry that the body can read more easily, and trust that the body, given a building that announces what it is, will tend to respond as bodies have responded to such buildings across the long history of the Church.
 
+<br>
+
 ## VIII. To Keep the Sacred Sacred
 
 There is one thing the Church can do that no platform can do, and the Church must remember this, because the platforms certainly will not remind it. The Church can keep the sacred sacred. The platforms will offer to do this on the Church's behalf, will offer their reach and their algorithms and their engagement metrics, will promise to bring the Sacrament to souls who would not otherwise come to it. The promise carries a hidden structural cost. The platforms cannot bring souls to the Sacrament in the form the Sacrament is given. The platforms can bring representations of the Sacrament to souls, and the representations, when received by those who could have come and chose to stream instead, tend to prevent the going that would have brought them to the real thing. The Church that accepts the platforms' offer without distinction has accepted the structure that is engineered to deliver simulation, and the structure operates on the able faithful whether or not the Church intends it to.
@@ -105,6 +125,8 @@ There is one thing the Church can do that no platform can do, and the Church mus
 The sacred is sacred because it is set apart. *Sanctus* comes from the same root as *sancire*, to set a boundary, to mark off as untouchable. The sacred is what cannot be reduced to content without loss, what cannot be packaged into a member-tier offering without ceasing to be what it is. To keep the sacred sacred is, in real and concrete ways, to refuse certain offers the platforms make. To say no to the camera at the tabernacle, except for those who cannot come. To leave some chapel doors unlocked at night and some lamps burning and no broadcast going out. To celebrate Thursday Exposition on Thursday because the day is part of the prayer. To preach the Gospel for free, because the Gospel is given for free. None of this is heroic. All of it is simply what the Church has been when the Church has remembered what the Church is for.
 
 And the soul, finally, has work of its own. The soul that is able to go has to put the phone down. The soul that is able to go has to put the phone down and walk to the chapel. It has to cross the threshold of the building that the Church, by grace, has had the courage to keep as a church. It has to kneel before the tabernacle that someone, by grace, has had the courage to leave at the center or restore to it. The soul has to be the one who arises and goes. The streaming will not do it for the soul who could come. The app will not do it. The members-only content will not do it. The going is part of the prayer where the going is possible. The going has been part of the prayer wherever it has been possible, in every generation the Church has lived. The babelic brick offers a simulation that, for those who could come, tends to displace the going rather than complete it. The Father is at home. The Father is, in some sense, already running. The robe and the ring and the calf are ready. But the road home, where the road is available, is the soul's to walk. The road is not far. It is only one decision long. And the decision, where the going is possible, is to put down the brick, push open the door, and kneel in the silence where the lamp burns and the Sacrament is reserved and the Lord is who the Lord has always been.
+
+<br><br>
 
 ## References
 
@@ -118,3 +140,6 @@ And the soul, finally, has work of its own. The soul that is able to go has to p
 - Han, Byung-Chul. *The Disappearance of Rituals: A Topology of the Present.* Cambridge: Polity Press, 2020.
 - Debord, Guy. *The Society of the Spectacle.* New York: Zone Books, 1994.
 
+<br>
+
+{% include further-reading-en.html %}

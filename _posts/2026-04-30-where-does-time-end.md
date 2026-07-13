@@ -29,8 +29,6 @@ translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/14/donde
 
 <br>
 
----
-
 ## I. The Preface of This Inquiry
 
 These essays do not set out to discover a new doctrine. They set out to look at old ones from an unfamiliar angle — to find in the structure of time, the geometry of the will, and the logic of the Now a set of images that may help us see, with slightly greater precision, what the tradition has always believed. The goal is not novelty. It is clarity. Not a new map of the invisible world, but a different light falling on a map we already have.
@@ -42,8 +40,6 @@ Now we ask: what happens when time ends?
 Not for the universe — that is a different question. For the person. For the soul that has traversed the lemniscate from birth to death, crossing the Now ten thousand times, orienting its will at the crossing point toward or away from what was always present there. What is the structure of what awaits?
 
 The tradition names three final states: Heaven, Purgatory, Hell. Not three locations in space — the tradition itself is careful about this, more careful than popular imagination allows. Three modes of existing in final relation to the God who is, in the grammar of Exodus, simply and absolutely: I AM WHO I AM.
-
----
 
 <br>
 
@@ -61,7 +57,7 @@ What remains?
 
 The will. And its final orientation.
 
----
+<br>
 
 ## III. Heaven: The Now Without End
 
@@ -85,7 +81,7 @@ What we can say, within the framework, is this: the resurrection body is not the
 
 The resurrection body is that vehicle fulfilled. No longer the means of becoming, but the form of having fully become.
 
----
+<br>
 
 ## IV. Purgatory: Outside the Now, Oriented Toward It
 
@@ -109,7 +105,7 @@ This is not substitution in the legal sense. It is communion in the structural s
 
 The Scriptural witnesses to this doctrine are not incidental. Judah Maccabeus offers sacrifice for the dead because the dead can benefit from what the living offer at the crossing point (2 Maccabees 12:38–46). The Lord's warning — *agree with your adversary quickly, lest you be delivered to the judge and cast into prison until you have paid the last farthing* (Matthew 5:25–26) — implies a state of purifying passage between this life and final destiny. And the warning that sin against the Holy Spirit will not be forgiven *in this age or in the age to come* implies, as the tradition reads it, that other sins may be addressed in the age to come (Mark 3:29). Not as a second chance — the orientation of the will is fixed at death — but as the completion of a purification already begun, carried forward by the prayers of those still in the Now.
 
----
+<br>
 
 ## V. Hell: The Inverted Now
 
@@ -159,7 +155,7 @@ This is the precise horror of the inverted Now. Not the absence of the crossing 
 
 In Hell, that question has received its final answer.
 
----
+<br>
 
 ## VI. The Three Nows
 
@@ -171,7 +167,7 @@ We can now see the three final states not as three locations in space, not as th
 
 **In Hell**, the soul is in the Now but turned away from what the Now contains. It has not escaped the crossing point — nothing escapes the crossing point, because the crossing point is the condition of existence itself. But its will, fixed at death in permanent refusal, faces away from the mercy that remains present at the center. The Now continues. The ticking continues. Existence continues. But without orientation toward what grounds existence, the Now becomes — in the only image adequate to it — a clock on a wall in an empty room, ticking forever, marking nothing, counting toward nothing, in the presence of everything it has refused.
 
----
+<br>
 
 ## VII. The Resurrection Body and the End of the Argument
 
@@ -193,7 +189,7 @@ We were always in the Now. We were always addressed. We were always at the place
 
 In Heaven, that choosing is finished. Not because freedom is abolished but because it has reached what it was always free for.
 
----
+<br>
 
 The clock that Alphonsus heard — ticking forever in the empty room — and the rest that Augustine sought — the heart that cannot rest until it rests in God — are not two descriptions of two different afterlives. They are two descriptions of the same crossing point, seen from two permanent orientations of the will.
 
@@ -206,7 +202,7 @@ The difference is only the direction of the face.
 
 **Time does not end by disappearing, but by no longer being needed.**
 
-<br>
+<br><br>
 
 ## References
 
@@ -218,4 +214,6 @@ The difference is only the direction of the face.
 - Dante Alighieri. *The Divine Comedy*.
 - *Catechism of the Catholic Church*. CCC 1020–1060.
 
+<br><br>
 
+{% include further-reading-en.html %}

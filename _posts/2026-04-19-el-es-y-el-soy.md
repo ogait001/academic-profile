@@ -461,7 +461,7 @@ El hombre en la habitación está en el punto de cruce de tres lemniscatas entre
 
 La existencia contingente no puede sostenerse a sí misma. Pero el SOY — YO SOY EL QUE SOY — es lo que no falla. El que no cierra el punto de cruce desde afuera. El que corre hacia el pródigo mientras todavía está lejos. El que está de pie en la puerta y llama. El que dice no *Yo era*, no *Yo seré*, sino simplemente, invariantemente, en la única gramática adecuada a lo que es más real, en el punto de cruce de cada punto de cruce, en el Ahora que sostiene cada Ahora:
 
-**YO SOY.**
+**YO SOY EL QUE SOY.**
 
 ---
 

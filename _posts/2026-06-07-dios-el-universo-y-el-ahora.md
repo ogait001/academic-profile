@@ -258,8 +258,8 @@ El encuentro todavía está disponible. La habitación todavía está ahí. La p
 
 **Fuentes primarias**
 
-- La Biblia. Nueva Version Internacional. Sociedad Biblica Internacional, 1999.
-- Milton, John. *El paraiso perdido*. Editado por Alastair Fowler. Londres: Routledge, 2007.
+- La Biblia. Nueva Versión Internacional. Sociedad Biblica Internacional, 1999.
+- Milton, John. *El paraíso perdido*. Editado por Alastair Fowler. Londres: Routledge, 2007.
 - Harari, Yuval Noah. *Sapiens: De animales a dioses*. Nueva York: Harper, 2015.
 - Harari, Yuval Noah. *Homo Deus: Breve historia del manana*. Nueva York: Harper, 2017.
 
@@ -273,7 +273,7 @@ El encuentro todavía está disponible. La habitación todavía está ahí. La p
 
 - Kastrup, Bernardo. *Por que el materialismo es una tontería*. Winchester, Reino Unido: Iff Books, 2014.
 - Nagel, Thomas. *Mente y cosmos*. Oxford: Oxford University Press, 2012.
-- Plantinga, Alvin. *Garantia y funcion adecuada*. Oxford: Oxford University Press, 1993.
+- Plantinga, Alvin. *Garantía y función adecuada*. Oxford: Oxford University Press, 1993.
 
 **Conciencia y emergencia**
 
@@ -282,7 +282,7 @@ El encuentro todavía está disponible. La habitación todavía está ahí. La p
 
 **Literatura**
 
-- Dario, Ruben. *Poesias completas*. Madrid: Aguilar.
+- Darío, Ruben. *Poesias completas*. Madrid: Aguilar.
 - Barrie, J. M. Cartas y escritos reunidos varios.
 
 <br>

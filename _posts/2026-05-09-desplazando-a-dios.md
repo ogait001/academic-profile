@@ -292,7 +292,7 @@ Y aquí la operación moderna alcanza su límite estructural. Puede evacuar al y
 
 La inquietud regresará — apuntando, como siempre, más allá de sí misma, hacia lo que el sustituto nunca fue capaz de proveer. Agustín la nombró dieciséis siglos atrás: *nuestro corazón está inquieto hasta que descansa en Ti*. La inquietud no es un mal funcionamiento. Es el yo, finalmente sin anestesia, comenzando a buscar lo que realmente sostiene.
 
-El punto de cruce no se ha movido. Está sostenido abierto por aquel que no dice *yo fui* ni *yo seré* — la gramática de todo centro falso, todo sustituto, todo sucedáneo de horizonte que provee el sistema moderno. El punto de cruce está sostenido abierto por el presente puro, incondicionado, autosuficiente: YO SOY. No adelante en el horizonte. No atrás en la memoria. En el centro, donde la curva debe pasar para ser una lemniscata en lugar de la deriva de la serpiente.
+El punto de cruce no se ha movido. Está sostenido abierto por aquel que no dice *yo fui* ni *yo seré* — la gramática de todo centro falso, todo sustituto, todo sucedáneo de horizonte que provee el sistema moderno. El punto de cruce está sostenido abierto por el presente puro, incondicionado, autosuficiente: YO SOY EL QUE SOY. No adelante en el horizonte. No atrás en la memoria. En el centro, donde la curva debe pasar para ser una lemniscata en lugar de la deriva de la serpiente.
 
 Lo que ha cambiado es que toda una civilización ha sido entrenada, trazo a trazo del pulgar, para nunca quedarse quieta el tiempo suficiente para sentir el suelo bajo sus pies.
 

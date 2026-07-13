@@ -44,8 +44,6 @@ El espacio no es el contenedor del cambio. Es su condición. Sin distancia no ha
 
 Este ensayo propone que la identidad — la persistencia del ser a través del cambio — no es un problema filosófico que requiere una solución. Es un hecho geométrico que requiere un nombre. El nombre es el **interior infinito**: el espacio asintótico continuo entre dos estados cualesquiera de un ser, que es necesariamente ininterrumpido y, por lo tanto, preservador del que lo atraviesa.
 
----
-
 <br>
 
 ## I. El Problema del Cambio
@@ -212,4 +210,6 @@ El espacio no es el contenedor del cambio. Es su condición. Y el interior infin
 - Plutarco. *Vida de Teseo*. Traducido por John Dryden. Modern Library, 2001.
 - Tomás de Aquino. *Suma Teológica*. Traducido por los Padres de la Provincia Dominicana Inglesa. Benziger Bros., 1947.
 
+<br>
 
+{% include further-reading-es.html %}

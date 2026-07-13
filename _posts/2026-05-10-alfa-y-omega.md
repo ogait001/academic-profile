@@ -182,7 +182,7 @@ El alma perdura. El cosmos perdura. La enumeración perdura. Los tres cruzan el 
 *Ninguno de ellos inventó el punto de cruce.*
 *Todos lo atraviesan.*
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -193,4 +193,6 @@ El alma perdura. El cosmos perdura. La enumeración perdura. Los tres cruzan el 
 - Cantor, G. *Contribuciones a la fundamentación de la teoría de los números transfinitos.* Dover, 1955.
 - Dehaene, S. *El sentido numérico.* Oxford University Press, 1997.
 
+<br>
 
+{% include further-reading-es.html %}

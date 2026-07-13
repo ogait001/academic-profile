@@ -256,7 +256,7 @@ The vacancy is not God's absence. God is precisely what holds the Now open in wh
 
 The restlessness will return — pointing, as it always has, beyond itself, toward what the substitute was never capable of providing. Augustine named it sixteen centuries ago: *our heart is restless until it rests in Thee.*
 
-The crossing point has not moved. It is held open by the one who does not say *I was* or *I will be* — the grammar of every false center, every substitute, every horizon-surrogate the modern system provides. The crossing point is held open by the pure, unqualified, self-sustaining present tense: **I AM.**
+The crossing point has not moved. It is held open by the one who does not say *I was* or *I will be* — the grammar of every false center, every substitute, every horizon-surrogate the modern system provides. The crossing point is held open by the pure, unqualified, self-sustaining present tense: **I AM WHO I AM.**
 
 What has changed is that an entire civilization has been trained, thumb-stroke by thumb-stroke, to never stand still long enough to feel the ground beneath their feet.
 

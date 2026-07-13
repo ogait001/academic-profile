@@ -14,7 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385891"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/god-on-demand.html"
 ---
 
+<br>
+
 > "Alli donde el tabernáculo deja de ser el centro, la Santa Misa adopta la forma de un circulo druídico: el celebrante se convierte, por estructura, en un shaman ritual, y no en ministro del Santisimo Sacramento."
+
+<br>
 
 ## Indice
 
@@ -28,6 +32,8 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [VIII. Mantener lo Sagrado Sagrado](#viii-mantener-lo-sagrado-sagrado)
 - [Referencias](#referencias)
 
+<br>
+
 ## I. El Cuarto Cerrado y la Capilla Encendida
 
 Hay una instrucción en el corazón de cómo se le enseña a orar a un cristiano, y es tan sencilla que casi ha dejado de oírse. Entra en tu cuarto, cierra la puerta, y habla con tu Padre en secreto. El cuarto cerrado. La puerta cerrada. El silencio antes del hablar. La instrucción no trata principalmente sobre la piedad. Es una prescripción fenomenológica: describe las condiciones bajo las cuales un alma puede estar presente ante aquello que la sostiene en el ser. El cuarto cerrado no es un lugar. Es un estado de retiro respecto del ruido que llena todo otro espacio, para que la pregunta pueda formarse y la palabra pueda ser dirigida.
@@ -38,6 +44,8 @@ Y la capilla encendida -- la capilla lateral o la iglesia parroquial con la lám
 
 El *accessus* -- la palabra latina para el acercamiento del alma a Dios, usada por Aquino y por toda la tradición escolástica como el nombre estructural de lo que la devoción es -- no es la misma palabra que acceso. El *accessus* es lo que el cuerpo y el alma hacen juntos cuando se acercan. El acceso es lo que un servicio es cuando está disponible. La nueva imaginación pastoral ha confundido estas dos cosas, y la confusión es el diagnóstico.
 
+<br>
+
 ## II. El Principio Subyacente
 
 Antes de que el diagnóstico pueda desarrollarse, debe nombrarse el principio que lo gobierna, porque toda afirmación que sigue es una consecuencia de él. El principio es este: la simulación de un encuentro suprime la búsqueda del encuentro real. Donde a un alma se le ofrece una representación de lo que necesita, la representación puede saciar el hambre que habría llevado al alma hacia la cosa real. El hambre no es satisfecha; es preempleada. El alma que ha consumido la fotografía de la comida cree, por un tiempo, que ha comido. El hambre que la habría llevado a la mesa ha sido desplazada hacia una sensación de plenitud, y la mesa no es buscada. Este es el patrón estructural que opera dondequiera que la simulación se ofrece en lugar de la presencia, y opera sobre el fiel católico en el momento en que extiende la mano hacia lo que la Iglesia, en una medida significativa, le ha enseñado que ahora está disponible sin necesidad de venir.
@@ -45,6 +53,8 @@ Antes de que el diagnóstico pueda desarrollarse, debe nombrarse el principio qu
 Todo lo que sigue en este ensayo es la aplicación de este único principio a aspectos específicos de la vida católica contemporánea. El desplazamiento arquitectónico del sagrario. La respuesta del cuerpo ante el edificio reordenado. El teléfono en el banco durante la Misa. La transmisión de la Adoración veinticuatro horas. La reprogramación de la Exposicion. El contenido católico para miembros únicamente. El cierre de las capillas por la noche. Cada uno es una forma particular del mismo desorden: simulación en lugar de presencia, contenido en lugar de encuentro, acceso en lugar de *accessus*. La polémica que sigue no es contra una iniciativa particular ni contra una persona particular. Es contra la estructura que estas iniciativas comparten, que es la estructura de la búsqueda preempleada.
 
 La tecnología misma no es el desorden bajo examen. Los medios digitales han extendido la comunicación, la educación, el cuidado pastoral y la evangelización de maneras de auténtico valor humano. La vida cristiana ha empleado siempre la mediación. La preocupación aquí es más estrecha: el momento en que la mediación se confunde con la equivalencia, cuando la representación sustituye al acercamiento encarnado, y cuando la conveniencia preemplea la búsqueda que ciertos encuentros requieren.
+
+<br>
 
 ## III. El Desplazamiento del Sagrario
 
@@ -56,6 +66,8 @@ Esto es lo que se quiere decir con la pérdida de lo sagrado en el nivel donde l
 
 Este argumento no trata de una preferencia por los edificios antiguos. Una iglesia construida mañana con el sagrario en el centro arquitectónico y la lámpara ardiendo a su lado serviría al propósito estructural igualmente; una iglesia de mil años reordenada para desplazar el sagrario fallaría en él. La edad del edificio es incidental. La geometría es lo que importa. La defensa que aquí se monta no es nostalgia por un estilo pasado sino el reconocimiento de que ciertos arreglos estructurales instancian la geometría que el cuerpo necesita para ejecutar la contrición en tres momentos, y otros arreglos no. El arreglo es lo que se defiende, no el siglo.
 
+<br>
+
 ## IV. El Ladrillo Babélico
 
 Y así el teléfono sale del bolsillo. La crítica aquí no es del aparato como instrumento de comunicación, trabajo, o coordinación humana ordinaria, sino de la estructura por la cual este se convierte en sustituto del encuentro. La pantalla se enciende en el banco. Las notificaciones llegan en medio de la Plegaria Eucarística -- una pieza de ladrillo babélico, lo suficientemente pequeña como para sostenerse en la palma, lo suficientemente brillante como para reorientar el ojo lejos del altar exactamente en el momento en que el altar más exige al ojo. El hombre con la camiseta de fútbol pasa el dedo por la notificación mientras el sacerdote eleva la Hostia. No es malicioso. No está profanando deliberadamente nada. Esta respondiendo a la arquitectura más honestamente de lo que el mismo sabe. Donde el edificio anuncia con mayor claridad que este es un lugar donde algo está presente que no lo está en otro sitio, el teléfono tiende a quedarse en el bolsillo; donde el anuncio del edificio se ha debilitado, el teléfono tiende a salir. El desorden no está principalmente en el cuerpo de este hombre. Esta, en grado sustancial, en el edificio que ha perdido parte de su capacidad para enseñar a su cuerpo lo que ninguna homilía puede enseñar a un cuerpo cuyo teléfono está en su mano.
@@ -65,6 +77,8 @@ El ladrillo es babélico en dos sentidos, y ambos pertenecen al diagnóstico.
 El primer sentido es la confusión de las lenguas. La Misa es, en su constitución, la reunion de una multitud en un único Ahora -- la asamblea congregada en el *hic et nunc* del Sacrificio, cada alma presente en el mismo altar en el mismo instante, la dispersión del Genesis revertida por la Eucaristía como fue revertida en Pentecostés. El teléfono destroza esto. Cada alma en el banco está en un feed distinto. Cada pantalla entrega una corriente diferente de contenido curado, una inflexión diferente del algoritmo, un fragmento diferente del ruido que el algoritmo ha sintonizado para esa alma particular. La atención unificada de la asamblea se disuelve en mil dispersiones privadas. El cuerpo está en la Misa. La mente está en mil otros lugares, ningun par de ellos el mismo. Pentecostés es revertido en el edificio que Pentecostés hizo posible. La dispersión de Babel se reafirma en el momento de la Eucaristía, en el aparato que el adorador ha traido consigo y se niega a soltar.
 
 El segundo sentido es el proyecto mismo de Babel. *Edifiquemonos una ciudad y una torre cuya cumbre llegue al cielo.* La Torre de Babel fue el modelo a la carta original. La aspiración era hacer las alturas disponibles por la fuerza de la construcción humana, tomar el cielo sin pedirlo, escalar hasta lo sagrado por la sola fuerza de la ingeniería. Dios dispersó a los constructores no porque las alturas esten prohibidas para ser buscadas, sino porque las alturas no estan disponibles para ser alcanzadas en esos términos. Las alturas estan disponibles para ser recibidas como don. El proyecto de Babel fue el rechazo de esa condición. El teléfono se convierte en ladrillo babélico cuando se configura como sustituto del encuentro en vez de instrumento de la comunicación. Cielo a la carta. El Sacramento en transmisión. La Presencia Real en la palma de la mano. La aspiración es identica a la de Babel; solo la tecnología ha mejorado. El ladrillo es pequeño porque la ingeniería es mejor. El desorden es el mismo desorden.
+
+<br>
 
 ## V. El Sacramento en Transmisión
 
@@ -80,6 +94,8 @@ El mismo desorden opera en la escala temporal cuando las prácticas devocionales
 
 Y el resguardo de la formación detras de niveles pagados es la forma final del desorden, porque toca el Mandato Misionero en su nivel más básico. *Gratuitamente habéis recibido, dad gratuitamente. El que tenga sed, venga. Id, pues, y haced discipulos de todas las naciones.* El Evangelio es, por su constitución, la cosa más no-exclusiva en la existencia. Una distinción es debida aquí, porque no todo cobro es la misma cosa. Un apostolado que pide a los fieles compartir los costos reales de producir y distribuir su trabajo -- el ancho de banda de los servidores, la producción de video, la traducción, los salarios de quienes sirven al apostolado a tiempo completo -- está haciendo lo que la Iglesia ha hecho siempre cuando ha aceptado ofrendas para sostener las obras de evangelización. Este no es el desorden. El desorden es el resguardo, la decisión estructural de colocar la formación misma detras de niveles exclusivos, de ofrecer un cuerpo de contenido gratis y otro, más profundo o más íntimo, solo a los suscriptores, de tratar al apostolado como un negocio de suscripción con estratos premium y gratuitos. El modelo de mercadeo importado cuando se adopta este resguardo es el modelo que las plataformas contemporaneas han refinado a su forma más agresiva: intimidad parasocial mimetizada, acceso exclusivo monetizado, la simulación de la relación vendida por suscripción a suscriptores que pagan por la sensación de acceso a alguien que en realidad nunca conoceran. Aplicar este modelo al Evangelio es importar una estructura que fue diseñada para entregar simulación, y usarla para entregar lo que se supone debe ser el encuentro real. El modelo no puede hacer lo que se le está pidiendo. El modelo fue construido para la fotografía de la comida. Pedirle que alimente al hambriento es pedirle que haga lo que constitutivamente fue diseñado para no hacer.
 
+<br>
+
 ## VI. Lo que el Alma Pierde
 
 Las perdidas no son abstractas. Las perdidas son específicas, y caen, de maneras distintas, sobre tres clases de alma.
@@ -90,6 +106,8 @@ El alma en Misa en la iglesia-auditorio necesita la catequesis del cuerpo. Neces
 
 Y el alma que nunca ha visto el arreglo antiguo, que nunca se ha arrodillado ante un sagrario colocado centralmente con la lámpara encendida, que ha crecido con el Sacramento en transmisión y la Exposicion movida y el contenido para miembros únicamente como la única Iglesia que ha conocido -- está alma tiene la pérdida más profunda, porque aun no sabe que algo ha sido desplazado. Se le ha dado una simulación de lo sagrado desde su primera comunión en adelante, y la simulación ha funcionado en el sentido de que el alma siente que ha encontrado al Señor. El hambre que la habría llevado a buscar el encuentro más profundamente ha sido preempleada por las fotografias. Cuando llegue el hambre -- y el hambre llega para toda alma eventualmente -- está alma extenderá la mano hacia lo que siempre la ha satisfecho, y lo que siempre la ha satisfecho sera la transmisión, la aplicación, el contenido para miembros únicamente. El hambre podría pasar, o parecer pasar, con la saciedad reafirmada. El tercer momento podría no ser ejecutado, porque al alma no se le ha enseñado que el tercer momento le es pedido. El ir podría haber sido removido del repertorio de lo que el alma sabe hacer. El pródigo podría no levantarse, porque nadie le mostró nunca al pródigo que había algún lugar a donde ir.
 
+<br>
+
 ## VII. La Inversión en la Palma
 
 *He aquí, te he grabado en las palmas de mis manos.* La línea es de Isaías, y nombra la geometría que el arreglo antiguo hacia visible. El alma es sostenida en la palma de Dios. La arquitectura de la iglesia es la construcción de está imagen a escala comunitaria: el adorador entra y es sostenido por aquello que el edificio resguarda. La lámpara en el sagrario es el testigo encendido de que el sostener es real. La Presencia Real es el sostener hecho tangible. El alma no produce está geometría. El alma la recibe. El alma viene al lugar donde el sostener ocurre, y es sostenida.
@@ -97,6 +115,8 @@ Y el alma que nunca ha visto el arreglo antiguo, que nunca se ha arrodillado ant
 El teléfono en el banco es la forma visible de la geometría invertida. El alma que sostiene el teléfono ha puesto en su propia palma lo que la imagen antigua insistia que sostenía al alma. El cielo ha sido comprimido en el ladrillo. El Señor ha sido reducido a un feed. El *accessus* ha sido reemplazado por el acceso. El alma orante se ha vuelto un usuario consumidor. La iglesia reordenada es la forma arquitectónica de está inversión, donde ha ocurrido. El Sacramento en transmisión sustituido por el ir es la forma litúrgica, donde es sustituido para quienes podrían venir. El contenido para miembros únicamente es la forma económica, donde el Evangelio ha sido monetizado. Cada uno es el mismo desorden a una escala distinta: el alma que debia estar en la palma de Dios poniendo a Dios en la palma del alma; la simulación de la presencia en lugar del encuentro con la presencia; la preempción del hambre que habría llevado al alma a casa.
 
 La recuperación, sí ha de haber una, no vendrá de un mejor contenido. No vendrá de estrategias mejoradas de participación. No vendrá de optimizar la experiencia de transmisión, de refinar el nivel para miembros únicamente, de hacer el feed de Adoración más atractivo para los demográficos más jóvenes. Estas son precisamente la dirección equivocada. Son la continuación del desorden por personas que creen que estan pastoreando en su contra. La recuperación, sí llega, vendrá de un conjunto de actos mucho más simple y mucho más difícil. Volver a poner el sagrario en el centro del edificio, donde la arquitectura ha sido reordenada en su contra. Encender la lámpara. Abrir la capilla por la noche. Cerrar la puerta tras el cuerpo que ha cruzado el umbral. Limitar la transmisión del Sacramento a aquellos a quienes originalmente estaba destinada a servir -- los impedidos, los postrados, los incapaces. Dejar de vender el Evangelio por suscripción. Dejar de programar la semana litúrgica para maximizar la asistencia. Restaurar la geometría que el cuerpo puede leer más fácilmente, y confiar en que el cuerpo, dado un edificio que anuncia lo que es, tendera a responder como los cuerpos han respondido a tales edificios a lo largo de la larga historia de la Iglesia.
+
+<br>
 
 ## VIII. Mantener lo Sagrado Sagrado
 
@@ -106,6 +126,7 @@ Lo sagrado es sagrado porque está apartado. *Sanctus* proviene de la misma raí
 
 Y el alma, finalmente, tiene un trabajo propio. El alma que puede ir tiene que dejar el teléfono y caminar a la capilla. Tiene que cruzar el umbral del edificio que la Iglesia, por gracia, ha tenido el valor de mantener como iglesia. Tiene que arrodillarse ante el sagrario que alguien, por gracia, ha tenido el valor de dejar en el centro o de restaurar a él. El alma tiene que ser la que se levante y vaya. La transmisión no lo hara por el alma que podría venir. La aplicación no lo hara. El contenido para miembros únicamente no lo hara. El ir es parte de la oración donde el ir es posible. El ir ha sido parte de la oración dondequiera que ha sido posible, en cada generación que la Iglesia ha vivido. El ladrillo babélico ofrece una simulación que, para aquellos que podrían venir, tiende a desplazar el ir en vez de completarlo. El Padre está en casa. El Padre, en algún sentido, ya está corriendo. La túnica y el anillo y el ternero estan listos. Pero el camino a casa, donde el camino está disponible, es del alma para caminarlo. El camino no está lejos. Es solo una decisión de largo. Y la decisión, donde el ir es posible, es soltar el ladrillo, empujar la puerta, y arrodillarse en el silencio donde la lámpara arde y el Sacramento está reservado y el Señor es quien el Señor ha sido siempre.
 
+<br><br>
 
 ## Referencias
 
@@ -119,3 +140,6 @@ Y el alma, finalmente, tiene un trabajo propio. El alma que puede ir tiene que d
 - Han, Byung-Chul. *La desaparicion de los rituales: una topologia del presente.* Cambridge: Polity Press, 2020.
 - Debord, Guy. *La sociedad del espectaculo.* Nueva York: Zone Books, 1994.
 
+<br>
+
+{% include further-reading-es.html %}

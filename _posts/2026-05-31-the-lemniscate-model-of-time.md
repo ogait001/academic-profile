@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20479112"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/31/el-modelo-lemniscata-del-tiempo.html"
 ---
 
+<br>
+
 ## Table of Contents
 
 - [Abstract](#abstract)
@@ -46,7 +48,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
   - [On the Relation to Contemporary Philosophy of Time](#on-the-relation-to-contemporary-philosophy-of-time)
 - [References](#references)
 
-* * *
+<br>
 
 ## Abstract
 
@@ -54,9 +56,7 @@ This study proposes the lemniscate -- the figure-eight curve -- as a contemplati
 
 The argument begins with the limitations of linear temporality as a sufficient image for several persistent features of Christian experience: the recurrence of historical patterns, sacramental simultaneity, prophetic foreknowledge, and the deepening return of personal spiritual encounter. The lemniscate's geometric properties -- closure without termination, a unique self-intersecting node, bilateral symmetry, and the near return of distant points -- provide a conceptual vocabulary for approaching these difficulties. Central to the model is the distinction between the in-plane node (the point of temporal self-intersection) and the orthogonal axis (eternity's irruption into time from beyond the curve). The essay argues that these coincide: eternity enters temporal succession precisely at the node, opening it from a sealed crossing into a perpetual threshold of access. Subsequent chapters develop the model's implications for human freedom and divine providence, eschatological transition, and the ontological status of untraversed arcs.
 
-**Keywords:** lemniscate, time, eternity, crossing point, Incarnation, sacramental theology, recurrence, providence, eschatology, analogical reasoning, speculative metaphysics
-
-
+<br>
 
 ## Chapter 1: The Limits of Linear Time as a Theological Image
 
@@ -84,7 +84,7 @@ Anyone engaged in sustained spiritual practice recognizes the phenomenon of retu
 
 This study proposes that these features -- recurrence, sacramental simultaneity, prophetic foreknowledge, and experiential return -- may appear differently when time is envisioned not as a line but as a lemniscate. The lemniscate is offered not as proven metaphysical truth but as speculative grammar: a heuristic tool for organizing reflection on time, eternity, and redemption, in the tradition of geometric and mathematical imagery that runs from Augustine through Dante to Aquinas.
 
-
+<br>
 
 ## Chapter 2: The Lemniscate Model
 
@@ -136,7 +136,7 @@ A reader attentive to the figure may note that the node is traversed twice on ea
 
 If the crossing point represents the unique intersection of time and eternity, sacramental theology becomes newly legible. The Church's teaching that sacraments make present Christ's saving work across temporal distances may be understood as participation in the crossing point from various positions along the temporal curve. When we celebrate the Eucharist, we do not "go back" to Calvary in the past, nor does Calvary "come forward" to us in the present. Rather, from our position on the temporal curve, we access the crossing point -- the eternal intersection that stands outside succession while remaining accessible from within it. Baptism marks entry into this access. Reconciliation restores it when forfeited by sin. The Christian life may be understood as learning to inhabit the crossing point while still traversing the temporal loop -- participating in eternity from within time.
 
-
+<br>
 
 ## Chapter 3: Freedom, Providence, and the Two Perspectives
 
@@ -170,7 +170,7 @@ Providence, on this model, is not divine management of a process that might othe
 
 The crossing point is where this compatibility becomes most acute. At the node, time and eternity meet: the creature's traversal and God's eternal vision converge at the one threshold where the orthogonal axis opens the plane. It is here that prayer, contemplation, and sacrament are most intelligible -- not as attempts to change God's mind but as the creature's free movement toward the threshold where temporal freedom and eternal will are most transparently one.
 
-
+<br>
 
 ## Chapter 4: Eschatology and the Exit from the Curve
 
@@ -200,7 +200,7 @@ The eschaton does not abolish history but fulfills it. What has been traversed a
 
 "Behold, I make all things new" (Revelation 21:5) is thus not the replacement of what was by something unrelated to it, but the transfiguration of what was traversed into a mode adequate to what it always aimed at. The lemniscate was never the destination. It was the way.
 
-
+<br>
 
 ## Chapter 5: What the Model Illuminates and What It Does Not Claim
 
@@ -233,7 +233,7 @@ The model's answer is that existence from God's eternal perspective and existenc
 
 This essay does not engage the contemporary analytic philosophy of time literature in depth -- McTaggart's A-series and B-series, the presentism/eternalism debate, four-dimensionalism, growing block theories -- because its genre is theological-philosophical meditation rather than academic philosophy paper. Those literatures address real and pressing questions, many of which overlap with the model's concerns. The footnote in Chapter 3 indicates where the model's commitments sit relative to that debate. Readers who wish to press the model against those frameworks are invited to do so; the architecture is open enough to sustain the engagement.
 
-
+<br><br>
 
 ## References
 
@@ -257,4 +257,6 @@ Molina, Luis de. *On Divine Foreknowledge (Part IV of the Concordia)*. Translate
 
 Swinburne, Richard. *The Christian God*. Oxford: Clarendon Press, 1994.
 
+<br>
 
+{% include further-reading-en.html %}

@@ -46,8 +46,6 @@ translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/09/de-ro
 
 Este ensayo sostiene que la amenaza principal a la comunidad religiosa en el mundo moderno no es la negación de la existencia de Dios, sino el desplazamiento sistemático de Su función ontológica. Apoyándose en la Topología Gaitan — un marco filosófico fundamentado en la lemniscata, el punto de cruce y el fundamento sostenedor del Ahora — el ensayo identifica tres modos históricos de ataque contra el Ser no-derivado: la eliminación física, el desplazamiento ideológico y la evacuación del Ahora. Solo el tercero tiene éxito. Triunfa no argumentando contra Dios, sino asegurando que el yo nunca esté presente suficiente tiempo en el punto de cruce para sentir lo que lo sostiene. El ensayo rastrea esta operación en tres registros: el yo individual, el campo social y la estructura ontológica del momento presente. Se apoya en *Fuenteovejuna* de Lope de Vega, la serie televisiva *Britannia*, la película *Ben-Hur*, la película *Negro y Escarlata*, el *Das Man* de Heidegger, la figura de Legión y el pacto faustiano tal como lo restructura la economía de datos. La tesis central: los sistemas modernos no combaten la existencia de Dios. Hacen inhabitable el punto de cruce.
 
-**Palabras clave:** Ser no-derivado; punto de cruce; Ahora; comunidad; multitud; desplazamiento; Das Man; lemniscata; Legión; Topología Gaitan; función ontológica; centro falso; evacuación; identidad personal; interior infinito
-
 <br>
 
 ## Nota sobre el método
@@ -304,13 +302,13 @@ El punto de cruce no requiere reconocimiento para sostenerse.
 
 Solo requiere, para que la pregunta surja, un yo lo suficientemente presente para formularla.
 
-<br>
+<br><br>
 
 ## Referencias
 
 ### Sagradas Escrituras
 
-- Éxodo 3:14 — YO SOY EL QUE SOY: la autorrevelación divina como enunciado gramatical del Ser no-derivado.
+- Exodo 3:14 — YO SOY EL QUE SOY: la autorrevelación divina como enunciado gramatical del Ser no-derivado.
 - Génesis 2:24 — Los dos serán una sola carne: los prerrequisitos ontológicos de la comunión genuina.
 - Génesis 3:1–14 — La tentación de la serpiente y la gramática del tiempo futuro.
 - Marcos 5:1–20 — El endemoniado geraseno; Legión; el hombre restaurado a su sano juicio.
@@ -342,3 +340,6 @@ Solo requiere, para que la pregunta surja, un yo lo suficientemente presente par
 - London, Jerry (director). *La escarlata y el negro*. CBS, 1983.
 - Wyler, William (director). *Ben-Hur*. MGM, 1959.
 
+<br>
+
+{% include further-reading-es.html %}

@@ -35,13 +35,9 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde
 
 <br><br>
 
----
-
 ## Abstract
 
 This essay examines the question* Where is God? *not as a rhetorical challenge to be deflected but as a structural inquiry to be answered with precision. It argues that the question, as commonly posed, rests on a mistaken assumption: that God's presence should be visible as intervention within events. Once that assumption is examined, a different answer becomes available. God is not an agent within events. God is the sustaining ground of the present moment in which events occur. Without that ground, there is no moment to intervene in — no event that could occur, no freedom that could be exercised, no suffering that could be named. The question of where God is cannot be answered from within the assumption it presupposes. It must be answered from the structure of what the present moment is, and what it requires.
-
----
 
 <br>
 
@@ -181,7 +177,7 @@ Suffering is not the silence of God. It is what it sounds like when the Now is b
 
 > *God is present as the sustaining ground of the Now in which every act — good or evil — becomes real.*
 
-<br>
+<br><br>
 
 ## References
 
@@ -191,5 +187,7 @@ Suffering is not the silence of God. It is what it sounds like when the Now is b
 - Aquinas, Thomas. *Summa Theologiae.* I, Q.2–3; Q.44–45.
 - Augustine of Hippo. *Enchiridion on Faith, Hope, and Love.* Chapters III–IV.
 
+<br>
 
+{% include further-reading-en.html %}
 

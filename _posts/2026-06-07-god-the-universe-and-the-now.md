@@ -14,11 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20584730"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/dios-el-universo-y-el-ahora.html"
 ---
 
-
+<br>
 
 *The Feast of Corpus Christi*
 
-
+<br>
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
 - [XI. The Ones Who Arrived Anyway](#xi-the-ones-who-arrived-anyway)
 - [References](#references)
 
-
+<br>
 
 ## I. The Creature Who Cannot Add an Hour
 
@@ -49,7 +49,7 @@ Not a single hour. Not one. The creature who cannot add an hour to its life is t
 
 This essay is about what that something is. And about the belief -- ancient and contemporary, sophisticated and simple -- that explanation is enough. That if the structure can be mapped, the ground beneath the structure does not need to be faced.
 
-
+<br>
 
 ## II. We Live in a Material World
 
@@ -71,7 +71,7 @@ But if imagination can produce truth -- if it can genuinely apprehend something 
 
 The dilemma is exact: either intelligibility is a fundamental feature of reality, in which case the argument for a rational, personal ground becomes unavoidable; or intelligibility is an emergent property of what is fundamentally unintelligible matter, in which case our confidence in any reasoning -- including the reasoning that produced this conclusion -- is groundless. The materialist cannot have both a reliable rational framework and a fundamentally non-rational foundation. The choice must be made. And making it honestly leads somewhere the modern project would prefer not to go.
 
-
+<br>
 
 ## III. The Strongest Objection
 
@@ -95,7 +95,7 @@ More precisely: if imagination and reason are fully explained by emergence from 
 
 The non-derivative ground is not defeated by emergence. It is required by it -- as the condition that makes intelligibility a feature of reality rather than a local accident of biological organization.
 
-
+<br>
 
 ## IV. The Hierarchy Nobody Wants
 
@@ -111,7 +111,7 @@ And beneath the Now -- as its ground -- the argument requires a necessary being:
 
 The universe is the totality of created actualizations that unfold in the Now. It is not the necessary ground -- it is derivative, contingent, dependent. It is not the Now -- it has extension, mass, location in space. It is the theater where the embodied creature lives the encounter that the Now makes possible. The cosmos is the stage. The contact point is the Now.
 
-
+<br>
 
 ## V. From Necessary Being to the God Who Addresses
 
@@ -129,7 +129,7 @@ One can refuse that identification. But one cannot refuse it on philosophical gr
 
 This is the hierarchy nobody wants. Because if the ground is personal, the creature is not merely contingent -- it is addressed. And being addressed requires a response.
 
-
+<br>
 
 ## VI. Gods That Mirror My Image
 
@@ -149,7 +149,7 @@ The *imago Dei* -- being the image of God -- is the only anthropology that actua
 
 Sovereign smallness over dependent greatness -- chosen freely, every generation, since Athens.
 
-
+<br>
 
 ## VII. Non Serviam -- Non Te Egeo
 
@@ -177,7 +177,7 @@ This shift was not imposed by force. It was drifted into -- which is worse than 
 
 This is the *non te egeo* as structure rather than choice -- not spoken as a decision, but drifted into, morning by morning, before the first question of the day has had time to form. The medieval rebel at least knew what he was refusing. The modern subject, thoroughly supplied, does not experience a refusal at all. There is simply nothing missing. And that is the most precise measure of the loss: that it does not feel like one.
 
-
+<br>
 
 ## VIII. Explanation Is Not Ground
 
@@ -193,7 +193,7 @@ Consider how it operates. A human being experiences something that feels like en
 
 Every explanatory framework begins after existence already exists. After the Now is already operating. After intelligibility is already in place. What such frameworks cannot address is why any of this is the case. Why is there something rather than nothing? Why is the universe intelligible at all? Why does the Now exist? These are not rhetorical questions. They are the questions the non-derivative ground is required to answer. And the response of the modern framework is not an answer. It is a change of subject.
 
-
+<br>
 
 ## IX. The Contemporary Imagined Order
 
@@ -213,7 +213,7 @@ Now consider what the architecture of sufficiency offers: thousands of prayers i
 
 The room is full. The door is open. And we do not miss the silence, because we cannot remember what we were going to ask.
 
-
+<br>
 
 ## X. The Theater Nobody Visits
 
@@ -225,7 +225,7 @@ The universe is the theater of this encounter -- the physical stage where the em
 
 The machineries -- economic, algorithmic, ideological -- do not storm the center. They lure toward the edge. They make the edge comfortable, entertaining, sufficient-feeling. They need only occupy the creature's attention completely enough that the crossing point is never visited. The theater stands. The stage is set. The encounter is available. The creature is elsewhere.
 
-
+<br>
 
 ## XI. The Ones Who Arrived Anyway
 
@@ -253,7 +253,7 @@ The universe is the totality of created actualizations sustained by the Now. It 
 
 The encounter is still available. The room is still there. The door, despite everything, still closes.
 
-
+<br><br>
 
 ## References
 
@@ -286,3 +286,6 @@ The encounter is still available. The room is still there. The door, despite eve
 - Dario, Ruben. *Poesias completas*. Madrid: Aguilar.
 - Barrie, J. M. Various letters and collected writings.
 
+<br>
+
+{% include further-reading-en.html %}

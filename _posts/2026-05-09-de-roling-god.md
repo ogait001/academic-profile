@@ -37,7 +37,7 @@ pdf_url: "https://zenodo.org/records/20099894/files/de-roling-god.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/09/desplazando-a-dios.html
 ---
 
-<br><br>
+<br>
 
 > "The concept of sin does not need to be prohibited. It only needs to become quaint."
 <br>
@@ -266,7 +266,7 @@ The crossing point does not require acknowledgment to hold.
 
 It only requires, for the question to arise, a self present enough to ask it.
 
-<br>
+<br><br>
 
 ### References
 
@@ -290,3 +290,6 @@ It only requires, for the question to arise, a self present enough to ask it.
 - London, Jerry (director). *The Scarlet and the Black*. CBS, 1983.
 - Wyler, William (director). *Ben-Hur*. MGM, 1959.
 
+<br>
+
+{% include further-reading-en.html %}

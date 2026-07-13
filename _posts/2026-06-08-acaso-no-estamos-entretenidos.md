@@ -14,15 +14,13 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20600045"
 translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08/are-we-not-entertained.html"
 ---
 
-
-
-
+<br>
 
 > En la entrada del camino de la ciénaga se había puesto un anuncio que decía Macondo y otro más grande en la calle central que decía Dios existe. En todas las casas se habían escrito claves para memorizar los objetos y los sentimientos. Pero el sistema exigía tanta vigilancia y tanta fortaleza moral, que muchos sucumbieron al hechizo de una realidad imaginaria, inventada por ellos mismos, que les resultaba menos práctica pero más reconfortante.
 >
 > -- Gabriel García Márquez, *Cien años de soledad*
 
-
+<br>
 
 ## Tabla de contenido
 
@@ -33,7 +31,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08
 - [V. Acaso no estamos entretenidos?](#v-acaso-no-estamos-entretenidos)
 - [Referencias](#referencias)
 
-
+<br>
 
 ## I. El bastón algorítmico
 
@@ -59,7 +57,7 @@ El bastón no lo hace caer. Eso es lo que lo hace tan eficaz. Lo hace caminar. Y
 
 El bastón hace posible el movimiento, pero también determina la dirección del viaje. Una vez que el apoyo se vuelve indispensable, la pregunta ya no es si uno puede caminar, sino hacia dónde está siendo conducido.
 
-
+<br>
 
 ## II. La arena
 
@@ -83,7 +81,7 @@ La mesa del hombre rico es ahora un feed. Las migajas son reels.
 
 Lázaro estaba sentado a la puerta cubierto de llagas, deseando comer lo que caía de la mesa del hombre rico. No tenía un dispositivo. Tenía una puerta, sus llagas y el hecho desnudo de su necesidad -- sin mediación, sin optimización, no convertida aún en contenido. El nuevo Lázaro ya no espera migajas: espera la última publicación de fulana o fulano. Quiere "keep up" con las vidas inestables de almas igualmente inestables -- esas biografías televisadas que cambian de forma cada semana y que ella o él siguen como si fueran destino. La puerta ha sido reemplazada por un feed. Las llagas se han convertido en un viaje de bienestar. Y el anhelo -- el anhelo desnudo y sin mediación que es la postura más honesta de la criatura -- ha sido formateado y devuelto como contenido sobre el anhelo.
 
-
+<br>
 
 ## III. El ladrillo digital
 
@@ -103,7 +101,7 @@ El ladrillo digital no es malvado. Es eficiente. Es extraordinariamente bueno pa
 
 Puedes ver mil videos sobre natación. Ninguno le enseñará a tu cuerpo a flotar.
 
-
+<br>
 
 ## IV. Dickinson
 
@@ -125,7 +123,7 @@ Lo que Dickinson sabía -- lo que la habitación cerrada hace posible y el feed 
 
 Esa pobreza está siendo ahora sistemáticamente impedida. No por prohibición. Por suministro.
 
-
+<br>
 
 ## V. ¿Acaso no estamos entretenidos?
 
@@ -159,7 +157,7 @@ Solo puede ser formulada en la oscuridad, a solas, con la puerta cerrada, por la
 
 *"Pedid y se os dará; buscad y hallaréis; llamad y se os abrirá la puerta. Porque todo el que pide, recibe; el que busca, halla; y al que llama, se le abrirá la puerta."* -- Mateo 7:7-8
 
-
+<br><br>
 
 ## Referencias
 
@@ -176,4 +174,6 @@ Solo puede ser formulada en la oscuridad, a solas, con la puerta cerrada, por la
 - Postman, Neil. *Tecnópolis*. Vintage Books, 1993.
 - Scott, Ridley, director. *Gladiator*. Universal Pictures y DreamWorks Pictures, 2000.
 
+<br>
 
+{% include further-reading-es.html %}

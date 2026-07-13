@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
 ---
 
+<br>
+
 *El scroll no creó la estructura. La industrializó.*
 
 *El jardín fue singular y lento. El feed es instantáneo e ilimitado.*
@@ -23,11 +25,15 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 > "Mi nombre es Legión, porque somos muchos."
 > -- Marcos 5:9
 
-<br><br>
+<br>
 
 La tentación original propuso una ontología falsa. El pecado original la asumió.
 
+<br>
+
 Este ensayo no es una crítica a la tecnología en el sentido ordinario, ni un ejercicio de exégesis bíblica en el sentido estricto. Es una lectura filosófico-teológica de una semejanza estructural: la posibilidad de que los sistemas algorítmicos contemporáneos no hayan inventado una nueva tentación, sino que hayan industrializado una antigua. Lo que sigue es un argumento sobre la percepción, la mediación y las arquitecturas dentro de las cuales toma forma la voluntad humana.
+
+<br>
 
 ## Indice
 
@@ -39,7 +45,7 @@ Este ensayo no es una crítica a la tecnología en el sentido ordinario, ni un e
 - [VI. El Retorno](#vi-el-retorno)
 - [Referencias](#referencias)
 
-<br><br>
+<br>
 
 Hay un momento en Génesis 3 que suele leerse como el clímax de un drama moral -- la elección de la desobediencia, la violación de una prohibición. Pero si se lee más despacio, lo que llama la atención no es el drama. Es la ausencia de drama. No se registra ningún tormento. Ningun momento de lucha visible. El texto no dice que Eva discutió consigo misma y perdió. Dice que ella *vio* -- y el resto siguió.
 
@@ -50,6 +56,8 @@ Cinco pasos. Cada uno sin fricción. Ningun intervalo entre ellos lo suficientem
 Esos mismos cinco pasos se ejecutan ahora, a escala industrial, miles de millones de veces al día. El feed aparece. El reel detiene la atención. El contenido es consumido. Se presiona el botón de compartir. Una tragedia, un anuncio publicitario y una foto de vacaciones de un amigo ocupan cuadros uniformes e idénticos. Todo aplanado al mismo plano. Nada que requiera la clase de pausa en la que podria formarse una elección genuina.
 
 El scroll no inventó está secuencia. La heredó. Lo que el siguiente ensayo sostiene es que la tentación original no fue primariamente un evento moral -- una prueba de obediencia que la humanidad falló. Fue una propuesta topológica: una reorganización de la relación de la criatura con la realidad, con la percepción, y con el lugar donde el encuentro genuino con lo divino es posible. El algoritmo es el instrumento más eficiente jamas construido para aceptar esa propuesta a escala.
+
+<br>
 
 ## I. La Lectura Jurídica -- Una Apuesta Interpretativa
 
@@ -67,6 +75,8 @@ Esta es una analogia estructural, no una afirmación histórica sobre la psicolo
 
 El desierto que sigue es la exhibición de esa diferencia. Cada punto de cruce en el desierto es evidencia de que el caso todavia está siendo escuchado. No sentencia diferida. Un tipo de caso completamente distinto.
 
+<br>
+
 ## II. Los Cinco Movimientos
 
 Génesis 3:6 merece leerse como una secuencia más que como un evento:
@@ -83,6 +93,8 @@ El pecado original, en el relato clásico, no trata principalmente de culpa por 
 
 *Eva comio y dio. El nodo mimético publica y comparte. Ninguno requirió el consentimiento de quienes vinieron despues. La transmisión fue el acto.*
 
+<br>
+
 ## III. La Vista Plana y la Geometría del Bucle
 
 Antes de que Eva pudiera extraer el fruto, algo había ocurrido ya en su percepción. Tuvo que aislar el árbol de su suelo relacional -- de la red de significado que lo hacia *este* árbol, el árbol en el centro, el árbol cuya prohibición era ella misma una forma de misericordia estructural. Una vez aislado, el árbol se convirtio en un objeto a evaluar por sus atributos externos: bueno para comer, agradable a los ojos, deseable para la sabiduría. Una cosa. Este desplazamiento epistemológico previo -- de contemplar la realidad dentro de su profundidad relacional a verla como una superficie disponible para la extracción -- es lo que llamo *vista plana*.
@@ -95,6 +107,8 @@ La vista plana clausura está percepción. Ve superficies y equivalencias. Ve la
 
 El castigo de la serpiente -- *sobre tu vientre andaras* -- se lee, en está topología, como una descripción formal del confinamiento al plano del suelo: movimiento sin verticalidad, circulación sin la intersección ascendente que pondria los dos bucles en contacto. El algoritmo ofrece a la humanidad entrada voluntaria en la misma geometría. El resultado es *continuidad sin llegada*: movimiento perpetuo, compartir constante, y estasis estructural. La jaula se cierra no con una cerradura sino con la eliminación de la sensación de paredes.
 
+<br>
+
 ## IV. Legión
 
 Cuando Jesús encuentra al hombre poseído al otro lado del mar, en el país de los gerasenos, le hace una sola pregunta: *cómo te llamas?* La respuesta no es un nombre. Es una condición: *Me llamo Legión, porque somos muchos.* No queda ningún yo singular para responder. La persona ha sido dispersada en pluralidad sin centro.
@@ -102,6 +116,8 @@ Cuando Jesús encuentra al hombre poseído al otro lado del mar, en el país de 
 Esta es una descripción fenomenologica precisa de lo que produce la habitación prolongada en el bucle falsificado. El sistema algoritmico logra está dispersión no mediante el argumento sino mediante la arquitectura. No niega a Dios ni la trascendencia. Mantiene al yo tan continuamente estimulado, fragmentado y traido hacia un *en otra parte fabricado* que el punto de cruce se vuelve inhabitable -- no prohibido, simplemente nunca alcanzado. Lo que Heidegger llamo *das Man* -- el promedio anónimo en el que la existencia es vivida por nadie en particular, atribuida a todos en general -- es el nombre filosófico de la misma condición. El algoritmo es el instrumento más eficiente jamas construido para producir *das Man*. No coerciona. Hace que lo promedio este disponible sin fricción en cada momento, más inmediatamente convincente que cualquier profundidad que el sujeto pudiera descubrir por sí mismo.
 
 La pregunta que Jesús hace es ella misma un punto de cruce. Presupone un yo singular capaz de responder. Mantiene la posibilidad de la singularidad abierta contra la presión de la multitud. El algoritmo nunca hace está pregunta. No tiene uso para un yo singular. Su economía requiere dispersión: la pluralidad fragmentada, impulsada por métricas y amplificadora del eco que mantiene el bucle en marcha.
+
+<br>
 
 ## V. El Nodo que No Es un Centro
 
@@ -112,6 +128,8 @@ Esto importa porque la vista plana produce exactamente la lectura errónea: ve u
 El nodo mimético es también el cautivo más expuesto del bucle. El seguidor puede dejar de hacer scroll. El nodo no puede dejar de actuar sin dejar de existir como nodo. El bucle consume la figura alrededor de la cual se organiza. *Sereis como el falso centro* es la forma contemporánea de la oferta de la serpiente, y lleva el mismo engaño estructural: lo que parece ser el centro es precisamente lo que está más completamente capturado.
 
 El YO SOY en el punto de cruce no puede ser reemplazado. No es una afirmación teológica que requiera fe previa para ser evaluada. Es una observación topológica: un centro genuino debe ser invariante, o la geometría que ancla colapsa en la curva de la serpiente. El nodo ofrece órbitas. El punto de cruce ofrece transformación. Estas no son versiones de la misma cosa.
+
+<br>
 
 ## VI. El Retorno
 
@@ -137,5 +155,7 @@ Jesús le pidió a Legión un nombre. El algoritmo solo pide actividad, no ident
 - Heidegger, Martin. *Ser y tiempo.* Traduccion de John Macquarrie y Edward Robinson. Nueva York: Harper & Row, 1962.
 - McLuhan, Marshall. *Comprender los medios de comunicacion: las extensiones del ser humano.* Cambridge, MA: MIT Press, 1994.
 
+<br>
 
+{% include further-reading-es.html %}
 

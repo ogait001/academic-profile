@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20710961"
 translation_url: "https://oscargaitan.org/ontology/catholic-theology/philosophy-of-time/2026/06/15/el-fundamento-que-no-aparece.html"
 ---
 
+<br>
+
 ## Table of Contents
 
 - [Abstract](#abstract)
@@ -26,9 +28,13 @@ translation_url: "https://oscargaitan.org/ontology/catholic-theology/philosophy-
 - [7. Not Lost in the Interior](#7-not-lost-in-the-interior)
 - [References](#references)
 
+<br>
+
 ## Abstract
 
 Hume's case against the self rests on an observation, not an argument: when he looks inward he finds only perceptions, never the self that has them. This essay accepts the observation and denies the conclusion. Drawing on the idea of invariance under transformation -- the feature that distinguishes a structured whole from a mere heap -- it argues that the self's ground is precisely the kind of thing introspection cannot find, not because it is absent but because it does not appear among the items that vary. What every change is a change of is not itself one more change to be catalogued. Hume's failure to locate the self by looking is therefore not evidence against the self; it is exactly what the structure predicts. A grounding invariant, moreover, cannot be merely internal to the system it grounds -- an invariant defined by the transformations that fix it depends on them, and a dependent ground is no ground. The argument is thus driven from invariance to a non-derivative reality: a ground identified, with a tension held open rather than resolved, both as the invariant within the self's transformations and as the self-sustaining Being that sustains them without being one of them. The argument is developed within a Christian metaphysical framework, where the non-derivative ground identified philosophically is recognized as the God who reveals Himself as I AM WHO I AM.
+
+<br>
 
 ## 1. Hume's Honest Report
 
@@ -38,6 +44,8 @@ The honesty is the dangerous part. It would be easy to answer a bad argument; th
 
 He assumes that what does not appear among the contents is not there at all. He treats the inward glance as a complete inventory: if the self were real, it would be found among the things found, and since it is not found among them, it is not real. The bundle theory is the conclusion of that inference. Everything turns on whether the inference is sound.
 
+<br>
+
 ## 2. A Heap and a Whole
 
 Begin with what the bundle theory actually claims. A bundle is a collection -- a set of items thrown together, each logically independent of the rest. The defining mark of a heap is that its members do not constrain one another. You can add a stone, remove a stone, swap two stones, and you have insulted no relation, because there were no relations to insult. The order was never load-bearing. This is why Hume can speak of perceptions as separable, distinct, each capable of existing apart: a heap is exactly a thing whose parts are independent.
@@ -45,6 +53,8 @@ Begin with what the bundle theory actually claims. A bundle is a collection -- a
 Set against this the idea of a structured whole. In a structured whole the elements are not independent; they stand in relations that none of them is free to violate. Move one and you have not nudged a neighbor -- you have either preserved the structure or destroyed it. There is no third option of local, inconsequential change, because every element is what it is only in virtue of its place among the others. A heap is a set. A structured whole is defined by its relations and is nothing without them. The whole disagreement between Hume and his opponent can be put in four words: is the self a set, or a structure?
 
 Mathematics has a precise figure for this difference, and it is worth borrowing for clarity rather than for authority. Consider a system whose elements can be transformed -- rotated, relabeled, permuted -- by a family of transformations that preserve its structure. To speak strictly in the language of contemporary mathematical philosophy, I am invoking a group-theoretic and topological definition of invariance -- specifically, the preservation of structural properties under automorphisms or homeomorphisms within a specified group action. Such transformations may move many things; what makes them transformations of that system rather than vandalism is that they leave its defining relations intact. And wherever there is a family of structure-preserving transformations, there is something they all hold fixed -- a ground that none of them moves, against which all the moving is measured. The varying elements form the system; the fixed ground is what every transformation, however drastic, leaves untouched. The heap has no such ground, because it has no structure for any transformation to preserve; one can do anything to a heap. Only a structured whole has an invariant.
+
+<br>
 
 ## 3. The Self Among Its Transformations
 
@@ -56,6 +66,8 @@ This is the heart of the matter. The ground of the self is not one of the self's
 
 A word on that term, since it is borrowed and can mislead. By invariant I do not mean a conserved quantity, as a physicist might, nor a substance in the old metaphysical sense -- a thing-underneath of which the perceptions are the properties. I mean the fixed reference of the self's own transformations: that with respect to which the changes are registered as changes, the point that makes variation legible as variation rather than as a sequence of unrelated states. It is not a magnitude and not a substrate. It is what change is change relative to.
 
+<br>
+
 ## 4. The Judo: Why Hume Could Not Have Found It
 
 Now the observation and the structure meet, and Hume's strongest evidence changes sides.
@@ -65,6 +77,8 @@ Hume looked inward and found only perceptions, never the self. He took this as p
 So Hume's introspective report, far from refuting the self, is the signature of a self with a ground. Had he looked inward and found the self sitting among the perceptions as one more perception, that would have been the refutation -- for then the self would be a content, a variant, a member of the heap, exactly the derivative and dependent thing the bundle theory needs it to be. The fact that he could not find it there is the fact that it is not there to be found, because it is the invariant and invariants do not show up on the list. Hume performed the experiment correctly and misread the result. The empty-handed return from introspection is the predicted outcome of the view he was trying to destroy.
 
 The ground does not appear among the contents -- because it is what the contents are contents of.
+
+<br>
 
 ## 5. The Structured Bundle Is Still Contingent
 
@@ -78,6 +92,8 @@ Here, then, is the step, and it does not rest on any stipulation about what the 
 
 So the move to a non-derivative reality is not theology bolted onto metaphysics. The invariance of the foregoing sections gets the self a fixed point and answers Hume's introspective challenge. The contingency of the whole structured self is what drives the fixed point past any internal invariant: a merely internal invariant shares the contingency of the system it belongs to, and a contingent ground is no resting place but a deferral. Only what is non-derivative ends the deferral.
 
+<br>
+
 ## 6. The Ground Within and the Ground Beyond
 
 This is the name the tradition already had for such a reality. Not one being among beings, however eminent, but the ground of there being any beings at all -- that which is its own existence and receives it from nothing: I AM WHO I AM. Exodus is not an ornament on the argument; it is the word for the property the argument has just required. This is not merely a philosophical convergence but a recognition: the ground reason points to is the God confessed by the Christian tradition.
@@ -85,6 +101,8 @@ This is the name the tradition already had for such a reality. Not one being amo
 From this a tension follows that should be named and kept open rather than smoothed away, because both its sides are true. On one side the ground is within: it is the invariant of this self's transformations, the still center that makes the flux mine, the crossing point that does not travel. On the other side it is beyond: non-derivative, it cannot be a mere element of the system, since every element shares the system's contingency and the ground is what answers that contingency. Drop the first and the ground floats free, a distant abstraction with no purchase on this inner life, and the self is anchorless again. Drop the second and the ground is demoted to a feature of the system, contingent like the rest, no ground at all. Both must stand: the self's invariant is genuinely its own, and it is so only because the self participates in a non-derivative reality that exceeds it. The crossing point holds steady within me because it is sustained, moment by moment, by an I AM that is not me.
 
 Augustine said it without the algebra: interior intimo meo, superior summo meo -- more inward than my inmost self, and higher than my highest. The figure of invariance gives a modern name to the nearer half and a reason why looking inward finds neither half as an object. The God of the philosophers, made wholly transcendent, cannot anchor this self; the merely immanent invariant, made wholly mine, cannot be non-derivative. The self is held by a ground both nearer to it than its own perceptions and other than it altogether.
+
+<br>
 
 ## 7. Not Lost in the Interior
 
@@ -94,6 +112,8 @@ The account given here removes the floor's absence without denying the flux. The
 
 The ground that does not appear is not an abstraction but the living God who sustains the self from within and beyond.
 
+<br><br>
+
 ## References
 
 - Augustine of Hippo. *Confessions*.
@@ -102,8 +122,7 @@ The ground that does not appear is not an abstraction but the living God who sus
 - The Holy Bible. Exodus 3:14 ("I AM WHO I AM").
 - Lonergan, Bernard. *Insight: A Study of Human Understanding*.
 - Strawson, P. F. *Individuals: An Essay in Descriptive Metaphysics*.
-- Gaitan, Oscar. *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace*.
-- Gaitan, Oscar. *The Infinite Interior: On Space, Change, and the Integrity of the Self*.
-- Gaitan, Oscar. *The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self*.
 
+<br>
 
+{% include further-reading-en.html %}

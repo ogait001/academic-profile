@@ -26,9 +26,11 @@ translation_url: /philosophy-of-time/ontology/2026/05/16/no-te-necesito.html
 excerpt: "A reflection on digital culture’s preemptive supply of answers, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the erosion of the capacity to ask."
 ---
 
+<br>
+
 > A question that feels redundant is never asked. And a subject who never asks is, in the most exact philosophical sense, uninhabited.
 
----
+<br>
 
 ## Table of Contents
 
@@ -40,7 +42,7 @@ excerpt: "A reflection on digital culture’s preemptive supply of answers, argu
 - [Coda](#coda)
 - [References](#references)
 
----
+<br>
 
 ## I. The Question as Constitution of the Subject
 
@@ -54,7 +56,7 @@ The same structure appears in a scene that has nothing to do with philosophy and
 
 What these scenes share is the understanding that the question is not a symptom of ignorance. It is the form that genuine subjectivity takes. The subject who asks is not deficient; the subject who no longer asks has lost something more than information. They have lost the posture — the kneeling, the turning, the willingness to be implicated in the answer.
 
----
+<br>
 
 ## II. The Mechanics of Satiation
 
@@ -74,7 +76,7 @@ That poverty is now systematically prevented.
 
 And when the hunger is prevented from forming, the subject does not rebel against the ground they no longer feel. They simply stop needing it. The *non te egeo* begins here — not as a conclusion, but as the quiet effect of never having had to ask.
 
----
+<br>
 
 ## III. Non serviam → Non te egeo
 
@@ -92,7 +94,7 @@ Platform capitalism and the attention economy produce this condition with struct
 
 The *non serviam* was a wound in the relationship between the subject and the foundation. The *non te egeo* is the painless closure of the space in which that relationship could have occurred. One is a tragedy. The other is an erasure — quiet, efficient, and almost impossible to mourn, because the subject who has been displaced from the question does not experience the loss as loss. They experience it as convenience.
 
----
+<br>
 
 ## IV. The Voluntary Displacement
 
@@ -104,7 +106,7 @@ These are not proof by analogy. They are structural illustrations of a condition
 
 The displacement is not forced. It is offered. And the offer is accepted freely, at planetary scale, every morning, before the first silence of the day has had a chance to become a question.
 
----
+<br>
 
 ## V. The Closed Room
 
@@ -120,7 +122,7 @@ Because prayer-as-content is not prayer at all. It is the consumption of a repre
 
 The closed room has been opened. The door has been removed from its hinges — not by force, not by any enemy of prayer, but by a culture that genuinely believes it is helping by making everything available. The silence has been filled. And in the filling of the silence, the condition for the question has been quietly, efficiently, structurally displaced.
 
----
+<br>
 
 ## Coda
 
@@ -138,7 +140,7 @@ We have built that civilization. We inhabit it every morning when we reach for t
 
 The room is full. The door is open. And we do not even miss the silence, because we cannot remember what we were going to ask.
 
----
+<br><br>
 
 ## References
 
@@ -153,3 +155,6 @@ The room is full. The door is open. And we do not even miss the silence, because
 - Kierkegaard, Søren. *The Sickness Unto Death*. Translated by Howard V. Hong and Edna H. Hong. Princeton: Princeton University Press, 1980.
 - Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions About Health, Wealth, and Happiness*. New Haven: Yale University Press, 2008.
 
+<br>
+
+{% include further-reading-en.html %}

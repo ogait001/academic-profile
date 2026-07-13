@@ -107,7 +107,7 @@ I do not write against philosophy. I write against the belief that wisdom belong
 
 <br><br>
 
-{% include further-reading-es.html %}
+{% include further-reading-en.html %}
 
 
 *Independent scholar*

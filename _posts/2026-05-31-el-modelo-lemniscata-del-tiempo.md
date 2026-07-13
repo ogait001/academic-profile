@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20479198"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/31/the-lemniscate-model-of-time.html"
 ---
 
+<br>
+
 ## Tabla de contenidos
 
 - [Resumen](#resumen)
@@ -46,7 +48,7 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/o
   - [Sobre la Relación con la Filosofía Contemporánea del Tiempo](#sobre-la-relación-con-la-filosofía-contemporánea-del-tiempo)
 - [Referencias](#referencias)
 
-
+<br>
 
 ## Resumen
 
@@ -54,9 +56,7 @@ Este estudio propone la lemniscata -- la curva en forma de ocho -- como modelo c
 
 El argumento comienza con las limitaciones de la temporalidad lineal como imagen suficiente para algunos rasgos persistentes de la experiencia cristiana: la recurrencia de los patrones históricos, la simultaneidad sacramental, el conocimiento profético previo y el retorno en profundidad de los encuentros espirituales personales. Las propiedades geométricas de la lemniscata -- clausura sin terminación, un nodo único de autointersección, simetría bilateral y el retorno próximo de momentos lejanos -- proveen un vocabulario conceptual para abordar estas dificultades. Central al modelo es la distinción entre el nodo en el plano (el punto de autointersección temporal) y el eje ortogonal (la irrupción de la eternidad en el tiempo desde más allá de la curva). El ensayo argumenta que estos coinciden: la eternidad penetra la sucesión temporal precisamente en el nodo, abriéndolo desde un cruce sellado hacia un umbral perpetuo de acceso. Los capítulos siguientes desarrollan las implicaciones del modelo para la libertad humana y la providencia divina, la transición escatológica y el estatus ontológico de los arcos no recorridos.
 
-**Palabras clave:** lemniscata, tiempo, eternidad, punto de cruce, Encarnación, teología sacramental, recurrencia, providencia, escatología, razonamiento analógico, metafísica especulativa
-
-
+<br>
 
 ## Capítulo 1: Los Límites del Tiempo Lineal como Imagen Teológica
 
@@ -84,7 +84,7 @@ Cualquier persona comprometida con una práctica espiritual sostenida reconoce e
 
 Este estudio propone que estos rasgos -- la recurrencia, la simultaneidad sacramental, el conocimiento profético previo y el retorno espiritual -- pueden aparecer de modo distinto cuando el tiempo se imagina no como una línea sino como una lemniscata. La lemniscata no se ofrece como verdad metafísica demostrada sino como gramática especulativa: una herramienta heurística para organizar la reflexión sobre el tiempo, la eternidad y la redención, en la tradición de las imágenes geométricas y matemáticas que corre de Agustín a través de Dante hasta Aquino.
 
-
+<br>
 
 ## Capítulo 2: El Modelo Lemniscata
 
@@ -136,7 +136,7 @@ Un lector atento a la figura puede observar que el nodo es recorrido dos veces e
 
 Si el punto de cruce representa la intersección única de tiempo y eternidad, la teología sacramental se vuelve de nuevo legible. La enseñanza de la Iglesia de que los sacramentos hacen presente la obra salvadora de Cristo a través de las distancias temporales puede entenderse como participación en el punto de cruce desde diversas posiciones a lo largo de la curva temporal. Cuando celebramos la Eucaristía, no "regresamos" al Calvario en el pasado, ni el Calvario "avanza" hacia nosotros en el presente. Más bien, desde nuestra posición en la curva temporal, accedemos al punto de cruce -- la intersección eterna que está fuera de la sucesión mientras permanece accesible desde dentro de ella. El Bautismo marca la entrada en este acceso. La Reconciliación lo restaura cuando se pierde por el pecado. La vida cristiana puede entenderse como el aprendizaje de habitar el punto de cruce mientras se sigue recorriendo el lazo temporal -- participar en la eternidad desde dentro del tiempo.
 
-
+<br>
 
 ## Capítulo 3: Libertad, Providencia y las Dos Perspectivas
 
@@ -170,7 +170,7 @@ La providencia, en este modelo, no es la gestión divina de un proceso que de ot
 
 El punto de cruce es donde esta compatibilidad se vuelve más aguda. En el nodo, el tiempo y la eternidad se encuentran: el recorrido de la criatura y la visión eterna de Dios convergen en el único umbral donde el eje ortogonal abre el plano. Es aquí donde la oración, la contemplación y el sacramento son más inteligibles -- no como intentos de cambiar la mente de Dios sino como el movimiento libre de la criatura hacia el umbral donde la libertad temporal y la voluntad eterna son más transparentemente una sola.
 
-
+<br>
 
 ## Capítulo 4: Escatología y la Salida de la Curva
 
@@ -200,7 +200,7 @@ El escatón no abole la historia sino que la cumple. Lo que se ha recorrido a lo
 
 "He aquí que hago nuevas todas las cosas" (Apocalipsis 21:5) no es así el reemplazo de lo que fue por algo no relacionado con ello, sino la transfiguración de lo que se recorrió hacia un modo adecuado a lo que siempre apuntaba. La lemniscata nunca fue el destino. Era el camino.
 
-
+<br>
 
 ## Capítulo 5: Lo Que el Modelo Ilumina y Lo Que No Afirma
 
@@ -233,7 +233,7 @@ La respuesta del modelo es que la existencia desde la perspectiva eterna de Dios
 
 Este ensayo no se compromete en profundidad con la literatura analítica contemporánea de filosofía del tiempo -- la serie A y serie B de McTaggart, el debate presentismo/eternalismo, el cuatrodimensionalismo, las teorías del bloque creciente -- porque su género es la meditación teológica-filosófica antes que el artículo académico de filosofía. Esas literaturas abordan preguntas reales y apremiantes, muchas de las cuales se superponen con las preocupaciones del modelo. La nota al pie del Capítulo 3 indica dónde se sitúan los compromisos del modelo respecto a ese debate. Los lectores que deseen confrontar el modelo con esos marcos están invitados a hacerlo; la arquitectura es lo suficientemente abierta como para sostener el compromiso.
 
-
+<br><br>
 
 ## Referencias
 
@@ -257,4 +257,6 @@ Molina, Luis de. *Sobre el Conocimiento Divino Previo (Parte IV de la Concordia)
 
 Swinburne, Richard. *The Christian God*. Oxford: Clarendon Press, 1994.
 
+<br>
 
+{% include further-reading-es.html %}

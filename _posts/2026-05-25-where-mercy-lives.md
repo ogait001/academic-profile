@@ -14,6 +14,8 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385950"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/donde-vive-la-misericordia.html"
 ---
 
+<br>
+
 ## Table of Contents
 
 - [I. The Principle](#i-the-principle)
@@ -26,6 +28,8 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [VIII. What the Soul Was Made For](#viii-what-the-soul-was-made-for)
 - [References](#references)
 
+<br>
+
 ## I. The Principle
 
 There is a single principle from which the entire structure of what follows can be derived, and it is best to place it at the beginning rather than at the end. The principle is that grace is one in its source and is differentiated only at the point of reception, according to the orientation of the soul that receives it. There are not, at the source, three or four kinds of grace waiting to be dispatched to different addresses. There is grace, given by what holds all things in being, and there is the soul, in whatever orientation the soul has taken, and the encounter between these two produces what theology has long distinguished as several modes -- sustenance, seeking, reconciliation -- none of which is a different gift, but each of which is what the one gift becomes at the point where it meets a soul oriented in a particular way.
@@ -33,6 +37,8 @@ There is a single principle from which the entire structure of what follows can 
 The popular phrase, that God is everywhere, is true of the source and misleading about the reception. At the source, grace does not have a location, because the giver is not a body that occupies space; the giving is universal. But the reception is not universal in the same sense. A soul receives grace as the soul is, and what the soul is, at any given moment, includes the direction the soul is facing. Grace meeting a soul oriented toward its source is one thing. Grace meeting a soul oriented away from its source is another. The same grace; different receptions. The differentiation of modes happens at the soul's end of the encounter, not at God's.
 
 Everything that follows in this essay is a consequence of this principle. The distinction between sustenance and mercy. The structural location of mercy at what will be called the Center. The condition of the sinner as sustained but not yet reconciled. The three moments of return as the structure by which orientation is restored. The instruction to sin no more as the description of what is now possible because orientation has been completed. None of these is a separate claim. Each is what the single principle yields when applied to a different aspect of the soul's relation to grace.
+
+<br>
 
 ## II. The First Mode: Sustenance
 
@@ -42,6 +48,8 @@ This is why the popular phrase carries the truth it carries. The sun rises on th
 
 Sustenance, then, is the first form of mercy -- for all grace, including sustenance, is mercy in the broad sense, the giving freely of what is not owed. But sustenance is not the form of mercy by which the soul is changed. The soul is not made better by being sustained, because the soul is not yet being met at the level where change happens. Sustenance keeps the soul in existence. It does not yet turn the soul. To rest in sustenance as though it were the whole of grace is to mistake the floor for the house -- to confuse the condition that makes everything possible with the meeting that everything is for.
 
+<br>
+
 ## III. The Second Mode: Seeking
 
 The second mode of grace at the point of reception is the seeking -- grace received by a soul that has turned away from the source. This principle helps explain why this mode appears. If grace is one at the source and the soul has turned, then the encounter between grace and the turned soul cannot be the same as the encounter with the soul-as-such. Grace meeting a soul oriented away from its source becomes, by virtue of the soul's orientation, the pursuit of the turned soul. The shepherd goes out after the lost sheep. The Father in the parable sees a great way off and runs. The voice calls in the wilderness. The memory stirs in the silence after the orbiting has collapsed. All of these are the same grace, taking the form it takes when the soul receiving it has turned away.
@@ -49,6 +57,8 @@ The second mode of grace at the point of reception is the seeking -- grace recei
 This is what theology has called prevenient grace -- grace that goes before, grace that makes the return possible. The principle gives a precise account of why this grace is necessary and why it is not the same as reconciliation. The soul that has turned cannot, by its own initiative, turn back, because the turning away was itself an act of the will that disordered the will's own capacity to orient. Grace must reach into the disordered orientation and make the return possible. But the reaching is not the meeting. The shepherd is bringing the sheep back to the fold; the meeting happens at the fold. The Father is running toward the returning son; the embrace happens when the son arrives.
 
 It is essential to see that the seeking is genuinely mercy and not merely a preparation for mercy. The grace that pursues the soul is not different in substance from the grace that meets the returned soul; it is the same grace, taking the form it takes given the soul's orientation. To deny the seeking is to deny that grace reaches into the far country, which would contradict everything scripture says about how God acts toward souls that have turned. The principle does not deny the seeking. The principle requires it. What the principle clarifies is why the seeking, real and operative as it is, is not yet the meeting.
+
+<br>
 
 ## IV. The Third Mode: Reconciliation
 
@@ -58,6 +68,8 @@ This is the mode that the essay's title points to. Mercy lives -- that is, the m
 
 The doctrinal claim that has sometimes been made in popular preaching -- that mercy is somehow withheld from the sinner until the sinner has performed certain conditions -- is corrected by the principle. Nothing is being withheld. The same grace is being given to the sinner and to the saint. What differs is the form the grace takes at reception, which depends on the soul's orientation. The sinner receives sustenance, fully. The sinner receives the seeking, fully. The sinner does not yet receive reconciliation, because reconciliation is the form grace takes when it meets a returned orientation, and the sinner has not yet returned. The withholding is not a divine act. It is a structural fact about what the soul can receive given how the soul is oriented.
 
+<br>
+
 ## V. The Sinner, Precisely
 
 The principle clarifies the sinner's condition more precisely, which popular language often misses. The sinner is not abandoned. The sinner is not absent from the field of grace. The sinner is fully sustained -- being is given to the sinner mid-act as fully as to anyone else, and if it were not so, the sinner would simply cease to exist. The sinner is fully sought -- the shepherd has gone out, the Father is running, the seeking grace has reached even into the far country, and is reaching even now. What the sinner is not, and cannot be while the orientation has not yet turned back, is reconciled.
@@ -65,6 +77,8 @@ The principle clarifies the sinner's condition more precisely, which popular lan
 The sinner is therefore in three states simultaneously, and each must be named for the description to be true. Sustained. Sought. Not yet reconciled. Any account that drops one of these distorts what the sinner actually is. The account that says the sinner is abandoned drops sustenance and the seeking. The account that says the sinner is already reconciled by virtue of being loved drops the fact that reconciliation requires the completed turn. The account that says mercy is everywhere available drops the distinction between the seeking and the meeting. Only the three-fold description carries the truth, and the three-fold description follows from the principle: one grace, three modes of reception, differentiated by the soul's orientation.
 
 This is why sin is serious in the way nothing else is. The harm sin does to others is real and remains as harm. The damage sin does to the soul itself is real and accumulates. But the deepest seriousness of sin is structural: sin is the act by which the soul turns its orientation away from the source, and in turning, makes itself the kind of receiver for whom the third mode of grace is no longer the form grace takes. Sustenance continues. The seeking continues. The meeting does not happen, because the orientation that the meeting requires has not been restored. The soul is held in being, is being pursued, and is not rising. This is what it means to be a sinner -- not to have lost grace, but to have placed oneself in an orientation where the grace one most needs is not yet the form grace can take.
+
+<br>
 
 ## VI. The Three Moments of Return
 
@@ -76,6 +90,8 @@ The second moment is the recovery of the original orientation through memory. An
 
 The third moment is the act of will that completes the turn. *I will arise and go to my father.* The first two moments can occur -- the orbiting can collapse, the memory can stir -- and the soul can still refuse to rise. Many do. The famine has come and the memory is present and the soul has decided, even in the silence, even with the source clearly remembered, to stay among the husks. The third moment requires the will. But the will at this point is not generating something new; it is completing what the first two moments have prepared. The soul has come to itself. The soul has remembered. The soul now turns. With this third moment, orientation is restored, and the soul that was off the Center is again at the Center, in the position where the third mode of grace becomes the form grace takes.
 
+<br>
+
 ## VII. The Meeting
 
 What happens at the meeting can now be described without the looseness that ordinary tellings of the parable usually carry. The son arrives. The Father, who has been seeking the whole time -- the seeking grace running outward from the Center, present even in the far country -- embraces the son. The robe and the ring and the calf are not the son's to produce. They are what reconciliation is, in this story, in narrative form. They are what the third mode of grace gives when the orientation has been restored and the meeting has happened.
@@ -84,6 +100,8 @@ The principle clarifies what the embrace does and does not do. It does not erase
 
 The instruction the soul receives, having arrived, is the one that has been so often misunderstood. *Go, and sin no more.* This is not a moral demand imposed as a condition on the welcome. It is the precise description of what is now possible. Off the Center, the soul had become structurally incapable of rising without grace; the orientation away had its own gravity, and the noise had its own logic, and the soul was structurally incapable of the rising that only the third mode of grace makes available. At the Center, the soul can. The instruction is naming what the restored orientation has made possible -- and trusting the soul, now oriented again toward what holds it, to live what is now within its reach.
 
+<br>
+
 ## VIII. What the Soul Was Made For
 
 The principle has now generated everything the essay needed to generate. One grace at the source, three modes at the point of reception, differentiated by the soul's orientation. Sustenance, given to the soul as such, the floor under all being. The seeking, given to the soul that has turned away, the pursuit that reaches into the far country. Reconciliation, given to the soul that has turned back, the meeting at the Center where the embrace happens and the soul rises into what is next. The popular phrase that God is everywhere is true of the source and incomplete about the reception, because the reception is what the soul makes possible by the orientation it takes.
@@ -91,6 +109,8 @@ The principle has now generated everything the essay needed to generate. One gra
 The sinner is sustained, is sought, and is not yet reconciled -- not because three different things are being given or withheld, but because the same grace takes three forms at the soul's end of the encounter, and the form called reconciliation requires what the sinner has not yet given: the completed turn. The prodigal son's three moments are not arbitrary narrative beats. They are the necessary structure by which orientation, once lost, is restored. The silencing that allows perception. The memory that supplies the recognition. The will that completes the turn. Each is necessary; none is sufficient on its own; together they reconstitute the soul at the Center where the third mode of grace becomes operative.
 
 And the final implication, which the principle has been pointing toward from the first page, is what the essay's closing has always carried. The soul was not made to be sustained. Sustenance is the floor; sustenance is what is given to any being whatsoever, including beings that have no soul. Sustenance is real and continuous, but it is not the soul's fulfillment; it is the condition that makes fulfillment possible. The soul was not made to be sought. The seeking is grace under the condition of lost orientation, and lost orientation was not the condition the soul was made for. The soul was made to be met. The soul was made for the third mode of grace, for the meeting at the Center, for the embrace that happens when orientation has been completed. Everything else in the soul's existence is either the floor that makes the meeting possible or the pursuit that brings the meeting about. The meeting itself is what the soul is for. And the meeting happens, has always happened, will always happen, at the Center, when the soul has come to itself, remembered what it was made for, and arisen to go home.
+
+<br><br>
 
 ## References
 
@@ -101,3 +121,6 @@ And the final implication, which the principle has been pointing toward from the
 - John Paul II. *Dives in Misericordia (Rich in Mercy).* Vatican, 1980.
 - Benedict XVI. *Deus Caritas Est (God Is Love).* Vatican, 2005.
 
+<br>
+
+{% include further-reading-en.html %}

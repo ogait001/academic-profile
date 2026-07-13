@@ -14,11 +14,13 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20450355"
 translation_url: "https://oscargaitan.org/ontology/catholic-theology/2026/05/29/jenny-curran-sobre-orbitar-el-centro.html"
 ---
 
+<br>
+
 > "The return is not the same as the crossing.
 > But it is where the crossing becomes possible.
 > The question is whether you will wait that long."
 
-
+<br>
 
 ## Table of Contents
 
@@ -30,7 +32,7 @@ translation_url: "https://oscargaitan.org/ontology/catholic-theology/2026/05/29/
 - [VI. The Question](#vi-the-question)
 - [References](#references)
 
-
+<br>
 
 ## I. The Motion
 
@@ -38,7 +40,7 @@ She never stopped moving. That is the first thing to say about Jenny Curran. Not
 
 And the contingencies she moved through were real. The politics were real. The friendships were real. The love she gave, in the forms she was capable of giving it, was real. Contingencies are not illusions. They are genuine goods. They simply do not last. That is the only thing that makes them contingencies: not that they were false, but that they fade. Every filling in the box was a real filling. The question Jenny's life raises is not whether the chocolates were worth eating. It is whether the box was ever the point.
 
-
+<br>
 
 ## II. The Orbit
 
@@ -52,7 +54,7 @@ The last chocolate was not sweet.
 
 Not because she chose badly. Not because the box was defective. But because no filling was ever going to be what she was actually circling toward. The crossing point is not inside a contingency. It cannot be bitten into. It can only be crossed.
 
-
+<br>
 
 ## III. The Center
 
@@ -66,7 +68,7 @@ He does not accuse her. He does not name what she is doing. He is simply present
 
 She despised him for it. And she loved him with everything her orbit left over, which was considerable, but which was never the same as stopping.
 
-
+<br>
 
 ## IV. The Return
 
@@ -80,7 +82,7 @@ This is the essay's central claim, and it is worth stating plainly:
 
 Jenny arrives at the threshold. The orbit stops. But stopping is not the same as entering. The crossing point is finally, after a lifetime, within reach. Whether the soul passes through or merely touches the edge and rests there -- that is not shown to us. It is not ours to know. The film is honest precisely because it refuses to resolve what it cannot see.
 
-
+<br>
 
 ## V. The Deathbed
 
@@ -92,7 +94,7 @@ This is what the deathbed reveals: not the crucial moment, but the formation of 
 
 The deathbed does not create this vision. It simply removes enough noise that the soul can finally see what was always true.
 
-
+<br>
 
 ## VI. The Question
 
@@ -110,7 +112,7 @@ But it is where the crossing becomes possible.
 
 The question is whether you will wait that long.
 
-
+<br><br>
 
 ## References
 
@@ -120,8 +122,8 @@ Gaitan, Oscar. *Against You Alone: On Judgement, the Soul's Self-Witness, and th
 
 Gaitan, Oscar. *The Serpent, the Self, and the Collapse of the "I."* Zenodo, 2026.
 
-Gaitan, Oscar. *The Topology of Presence: Four Planes of Existence on the Lemniscate*. Zenodo, 2026.
-
 Luke 15:11--32. The Parable of the Prodigal Son.
 
+<br>
 
+{% include further-reading-en.html %}

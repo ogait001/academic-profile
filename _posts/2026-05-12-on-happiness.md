@@ -33,7 +33,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre
 <br><br>
 *Non sumus Deus tuus; quaere super nos.*
 — Augustine, *Confessions*
-<br><br><br>
+<br><br>
 
 
 ## Table of Contents
@@ -51,8 +51,7 @@ translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/12/sobre
 -  [What Duration Happiness Actually Has](#x-what-duration-happiness-actually-has)
 -  [References](#references)
 
----
-
+<br>
 
 ## A Note on Method
 
@@ -68,8 +67,7 @@ Theological identifications, particularly the framework of *beatitudo* drawn fro
 
 One terminological note: the self, as used throughout, refers to the soul and will in the Catholic philosophical tradition. A full ontological account is developed in [*The Am That Remains: A Critique of Descartes and a Metaphysics of the Soul*](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html) (Gaitan, 2026) and assumed here without re-argument.
 
----
-
+<br>
 
 ## I. The Word and What It Carries
 
@@ -81,7 +79,7 @@ This inheritance helps explain a persistent frustration: the search for lasting 
 
 The argument of this essay is therefore not linguistic. It is philosophical. The claim is not that the etymology proves something about the concept's limits. The claim is that the phenomenon most people are actually seeking when they use the word is better named and better understood through a different framework — one whose structure this essay attempts to specify.
 
----
+<br>
 
 ## II. The Metaphysical Model
 
@@ -97,7 +95,7 @@ This yields the model's governing constraint, which requires precise statement t
 
 The search for happiness that endures by accumulating in the loops is, within this model, a search conducted in the wrong location — not because the loops contain nothing real, but because what is real in them is the present-moment activity of retrieval, not the original occurrence being retrieved. The reader who disputes the model has a genuinely different metaphysical position. This essay does not attempt to compel assent — only to show what follows if the model is accepted as a philosophical instrument.
 
----
+<br>
 
 ## III. Residency and Reference: Why Suffering Feels Longer
 
@@ -115,7 +113,7 @@ Giovanni Papini, in *Giudizio Universale*, gives Heloise a formulation that mode
 
 The asymmetry does not violate the model. Both happiness and suffering occur within moments of the same ontological structure. What differs is not the duration of the moments but the mode of the self's relation to memory: one event completes and becomes a coordinate; the other remains open and becomes a residence. Duration is not experienced because the moment is longer. It is experienced because the self does not leave it.
 
----
+<br>
 
 ## IV. Three Words, Three Frameworks
 
@@ -131,7 +129,7 @@ The distinction matters for the Beatitudes specifically. What follows is a philo
 
 This reading is offered as philosophically consistent with the text. It is not claimed as the text's original meaning. The essay does not require the exegetical claim — it requires only that the distinction between *happ*, *makarios*, and *ṭūwayhūn* illustrates structurally different accounts of human wellbeing, which it does regardless of the precise historical semantics.
 
----
+<br>
 
 ## V. Presence and Acceptance
 
@@ -145,7 +143,7 @@ Movement from the crossing point — from what the self actually is, toward what
 
 The modern apparatus of comparison — the curated life, the optimized self, the metrics of success by one or another cultural standard — operates precisely against the second coordinate. It installs a foreign template as the measure of the self's own crossing point, ensuring that even when the self arrives at the present moment, it arrives already measuring the distance between what it is and what it should be. A life evaluated by whether it matches the template is a life whose self is perpetually slightly to the side of its own actuality.
 
----
+<br>
 
 ## VI. Gideon's Three Hundred: A Philosophical Reading
 
@@ -159,7 +157,7 @@ To lap from cupped hands is to receive without being displaced by what is receiv
 
 Whether this is what the text means in its original context is a question for exegetes and lies outside this essay's scope. What the scene models, read through the framework, is the structural capacity the model identifies as necessary for *ṭūwayhūn*: to receive fully while remaining at the crossing point. Not the denial of the body's need. Not spiritual detachment from physical reality. The simple capacity to remain upright while drinking — to receive the gift without losing the self that receives it.
 
----
+<br>
 
 ## VII. What Qohelet's Text Permits
 
@@ -173,7 +171,7 @@ Second: nothing can be added to what God does, and nothing taken from it. Within
 
 Third: the satisfaction is found in the toil itself — not after it or despite it. *Happ* arrives from outside, as fortune. The satisfaction Qohelet names is found within the act, which the model reads as a function of how the act is inhabited, not of what it delivers externally.
 
----
+<br>
 
 ## VIII. A Brief Comparison with Buddhist Diagnosis
 
@@ -183,7 +181,7 @@ The difference is in the response. The broadly Buddhist response to the imperman
 
 The framework of this essay does not prescribe detachment. It prescribes *right reception*. The child's face in the morning, the meal, the satisfaction in honest work — these are gifts to be received at the crossing point: fully, as complete events, without grasping at their extension beyond the moment of their occurrence. The difference between the two frameworks is not that Buddhism considers phenomena unreal — that would misrepresent a tradition whose account of dependent origination is considerably more nuanced. The difference is that Buddhism treats conditioned phenomena as not ultimately reliable as enduring refuge, and responds with the path of non-attachment, while the Catholic framework treats them as real gifts whose completeness is located at the crossing point rather than in their extension across time, and responds with the practice of right reception. Both diagnose the same problem in conditioned happiness. They prescribe structurally different responses.
 
----
+<br>
 
 ## IX. *Beatitudo* and Structural Inertia
 
@@ -199,7 +197,7 @@ Hoping to reach *beatitudo* at the deathbed is, within this framework, a serious
 
 The practical weight of this is motivating rather than punitive: every crossing point matters. Not the dramatic ones only. Every ordinary morning. Every meal received in full presence or consumed in distraction. Every moment of arrival or departure. Each one is forming something. The question is only what.
 
----
+<br>
 
 ## X. What Duration Happiness Actually Has
 
@@ -217,7 +215,7 @@ Which is not less than duration. It is more — because duration is always runni
 
 The gift is already as large as it needs to be. It is exactly the size of the Now — which, within this model, contains everything that is ever actual, and which is held open, at every moment, by what does not itself require a moment to exist.
 
----
+<br><br>
 
 ## References
 
@@ -237,3 +235,6 @@ The gift is already as large as it needs to be. It is exactly the size of the No
 - Papini, Giovanni. *Giudizio Universale*. Florence: Vallecchi, 1923.
 - Payne Smith, R. *Thesaurus Syriacus*. Oxford: Clarendon Press, 1879.
 
+<br>
+
+{% include further-reading-en.html %}

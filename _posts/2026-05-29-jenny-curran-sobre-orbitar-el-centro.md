@@ -14,11 +14,13 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20450398"
 translation_url: "https://oscargaitan.org/ontology/catholic-theology/2026/05/29/jenny-curran-on-orbiting-the-center.html"
 ---
 
+<br>
+
 > "El regreso no es lo mismo que el cruce.
 > Pero es donde el cruce se vuelve posible.
 > La pregunta es si esperarás tanto tiempo."
 
-
+<br>
 
 ## Tabla de contenidos
 
@@ -30,7 +32,7 @@ translation_url: "https://oscargaitan.org/ontology/catholic-theology/2026/05/29/
 - [VI. La pregunta](#vi-la-pregunta)
 - [Referencias](#referencias)
 
-
+<br>
 
 ## I. El movimiento
 
@@ -38,7 +40,7 @@ Ella nunca dejó de moverse. Eso es lo primero que hay que decir sobre Jenny Cur
 
 Y las contingencias por las que se movió eran reales. La política era real. Las amistades eran reales. El amor que dio, en las formas en que era capaz de darlo, era real. Las contingencias no son ilusiones. Son bienes genuinos. Simplemente no duran. Eso es lo único que las hace contingencias: no que fueran falsas, sino que se desvanecen. Cada chocolate en la caja era un chocolate real. La pregunta que plantea la vida de Jenny no es si los chocolates valían la pena. Es si la caja era alguna vez el punto.
 
-
+<br>
 
 ## II. La órbita
 
@@ -52,7 +54,7 @@ El último chocolate no era dulce.
 
 No porque eligiera mal. No porque la caja fuera defectuosa. Sino porque ningún relleno iba a ser jamás aquello hacia lo que realmente estaba girando. El punto de cruce no está dentro de una contingencia. No se puede morder. Solo se puede cruzar.
 
-
+<br>
 
 ## III. El centro
 
@@ -66,7 +68,7 @@ Esto no convierte a Forrest en el centro mismo. Él es tan contingente como Jenn
 
 Ella lo despreció por eso. Y lo amó con todo lo que su órbita dejaba libre, que era considerable, pero que nunca fue lo mismo que detenerse.
 
-
+<br>
 
 ## IV. El regreso
 
@@ -80,7 +82,7 @@ Esta es la afirmación central del ensayo, y vale la pena enunciarla con clarida
 
 Jenny llega al umbral. La órbita se detiene. Pero detenerse no es lo mismo que entrar. El punto de cruce está finalmente, después de toda una vida, al alcance. Si el alma lo atraviesa o simplemente toca el borde y descansa ahí -- eso no se nos muestra. No nos corresponde saberlo. La película es honesta precisamente porque se niega a resolver lo que no puede ver.
 
-
+<br>
 
 ## V. El lecho de muerte
 
@@ -92,7 +94,7 @@ Esto es lo que el lecho de muerte revela: no el momento crucial, sino la formaci
 
 El lecho de muerte no crea esta visión. Simplemente elimina suficiente ruido para que el alma pueda ver finalmente lo que siempre fue verdad.
 
-
+<br>
 
 ## VI. La pregunta
 
@@ -110,7 +112,7 @@ Pero es donde el cruce se vuelve posible.
 
 La pregunta es si esperarás tanto tiempo.
 
-
+<br><br>
 
 ## Referencias
 
@@ -120,8 +122,8 @@ Gaitan, Oscar. *Solo contra ti: Sobre el Juicio, el Autotestimonio del Alma y la
 
 Gaitan, Oscar. *La Serpiente, el Yo y el Colapso del "Yo"*. Zenodo, 2026.
 
-Gaitan, Oscar. *La Topologia de la Presencia: Cuatro Planos de Existencia en el Lemniscate*. Zenodo, 2026.
-
 Lucas 15:11--32. La Parábola del Hijo Pródigo.
 
+<br>
 
+{% include further-reading-es.html %}

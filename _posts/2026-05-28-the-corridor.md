@@ -14,10 +14,14 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435134"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/28/el-pasillo.html"
 ---
 
+<br>
+
 > "In him we live and move and have our being."
 > -- Acts 17:28
 
 *Nothing in the visible world floats.*
+
+<br>
 
 ## Table of Contents
 
@@ -28,6 +32,8 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [V. Where the Question Resolves](#v-where-the-question-resolves)
 - [References](#references)
 
+<br>
+
 ## I. The Corridor
 
 Stand in a hospital corridor. On one side, a child is taking its first breath. On the other, a man is letting go of his last. The doors are not far apart. The minute is the same. The ground beneath both rooms is the same ground.
@@ -35,6 +41,8 @@ Stand in a hospital corridor. On one side, a child is taking its first breath. O
 This is not metaphor. It is what a hospital is.
 
 Humans, across every culture that has reached a certain threshold of organization, have built a building dedicated to the density of the crossings. We do not build hospitals because we are squeamish about birth and death happening at home. We build them because we recognize, institutionally and without quite theorizing it, that the moments of entry and exit are not ordinary moments. They are where the crossing point becomes maximally visible. The whole structure exists to attend what is being held open.
+
+<br>
 
 ## II. What Cannot Float
 
@@ -45,6 +53,8 @@ The building is held by its foundation. The bed is held by its frame. The patien
 The chain of holdings does not regress infinitely. It cannot. If everything were only held by another held thing, nothing would finally hold. Yet the visible world holds. The hospital is built, the floor does not fall, the bed receives the body, the body receives the breath. The chain holds because something at its terminus is not itself held -- something that does not need to be sustained because sustaining is what it is.
 
 This is the non-derivative. It is what Christians have called God. It is what the philosophical tradition has called necessary being. The names differ. The structural function is the same: that which holds without being held, that which sustains without being sustained, that without which nothing in the corridor would be standing.
+
+<br>
 
 ## III. The Illusion-Doctrine in the Doorway
 
@@ -60,6 +70,8 @@ The strongest forms of these traditions do not deny phenomenological appearance 
 
 What the illusionist must do, to maintain the doctrine, is look away. Away from the walls. Away from the grief. Away from the medication. Away from the room next door. The hospital is the place where the illusion-doctrine has to perform a feat of selective non-perception so extensive that the doctrine becomes increasingly difficult to inhabit consistently.
 
+<br>
+
 ## IV. The Mercy That Holds Both Rooms
 
 The non-derivative does not pick which crossing to attend.
@@ -72,6 +84,8 @@ This is also the answer to a question often pressed against the sustaining groun
 
 What the corridor instead reveals is that the non-derivative is not in the rooms making decisions. It is the condition by which any breath -- and any failing of breath -- becomes actual at all. The mercy is that this condition does not withdraw. Not from the dying. Not from the grieving. Not from the doctor whose intervention will fail. Not from the family whose prayers go unanswered in the form they hoped. What crosses the Now is the work of bodies, of medicines, of choices, of time, of finitude. The sustaining does not author what crosses. It holds the crossing open.
 
+<br>
+
 ## V. Where the Question Resolves
 
 The question *Where is God?* is sometimes asked in a hospital corridor. It is asked with clenched fists and open hands, asked toward ceilings and toward floors.
@@ -81,6 +95,8 @@ The answer is not elsewhere than the corridor. It is in the fact that the corrid
 God is not in the room making the decision. God is in the holding of the corridor -- the sustaining of the same Now for the room where life begins and the room where life ends, the refusal of the ground to withdraw under either weight. The hospital is not the building where this is true. It is the building where it is unignorable.
 
 To stand in the corridor and ask *Where is God?* is to stand inside the answer.
+
+<br><br>
 
 ## References
 
@@ -93,4 +109,6 @@ To stand in the corridor and ask *Where is God?* is to stand inside the answer.
 - Sankara. *Vivekachudamani.* Translated by Swami Prabhavananda and Christopher Isherwood. Hollywood, CA: Vedanta Press, 1978.
 - Marcel, Gabriel. *The Mystery of Being.* Vol. 1. Chicago: Regnery, 1950.
 
+<br>
 
+{% include further-reading-en.html %}

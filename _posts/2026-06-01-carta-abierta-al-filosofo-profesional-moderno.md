@@ -13,13 +13,15 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 translation_url: "https://oscargaitan.org/ontology/2026/06/01/an-open-letter-to-the-professional-modern-philosopher.html"
 ---
 
+<br>
+
 > "La cerca y el bisturí pueden parecerse desde lejos. La diferencia está en para qué sirven."
 
-
+<br>
 
 *Nota del editor: Esta carta no está dirigida a ningún filósofo, universidad, revista o institución en particular. Surge de una pregunta más amplia que ha acompañado a la filosofía a lo largo de su historia: si la sabiduría es algo que deben custodiar los especialistas o algo que debe compartirse con todos los que la buscan. Escrita desde la perspectiva de un estudioso independiente, la carta se pregunta si el rigor y la accesibilidad deben en verdad oponerse el uno al otro. Se ofrece con espíritu de diálogo, con respeto por la erudición y con la convicción de que las preguntas filosóficas más hondas pertenecen, ante todo, a los seres humanos.*
 
-
+<br>
 
 ## Tabla de contenidos
 
@@ -31,13 +33,13 @@ translation_url: "https://oscargaitan.org/ontology/2026/06/01/an-open-letter-to-
 - [VI. Una filosofía habitable](#vi-una-filosofía-habitable)
 - [VII. Lo que pido](#vii-lo-que-pido)
 
-
+<br>
 
 Le escribo no como adversario sino como un trabajador en la misma viña, y escribo a partir de conversaciones con muchos hombres y mujeres reflexivos cuyo trabajo nunca llega a su escritorio porque carece de respaldo institucional. Piensan con cuidado. Escriben con seriedad. Y cuando presentan su obra, se la rechaza -- no porque el argumento sea débil, sino porque el nombre que encabeza la página no va seguido del nombre de una universidad. Quiero decir con claridad lo que creo que esta práctica nos cuesta, y pedirle que la reconsidere.
 
 Permítame ser preciso desde el comienzo sobre lo que no estoy sosteniendo, porque la versión descuidada de esta queja merece fracasar. No me opongo a la complejidad. La matemática, la física y la lógica son difíciles porque difíciles son las realidades que describen, y ningún pensador honesto las querría de otro modo. La complejidad se justifica siempre que la realidad la exija. Mi reparo es más estrecho y, creo, más difícil de descartar: la complejidad se vuelve un problema cuando funciona ante todo como un mecanismo de exclusión y no como un instrumento de precisión. La cerca y el bisturí pueden parecerse desde lejos. La diferencia está en para qué sirven.
 
-
+<br>
 
 ## I. El diagnóstico
 
@@ -45,7 +47,7 @@ Resistiré la acusación fácil. Sería sencillo, e injusto, decir que los acad�
 
 Pero el efecto, por involuntario que sea, es la exclusión. El conocimiento que debería ser un bien común empieza a comportarse como propiedad privada de un gremio. Hay que adquirir un vocabulario costoso solo para entrar en la sala. Y una vez que la entrada tiene un precio, la pregunta se desplaza lentamente de si una afirmación es verdadera a si está acreditada -- a si el argumento llega ya portando la insignia correcta. Ese desplazamiento es lo que escribo para resistir.
 
-
+<br>
 
 ## II. La filosofía como lengua privada
 
@@ -57,7 +59,7 @@ La oposición pone a prueba el argumento. Una puerta pone a prueba solo la insig
 
 Lo primero es la filosofía haciendo su trabajo propio. Lo segundo es la filosofía olvidando para qué existe.
 
-
+<br>
 
 ## III. La objeción que le debo
 
@@ -67,13 +69,13 @@ Esta es la línea que sostengo. Un término acuñado es legítimo cuando nombra 
 
 Por esta misma prueba estoy dispuesto a ser juzgado. Si mi lemniscata no ilumina nada que un lector pueda reconocer, entonces es ruido, y debería retirarla. Solo pido que la misma prueba -- ¿ilumina esto la realidad vivida? -- se aplique a todos nosotros, a los afiliados y a los independientes por igual, en vez de la prueba de qué nombre lleva un sello.
 
-
+<br>
 
 ## IV. Por qué uso a Jenny Curran y un ocho acostado
 
 Esto explica un rasgo de mi obra que desconcierta a algunos lectores. Echo mano de narrativas populares -- un personaje como Jenny Curran -- y de imágenes geométricas sencillas como la lemniscata o la notación posicional. Uso a Jenny Curran no porque sea filosóficamente privilegiada, sino porque millones de personas ya conocen su historia. Esto no es un intento de diluir la filosofía ni de halagar al desatento. Es un intento de devolver la filosofía a su público original: los seres humanos. Si una idea de verdad describe algo fundamental de la realidad, entonces debería ser reconocible no solo para los especialistas, sino para cualquiera dispuesto a prestar atención. Una historia que todos han visto, una figura que un niño puede dibujar -- no son concesiones. Son pruebas. Si la estructura profunda es real, debería aparecer incluso ahí.
 
-
+<br>
 
 ## V. La accesibilidad no es simplificación
 
@@ -81,7 +83,7 @@ Permítame guardarme del error opuesto con igual firmeza. La filosofía no debe 
 
 Y hay una razón más honda por la que la accesibilidad importa, que debería enunciar en vez de insinuar. Las preguntas más hondas no pertenecen primero a las universidades. Pertenecen a los seres humanos. Las instituciones pueden preservar, refinar y transmitir la sabiduría, pero no son dueñas de las realidades de las que la sabiduría brota. La verdad precede a las instituciones que la estudian. Por eso también no soy antiacadémico, y quiero decirlo sin ambigüedad: no me opongo a la erudición. Me opongo solo a la suposición de que solo la erudición posee acceso a la sabiduría -- una distinción que muchos eruditos aceptarían, y el terreno en el que espero que podamos de verdad encontrarnos.
 
-
+<br>
 
 ## VI. Una filosofía habitable
 
@@ -89,7 +91,7 @@ Si pudiera dejarle una sola palabra, sería esta: una filosofía solo vale si es
 
 La abstracción innecesaria suele ser un síntoma de desplazamiento del centro: se habla acerca de la realidad para no tener que habitarla. Lo que propongo es lo contrario -- una filosofía de la presencia, ofrecida a cualquiera dispuesto a atender.
 
-
+<br>
 
 ## VII. Lo que pido
 
@@ -97,12 +99,13 @@ Nada de esto es nuevo. Platón y Aristóteles tuvieron opositores feroces en su 
 
 No escribo contra la filosofía. Escribo contra la creencia de que la sabiduría pertenece a una clase particular de personas. Si la misma realidad sostiene al profesor, al mecánico, a la enfermera, al estudiante y al padre de familia, entonces el lenguaje que señala hacia esa realidad debe permanecer abierto a todos ellos. La filosofía no fracasa cuando demasiadas personas la entienden. La filosofía fracasa cuando olvida para quién existe.
 
-
+<br>
 
 *Con respeto, y en la esperanza compartida de que la sabiduría está hecha para ser vivida,*
 
 *Oscar Gaitán*
-*Investigador independiente*
-*1 de junio de 2026*
 
+<br><br>
+
+{% include further-reading-es.html %}
 

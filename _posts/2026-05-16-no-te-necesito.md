@@ -26,9 +26,11 @@ translation_url: /philosophy-of-time/ontology/2026/05/16/non-te-egeo.html
 excerpt: "Una reflexión sobre el hábito de la cultura digital de suministrar respuestas antes de que puedan formarse preguntas reales, argumentando que la crisis espiritual moderna más profunda es la pérdida misma de la capacidad de preguntar."
 ---
 
+<br>
+
 > Una pregunta que se siente redundante nunca se formula. Y un sujeto que nunca pregunta está, en el sentido filosófico más exacto, deshabitado.
 
----
+<br>
 
 ## Indice
 
@@ -40,7 +42,7 @@ excerpt: "Una reflexión sobre el hábito de la cultura digital de suministrar r
 - [Coda](#coda)
 - [Referencias](#referencias)
 
----
+<br>
 
 ## I. La Pregunta como Constitución del Sujeto
 
@@ -52,7 +54,7 @@ La misma estructura aparece en una escena que no tiene nada que ver con la filos
 
 Lo que estas escenas comparten es la comprensión de que la pregunta no es un síntoma de ignorancia. Es la forma que adopta la subjetividad genuina. El sujeto que pregunta no es deficiente; el sujeto que ya no pregunta ha perdido algo más que información. Ha perdido la postura —el arrodillarse, el girar, la disposición a ser implicado en la respuesta.
 
----
+<br>
 
 ## II. La Mecánica de la Saciedad
 
@@ -72,7 +74,7 @@ Esa pobreza está siendo sistemáticamente impedida.
 
 Y cuando el hambre es impedida de formarse, el sujeto no se rebela contra el fundamento que ya no siente. Simplemente deja de necesitarlo. El *non te egeo* comienza aquí — no como una conclusión, sino como el efecto silencioso de no haber tenido nunca que preguntar.
 
----
+<br>
 
 ## III. Non serviam → Non te egeo
 
@@ -90,7 +92,7 @@ El capitalismo de plataformas y la economía de la atención producen esta condi
 
 El *non serviam* fue una herida en la relación entre el sujeto y el fundamento. El *non te egeo* es el cierre indoloro del espacio en el que esa relación podría haberse dado. Uno es una tragedia. El otro es una forma de borramiento —silenciosa, eficiente, y casi imposible de lamentar, porque el sujeto que ha sido desplazado de la pregunta no experimenta la pérdida como pérdida. La experimenta como conveniencia.
 
----
+<br>
 
 ## IV. El Desplazamiento Voluntario
 
@@ -102,7 +104,7 @@ Estos no son pruebas por analogía. Son ilustraciones estructurales de una condi
 
 El desplazamiento no es forzado. Es ofrecido. Y la oferta es aceptada libremente, a escala planetaria, cada mañana, antes de que el primer silencio del día haya tenido la oportunidad de convertirse en una pregunta.
 
----
+<br>
 
 ## V. El Aposento Cerrado
 
@@ -118,7 +120,7 @@ Porque la oración-como-contenido no es oración del todo. Es el consumo de una 
 
 El aposento cerrado ha sido abierto. La puerta ha sido retirada de sus puntos de articulación —no por la fuerza, no por ningún enemigo de la oración, sino por una cultura que genuinamente cree que está ayudando al poner todo a disposición. El silencio ha sido llenado. Y en el llenado del silencio, la condición para la pregunta ha sido silenciosa, eficientemente, estructuralmente desplazada.
 
----
+<br>
 
 ## Coda
 
@@ -136,7 +138,7 @@ Hemos construido esa civilización. La habitamos cada mañana cuando tomamos el 
 
 El aposento está lleno. La puerta está abierta. Y ni siquiera echamos de menos el silencio, porque ya no recordamos qué íbamos a preguntar.
 
----
+<br>
 
 ## Referencias
 
@@ -152,4 +154,6 @@ El aposento está lleno. La puerta está abierta. Y ni siquiera echamos de menos
 - Kierkegaard, Søren. *La enfermedad mortal.* Traducción de Demetrio Gutiérrez Rivero. Madrid: Trotta, 2008.
 - Thaler, Richard H., y Cass R. Sunstein. *Un pequeño empujón (Nudge).* Traducción de Bernardo Moreno Carrillo. Madrid: Taurus, 2009.
   
+<br>
 
+{% include further-reading-es.html %}

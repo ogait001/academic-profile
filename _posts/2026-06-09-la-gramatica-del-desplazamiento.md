@@ -14,9 +14,11 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618272"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html"
 ---
 
+<br>
+
 Permítanme decirlo antes que nada, para que ningún lector confunda el blanco: esta no es una crítica a la tecnología. La tecnología no es la trampa. El coliseo era una maravilla de la ingeniería, y la ingeniería nunca fue el problema. El problema fue lo que le ocurrió al populo sentado en él -- y el descubrimiento, tardío y silencioso, de que el populo nunca fue la audiencia. El populo era el producto. Lo que sigue es una crítica a ese arreglo, escrita desde el único lugar donde tal crítica puede escribirse honestamente: desde adentro.
 
-
+<br>
 
 ## Tabla de contenido
 
@@ -28,7 +30,7 @@ Permítanme decirlo antes que nada, para que ningún lector confunda el blanco: 
 - [VI. Coda: la dirección y la hora](#vi-coda-la-dirección-y-la-hora)
 - [Referencias](#referencias)
 
-
+<br>
 
 ## I. El mundo es mío
 
@@ -38,7 +40,7 @@ El mundo se hizo suyo por el paso a través de una muerte, y el grito tiene peso
 
 Nosotros hemos conservado el grito y borrado el viaje. El mundo es mío -- aquí, en la palma de mi mano. Puedo comprar desde aquí, vender desde aquí, comerciar desde aquí. No necesito estar de pie en el piso del Chicago Mercantile Exchange haciendo las extrañas señales de mano de la subasta a viva voz, apretado contra otros cuerpos en una sala construida para ese único propósito. No necesito manejar hasta Sears. Puedo entretenerme desde aquí, aprender desde aquí, adorar desde aquí -- y digámoslo claramente: puedo pecar desde aquí y espiar desde aquí. La misma posesión que Dantés ganó mediante la muerte, la marea y el cuerpo se entrega ahora a todos sin costo alguno, y pesa exactamente lo que costó.
 
-
+<br>
 
 ## II. Desde
 
@@ -54,7 +56,7 @@ Hay una inversión más honda debajo. Los mercados actúan desde ninguna parte; 
 
 La Escritura, según resulta, ya reclamó el territorio de la palma, dos veces, y ambos textos se alzan contra el nuestro con terrible precisión. *He aquí*, dice el Señor a una Sión que se siente olvidada, *que en las palmas de las manos te tengo esculpida* (Isaías 49:16). El hombre cargado en la palma divina, grabado allí, permanente. Nosotros hemos respondido con la imagen opuesta: el hombre cargando el mundo entero en su propia palma, sin necesitar que nadie lo cargue. Y está el otro texto, el de Apocalipsis 13, sobre la marca sin la cual nadie puede comprar ni vender, puesta en la mano derecha. No estoy anunciando su cumplimiento; lo leo como leo todas mis figuras -- como testigo estructural, no como predicción. Pero la estructura es exacta, y debería permitírsele perturbarnos: la mano como el lugar donde el comercio queda condicionado, donde la capacidad de comprar, vender y comerciar se concede a través de lo que la mano sostiene. Puedo comprar, vender y comerciar desde la palma de mi mano. Las dos palmas -- la que nos carga y la que cerramos en torno al ladrillo -- solo necesitan ponerse una junto a la otra. El ensayo no tiene que argumentar. Tiene que señalar.
 
-
+<br>
 
 ## III. A cualquier hora
 
@@ -68,7 +70,7 @@ Recuerdo la noche anterior al primer día de clases. El pantalón de mezclilla n
 
 Dantés esperó la marea. Eso es lo otro que su historia sabe: el tiempo era algo a lo que un hombre se sometía y con lo que cooperaba. El mar tenía condiciones; el tesoro tenía una hora. El mundo en la palma no tiene ni lo uno ni lo otro -- y por eso, exactamente, no puede ganarse. Solo deslizarse.
 
-
+<br>
 
 ## IV. Entonces
 
@@ -78,7 +80,7 @@ Ya conocen esta gramática. La reunión sin fecha y la clase sin hora son la mis
 
 Ahora la recursión, que me parecería cómica si no estuviera tan cerca del hueso. Si necesito una canción para el Día del Padre, simplemente le digo a Siri que me la encuentre. Antes, yo tenía que *saberme* las canciones -- "Cat's in the Cradle" de Chapin, "Father and Son" de Cat Stevens, "Papa" de Paul Anka. Sabérselas significaba que vivían en mí; eran cargadas, como Polo cargaba el camino y Dantés cargaba el castillo de If. Y la más famosa de las tres es precisamente una advertencia sobre un padre que nunca estuvo presente. De modo que el hombre que delega la canción del Día del Padre al asistente en su palma está reactuando el mismo fracaso del que la canción fue escrita para advertirle. La delegación de la memoria es la ausencia de la que la memoria hablaba. Pídanle a la palma que produzca la canción y recibirán el artefacto despojado de su admonición: una advertencia cargada que ya nadie carga, generada a pedido por un hombre que ya no tiene que saber lo que dice.
 
-
+<br>
 
 ## V. El letrero de la calle central
 
@@ -88,7 +90,7 @@ Lean ese letrero despacio. Un pueblo que debe escribir que Dios existe es un pue
 
 Por eso insisto en que a Dios, en nuestra hora, no se le está atacando. El ataque era el viejo repertorio -- el blasfemo medieval, el militante de los siglos diecinueve y veinte. Esas eran tácticas de relación. El *non serviam* es rebelión, y la rebelión es teocéntrica: el Satán de Milton no puede dejar de mirar a Aquel a quien rechaza, y el rechazo mantiene al Rechazado en el centro de la existencia. La negación, también, es relación: nadie escribe contra Dios toda una vida a menos que Dios importe. El diablo necesita a Dios para desafiarlo; el ateo necesita a Dios para negarlo. El hombre con el ladrillo en la palma no necesita ni a uno ni a otro. *Non te egeo* -- no te necesito -- es la primera postura de la historia que no requiere postura alguna. No se concluye; se absorbe. No es un argumento; es una atmósfera. El loco de Nietzsche irrumpe en el mercado gritando que Dios ha muerto, y los mercaderes ríen -- no porque estén en desacuerdo, sino porque están ocupados comprando y vendiendo. El mercado, desde entonces, ha sido plegado dentro de la palma, y la risa ha sido reemplazada por algo más silencioso: el deslizar del pulgar. No se puede refutar el *non te egeo*, porque nunca fue afirmado. El populo no tomó posición contra Dios. El paisaje simplemente perdió la dimensión en la que Dios estaba elevado -- el mismo aplanamiento, en su registro final.
 
-
+<br>
 
 ## VI. Coda: la dirección y la hora
 
@@ -104,7 +106,7 @@ Exige que el cuerpo viaje, que la rodilla se doble, que la hora se guarde -- y e
 
 El altar es el sitio más radical y completo de esta arquitectura porque devuelve al hombre a la Presencia trascendente que hace sagrado el lugar. Sin embargo, la misma revolución comienza allí donde el cuerpo recupera su terreno frente al éter. Se encuentra en la topografía deliberada de una mesa donde los ladrillos permanecen en los bolsillos, obligando a los ojos a encontrarse sobre un pan compartido. Se encuentra en la liturgia secular del aula que exige que treinta vidas distintas converjan en una sola mañana irrepetible. Se encuentra cuando rechazamos la eficiencia del mensaje digital para recorrer los kilómetros reales, físicos, hasta la puerta de un amigo, reconociendo que la fricción del trayecto es precisamente lo que da peso a la llegada. Cada uno de estos umbrales es una resistencia. El hombre que camina hacia ellos -- a pie, a la hora, dejando atrás el ladrillo -- ya ha comenzado la única revolución que este ensayo sabe recomendar. Ha dejado un camino tras de sí. Por corto que sea el trayecto, es la estepa.
 
-
+<br><br>
 
 ## Referencias
 
@@ -118,4 +120,6 @@ El altar es el sitio más radical y completo de esta arquitectura porque devuelv
 - Stevens, Cat. «Father and Son». En *Tea for the Tillerman*. Island Records, 1970. Disco de vinilo.
 
 
-  
+  <br>
+
+  {% include further-reading-es.html %}

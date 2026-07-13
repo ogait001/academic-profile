@@ -172,8 +172,7 @@ The cosmos knows.
 None of them invented the crossing point.
 **All of them pass through it.**
 
-<br>
-
+<br><br>
 
 ### References
 
@@ -184,3 +183,6 @@ None of them invented the crossing point.
 - Cantor, G. *Contributions to the Founding of the Theory of Transfinite Numbers.* Dover, 1955.
 - Dehaene, S. *The Number Sense.* Oxford University Press, 1997.
 
+<br>
+
+{% include further-reading-en.html %}

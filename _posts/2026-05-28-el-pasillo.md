@@ -14,10 +14,14 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435149"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/28/the-corridor.html"
 ---
 
+<br>
+
 *Nada en el mundo visible flota.*
 
 > "En Él vivimos, nos movemos y existimos."
 > -- Hechos 17:28
+
+<br>
 
 ## Indice
 
@@ -28,8 +32,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/o
 - [V. Donde la pregunta se resuelve](#v-donde-la-pregunta-se-resuelve)
 - [Referencias](#referencias)
 
-  <br><br>
-
+  <br>
 
 ## I. El Pasillo
 
@@ -38,6 +41,8 @@ De pie en un pasillo de hospital. A un lado, un niño toma su primer aliento. Al
 Esto no es metáfora. Es lo que es un hospital.
 
 Los seres humanos, en toda cultura que ha alcanzado cierto umbral de organización, han construido un edificio dedicado a la densidad de los cruces. No construimos hospitales porque nos incomode que el nacimiento y la muerte ocurran en casa. Los construimos porque reconocemos --institucionalmente, sin teorizarlo del todo-- que los momentos de entrada y de salida no son momentos ordinarios. Son donde el punto de cruce alcanza su máxima visibilidad. Toda la estructura existe para atender lo que se sostiene abierto.
+
+<br>
 
 ## II. Lo que no puede flotar
 
@@ -48,6 +53,8 @@ El edificio es sostenido por sus cimientos. La cama es sostenida por su armazón
 La cadena de sostenes no retrocede al infinito. No puede. Si todo estuviera sostenido solo por otra cosa sostenida, nada finalmente sostendría. Y sin embargo el mundo visible sostiene. El hospital está construido, el suelo no se cae, la cama recibe al cuerpo, el cuerpo recibe el aliento. La cadena sostiene porque algo en su término no es a su vez sostenido --algo que no necesita ser sustentado porque sustentar es lo que es.
 
 Esto es lo no-derivado. Es lo que los cristianos han llamado Dios. Es lo que la tradición filosófica ha llamado ser necesario. Los nombres difieren. La función estructural es la misma: aquello que sostiene sin ser sostenido, aquello que sustenta sin ser sustentado, aquello sin lo cual nada en el pasillo estaría en pie.
+
+<br>
 
 ## III. La doctrina de la ilusión en el umbral
 
@@ -63,6 +70,8 @@ Las formas más fuertes de estas tradiciones no niegan rotundamente la aparienci
 
 Lo que el ilusionista debe hacer, para mantener la doctrina, es apartar la mirada. Lejos de los muros. Lejos del duelo. Lejos del medicamento. Lejos de la habitación contigua. El hospital es el lugar donde la doctrina de la ilusión tiene que realizar una hazaña de no-percepción selectiva tan extensa que la doctrina se vuelve cada vez más difícil de habitar consistentemente.
 
+<br>
+
 ## IV. La misericordia que sostiene ambas habitaciones
 
 Lo no-derivado no elige a qué cruce asistir.
@@ -75,6 +84,8 @@ Esto es también la respuesta a una pregunta que a menudo se presiona contra el 
 
 Lo que el pasillo revela en cambio es que lo no-derivado no está en las habitaciones tomando decisiones. Es la condición por la cual cualquier aliento --y cualquier falla del aliento-- siquiera llega a ser actual. La misericordia es que esta condición no se retira. No del moribundo. No del doliente. No del médico cuya intervención fallará. No de la familia cuyas oraciones quedan sin respuesta en la forma que esperaba. Lo que cruza el Ahora es la obra de los cuerpos, de las medicinas, de las elecciones, del tiempo, de la finitud. El sustentar no es el autor de lo que cruza. Sostiene el cruce abierto.
 
+<br>
+
 ## V. Donde la pregunta se resuelve
 
 La pregunta *Dónde está Dios?* a veces se hace en un pasillo de hospital. Se hace con puños apretados y manos abiertas, dirigida hacia los techos y hacia los suelos.
@@ -85,6 +96,7 @@ Dios no está en la habitación tomando la decisión. Dios está en el sostener 
 
 *Estar de pie en el pasillo y preguntar Dónde está Dios? es estar dentro de la respuesta.*
 
+<br><br>
 
 ## Referencias
 
@@ -97,4 +109,6 @@ Dios no está en la habitación tomando la decisión. Dios está en el sostener 
 - Sankara. *Vivekachudamani.* Traducido por Swami Prabhavananda y Christopher Isherwood. Hollywood, CA: Vedanta Press, 1978.
 - Marcel, Gabriel. *The Mystery of Being.* Vol. 1. Chicago: Regnery, 1950.
 
+<br>
 
+{% include further-reading-es.html %}

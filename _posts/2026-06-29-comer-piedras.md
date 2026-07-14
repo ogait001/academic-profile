@@ -15,6 +15,8 @@ cover: /assets/covers/comer-piedras.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/29/eating-stones.html"
 ---
 
+<br>
+
 *29 de Junio de 2026*  
 >Solemnidad de los Santos Pedro y Pablo 
 
@@ -38,7 +40,8 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 - [XII. No solo de pan](#xii-no-solo-de-pan)
 - [XIII. El Habla veraz de la Creación](#xiii-el-habla-veraz-de-la-creación)
 - [Referencias](#referencias)
-<br><br>
+
+<br>
 
 ## I. La Interpretación Tradicional
 
@@ -198,7 +201,7 @@ El rechazo de Cristo no es, por tanto, meramente una victoria moral, sino metaf�
 
 El que es el Verbo -- por quien todas las cosas fueron hechas y en quien todas subsisten -- se negó a pronunciar una palabra contra el orden que su Verbo había establecido. Tenía hambre, y permaneció hambriento, y en esa hambre mantuvo legible el mundo. No comería piedras. Mantuvo a la creación hablando con verdad.
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -218,3 +221,6 @@ Von Balthasar, Hans Urs. *La Gloria del Señor.*
 
 *Catecismo de la Iglesia Católica* (§302--314; §548--550; §1322--1419).
 
+<br>
+
+{% include further-reading-en.html %}

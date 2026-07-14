@@ -223,4 +223,4 @@ Von Balthasar, Hans Urs. *La Gloria del Señor.*
 
 <br>
 
-{% include further-reading-en.html %}
+{% include further-reading-es.html %}

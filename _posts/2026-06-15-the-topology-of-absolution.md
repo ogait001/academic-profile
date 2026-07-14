@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20708609"
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/la-topologia-de-la-absolucion.html"
 ---
 
-
+<br>
 
 {% raw %}
 > ¡Hola!, que llevarme dejo  
@@ -25,11 +25,11 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-
 > — *Lope de Vega, Rimas sacras*
 {% endraw %}
 
-<br><br>
+<br>
 
 > "Alas, I let myself be carried off, without order and without counsel, and so I draw away from heaven, where I can no longer arrive." -- Lope de Vega, *Rimas sacras*
 
-<br><br>
+<br>
 
 ## Table of Contents
 
@@ -43,9 +43,13 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-
 - [7. The Synthesis](#7-the-synthesis)
 - [References](#references)
 
+<br>
+
 ## Abstract
 
 What happens to the self after absolution? If the self is continuous, boundaryless, and never replaced, then forgiveness cannot be the deletion of one moral identity and the installation of another. This essay develops an account of sacramental absolution and sanctification consistent with a topology of the self in which identity is the unbroken traversal of an infinite interior. Guilt is treated as a boundary condition between the self and its ground, removable in an instant; pride is treated as the deepest curvature of the interior, healed only through continuous traversal. The two operations are distinguished as reorientation (instant, unilateral, at the crossing point) and reshaping (continuous, cooperative, through the interior). Continuity is shown to be not a second condition standing beside agency but its consequence: the self's interior is unbroken because the traversal is freely undertaken. From this single ground the necessity of purgatory, the meaning of deathbed absolution, and the difference between the divided and undivided will all follow.
+
+<br>
 
 ## 1. The Problem of Instant Holiness
 
@@ -56,6 +60,8 @@ The popular imagination treats forgiveness as a metaphysical switch. One moment 
 Rome was not destroyed in a day, and the world was made in seven and not in one. The figure is old, but it marks a real distinction. A relation can be restored at once; a structure is rebuilt over time. To collapse the two is to imagine that the self is the kind of thing that can be replaced -- that State A (the sinner) is cleanly severed and State B (the saint) instantiated in its place. That is the bundle theory of the self smuggled back in at the confessional. If succession is denied for the self in general, it cannot be reintroduced for the self under grace.
 
 Thus the governing question: if the self does not change numerically, what changes?
+
+<br>
 
 ## 2. Absolution as Re-Orientation, Not Replacement
 
@@ -69,11 +75,15 @@ But the two are not independent, and it would be a mistake to present them as th
 
 To ground this in the manifold's reality: guilt -- understood here as a state of objective separation from the absolute ground -- effectively locks the self into a closed loop. So long as this boundary condition persists, the interior is structurally incapable of flattening its own curvature; the geometry is sealed against its own source. The removal of the boundary via absolution does not merely "permit" an eventual reshaping as an afterthought. Rather, it restores the radical topological openness required for grace to act as a restorative force within the interior, avoiding the necessity of an invasive, identity-destroying rewrite.
 
+<br>
+
 ## 3. Pride as the Deep Curvature
 
 Classical theology names pride the root of all sin -- not pride as swagger, but pride as non serviam: the refusal to be ordered by anything beyond oneself. In topological terms this is the deepest bending of the interior, the stance from which the other sins are merely directions of the same warp. Lust is pride expressed through the body. Greed is pride expressed through possession. Envy is pride expressed through comparison. Dishonesty is pride expressed through speech.
 
 The sins differ; the curvature is one. And because it is curvature and not boundary, it cannot be removed in a stroke. To straighten the entire interior instantaneously, bypassing the traversal, would not yield the same self perfected. It would yield a new curvature with no continuous path from the old -- which is to say, a replacement self.
+
+<br>
 
 ## 4. Divine Action and the Damascus Objection
 
@@ -84,6 +94,8 @@ The objection lands only if instantaneous transformation is read as instantaneou
 The relation to the tradition is therefore not divergence but specification. The tradition is emphatic that the convert is the same person -- the moral weight of I persecuted the Church depends on its being numerically Paul who says it -- yet it asserts this continuity without supplying the mechanism that makes radical change possible without either freezing the self or replacing it. The topology supplies that mechanism. It does not break with the consensus on identity; it underlabours for it.
 
 So the hinge is not a limitation on omnipotence. God can produce, in an instant, a being indistinguishable from Paul-perfected. The claim is only that such a being would not be Paul, because nothing continuous would connect him to the man on the road. Identity just is the unbroken traversal of the interior; remove the traversal and you remove the identity, whatever is left standing in its place.
+
+<br>
 
 ## 5. Continuity Requires Agency, Not Duration
 
@@ -99,6 +111,8 @@ This yields a clean asymmetry between gift and participation, one the tradition 
 
 The older verb enters -- grace "enters" the interior -- is retired here. It was the metaphor that let the two precise operations blur into one. Reorientation and reshaping are not two images of a single vague influx. They are two phases of one mechanism, each with its own agent and its own register.
 
+<br>
+
 ## 6. The Divided and the Undivided Will
 
 The agency condition secures identity, but it appears to threaten something the tradition holds firmly. If reshaping is genuinely the self's cooperative act, then it is not merely slow -- it is contingent. An act of will can stall, resist, refuse a stretch of the path outright. On earth this is simply the ordinary fact of backsliding. But the tradition insists that the soul in purgatory cannot fail; the souls there are assured of heaven. If reshaping is the self's own act, what guarantees its completion there when nothing guarantees it here?
@@ -112,6 +126,8 @@ The undivided will is, precisely, the elevation of consent the earlier objection
 This is also what finally grounds the claim, asserted earlier in the corpus and left unearned, that the interior is "not measured in seconds." The interior has a structural depth that is normally traversed in lived time but does not require time as its medium. Time is the mode of traversal available to the embodied self; it is not the depth itself. What changes after death is not the character of time but the unity of the will doing the traversing. The interior becomes traversable outside earthly time because the traverser has become whole -- not because the clock has been suspended. The deathbed answer thus stops looking like a rescue and becomes a consequence: the same depth, traversed first by a divided will in time and then by an undivided will in purgatory, completed in either case by the self and never for it.
 
 The four states fall out of the single distinction. Earthly life is the divided will traversing in time, able to advance and able to stall. Purgatory is the undivided will completing the traversal it now wholly wills, unfailingly because nothing in it refuses. Heaven is the traversal complete, the curvature healed, the identity intact: the same self, finally straight. Hell is the will locked in non serviam, refusing the traversal as such; not a self reshaped into another, but a self fixed in the refusal of its own interior path.
+
+<br>
 
 ## 7. The Synthesis
 
@@ -127,6 +143,8 @@ Salvation is not becoming someone else. It is becoming who one was meant to be a
 
 *"For my Father's will is that everyone who looks to the Son and believes in him shall have eternal life, and I will raise them up at the last day."* -- John 6:40
 
+<br><br>
+
 ## References
 
 - Augustine of Hippo. *Confessions*.
@@ -139,4 +157,6 @@ Salvation is not becoming someone else. It is becoming who one was meant to be a
 - Lonergan, Bernard. *Insight: A Study of Human Understanding*.
 - Vega, Lope de. *Rimas sacras* (fragment).
 
+<br>
 
+{% include further-reading-en.html %}

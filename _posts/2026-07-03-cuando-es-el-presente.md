@@ -15,7 +15,7 @@ cover: /assets/covers/cuando-es-el-presente.png
 translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophical%20theology/catholic%20philosophy/thomism/2026/07/03/when-is-the-present.html"
 ---
 
-<br><br>
+<br>
 
 > «Tu hoy es la eternidad.»
 > — Agustín, *Confesiones*, XI, 13
@@ -24,6 +24,8 @@ translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophical%20t
 
 *Fiesta de Santo Tomás Apóstol*
 *3 de julio de 2026*
+
+<br>
 
 ## Indice
 
@@ -38,7 +40,7 @@ translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophical%20t
 - [8. La Respuesta](#8-la-respuesta)
 - [Referencias](#referencias)
 
-<br><br>
+<br>
 
 ## Resumen
 
@@ -160,10 +162,8 @@ Tomás de Aquino. *Suma Teológica*. (Especialmente I, c. 10.)
 
 *La Santa Biblia*. (Exodo 3:14; Juan 8:58; Hebreos 13:8.)
 
-Gaitan, Oscar. *La Lemniscata del Tiempo: Una Topología de la Memoria, la Posibilidad y la Gracia*.
-
-Gaitan, Oscar. *¿Necesito yo al tiempo, o necesita el tiempo de mí? La ontología del Ahora, la invarianza de la presencia y el fundamento del ser*.
-
 Gaitan, Oscar. *El Peso del Presente: Sobre la Condensación, la Gracia y la Continuidad del Devenir*.
 
+<br>
 
+{% include further-reading-es.html %}

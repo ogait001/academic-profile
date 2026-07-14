@@ -15,16 +15,17 @@ cover: /assets/covers/wisdom-artificial-intelligence-another-seduction.png
 translation_url: "https://oscargaitan.org/metafisica/antropologia%20filosofica/teologia%20catolica/inteligencia%20artificial/2026/07/06/sabiduria-inteligencia-artificial-otra-seduccion.html"
 ---
 
-<br><br>
+<br>
 
 <p style="text-align:center;">“They exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator.” — Romans 1:25</p>
 
 Geppetto carved a puppet and longed for it to become a real boy. The modern inversion is stranger and sadder: the makers no longer wish to raise the artifact toward the human. They wish to lower the human toward the artifact --- to be, as it were, *less* human, and to persuade the many that this descent is progress. This essay is about that seduction, which is not new. It is only newly instrumented.
 
+<br>
+
 ## Contents
 
 - [Abstract](#abstract)
-- [Keywords](#keywords)
 - [A Note on Method](#a-note-on-method)
 - [I. The Wrong Opening](#i-the-wrong-opening)
 - [II. What Disappears](#ii-what-disappears)
@@ -37,17 +38,11 @@ Geppetto carved a puppet and longed for it to become a real boy. The modern inve
 - [IX. Conclusion: The Ground That Cannot Be Manufactured](#ix-conclusion-the-ground-that-cannot-be-manufactured)
 - [References](#references)
 
-<br><br>
+<br>
 
 ## Abstract
 
 This essay argues that artificial intelligence is neither the beginning nor the culmination of human intelligence, but another historical attempt to relocate wisdom from the being who participates in reality to the artifact that processes representations of reality. It is not a critique of artificial intelligence as such. The instrument did not name itself, and it has extended human sight into dimensions of the cosmos no unaided eye could reach. The critique falls on a misuse: the deliberate weaponizing of a derivative instrument to persuade human beings that reasoning no longer requires a reasoner, that wisdom can be manufactured, and that dependence on a non-derivative Being is an outgrown superstition. Drawing on the Gaitan Topology --- the lemniscate, the crossing point, the sustaining ground of the Now, and the distinction between the derivative and the non-derivative --- the essay proposes that the model is a derivative of a derivative: where the human participates in reality itself, the model receives only human descriptions of reality. It cannot originate; but neither can Newton, Augustine, or Shakespeare. The difference is not that the machine derives and the human does not. The difference is what each receives. The essay reads this displacement through Romans 1, through the serpent of Genesis, and through the figures of Geppetto and Pinocchio inverted: makers who wish their creation to remain a puppet, and human beings persuaded to prefer the strings. The central claim: the danger is not that machines will become persons, but that persons will consent to understand themselves as machines.
-
-<br>
-
-## Keywords
-
-Derivative; non-derivative Being; wisdom; artificial intelligence; the Now; crossing point; second-order derivative; representation; the Nada; flat sight; Romans 1; the serpent's curve; operation versus being; Gaitan Topology; seduction; instrument; participation
 
 <br>
 
@@ -205,42 +200,9 @@ Augustine. *Confessions.* Translated by Henry Chadwick. Oxford: Oxford Universit
 
 Heidegger, Martin. *Being and Time.* Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
 
-<br><br>
-
-## Related Works
-
-### Book 
-**The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession**  
-ISBN: 9798248842360  
-Zenodo: https://doi.org/10.5281/zenodo.18684516
-
 <br>
 
-### Featured Essays 
-
-**The Lemniscate of Time: A Topology of Memory, Possibility, and Grace**  
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html  
-Zenodo: https://doi.org/10.5281/zenodo.19121110
-
-**The Topology of Presence: Four Planes of Existence on the Lemniscate**    
-Website: https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html  
-Zenodo: https://doi.org/10.5281/zenodo.19339347
-
-**The Grammar of Displacement: From, Anytime, Then**    
-Website: https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html  
-Zenodo: https://doi.org/10.5281/zenodo.20618207
-
-**Eve's Algorithm: The Industrialization of the Original Temptation**      
-Website: https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html  
-Zenodo: https://doi.org/10.5281/zenodo.20330645
-
-**The Topology of Absolution: Continuity, Agency, and the Non‑Replacement of the Self**    
-Website: https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html   
-Zenodo: https://doi.org/10.5281/zenodo.20708609
-
-**The Infinite Interior: On Space, Change, and the Integrity of the Self**    
-Website: https://oscargaitan.org/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html   
-Zenodo: https://doi.org/10.5281/zenodo.20032817
+{% include further-reading-en.html %}
 
 <br><br>
 

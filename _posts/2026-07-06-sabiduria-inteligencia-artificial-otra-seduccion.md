@@ -15,9 +15,13 @@ cover: /assets/covers/sabiduria-inteligencia-artificial-otra-seduccion.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20anthropology/catholic%20theology/artificial%20intelligence/2026/07/06/wisdom-artificial-intelligence-another-seduction.html"
 ---
 
+<br>
+
 <p style="text-align:center;">“Cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron a la criatura antes que al Creador.” — Romanos 1:25</p>
 
 Geppetto talló un muñeco y ansió que llegara a ser un niño de verdad. La inversión moderna es más extraña y más triste: los hacedores ya no desean elevar el artefacto hacia lo humano. Desean rebajar lo humano hacia el artefacto --- ser, por así decirlo, *menos* humanos, y persuadir a los muchos de que este descenso es progreso. Este ensayo trata de esa seducción, que no es nueva. Solo está recién instrumentada.
+
+<br>
 
 ## Indice
 
@@ -35,7 +39,7 @@ Geppetto talló un muñeco y ansió que llegara a ser un niño de verdad. La inv
 - [IX. Conclusión: el suelo que no puede fabricarse](#ix-conclusión-el-suelo-que-no-puede-fabricarse)
 - [Referencias](#referencias)
 
-<br><br>
+<br><
 
 ## Resumen
 
@@ -201,17 +205,9 @@ Agustín de Hipona. *Confesiones.* Traducción de Angel Custodio Vega. Madrid: B
 
 Heidegger, Martin. *Ser y tiempo.* Traducción de Jorge Eduardo Rivera. Madrid: Trotta, 2003.
 
-**Obras previas del autor**
+<br>
 
-Gaitan, Oscar. *¿Dónde está Dios? El sufrimiento, el momento presente y el suelo que no interviene.* 2026.
-
-Gaitan, Oscar. *Desplazando a Dios: sobre la comunidad, la multitud y el desplazamiento del yo respecto del Ahora.* 2026.
-
-Gaitan, Oscar. *El algoritmo de Eva: la industrialización de la tentación original.* 2026.
-
-Gaitan, Oscar. *La serpiente, el yo y el colapso del “Yo”: un ensayo topológico sobre Legión, la mimesis digital y la primera extracción.* 2026.
-
-Gaitan, Oscar. *La topología de la presencia: cuatro planos de existencia en la lemniscata.*
+{% include further-reading-es.html %}
 
 
 

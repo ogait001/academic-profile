@@ -15,7 +15,7 @@ cover: /assets/covers/when-is-the-present.png
 translation_url: "https://oscargaitan.org/metafisica/ontologia/teologia%20filosofica/filosofia%20catolica/tomismo/2026/07/03/cuando-es-el-presente.html"
 ---
 
-<br><br>
+<br>
 
 > "Your today is eternity."
 > — Augustine, *Confessions*, XI, 13
@@ -162,7 +162,11 @@ Aquinas, Thomas. *Summa Theologiae*. Translated by Fathers of the English Domini
 
 *The Holy Bible*. Revised Standard Version, Second Catholic Edition. Ignatius Press, 2006. (Exodus 3:14; John 8:58; Hebrews 13:8.)
 
-Gaitan, Oscar. *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace*.
+Gaitan, Oscar. The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming
+
+<br>
+
+{% include further-reading-en.html %}
 
 
 

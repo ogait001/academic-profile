@@ -196,6 +196,3 @@ Gaitan, Oscar. *The Ground That Does Not Appear: Hume, Invariance, and the Self.
 
 {% include further-reading-en.html %}
 
-Gaitan, Oscar. *The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self.*
-
-

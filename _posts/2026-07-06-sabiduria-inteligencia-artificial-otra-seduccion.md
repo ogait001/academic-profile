@@ -26,7 +26,7 @@ Geppetto talló un muñeco y ansió que llegara a ser un niño de verdad. La inv
 ## Indice
 
 - [Resumen](#resumen)
-- [Una nota sobre el metodo](#una-nota-sobre-el-metodo)
+- [Una nota sobre el método](#una-nota-sobre-el-método)
 - [I. La apertura equivocada](#i-la-apertura-equivocada)
 - [II. Lo que desaparece](#ii-lo-que-desaparece)
 - [III. La sabiduría artificial no existe](#iii-la-sabiduría-artificial-no-existe)
@@ -46,7 +46,7 @@ Este ensayo sostiene que la inteligencia artificial no es ni el comienzo ni la c
 
 <br>
 
-## Una nota sobre el metodo
+## Una nota sobre el método
 
 Este ensayo procede a la vez por argumento filosófico, interpretación teológica y lectura cultural, y no los trata como equivalentes. La afirmación filosófica --- que la inteligencia en su sentido pleno es un modo de ser y no una mera operación, y que el ser no puede derivarse --- debe sostenerse sobre fundamentos estructurales. La identificación teológica del suelo no derivado con el YO SOY EL QUE SOY del Exodo se ofrece como el nombre que satisface una exigencia estructural que el argumento establece de manera independiente, no como una premisa importada de la Escritura. La lectura de Romanos 1 es interpretativa, no exegética en sentido estricto. Las figuras de Geppetto y Pinocho se emplean como testigos de una condición estructural, no como prueba de ninguna afirmación metafísica. El lector que acepte la filosofía pero decline la teología ocupa una posición coherente. El ensayo no requiere la identificación; la propone.
 

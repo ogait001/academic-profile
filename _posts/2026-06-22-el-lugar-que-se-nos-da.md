@@ -129,10 +129,11 @@ Pieper, Josef. *Las cuatro virtudes cardinales.* Notre Dame, IN: University of N
 
 Ratzinger, Joseph (Benedicto XVI). *Introducción al cristianismo.* San Francisco: Ignatius Press, 2004.
 
+Sinatra, Frank. "My Way." Escrita por Paul Anka y Jacques Revaux. Reprise Records, 1969.
+
+Concilio Vaticano II. *Lumen Gentium.* Ciudad del Vaticano: Libreria Editrice Vaticana, 1964.
+
 <br>
 
 {% include further-reading-es.html %}
 
-Sinatra, Frank. "My Way." Escrita por Paul Anka y Jacques Revaux. Reprise Records, 1969.
-
-Concilio Vaticano II. *Lumen Gentium.* Ciudad del Vaticano: Libreria Editrice Vaticana, 1964.

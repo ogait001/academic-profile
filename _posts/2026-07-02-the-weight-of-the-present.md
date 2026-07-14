@@ -14,7 +14,8 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.21177683
 cover: /assets/covers/the-weight-of-the-present.png
 translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/ontologia/filosofia%20catolica/tomismo/2026/07/02/el-peso-del-presente.html"
 ---
-<br><br>
+
+<br>
 
 > Caminante, no hay camino,  
 > se hace camino al andar.  
@@ -24,7 +25,6 @@ translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/ontol
 > se ha de volver a pisar.  
 >
 > — Antonio Machado, *Campos de Castilla* (1912)
-
 
 <br>
 
@@ -40,7 +40,8 @@ translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/ontol
 - [8. The Last Condensation](#8-the-last-condensation)
 - [9. Synthesis](#9-synthesis)
 - [References](#references)
-<br><br>
+
+<br>
 
 ## Abstract
 
@@ -169,7 +170,7 @@ Things will be because of what they have been, as transformed by what they recei
 > But this I call to mind, and therefore I have hope: the steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning.
 > — Lamentations 3:21-23
 
-<br>
+<br><br>
 
 ## References
 
@@ -189,11 +190,11 @@ Machado, Antonio. *Campos de Castilla.* Madrid: Cátedra, various editions. ("Pr
 
 Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology.* Corrected Edition. Edited by David Ray Griffin and Donald W. Sherburne. Free Press, 1978.
 
-Gaitan, Oscar. *The Lemniscate of Time: A Topology of Memory, Possibility, and Grace.*
-
-Gaitan, Oscar. *The Infinite Interior: On Space, Change, and the Integrity of the Self.*
-
 Gaitan, Oscar. *The Ground That Does Not Appear: Hume, Invariance, and the Self.*
+
+<br>
+
+{% include further-reading-en.html %}
 
 Gaitan, Oscar. *The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self.*
 

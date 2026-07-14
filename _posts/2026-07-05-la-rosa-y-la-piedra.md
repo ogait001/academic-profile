@@ -136,4 +136,4 @@ Joseph Ratzinger. *Introducción al Cristianismo*.
 
 <br>
 
-{% include further=reading-es.html %}
+{% include further-reading-es.html %}

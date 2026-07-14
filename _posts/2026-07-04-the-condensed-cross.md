@@ -15,7 +15,7 @@ cover: /assets/covers/the-condensed-cross.png
 translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/filosofia%20catolica/teologia%20de%20la%20expiacion/2026/07/04/la-cruz-condensada.html#iv-un-solo-sacrificio-no-una-l%C3%ADnea-temporal"
 ---
 
-<br><br>
+<br>
 
 ## Contents
 
@@ -121,12 +121,12 @@ Aquinas, Thomas. *Summa Theologiae*. Translated by Fathers of the English Domini
 
 Anselm of Canterbury. *Cur Deus Homo*.
 
-Gaitan, Oscar. *The Topology of Absolution: Continuity, Agency, and the Non-Replacement of the Self*.
-
 Gaitan, Oscar. *The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming*.
 
 Gaitan, Oscar. *When Is the Present? On the Invariant Now and Temporal Actuality*.
 
-Gaitan, Oscar. *The Infinite Interior: On Space, Change, and the Integrity of the Self*.
+<br>
+
+{% include further-reading-en.html %}
 
 

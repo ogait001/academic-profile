@@ -162,15 +162,9 @@ Aquinas, Thomas. *Summa Theologiae*. Translated by Fathers of the English Domini
 
 *The Holy Bible*. Revised Standard Version, Second Catholic Edition. Ignatius Press, 2006. (Exodus 3:14; John 8:58; Hebrews 13:8.)
 
-Gaitan, Oscar. The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming
+Gaitan, Oscar. *The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming*.
 
 <br>
 
 {% include further-reading-en.html %}
 
-
-
-
-Gaitan, Oscar. *Does Time Need Me, or Do I Need Time? The Ontology of the Now, the Invariance of Presence, and the Ground of Being*.
-
-Gaitan, Oscar. *The Weight of the Present: On Condensation, Grace, and the Continuity of Becoming*.

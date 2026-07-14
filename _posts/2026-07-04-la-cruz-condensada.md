@@ -15,7 +15,7 @@ cover: /assets/covers/la-cruz-condensada.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/catholic%20philosophy/atonement%20theology/2026/07/04/the-condensed-cross.html"
 ---
 
-<br><br>
+<br>
 
 ## Indice
 
@@ -27,7 +27,7 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/c
 - [VI. Conclusión: Lo que este marco afirma y lo que no afirma](#vi-conclusión-lo-que-este-marco-afirma-y-lo-que-no-afirma)
 - [Referencias](#referencias)
 
-<br><br>
+<br>
 
 ## I. El Pasado que no se marcha
 
@@ -119,12 +119,10 @@ Tomás de Aquino. *Suma Teológica*. Traducido por los Padres de la Provincia Do
 
 Anselmo de Canterbury. *Cur Deus Homo*.
 
-Gaitan, Oscar. *La Topología de la Absolución: Continuidad, Agencia y la No Sustitución del Yo*.
-
 Gaitan, Oscar. *El Peso del Presente: Sobre la Condensación, la Gracia y la Continuidad del Devenir*.
 
 Gaitan, Oscar. *¿Cuándo es el Presente? Sobre el Ahora Invariante y la Actualidad Temporal*.
 
-Gaitan, Oscar. *El Interior Infinito: Sobre el Espacio, el Cambio y la Integridad del Yo*.
+<br>
 
-
+{% include further-reading-es.html %}

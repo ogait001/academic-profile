@@ -15,7 +15,7 @@ cover: /assets/covers/la-rosa-y-la-piedra.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20religion/philosophical%20theology/semiotics/2026/07/05/the-rose-and-the-stone.html"
 ---
 
-<br><br>
+<br>
 
 > *Stat rosa pristina nomine, nomina nuda tenemus.*
 > La antigua rosa permanece solo en su nombre; solo tenemos nombres desnudos.
@@ -34,7 +34,7 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20religion
 - [VI. Conclusión: Lo que la Rosa le Enseña a la Piedra](#vi-conclusión-lo-que-la-rosa-le-enseña-a-la-piedra)
 - [Referencias](#referencias)
 
-<br><br>
+<br>
 
 ## Resumen
 
@@ -134,4 +134,6 @@ Charles Sanders Peirce. *Collected Papers of Charles Sanders Peirce*.
 
 Joseph Ratzinger. *Introducción al Cristianismo*.
 
+<br>
 
+{% include further=reading-es.html %}

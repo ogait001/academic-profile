@@ -20,10 +20,11 @@ translation_url: "https://oscargaitan.org/metafisica/ontologia/teologia%20filoso
 > "Your today is eternity."
 > — Augustine, *Confessions*, XI, 13
 
-> "Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet believe.'" — John 20:29
+> "Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet believe.'"  
+> John 20:29  
 
-*Feast of St. Thomas the Apostle*
-*July 3, 2026*
+*Feast of St. Thomas the Apostle*  
+*July 3, 2026*  
 
 <br>
 

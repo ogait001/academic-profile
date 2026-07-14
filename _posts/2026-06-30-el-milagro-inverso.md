@@ -34,10 +34,6 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophic
 - [IX. La tentación de la época](#ix-la-tentación-de-la-época)
 - [X. El oficio ejercido contra sí mismo](#x-el-oficio-ejercido-contra-sí-mismo)
 - [Referencias](#referencias)
-<br><br>
-
-> La piedra que desecharon los edificadores, esa misma ha venido a ser cabeza del ángulo.
-> — Mateo 21, 42
 
 <br>
 
@@ -149,7 +145,7 @@ Hay una imagen aún más antigua de lo que es tal inversión. Babel se levantó 
 
 Lo cual nos devuelve, por último, a la piedra desechada. Los edificadores que la arrojaron a un lado no eran extraños al Templo; eran sus guardianes, hombres que habían ascendido al lugar desde el cual se hacen tales juicios, y rechazaron la verdadera piedra angular en nombre de su propia administración. El patrón es viejo -- más viejo que el seminario, más viejo que el debate presente, viejo como la primera propuesta en el primer jardín --. Cristo en el desierto no convertiría una sola piedra en pan, no dejaría que una sola criatura fuera obligada a significar lo que no era, no haría de su poder un arma contra su propio orden. Él mantuvo legible el mundo. Toda la vocación de un oficio edificado por el ascenso honesto es mantenerlo legible después de Él: custodiar la veracidad de los signos que se le confían, de modo que lo que parece comunión sea comunión, y lo que se ofrece como el Pan de vida no sea, en su realidad oculta, una piedra.
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -170,3 +166,7 @@ Ratzinger, Joseph. *El espíritu de la liturgia.*
 *Ecclesia de Eucharistia.*
 
 *Sacramentum Caritatis.*
+
+<br>
+
+{% include further-reading-es.html %}

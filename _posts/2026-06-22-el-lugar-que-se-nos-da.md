@@ -14,7 +14,7 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801435
 translation_url: "https://oscargaitan.org/philosophy/theology/ethics/christian%20philosophy/philosophical%20anthropological/catholic%20theology/pride/humility/2026/06/22/the-place-that-is-given.html"
 ---
 
-<br><br>
+<br>
 
 ## Indice
 - [I. La pregunta nunca fue sobre él](#i-la-pregunta-nunca-fue-sobre-él)
@@ -25,7 +25,7 @@ translation_url: "https://oscargaitan.org/philosophy/theology/ethics/christian%2
 - [VI. La última frase de una vida](#vi-la-última-frase-de-una-vida)
 - [Referencias](#referencias)
 
-<br><br>
+<br>
 
 ## I. La pregunta nunca fue sobre él
 
@@ -109,7 +109,7 @@ Así que la pregunta nunca fue si el multimillonario es orgulloso. La pregunta e
 
 Una vida ya se inclina hacia una frase o hacia la otra mucho antes de que los labios la pronuncien.
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -129,7 +129,9 @@ Pieper, Josef. *Las cuatro virtudes cardinales.* Notre Dame, IN: University of N
 
 Ratzinger, Joseph (Benedicto XVI). *Introducción al cristianismo.* San Francisco: Ignatius Press, 2004.
 
+<br>
 
+{% include further-reading-es.html %}
 
 Sinatra, Frank. "My Way." Escrita por Paul Anka y Jacques Revaux. Reprise Records, 1969.
 

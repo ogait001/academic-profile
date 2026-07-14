@@ -16,9 +16,9 @@ translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-signi
 
 <br>
 
-*Note on relation to previous work: This essay continues themes developed in earlier work on presence, temporality, and ontological grounding, but it is not a repetition of those arguments. Where the previous essay ranged broadly across phenomenology, metaphysics, and theological reflection, the present study narrows its focus to a single interlocutor: Martin Heidegger. Its purpose is to examine, in a more concentrated form, whether Heidegger's account of Being as disclosed through temporality sufficiently addresses the distinct question of ontological ground.*
+***Note on relation to previous work:*** This essay continues themes developed in earlier work on presence, temporality, and ontological grounding, but it is not a repetition of those arguments. Where the previous essay ranged broadly across phenomenology, metaphysics, and theological reflection, the present study narrows its focus to a single interlocutor: Martin Heidegger. Its purpose is to examine, in a more concentrated form, whether Heidegger's account of Being as disclosed through temporality sufficiently addresses the distinct question of ontological ground.
 
-<br>
+<br><br>
 
 There is a question so fundamental that Western philosophy spent centuries walking around it rather than through it. Martin Heidegger named it the *Seinsfrage* — the question of Being — and was right that the tradition had largely forgotten to ask it. What does the 'is' in any statement of existence actually mean? Not what things are, which is the business of science and logic, but what the 'is' is *doing* — what it points to, what grounds it, what holds it open at all.
 

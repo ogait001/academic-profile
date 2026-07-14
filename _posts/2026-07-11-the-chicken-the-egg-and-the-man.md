@@ -15,7 +15,11 @@ cover: /assets/covers/the-chicken-the-egg-and-the-man.png
 translation_url: "https://oscargaitan.org/filosofia/metafisica/filosofia%20de%20la%20religion/2026/07/11/la-gallina-el-huevo-y-el-hombre.html"
 ---
 
+<br>
+
 > Continuity forecloses a boundary. Creation forecloses an antecedent. Between them, no chicken was ever first — and no Traversal was ever asked of the soul that was breathed.
+
+<br>
 
 ## Contents
 
@@ -28,7 +32,8 @@ translation_url: "https://oscargaitan.org/filosofia/metafisica/filosofia%20de%20
 - [VII. Two Ways of Refusing "First"](#vii-two-ways-of-refusing-first)
 - [VIII. The Crossing and the Alpha](#viii-the-crossing-and-the-alpha)
 - [References](#references)
-<br><br>
+
+<br>
 
 ## I. The Paradox, Briefly Restated
 
@@ -136,7 +141,7 @@ This is why the chicken-egg paradox and the question of the first man, though th
 
 Neither the chicken nor Adam was produced by linear causality reaching backward to a first cause it could name. But only one of them was ever going to have a name for a first moment. The other was never going to have a first at all — only an interior, endlessly crossed, endlessly held open. One was never going to have a first moment, because a continuum contains no place to begin; the other was always going to have one, because only an act without a prior subject can supply a true beginning.
 
-<hr />
+<br><br>
 
 ## References
 

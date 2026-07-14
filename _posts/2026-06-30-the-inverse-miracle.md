@@ -15,6 +15,8 @@ cover: /assets/covers/the-inverse-miracle-en.png
 translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologia%20filosofica/metafisica/filosofia%20cristiana/ontologia/2026/06/30/el-milagro-inverso.html"
 ---
 
+<br>
+
 > “The stone the builders rejected has become the cornerstone.”  
 > — Matthew 21:42
 
@@ -32,10 +34,6 @@ translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologi
 - [IX. The Temptation of the Age](#ix-the-temptation-of-the-age)
 - [X. The Office Exercised Against Itself](#x-the-office-exercised-against-itself)
 - [References](#references)
-<br><br>
-
-> The stone which the builders rejected, the same is become the head of the corner.
-> — Matthew 21:42
 
 <br>
 
@@ -147,7 +145,7 @@ There is an older image still for what such an inversion is. Babel was raised by
 
 Which returns us, at the last, to the rejected stone. The builders who cast it aside were not strangers to the Temple; they were its keepers, men who had climbed to the place from which such judgments are made, and they rejected the true cornerstone in the name of their own stewardship. The pattern is old -- older than the seminary, older than the present debate, old as the first proposal in the first garden. Christ in the wilderness would not turn one stone into bread, would not let a single creature be made to signify what it was not, would not weaponize His power against His own order. He kept the world legible. The whole vocation of an office built by the honest climb is to keep it legible after Him: to guard the truthfulness of the signs entrusted to it, so that what looks like communion is communion, and what is offered as the Bread of life is not, in its hidden reality, a stone.
 
-<br>
+<br><br>
 
 ## References
 
@@ -169,4 +167,6 @@ Ratzinger, Joseph. *The Spirit of the Liturgy.*
 
 *Sacramentum Caritatis.*
 
+<br>
 
+{% include further-reading-en.html %}

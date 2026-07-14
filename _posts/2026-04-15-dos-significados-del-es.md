@@ -14,11 +14,9 @@ excerpt: "Una reflexión filosófica sobre Heidegger y el fundamento ontológico
 translation_url: /ontology/philosophy-of-time/2026/04/21/two-meanings-of-is.html
 ---
 
----
+<br>
 
-Nota sobre la relación con trabajos anteriores: Este ensayo continúa temas desarrollados en trabajos anteriores sobre presencia, temporalidad y fundamento ontológico, pero no es una repetición de esos argumentos. Donde el ensayo previo abarcaba ampliamente la fenomenología, la metafísica y la reflexión teológica, el presente estudio estrecha su enfoque a un único interlocutor: Martin Heidegger. Su propósito es examinar, de forma más concentrada, si el relato de Heidegger sobre el Ser tal como se revela a través de la temporalidad aborda de manera suficiente la pregunta distinta del fundamento ontológico.
-
----
+***Nota sobre la relación con trabajos anteriores:*** Este ensayo continúa temas desarrollados en trabajos anteriores sobre presencia, temporalidad y fundamento ontológico, pero no es una repetición de esos argumentos. Donde el ensayo previo abarcaba ampliamente la fenomenología, la metafísica y la reflexión teológica, el presente estudio estrecha su enfoque a un único interlocutor: Martin Heidegger. Su propósito es examinar, de forma más concentrada, si el relato de Heidegger sobre el Ser tal como se revela a través de la temporalidad aborda de manera suficiente la pregunta distinta del fundamento ontológico.
 
 <br><br>
 
@@ -67,7 +65,7 @@ Heidegger escuchó correctamente la pregunta por el Ser. Se volvió hacia el hor
 
 La tradición clásica nombra tal actualidad autosustentada en el lenguaje del Éxodo: *YO SOY EL QUE SOY*. Tanto si ese nombre se recibe como revelación o como la formulación más precisa disponible para lo que el argumento estructural requiere independientemente, la exigencia que satisface es la misma: no un horizonte en el borde de la existencia, sino el fundamento en su centro — el único ‘es’ que no necesita ningún fundamento detrás de Él, porque Él mismo es el fundamento.
 
-<br>
+<br><br>
 
 ## Referencias
 

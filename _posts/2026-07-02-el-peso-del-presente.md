@@ -15,7 +15,7 @@ cover: /assets/covers/el-peso-del-presente.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/ontology/catholic%20philosophy/thomism/2026/07/02/the-weight-of-the-present.html"
 ---
 
-<br><br>
+<br>
 
 > Caminante, no hay camino,  
 > se hace camino al andar.  
@@ -40,7 +40,8 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/o
 - [8. La Ultima condensación](#8-la-ultima-condensacion)
 - [9. Síntesis](#9-síntesis)
 - [Referencias](#referencias)
-<br><br>
+
+<br>
 
 ## Resumen
 
@@ -165,7 +166,7 @@ Las cosas serán a causa de lo que han sido, transformadas por lo que reciben.
 > Esto reconsideraré en mi corazón, y por tanto tendré esperanza: las misericordias del Señor nunca terminan; nunca cesan sus piedades; nuevas son cada mañana.
 > — Lamentaciones 3, 21-23
 
-<br>
+<br><br>
 
 ## Referencias
 
@@ -185,12 +186,8 @@ Machado, Antonio. *Campos de Castilla.* Madrid: Cátedra, varias ediciones. ("Pr
 
 Whitehead, Alfred North. *Proceso y realidad.*
 
-Gaitan, Oscar. *La lemniscata del tiempo: una topología de la memoria, la posibilidad y la gracia.*
-
-Gaitan, Oscar. *El interior infinito: sobre el espacio, el cambio y la integridad del yo.*
-
 Gaitan, Oscar. *El fundamento que no aparece: Hume, la invariancia y el yo.*
 
-Gaitan, Oscar. *La topología de la absolución: continuidad, agencia y la no-sustitución del yo.*
+<br>
 
-
+{% include further-reading-es.html %}

@@ -15,6 +15,8 @@ cover: /assets/covers/eating-stones-en.png
 translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologia%20filosofica/metafisica/filosofia%20cristiana/ontologia/2026/06/29/comer-piedras.html"
 ---
 
+<br>
+
 *June 29, 2026*  
 >Solemnity of Saints Peter and Paul
 
@@ -38,7 +40,8 @@ translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/teologi
 - [XII. "Not by Bread Alone"](#xii-not-by-bread-alone)
 - [XIII. The Truthful Speech of Creation](#xiii-the-truthful-speech-of-creation)
 - [References](#references)
-<br><br>
+
+<br>
 
 ## I. The Traditional Interpretation
 
@@ -198,7 +201,7 @@ The refusal of Christ is therefore not merely a moral victory but a metaphysical
 
 He who is the Word -- through whom all things were made and in whom all things hold together -- refused to speak a word against the order His Word had established. He was hungry, and He remained hungry, and in that hunger He kept the world legible. He would not eat stones. He kept creation speaking truthfully.
 
-<br>
+<br><br>
 
 ## References
 
@@ -216,6 +219,8 @@ Maximus the Confessor. *Ambigua.*
 
 Von Balthasar, Hans Urs. *The Glory of the Lord.*
 
-
-
 *Catechism of the Catholic Church* (§302--314; §548--550; §1322--1419).
+
+<br>
+
+{% include further-reading-en.html %}

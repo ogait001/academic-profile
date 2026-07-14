@@ -15,11 +15,13 @@ cover: /assets/covers/the-rose-and-the-stone.png
 translation_url: "https://oscargaitan.org/metafisica/filosofia%20de%20la%20religion/teologia%20filosofica/semiotica/2026/07/05/la-rosa-y-la-piedra.html"
 ---
 
+<br>
+
 > *Stat rosa pristina nomine, nomina nuda tenemus.*
 > The ancient rose remains only in its name; we hold only naked names.
 > — closing line, Umberto Eco, *The Name of the Rose*
 
-<br><br>
+<br>
 
 ## Contents
 
@@ -32,11 +34,11 @@ translation_url: "https://oscargaitan.org/metafisica/filosofia%20de%20la%20relig
 - [VI. Conclusion: What the Rose Teaches the Stone](#vi-conclusion-what-the-rose-teaches-the-stone)
 - [References](#references)
 
-<br><br>
+<br>
 
 ## Abstract
 
-Does a person change when their name changes? The question sounds trivial until it is pressed: marriage, religious profession, conversion, exile, adoption, and legal petition all propose the same quiet metaphysical claim — that something real can happen to a name. This essay argues that names neither create nor destroy identity, because identity is not a linguistic achievement but an ontological one: the condensed continuity already established elsewhere in this topology (*The Weight of the Present*; *When Is the Present?*). A name is a sign, and a sign's whole competence is fidelity — the correspondence it either keeps or loses with the reality it signifies (*Eating Stones*). Read in this light, Eco's closing line names a vision opposite to the one this topology defends: a vision in which names remain after the realities they named have disappeared. Against it, this essay argues that identity is preserved through ontological continuity, and that a sign derives its truth precisely from remaining faithful to a reality that endures. The essay develops the distinction between renaming that follows a real transformation and renaming that merely relabels, and closes by asking what, exactly, survives the fire at the abbey — and what does not.
+Does a person change when their name changes? The question sounds trivial until it is pressed: marriage, religious profession, conversion, exile, adoption, and legal petition all propose the same quiet metaphysical claim — that something real can happen to a name. This essay argues that names neither create nor destroy identity, because identity is not a linguistic achievement but an ontological one: the condensed continuity already established elsewhere in this topology ([*The Weight of the Present*](https://oscargaitan.org/metaphysics/philosophical%20theology/ontology/catholic%20philosophy/thomism/2026/07/02/the-weight-of-the-present.html); [*When Is the Present? On the Invariant Now and Temporal Actuality*](https://oscargaitan.org/metaphysics/ontology/philosophical%20theology/catholic%20philosophy/thomism/2026/07/03/when-is-the-present.html)). A name is a sign, and a sign's whole competence is fidelity — the correspondence it either keeps or loses with the reality it signifies ([*Eating Stones: The Temptation of Christ as Ontological Contradiction*](https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/29/eating-stones.html)). Read in this light, Eco's closing line names a vision opposite to the one this topology defends: a vision in which names remain after the realities they named have disappeared. Against it, this essay argues that identity is preserved through ontological continuity, and that a sign derives its truth precisely from remaining faithful to a reality that endures. The essay develops the distinction between renaming that follows a real transformation and renaming that merely relabels, and closes by asking what, exactly, survives the fire at the abbey — and what does not.
 
 <br>
 
@@ -132,3 +134,6 @@ Charles Sanders Peirce. *Collected Papers of Charles Sanders Peirce*.
 
 Joseph Ratzinger. *Introduction to Christianity*.
 
+<br>
+
+{% include further-reading-en.html %}

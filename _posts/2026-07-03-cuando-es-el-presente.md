@@ -20,10 +20,11 @@ translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophical%20t
 > «Tu hoy es la eternidad.»
 > — Agustín, *Confesiones*, XI, 13
 
-> «Jesús le dijo: "¿Porque me has visto, has creído? Dichosos los que no han visto y han creído."» 
-> — Juan 20, 29
-*Fiesta de Santo Tomás Apóstol*
-*3 de julio de 2026*
+> «Jesús le dijo: "¿Porque me has visto, has creído? Dichosos los que no han visto y han creído."»   
+> — Juan 20, 29  
+
+*Fiesta de Santo Tomás Apóstol*  
+*3 de julio de 2026*  
 
 <br>
 

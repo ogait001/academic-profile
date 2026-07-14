@@ -27,7 +27,7 @@ translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/17/
 - [6. The Answer to the Common Person](#6-the-answer-to-the-common-person)
 - [References](#references)
 
-<br><
+<br>
 
 ## Abstract
 

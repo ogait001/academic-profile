@@ -39,7 +39,7 @@ Geppetto talló un muñeco y ansió que llegara a ser un niño de verdad. La inv
 - [IX. Conclusión: el suelo que no puede fabricarse](#ix-conclusión-el-suelo-que-no-puede-fabricarse)
 - [Referencias](#referencias)
 
-<br><
+<br>
 
 ## Resumen
 

@@ -14,7 +14,7 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801344
 translation_url: "https://oscargaitan.org/filosofia/teologia/filosofia%20cristiana/2026/06/22/el-lugar-que-se-nos-da.html"
 ---
 
-<br><br>
+<br>
 
 ## Contents
 - [I. The Question Was Never About Him](#i-the-question-was-never-about-him)
@@ -25,7 +25,7 @@ translation_url: "https://oscargaitan.org/filosofia/teologia/filosofia%20cristia
 - [VI. The Last Sentence of a Life](#vi-the-last-sentence-of-a-life)
 - [References](#references)
 
-<br><br>
+<br>
 
 ## I. The Question Was Never About Him
 
@@ -109,7 +109,7 @@ So the question was never whether the billionaire is proud. The question is what
 
 A life is already leaning toward one sentence or the other long before the lips speak it.
 
-<br>
+<br><br>
 
 ## References
 
@@ -133,3 +133,6 @@ Sinatra, Frank. "My Way." Written by Paul Anka and Jacques Revaux. Reprise Recor
 
 Second Vatican Council. *Lumen Gentium.* Vatican City: Libreria Editrice Vaticana, 1964.
 
+<br>
+
+{% include further-reading-en.html %}

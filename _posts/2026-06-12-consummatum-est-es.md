@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Estudio de la consumación como estructura del Ahora, donde la densidad temporal y la relatividad topológica revelan trayectorias completas en cada acto."
+description: "La consumación como estructura del Ahora, donde la densidad temporal y la relatividad topológica revelan trayectorias completas en cada acto."
 title: "Consummatum Est" 
 subtitle: "Densidad Temporal, Relatividad Topológica, y la Consumación del Ahora"
 date: 2026-06-12

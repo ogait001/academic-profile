@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Estudio sobre la densidad temporal y los cruces finitos del Ahora, mostrando que la vida se mide por la orientación de la voluntad y no por su duración."
+description: "Estudio sobre la densidad temporal, los cruces finitos del Ahora y la orientación de la voluntad."
 title: "No Puedes Añadir una Hora" 
 subtitle: "Sobre la Densidad Temporal, la Formación de la Voluntad y la Finitud del Cruce"
 date: 2026-04-20

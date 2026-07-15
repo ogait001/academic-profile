@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A study of how time ends for the person, describing Heaven, Purgatory, and Hell as permanent modes of existing in the Now once temporal succession ceases."
+description: "Heaven, Purgatory, and Hell as permanent modes of existing in the Now once temporal succession ceases."
 title: "Where Does Time End?" 
 subtitle: "The Three Nows: Never. Never. Forever."
 date: 2026-04-14

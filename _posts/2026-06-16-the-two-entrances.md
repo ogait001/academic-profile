@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Baptism and purgatory as corresponding thresholds in Gaitán Topology."
+description: "Baptism opens temporal life; purgatory consummates the entrance into eternal life, two thresholds of a single self undergoing its own rectification."
 title: "The Two Entrances"
 subtitle: "Water and Fire as the Thresholds of Temporal and Eternal Life"
 date: 2026-06-16

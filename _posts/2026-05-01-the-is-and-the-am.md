@@ -1,13 +1,13 @@
 ---
 layout: post
-description: "An exploration of presence, identity, and the ground of being."
+description: "An exploration of presence, identity, and the ground of Being, I AM WHO I AM, that sustains all contingent beings."
 title: "The Is and the AM" 
 subtitle: "Presence, Identity, and the Ground that holds"
 date: 2026-04-19 
 categories: [ontology, philosophy-of-time, catholic-theology]
 tags: [lemniscate, gaitan-topology, crossing-point, ghost-zone, phenomenology, self-and-identity, time-and-eternity, theological-anthropology, philosophy-of-religion, eschatology]
 lang: en
-excerpt: "A philosophical and theological meditation on existence, presence, and identity, arguing that contingent being points beyond itself toward the sustaining ground named as the AM."
+excerpt: "A philosophical and theological meditation on existence, presence, and identity, arguing that a contingent being points beyond itself toward the sustaining ground named as the I AM WHO AM."
 doi: "10.5281/zenodo.19654743"
 record_url: "https://zenodo.org/records/19654743"
 pdf_url: "https://zenodo.org/records/19654927/files/the-is-and-the-am.pdf"

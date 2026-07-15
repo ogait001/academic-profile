@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "How ordinary moments disclose an entire trajectory."
+description: "Consummation is a structure of the Now. Each act is complete or not in the instant in which it becomes actual. Life is decided crossing by crossing, not in the sum."
 title: "Consummatum Est" 
 subtitle: "Temporal Density, Topological Relativity, and the Consummation of the Now"
 date: 2026-06-12

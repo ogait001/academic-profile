@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Humildad, auto-humillación, orgullo y descentramiento del yo."
+description: "El autodesprecio cambia el signo, no la estructura. La humildad es la libertad de haber abandonado la escala entera."
 title: "La Sierva de los siervos"
 subtitle: "Por qué el auto-desprecio no es humildad"
 date: 2026-06-17

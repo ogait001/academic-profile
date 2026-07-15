@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A study of Hume’s introspection and the structured self, showing how invariance and contingency point to a non‑derived ground that never appears among contents."
+description: "A study of Hume’s introspection and how only a non‑derived ground prevents the structured self from collapsing."
 title: "The Ground that does not appear"
 subtitle: "Hume, Invariance, and the Self"
 date: 2026-06-15

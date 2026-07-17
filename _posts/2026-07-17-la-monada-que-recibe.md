@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Monada que Recibe"
+title: "La Mónada que Recibe"
 subtitle: "Sobre Leibniz, la Indivisibilidad y la Posibilidad de la Relación"
 description: "Una reflexión sobre la monadología de Leibniz, que sostiene que la simplicidad no exige aislamiento y que la recepción genuina puede ocurrir sin dividir una sustancia indivisible."
 date: 2026-07-17

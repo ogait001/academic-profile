@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Monad That Receives"
-post-subtitle: "On Leibniz, Indivisibility, and the Possibility of Relation"
+subtitle: "On Leibniz, Indivisibility, and the Possibility of Relation"
 description: "A philosophical critique of Leibniz arguing that simplicity permits genuine reception without sacrificing personal unity."
 date: 2026-07-17
 author: Oscar Gaitan
@@ -141,5 +141,4 @@ Rutherford, Donald. *Leibniz and the Rational Order of Nature.* Cambridge Univer
 
 <br>
 
-
-{% include further-reading-eng.html %}
+{% include further-reading-en.html %}

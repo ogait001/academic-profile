@@ -179,7 +179,7 @@ Esta es la pregunta que la geometría no puede responder desde dentro de sí mis
 
 En *¿Necesita el tiempo que yo exista?*, la misma pregunta estructural surgió sobre el Ahora: ¿qué lo mantiene abierto? El Ahora no tiene grosor, ni reservas, ni profundidad autosustentante. Todo lo dependiente apunta a algo de lo que depende. Sigue la cadena de dependencias hasta su término y encontrarás algo que debe ser autosustentante — no porque la fe lo exija, sino porque la alternativa es que nada sea sostenido en absoluto.
 
-La respuesta apuntaba hacia el que no dice *Yo era* ni *Yo seré* sino simplemente YO SOY — el presente autosustentante que constituye en lugar de habitar el Ahora. No una causa que actuó una vez y se retiró. Una presencia sustentante sin la cual el punto de cruce colapsa y la actualidad cesa.
+La respuesta apuntaba hacia el que no dice *Yo era* ni *Yo seré* sino simplemente *YO SOY EL QUE SOY* — el presente autosustentante que constituye en lugar de habitar el Ahora. No una causa que actuó una vez y se retiró. Una presencia sustentante sin la cual el punto de cruce colapsa y la actualidad cesa.
 
 La misma respuesta es válida aquí, y con mayor profundidad. El interior infinito continuo entre unidades — la distancia inagotable que preserva la integridad de cada uno dentro de cada composición — requiere el mismo fundamento. No es autosustentante. Su continuidad no es generada por las unidades mismas, ni por la distancia considerada abstractamente. Se mantiene abierta, momento a momento, para que el cambio permanezca como cruce en lugar de reemplazo, y el ser permanezca intacto a través de cada transición que atraviesa.
 

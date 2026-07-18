@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legion of Monads"
-title: "On the Multiplication of the Simple"
+subtitle: "On the Multiplication of the Simple"
 description: "A philosophical study of Leibniz, Legion, and how occupancy—not composition—explains the apparent multiplication of the self."
 date: 2026-07-18
 author: Oscar Gaitan

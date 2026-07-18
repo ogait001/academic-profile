@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21433024
 record_url: https://zenodo.org/doi/10.5281/zenodo.21433024
 pdf_url: /assets/pdf/legion-of-monads.pdf
 cover: /assets/covers/legion-of-monads.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/filosofia/metafisica/filosofia%20de%20la%20religion/antropologia%20filosofica/filosofia%20de%20la%20mente/2026/07/18/legion-de-monadas.html"
 ---
 
 <br>

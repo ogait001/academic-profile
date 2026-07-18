@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legión de Mónadas"
-title: "Sobre la Multiplicación de lo Simple"
+subtitle: "Sobre la Multiplicación de lo Simple"
 description: "Un estudio filosófico sobre Leibniz, Legión, y como la ocupación —no la composición— explica la aparente multiplicación del yo."
 date: 2026-07-18
 author: Oscar Gaitan

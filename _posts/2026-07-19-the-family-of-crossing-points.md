@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21444690
 record_url: https://zenodo.org/doi/10.5281/zenodo.21444690
 pdf_url: /assets/pdf/the-family-of-crossing-points.pdf
 cover: /assets/covers/the-family-of-crossing-points.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/metafisica/ontologia%20social/antropologia%20filosofica/filosofia%20catolica/2026/07/19/la-familia-de-puntos-de-cruce.html"
 ---
 
 <br>
@@ -144,7 +144,7 @@ Gaitan, Oscar. *The Alternate Lemniscate: On the Geometry of Displacement.*
 
 Gaitan, Oscar. *The Is and the AM: Presence, Identity, and the Ground that Holds.*
 
-Gaitan, Oscar. *The Ghost Zone: The Invisible Inner World Where We Live Before Life Begins.*
+Gaitan, Oscar. *The Ghost Zone.*
 
 <br>
 

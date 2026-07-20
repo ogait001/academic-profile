@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21459842
 record_url: https://zenodo.org/doi/10.5281/zenodo.21459842
 pdf_url: /assets/pdf/not-gepetto.pdf
 cover: /assets/covers/not-gepetto.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/teologia%20filosofica/expiacion/libre%20albedrio/agustin/tomas%20de%20aquino/metafisica/2026/07/20/no-gepetto.html"
 ---
 
 <br>

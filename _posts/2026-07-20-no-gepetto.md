@@ -136,8 +136,8 @@ Gaitan, Oscar. *El Recaudador en el Centro: Karma, Gracia y el Punto de Cruce.* 
 
 Gaitan, Oscar. *¿Dónde Está Dios? El Sufrimiento, el Momento Presente y el Fundamento que No Interviene.* 2026.
 
+Gaitan, Oscar. *El Pasillo: Sobre el fundamento que no se retira.* 2026.
+
 <br>
 
 {% include further-reading-es.html %}
-
-Gaitan, Oscar. *El Pasillo: Sobre el fundamento que no se retira.* 2026.

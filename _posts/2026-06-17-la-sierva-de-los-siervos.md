@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "El autodesprecio cambia el signo, no la estructura. La humildad es la libertad de haber abandonado la escala entera."
+description: "Ensayo sobre la humildad como descentramiento: renuncia del yo como medida; autodesprecio como soberbia invertida, encarnada en María, que no se rebaja."
 title: "La Sierva de los siervos"
 subtitle: "Por qué el auto-desprecio no es humildad"
 date: 2026-06-17

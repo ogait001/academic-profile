@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "El Cielo, el Purgatorio y el Infierno como modos permanentes de existir en el Ahora una vez que cesa la sucesión temporal."
+description: "Reflexión sobre cómo el tiempo termina cuando cesa la sucesión y cómo los estados finales son modos permanentes de existir en el Ahora, definidos por la orientación de la voluntad."
 title: "¿Dónde termina el tiempo?" 
 subtitle: "Los Tres Ahoras: Nunca. Nunca. Para Siempre."
 date: 2026-04-14

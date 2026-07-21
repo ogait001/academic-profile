@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Lectura metafísica de como la notación posicional modela el yo y presenta el cero como fundamento y el uno como forma."
+description: "Estudio sobre cómo la notación posicional revela un yo que se despliega hasta su saturación y atraviesa cada umbral sostenido por un fundamento invisible."
 title: "Cero y Uno, Polvo y Cenizas" 
 subtitle: "La Notación Posicional como Modelo del Ser"
 date: 2026-05-24

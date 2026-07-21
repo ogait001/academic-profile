@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A study of Hume’s introspection and how only a non‑derived ground prevents the structured self from collapsing."
+description: "A study arguing that Hume confirms the self’s structure: an invariant unseen among contents that remains contingent and thus requires a non‑derived ground to exist."
 title: "The Ground that does not appear"
 subtitle: "Hume, Invariance, and the Self"
 date: 2026-06-15

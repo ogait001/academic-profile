@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Estudio filosófico sobre la absolución, la agencia y la identidad en la Topología Gaitan, analizando cómo la culpa, el orgullo y la santificación configuran la transformación continua del yo."
+description: "Un estudio sobre cómo la absolución remueve el límite sin sustituir al yo, y cómo la santificación sana su curvatura interior mediante un recorrido continuo."
 title: "La Topología de la Absolución" 
 subtitle: "Continuidad, Agencia y la No-sustitución del Yo"
 date: 2026-06-15

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Baptism opens temporal life; purgatory consummates the entrance into eternal life, two thresholds of a single self undergoing its own rectification."
+description: "A study of how baptism opens the path and purgatory completes it, showing how humility lets grace act on the self’s curvature as the root of all sanctifying transformation."
 title: "The Two Entrances"
 subtitle: "Water and Fire as the Thresholds of Temporal and Eternal Life"
 date: 2026-06-16

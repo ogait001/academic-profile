@@ -791,7 +791,7 @@ The essays collected here develop an original philosophical framework at the int
     <h2>About</h2>
 
    <p>
-  Oscar Gaitan is a Nicaraguan-born independent philosophical researcher based in Los Angeles, developing an original philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
+  Oscar Gaitan is a Nicaraguan American independent philosophical researcher based in Los Angeles, developing an original philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
 </p>
 
 <p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Metaphysical reading of how positional notation models the self and presents zero as foundation and one as form."
+description: "A study of how positional notation reveals a metaphysical self that saturates its order and endures each threshold through the sustaining action of an unseen foundation."
 title: "Zero and One, Dust and Ashes" 
 subtitle: "Positional Notation as a Model of Being"
 date: 2026-05-24

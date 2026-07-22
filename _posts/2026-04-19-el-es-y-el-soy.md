@@ -71,9 +71,9 @@ Lo que se pierde no es dramático. Es el espacio más delgado concebible. La dis
 
 Bajo este problema humano yace uno metafísico más profundo: ¿qué es el presente, y qué lo sostiene? Y bajo esa pregunta yace la que este ensayo finalmente aborda: ¿qué es el 'es' en toda afirmación de existencia, y qué lo mantiene abierto?
 
-El argumento se mueve en cuatro direcciones desde un único centro. El centro es el es — no la palabra, no la función gramatical, sino el acto del ser mismo tal como se presenta en cada instancia de existencia, humana y divina. Las cuatro direcciones son: la estructura del es, su constitución comunitaria, su profundidad relacional y la orientación de la que depende su eternidad.
+El argumento se mueve en cuatro direcciones desde un único centro. El centro es el ***es*** — no la palabra, no la función gramatical, sino el acto del ser mismo tal como se presenta en cada instancia de existencia, humana y divina. Las cuatro direcciones son: la estructura del es, su constitución comunitaria, su profundidad relacional y la orientación de la que depende su eternidad.
 
-La conclusión a la que llega el argumento no se impone desde fuera. Es sugerida por él. La actualidad contingente no parece autoexplicativa. Si cada estado actual deriva solo de otro estado contingente, la explicación se difiere en lugar de completarse. El argumento por tanto apunta hacia un fundamento no derivado de la actualidad — que el ensayo identifica, siguiendo la lógica del argumento, con el SOY del Éxodo.
+La conclusión a la que llega el argumento no se impone desde fuera. Es sugerida por él. La actualidad contingente no parece autoexplicativa. Si cada estado actual deriva solo de otro estado contingente, la explicación se difiere en lugar de completarse. El argumento por tanto apunta hacia un fundamento no derivado de la actualidad — que el ensayo identifica, siguiendo la lógica del argumento, con el SOY EL QUE SOY del Exodo.
 
 <hr/>
 

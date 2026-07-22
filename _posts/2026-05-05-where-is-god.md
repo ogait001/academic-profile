@@ -165,7 +165,7 @@ Here is the answer, stated once, plainly.
 
 God is not an agent within events. God is the sustaining ground of the present moment in which events occur.
 
-God does not intervene in the Now the way a cause intervenes in an effect, or a guard intervenes at a gate. God sustains the Now the way I AM sustains everything — not from within the sequence of events but as the condition without which no sequence could occur. Remove the sustaining ground and there is no Now to hold. No moment in which anything could be actual. No crossing point at which freedom could be exercised. No event in which love or evil or suffering or mercy could become real.
+God does not intervene in the Now the way a cause intervenes in an effect, or a guard intervenes at a gate. God sustains the Now the way I AM WHO I AM sustains everything — not from within the sequence of events but as the condition without which no sequence could occur. Remove the sustaining ground and there is no Now to hold. No moment in which anything could be actual. No crossing point at which freedom could be exercised. No event in which love or evil or suffering or mercy could become real.
 
 God sustains the Now for everyone simultaneously. The Now that holds you and me is the same Now. The moment in which mercy becomes actual is the same moment in which cruelty becomes actual. God does not hold the Now open for the righteous and close it for the wicked. God holds it open as the universal ground of all actualization — which is the only ground on which genuine freedom, and therefore genuine love, is possible.
 

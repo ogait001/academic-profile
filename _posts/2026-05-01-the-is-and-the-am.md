@@ -65,9 +65,9 @@ What is missed is not dramatic. It is the thinnest conceivable space. The distan
 
 Beneath this human problem lies a deeper metaphysical one: what is the present, and what sustains it? And beneath that question lies the one this essay is finally about: what is the 'is' in every statement of existence, and what holds it open?
 
-The argument moves in four directions from a single center. The center is the 'is' — not the word, not the grammatical function, but the act of being itself as it presents in every instance of existence, human and divine. The four directions are: the structure of the "is", its communal constitution, its relational depth, and the orientation on which its eternity depends.
+The argument moves in four directions from a single center. The center is the ***is*** — not the word, not the grammatical function, but the act of being itself as it presents in every instance of existence, human and divine. The four directions are: the structure of the "is", its communal constitution, its relational depth, and the orientation on which its eternity depends.
 
-The conclusion the argument reaches is not imposed from outside it. It is suggested by it. Contingent actuality does not appear self-explanatory. If every actual state derives only from another contingent state, explanation is deferred rather than completed. The argument therefore points toward a non-derivative ground of actuality — which the essay identifies, following the logic of the argument, with the AM of Exodus.
+The conclusion the argument reaches is not imposed from outside it. It is suggested by it. Contingent actuality does not appear self-explanatory. If every actual state derives only from another contingent state, explanation is deferred rather than completed. The argument therefore points toward a non-derivative ground of actuality — which the essay identifies, following the logic of the argument, with the I AM WHO I AM of Exodus.
 
 <br>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Sobre la identidad y la perduración, donde el reemplazo desplaza la inhabitación y da origen al Ahora Deshabitado."
+description: "Una meditación sobre identidad y resistencia, sosteniendo que la oposición es esencial para habitar y que la cultura del reemplazo produce un Ahora inhabitable"
 title: "La Selección Artificial" 
 subtitle: "Sobre la Resistencia, la Identidad y la Ingeniería de un Ahora Deshabitado"
 date: 2026-04-29

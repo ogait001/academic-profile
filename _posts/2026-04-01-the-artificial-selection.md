@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A philosophical examination of identity, endurance, and the Uninhabited Now."
+description: "A meditation on identity and endurance, arguing that resistance is essential for inhabitation and that modern replacement culture produces an Uninhabited Now."
 title: "The Artificial Selection" 
 subtitle: "On Endurance, Identity, and the Engineering of an Uninhabited Now"
 date: 2026-04-29

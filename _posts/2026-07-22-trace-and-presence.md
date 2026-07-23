@@ -20,8 +20,8 @@ translation_url: "https://oscargaitan.org/filosof%C3%ADa%20de%20la%20religi%C3%B
 > *"He who eats my flesh and drinks my blood abides in me, and I in him."*
 > — John 6:56
 >
-> *She turned herself and said unto Him, "Rabboni!" (which is to say, "Master").*
-> — John 20:16
+> *She turned herself and said unto Him, "Rabboni!" (which is to say, "Master").*  
+> — John 20:16  
 > *Feast of Saint Mary Magdalene*
 
 <br>

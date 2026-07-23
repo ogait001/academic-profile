@@ -11,7 +11,7 @@ excerpt: "Todo don creado deja una traza. Solo la Eucaristía da no una traza de
 doi: 10.5281/zenodo.21514225
 record_url: https://zenodo.org/doi/10.5281/zenodo.21514225
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21514225
-cover: /assets/covers/traza-y-presencia-es.png
+cover: /assets/covers/traza-y-presencia.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/sacramental%20theology/philosophical%20theology/thomas%20aquinas/2026/07/22/trace-and-presence.html"
 ---
 

@@ -21,7 +21,8 @@ translation_url: "https://oscargaitan.org/filosof%C3%ADa%20de%20la%20religi%C3%B
 > — John 6:56
 >
 > *She turned herself and said unto Him, "Rabboni!" (which is to say, "Master").*
-> — John 20:16, Feast of Saint Mary Magdalene
+> — John 20:16
+> *Feast of Saint Mary Magdalene*
 
 <br>
 

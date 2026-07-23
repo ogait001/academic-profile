@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21514025
 record_url: https://zenodo.org/doi/10.5281/zenodo.21514025
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21514025
 cover: /assets/covers/trace-and-presence.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/filosof%C3%ADa%20de%20la%20religi%C3%B3n/teolog%C3%ADa%20sacramental/teolog%C3%ADa%20filos%C3%B3fica/tom%C3%A1s%20de%20aquino/2026/07/22/traza-y-presencia.html"
 ---
 
 <br>

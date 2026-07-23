@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21516022
 record_url: https://zenodo.org/doi/10.5281/zenodo.21516022
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21516022
 cover: /assets/covers/born-from-above.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/teolog%C3%ADa%20filos%C3%B3fica/metaf%C3%ADsica/identidad%20personal/filosof%C3%ADa%20del%20cristianismo/2026/07/23/nacido-de-lo-alto.html"
 ---
 
 <br>

@@ -18,8 +18,9 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/sacramental
 > *«El que come mi carne y bebe mi sangre permanece en mí, y yo en él.»*
 > — Juan 6, 56
 >
-> *Ella se volvió y le dijo: «¡Rabbuní!» (que quiere decir: «Maestro»).*
-> — Juan 20, 16, Fiesta de Santa María Magdalena
+> *Ella se volvió y le dijo: «¡Rabbuní!» (que quiere decir: «Maestro»).*  
+> — Juan 20, 16  
+> *Fiesta de Santa María Magdalena*
 
 <br>
 

@@ -29,7 +29,7 @@ translation_url: "https://oscargaitan.org/philosophy%20of%20religion/sacramental
 - [Resumen](#resumen)
 - [I. El caso diferido](#i-el-caso-diferido)
 - [II. Traza y Presencia](#ii-traza-y-presencia)
-- [III. Por qué ningún ensayo anterior lo necesitó](#iii-por-que-ningún-ensayo-anterior-lo-necesitó)
+- [III. Por qué ningún ensayo anterior lo necesitó](#iii-por-qué-ningún-ensayo-anterior-lo-necesitó)
 - [IV. El fundamento que sostiene también entra](#iv-el-fundamento-que-sostiene-también-entra)
 - [V. La Presencia Real bajo la exigencia de la simplicidad](#v-la-presencia-real-bajo-la-exigencia-de-la-simplicidad)
 - [VI. Ni reorientación ni remodelación: un tercer registro](#vi-ni-reorientación-ni-remodelación-un-tercer-registro)

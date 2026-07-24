@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Reflection on the human is as present, free, relational, and unable to sustain itself, remaining open only because each crossing of the Now is upheld by the self‑sustaining I AM WHO I AM."
+description: "Reflection on the human "is" as present, free, relational, and unable to sustain itself, and the self‑sustaining non-derivative I AM WHO I AM."
 title: "The Is and the AM" 
 subtitle: "Presence, Identity, and the Ground that holds"
 date: 2026-04-19 

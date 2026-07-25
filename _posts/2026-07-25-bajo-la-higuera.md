@@ -20,9 +20,9 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20mind/phe
 > *"Mirabilis facta est scientia tua super me; exaltata est, et non possum ad eam."*
 > — Salmo 139, 6
 >
-> *"El que quiera ser el primero entre ustedes, que sea su servidor. Porque el Hijo del Hombre no vino a ser cuidado, sino a cuidar de los demás."*  
-> — Mateo 20, 27-28  
-> *Fiesta de Santiago Apóstol*
+> *"El que quiera ser el primero entre ustedes, que sea su servidor. Porque el Hijo del Hombre no vino para ser servido, sino para servir."*    
+> — Mateo 20, 27-28    
+> *Fiesta de Santiago Apóstol*  
 
 <br>
 
@@ -184,11 +184,7 @@ René Descartes. *Meditaciones metafísicas*.
 
 ### Obras Relacionadas del Autor
 
-Gaitan, Oscar. *El Soy que Permanece: Una Crítica a Descartes y una Metafísica del Alma*. 2026.
-
 Gaitan, Oscar. *El Es y el SOY: Presencia, Identidad y el Fundamento que Sostiene*. 2026.
-
-Gaitan, Oscar. *La Topología de la Presencia: Cuatro Planos de Existencia sobre la Lemniscata*. 2026.
 
 Gaitan, Oscar. *Dos significados del 'es': El horizonte de Heidegger y el Punto de Cruce*. 2026.
 

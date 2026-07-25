@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21565530
 record_url: https://zenodo.org/doi/10.5281/zenodo.21565530
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21565530
 cover: /assets/covers/under-the-fig-tree.png
-translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20mind/phenomenology/philosophical%20theology/moral%20psychology/2026/07/25/bajo-la-higuera.html"
+translation_url: "https://oscargaitan.org/metaf%C3%ADsica/filosof%C3%ADa%20de%20la%20mente/fenomenolog%C3%ADa/teolog%C3%ADa%20filos%C3%B3fica/psicolog%C3%ADa%20moral/2026/07/25/bajo-la-higuera.html"
 ---
 
 <br>

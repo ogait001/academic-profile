@@ -20,7 +20,7 @@ translation_url: "https://oscargaitan.org/metaf%C3%ADsica/filosof%C3%ADa%20de%20
 > *"Mirabilis facta est scientia tua super me; exaltata est, et non possum ad eam."*
 > — Psalm 139:6
 >
-> *"Whoever wants to be first among you, let him be your servant.For the Son of Man came not to be served, but to serve.."*    
+> *"Whoever wants to be first among you, let him be your servant. For the Son of Man came not to be served, but to serve."*    
 > — Matthew 20:27-28    
 > *Feast of Saint James the Apostle*  
 

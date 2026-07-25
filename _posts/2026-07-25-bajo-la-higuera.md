@@ -22,7 +22,7 @@ translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20mind/phe
 >
 > *"El que quiera ser el primero entre ustedes, que sea su servidor. Porque el Hijo del Hombre no vino para ser servido, sino para servir."*    
 > — Mateo 20, 27-28    
-> *Fiesta de Santiago Apóstol*  
+> *Fiesta de Santiago el Mayor, Apóstol— 25 de Julio de 2026*  
 
 <br>
 

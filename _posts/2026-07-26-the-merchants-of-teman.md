@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21609182
 record_url: https://zenodo.org/doi/10.5281/zenodo.21609182
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21609182
 cover: /assets/covers/the-merchants-of-teman.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaf%C3%ADsica/antropolog%C3%ADa%20filos%C3%B3fica/tom%C3%A1s%20de%20aquino/filosof%C3%ADa%20de%20la%20mente/2026/07/26/los-mercaderes-de-teman.html"
 ---
 
 <br>

@@ -2,7 +2,7 @@
 layout: post
 title: "¿Relativo a qué?"
 subtitle: "Sobre el Relativismo Moral como Error, el Relativismo Perspectivo como Estructura, y su Simetría con el Determinismo"
-description: "Distingue el relativismo moral del relativismo perspectivo, argumentando que la verdad moral objetiva permanece constante pese a las diferencias de la perspectiva humana."
+description: "La perspectiva explica por qué difieren las descripciones; no explica que la montaña desaparezca. El relativismo moral confunde la diversidad de la recepción con la diversidad de la realidad."
 date: 2026-07-26
 author: Oscar Gaitan
 lang: es

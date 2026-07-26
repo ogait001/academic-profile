@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21610192
 record_url: https://zenodo.org/doi/10.5281/zenodo.21610192
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21610192
 cover: /assets/covers/relative-to-what.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaf%C3%ADsica/meta%C3%A9tica/realismo%20moral/fenomenolog%C3%ADa/2026/07/26/relativo-a-que.html"
 ---
 
 <br>

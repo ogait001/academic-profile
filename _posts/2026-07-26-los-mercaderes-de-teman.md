@@ -123,7 +123,7 @@ Este ensayo está escrito por un hombre que ha pasado años construyendo un marc
 
 <br>
 
-## VI. La recepcion es un acto
+## VI. La recepción es un acto
 
 Si la sabiduría es dada y no puede adquirirse, una objeción obvia llega de inmediato, y es la más seria del ensayo: ¿acaso la persona no hace entonces nada? ¿Se ha retirado en silencio la voluntad, tan cuidadosamente situada en el punto de cruce?
 

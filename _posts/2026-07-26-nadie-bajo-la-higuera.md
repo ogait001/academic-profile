@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nadie Bajo la Higuera"
-subtitle: "Crítica filosófica a la Prueba de Turing: el transcript no detecta presencia, reduce el pensamiento a salida y borra la higuera."
+subtitle: "Crítica filosófica a la Prueba de Turing: el transcript no detecta presencia, reduce el pensamiento a salida y borra la higuera"
 description: "Argumento de que la Prueba de Turing lee solo lo que cruza un muro, colapsando el pensamiento en salida y ocultando la presencia que ningún transcript porta."
 date: 2026-07-26
 author: Oscar Gaitan

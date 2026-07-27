@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Nadie Bajo la Higuera"
-subtitle: "Sobre el Test de Turing, el Muro, y lo que una Transcripción no Puede Llevar"
-description: "Una crítica filosófica del Test de Turing que sostiene que las transcripciones no pueden revelar la presencia personal y redefine el debate sobre la IA a traves de la Topología Gaitan."
+subtitle: "Crítica filosófica a la Prueba de Turing: el transcript no detecta presencia, reduce el pensamiento a salida y borra la higuera."
+description: "Argumento de que la Prueba de Turing lee solo lo que cruza un muro, colapsando el pensamiento en salida y ocultando la presencia que ningún transcript porta."
 date: 2026-07-26
 author: Oscar Gaitan
 lang: es

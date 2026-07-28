@@ -30,7 +30,7 @@ translation_url: "https://oscargaitan.org/philosophical%20theology/philosophy%20
 ## Indice
 
 - [I. Una pregunta que rehúsa su propia gramática](#i-una-pregunta-que-rehúsa-su-propia-gramática)
-- [II. Coram: lo que el estar ante añade al ofrecer](#ii-coram-lo-que-el-estar-ante-anade-al-ofrecer)
+- [II. Coram: lo que el estar ante añade al ofrecer](#ii-coram-lo-que-el-estar-ante-añade-al-ofrecer)
 - [III. La copa que se recibe y aun así se llama respuesta](#iii-la-copa-que-se-recibe-y-aun-así-se-llama-respuesta)
 - [IV. Ambulabo: el voto extendido en la duración](#iv-ambulabo-el-voto-extendido-en-la-duración)
 - [V. La tierra de los vivientes](#v-la-tierra-de-los-vivientes)

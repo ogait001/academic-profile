@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21080024
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21080024
 cover: /assets/covers/el-milagro-inverso.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/30/the-inverse-miracle.html"
+
+shelf: gt-g
 ---
 
 <br>

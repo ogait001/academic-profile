@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20369064"
 record_url: "https://zenodo.org/records/20369064"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20369064"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/24/polvo-y-cenizas.html"
+
+shelf: gt-b1
 ---
 
 <br>

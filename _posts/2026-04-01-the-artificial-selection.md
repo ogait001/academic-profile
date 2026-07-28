@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19870770"
 record_url: "https://zenodo.org/records/19870770"
 pdf_url: "https://zenodo.org/records/19870789/files/the-artificial-selection.pdf"
 translation_url: "/ontology/philosophy-of-time/catholic-theology/2026/04/29/la-seleccion-artificial.html"
+
+shelf: gt-i
 ---
 
 <br><br>

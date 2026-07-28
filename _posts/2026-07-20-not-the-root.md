@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21464865
 pdf_url: /assets/pdf/not-the-root.pdf
 cover: /assets/covers/not-the-root.png
 translation_url: "https://oscargaitan.org/filosofia%20cristiana/teologia%20filosofica/libre%20albedrio/ontologia/2026/07/20/no-la-raiz.html"
+
+shelf: gt-g
 ---
 
 <br>

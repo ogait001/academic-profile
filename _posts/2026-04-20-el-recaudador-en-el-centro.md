@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19702737"
 pdf_url: "https://zenodo.org/records/19702737/files/el-recaudador-en-el-centro.pdf"
 translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/25/the-debt-collector-at-the-center.html
 excerpt: "Una reflexión sobre el karma y la gracia, que sostiene que la realidad no se fundamenta en la devolución exacta, sino en una presencia personal que mantiene las cuentas abiertas."
+
+shelf: gt-b2
 ---
 
 <br><br>

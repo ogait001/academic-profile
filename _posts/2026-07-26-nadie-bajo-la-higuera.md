@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21629099
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21629099
 cover: /assets/covers/nadie-bajo-la-higuera.png
 translation_url: "https://oscargaitan.org/philosophy%20of%20mind/philosophical%20anthropology/metaphysics/philosophy%20of%20technology/2026/07/26/no-one-under-the-fig-tree.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 3
 ---
 
 <br>

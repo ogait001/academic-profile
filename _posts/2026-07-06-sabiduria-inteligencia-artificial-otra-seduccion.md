@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21226761
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21226761
 cover: /assets/covers/sabiduria-inteligencia-artificial-otra-seduccion.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20anthropology/catholic%20theology/artificial%20intelligence/2026/07/06/wisdom-artificial-intelligence-another-seduction.html"
+
+shelf: gt-i
 ---
 
 <br>

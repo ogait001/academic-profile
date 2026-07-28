@@ -30,6 +30,8 @@ record_url: "https://zenodo.org/records/20277539"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20277539"
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/05/18/la-misericordia-del-tiempo.html"
 excerpt: "Temporal existence preserves moral plasticity by suspending immediate ontological fixation, allowing the will to choose repeatedly across a life in the presence of grace."
+
+shelf: gt-f3
 ---
 
 <br>

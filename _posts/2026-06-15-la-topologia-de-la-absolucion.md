@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20708633"
 record_url: "https://zenodo.org/records/20708633"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20708633"
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html#top"
+
+shelf: gt-f1
 ---
 
 <br>

@@ -24,6 +24,8 @@ record_url: "https://zenodo.org/records/20242868"
 pdf_url: "https://zenodo.org/records/20242868/files/non_te_egeo.pdf"
 translation_url: /philosophy-of-time/ontology/2026/05/16/no-te-necesito.html
 excerpt: "A reflection on digital culture’s preemptive supply of answers, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the erosion of the capacity to ask."
+
+shelf: gt-i
 ---
 
 <br>

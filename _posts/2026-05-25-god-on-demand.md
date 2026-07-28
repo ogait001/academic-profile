@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20385839"
 record_url: "https://zenodo.org/records/20385839"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20385839"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/dios-a-la-carta.html"
+
+shelf: gt-i
 ---
 
 <br>

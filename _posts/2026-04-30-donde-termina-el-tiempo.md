@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19581332"
 pdf_url: "https://zenodo.org/records/19581332/files/donde-termina-el-tiempo.pdf"
 translation_url: 'https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/04/14/where-does-time-end.html'
 excerpt: "Exploración teológica de los estados finales como orientaciones de la voluntad en el Ahora, donde Cielo, Purgatorio e Infierno se distinguen solo por la dirección definitiva del yo."
+
+shelf: gt-a2
 ---
 
 <br><br>

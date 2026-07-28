@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20681996"
 record_url: "https://zenodo.org/records/20681996"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20681996"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html"
+
+shelf: gt-a2
 ---
 
 <br>

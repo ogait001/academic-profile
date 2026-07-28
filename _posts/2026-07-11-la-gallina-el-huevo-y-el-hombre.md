@@ -13,6 +13,8 @@ record_url: https://doi.org/10.5281/zenodo.21313477
 pdf_url: /assets/pdf/la-gallina-el-huevo-y-el-hombre.pdf
 cover: /assets/covers/la-gallina-el-huevo-y-el-hombre.png
 translation_url: "https://oscargaitan.org/philosophy/metaphysics/philosophy%20of%20religion/2026/07/11/the-chicken-the-egg-and-the-man.html"
+
+shelf: gt-b1
 ---
 
 <br>

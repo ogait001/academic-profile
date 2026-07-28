@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21433054
 pdf_url: /assets/pdf/legion-de-monadas.pdf
 cover: /assets/covers/legion-de-monadas.png
 translation_url: "https://oscargaitan.org/philosophy/metaphysics/philosophy%20of%20religion/philosophical%20anthropology/philosophy%20of%20mind/2026/07/18/legion-of-monads.html"
+
+shelf: gt-d
+series: monadology
+series_order: 2
 ---
 
 <br>

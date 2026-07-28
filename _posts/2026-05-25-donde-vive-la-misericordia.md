@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20386008"
 record_url: "https://zenodo.org/records/20386008"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20386008"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/25/where-mercy-lives.html"
+
+shelf: gt-f3
 ---
 
 <br>

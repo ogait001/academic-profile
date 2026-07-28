@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19894007"
 pdf_url: "https://zenodo.org/records/19894007/files/el-cero-que-regresa.pdf"
 excerpt: "Una meditación filosófica sobre el número, la repetición y el infinito, que propone que la notación decimal revela una geometría lemniscática oculta de retorno y ascenso."
 translation_url: /ontology/philosophy-of-time/2026/04/29/zero-returned.html
+
+shelf: gt-b1
 ---
 
 <br><br>

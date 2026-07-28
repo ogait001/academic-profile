@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21635777
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21635777
 cover: /assets/covers/the-ground-we-leave.png
 translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/fenomenologia/ontologia%20del%20tiempo/2026/07/27/el-suelo-que-dejamos.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 6
 ---
 
 <br>

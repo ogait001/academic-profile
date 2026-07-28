@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20711078"
 record_url: "https://zenodo.org/records/20711078"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20711078"
 translation_url: "https://oscargaitan.org/ontology/catholic-theology/philosophy-of-time/2026/06/15/the-ground-that-does-not-appear.html"
+
+shelf: gt-b1
 ---
 
 <br>

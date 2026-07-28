@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19684135"
 pdf_url: "https://zenodo.org/records/19684135/files/dos-significados-del-es.pdf"
 excerpt: "Una reflexión filosófica sobre Heidegger y el fundamento ontológico, que sostiene que el horizonte temporal explica la inteligibilidad pero no la actualización del ser."
 translation_url: /ontology/philosophy-of-time/2026/04/21/two-meanings-of-is.html
+
+shelf: gt-c3
 ---
 
 <br>

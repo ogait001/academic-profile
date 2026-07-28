@@ -29,6 +29,8 @@ doi: "10.5281/zenodo.19339347"
 record_url: "https://zenodo.org/records/19339347"
 pdf_url: "https://zenodo.org/records/19339347/files/the-topology-of-presence.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/31/la-topologia-de-la-presencia.html
+
+shelf: gt-a1
 ---
 
 <br>

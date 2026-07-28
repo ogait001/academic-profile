@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20618272"
 record_url: "https://zenodo.org/records/20618272"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20618272"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/09/the-grammar-of-displacement.html"
+
+shelf: gt-i
 ---
 
 <br>

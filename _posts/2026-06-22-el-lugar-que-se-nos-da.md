@@ -12,6 +12,8 @@ doi: 10.5281/zenodo.20801435
 record_url: https://zenodo.org/doi/10.5281/zenodo.20801435
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20801435
 translation_url: "https://oscargaitan.org/philosophy/theology/ethics/christian%20philosophy/philosophical%20anthropological/catholic%20theology/pride/humility/2026/06/22/the-place-that-is-given.html"
+
+shelf: gt-h
 ---
 
 <br>

@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21209972
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21209972
 cover: /assets/covers/la-rosa-y-la-piedra.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20religion/philosophical%20theology/semiotics/2026/07/05/the-rose-and-the-stone.html"
+
+shelf: gt-b1
 ---
 
 <br>

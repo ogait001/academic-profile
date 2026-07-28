@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20479112"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20479112"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20479112"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/31/el-modelo-lemniscata-del-tiempo.html"
+
+shelf: gt-a1
 ---
 
 <br>

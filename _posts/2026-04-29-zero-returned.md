@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19893877"
 record_url: "https://zenodo.org/records/19893877"
 pdf_url: "https://zenodo.org/records/19893906/files/zero-returned.pdf"
 translation_url: /ontology/metaphysics/philosophy-of-mathematics/2026/04/29/el-cero-que-regresa.html
+
+shelf: gt-b1
 ---
 
 <br><br>

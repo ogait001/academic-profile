@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19599170"
 record_url: "https://zenodo.org/records/19599170"
 pdf_url: "https://zenodo.org/records/19599074/files/you-cannot-add-one-hour.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/no-puedes-anadir-una-hora.html
+
+shelf: gt-a2
 ---
 
 <br><br>

@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19684052"
 record_url: "https://zenodo.org/records/19684052"
 pdf_url: "https://zenodo.org/records/19684023/files/two-meanings-of-is.pdf"
 translation_url: /ontology/phenomenology/philosophy-of-time/2026/04/21/dos-significados-del-es.html
+
+shelf: gt-c3
 ---
 
 <br>

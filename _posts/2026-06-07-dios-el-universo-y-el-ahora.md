@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20584786"
 record_url: "https://zenodo.org/records/20584786"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20584786"
 translation_url: "https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/god-the-universe-and-the-now.html"
+
+shelf: gt-a2
 ---
 
 <br>

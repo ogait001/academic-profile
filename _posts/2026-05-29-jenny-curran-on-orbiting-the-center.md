@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20450355"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20450355"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20450355"
 translation_url: "https://oscargaitan.org/ontology/catholic-theology/2026/05/29/jenny-curran-sobre-orbitar-el-centro.html"
+
+shelf: gt-c2
 ---
 
 <br>

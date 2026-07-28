@@ -31,6 +31,8 @@ doi: "10.5281/zenodo.19842987"
 record_url: "https://zenodo.org/records/19842987"
 pdf_url: "https://zenodo.org/records/19843068/files/the-am-that-remains.pdf"
 translation_url: /ontology/metaphysics/catholic-theology/2026/04/20/el-soy-que-permanece.html
+
+shelf: gt-b1
 ---
 
 <br><br>

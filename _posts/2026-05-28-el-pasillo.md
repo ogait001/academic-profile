@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20435149"
 record_url: "https://zenodo.org/records/20435149"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20435149"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/28/the-corridor.html"
+
+shelf: gt-b2
 ---
 
 <br>

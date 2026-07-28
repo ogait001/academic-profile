@@ -12,6 +12,8 @@ doi: 10.5281/zenodo.20738126
 record_url: https://zenodo.org/doi/10.5281/zenodo.20738126
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20738126
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/17/the-servant-of-servants.html"
+
+shelf: gt-h
 ---
 
 <br>

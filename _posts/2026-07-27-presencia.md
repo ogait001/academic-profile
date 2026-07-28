@@ -13,6 +13,11 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21639415
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21639415
 cover: /assets/covers/presencia.png
 translation_url: "https://oscargaitan.org/philosophical%20theology/philosophy%20of%20liturgy/biblical%20hermeneutics/2026/07/27/presence.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 7
+series_label: Coda
 ---
 
 <br>

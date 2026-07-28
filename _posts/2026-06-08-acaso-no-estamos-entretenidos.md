@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20600045"
 record_url: "https://zenodo.org/records/20600045"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20600045"
 translation_url: "https://oscargaitan.org/philosophy-of-time/ontology/2026/06/08/are-we-not-entertained.html"
+
+shelf: gt-i
 ---
 
 <br>

@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19581285"
 record_url: "https://zenodo.org/records/19581285"
 pdf_url: "https://zenodo.org/records/19581204/files/where-does-time-end.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/14/donde-termina-el-tiempo.html
+
+shelf: gt-a2
 ---
 
 <br><br>

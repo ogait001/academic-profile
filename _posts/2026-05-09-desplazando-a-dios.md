@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20100210"
 record_url: "https://zenodo.org/records/20100210"
 pdf_url: "https://zenodo.org/records/20100210/files/desplazando-a-dios.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html
+
+shelf: gt-i
 ---
 
 <br><br>

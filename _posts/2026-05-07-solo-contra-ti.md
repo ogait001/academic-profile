@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/20088406"
 pdf_url: "https://zenodo.org/records/20088406/files/solo-contra-ti.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/05/08/against-you-alone.html
 excerpt: "Una reflexión teológica sobre el juicio como la plena autorrevelación del alma, allí donde cesa toda interferencia temporal y la voluntad queda finalmente expuesta ante Dios."
+
+shelf: gt-c2
 ---
 
 <br>

@@ -11,6 +11,8 @@ doi: "10.5281/zenodo.20497560"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20497560"
 translation_url: "https://oscargaitan.org/ontology/2026/06/01/an-open-letter-to-the-professional-modern-philosopher.html"
+
+shelf: gt-j
 ---
 
 <br>

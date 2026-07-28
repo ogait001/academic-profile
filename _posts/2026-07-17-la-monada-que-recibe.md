@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21419441
 pdf_url: /assets/pdf/la-monada-que-recibe.pdf
 cover: /assets/covers/la-monada-que-recibe.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophy%20of%20mind/philosophy%20of%20religion/leibniz/2026/07/17/the-monad-that-receives.html"
+
+shelf: gt-d
+series: monadology
+series_order: 1
 ---
 
 <br>

@@ -12,6 +12,8 @@ doi: 10.5281/zenodo.20724404
 record_url: https://zenodo.org/doi/10.5281/zenodo.20724404
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.20724404
 translation_url: "https://oscargaitan.org/catholic-theology/ontology/2026/06/16/las-dos-entradas.html"
+
+shelf: gt-f1
 ---
 
 <br>

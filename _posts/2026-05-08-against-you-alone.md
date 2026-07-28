@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20087687"
 record_url: "https://zenodo.org/records/20087687"
 pdf_url: "https://zenodo.org/records/20088283/files/against-you-alone.pdf"
 translation_url: /catholic-theology/ontology/metaphysical-anthropology/2026/05/08/solo-contra-ti.html
+
+shelf: gt-c2
 ---
 
 ## Abstract

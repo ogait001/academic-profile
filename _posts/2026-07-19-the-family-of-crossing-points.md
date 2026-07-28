@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21444690
 pdf_url: /assets/pdf/the-family-of-crossing-points.pdf
 cover: /assets/covers/the-family-of-crossing-points.png
 translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/metafisica/ontologia%20social/antropologia%20filosofica/filosofia%20catolica/2026/07/19/la-familia-de-puntos-de-cruce.html"
+
+shelf: gt-d
+series: monadology
+series_order: 3
 ---
 
 <br>

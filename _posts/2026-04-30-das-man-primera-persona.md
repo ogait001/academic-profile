@@ -12,6 +12,10 @@ doi: "10.5281/zenodo.19685712"
 record_url: "https://zenodo.org/records/19685712"
 pdf_url: "https://zenodo.org/records/19685712/files/das-man-y-la-primera-persona-del-singular.pdf"
 translation_url: /ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html
+
+shelf: gt-c1
+series: ghost-zone
+series_order: 3
 ---
 
 <br><br>

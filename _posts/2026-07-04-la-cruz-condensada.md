@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 cover: /assets/covers/la-cruz-condensada.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/catholic%20philosophy/atonement%20theology/2026/07/04/the-condensed-cross.html"
+
+shelf: gt-f2
 ---
 
 <br>

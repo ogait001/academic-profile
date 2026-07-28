@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21633809
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21633809
 cover: /assets/covers/the-ground-that-knows.png
 translation_url: "https://oscargaitan.org/teologia%20filosofica/metafisica/ontologia/2026/07/27/el-fundamento-que-conoce.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 5
 ---
 
 <br>

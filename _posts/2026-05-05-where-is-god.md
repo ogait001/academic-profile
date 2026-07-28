@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20044781"
 record_url: "https://zenodo.org/records/20044781"
 pdf_url: "https://zenodo.org/records/20044785/files/where-is-god.pdf"
 translation_url: /catholic-theology/ontology/philosophy-of-time/2026/05/05/donde-esta-dios.html
+
+shelf: gt-b2
 ---
 
 <br>

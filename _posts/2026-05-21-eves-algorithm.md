@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/20330645"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/el-algoritmo-de-eva.html"
 excerpt: "Algorithms industrialize the ancient temptation of Genesis: redefining reality, perception, and access to divine presence."
+
+shelf: gt-i
 ---
 
 <br>

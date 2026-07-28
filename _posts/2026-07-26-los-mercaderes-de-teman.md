@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21609515
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21609515
 cover: /assets/covers/los-mercaderes-de-teman.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20anthropology/thomas%20aquinas/philosophy%20of%20mind/2026/07/26/the-merchants-of-teman.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 2
 ---
 
 <br>

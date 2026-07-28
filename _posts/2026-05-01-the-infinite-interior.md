@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.20032817"
 record_url: "https://zenodo.org/records/20032817"
 pdf_url: "https://zenodo.org/records/20032765/files/the-infinite-interior.pdf"
 translation_url: /ontology/philosophy-of-time/metaphysics/2026/05/05/el-interior-infinito.html
+
+shelf: gt-c2
 ---
 
 <br>

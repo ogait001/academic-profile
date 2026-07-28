@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21178047
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21178047
 cover: /assets/covers/el-peso-del-presente.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical%20theology/ontology/catholic%20philosophy/thomism/2026/07/02/the-weight-of-the-present.html"
+
+shelf: gt-a2
 ---
 
 <br>

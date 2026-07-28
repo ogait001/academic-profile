@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21208903
 cover: /assets/covers/the-condensed-cross.png
 translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/filosofia%20catolica/teologia%20de%20la%20expiacion/2026/07/04/la-cruz-condensada.html#iv-un-solo-sacrificio-no-una-l%C3%ADnea-temporal"
+
+shelf: gt-f2
 ---
 
 <br>

@@ -13,6 +13,10 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21633618
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21633618
 cover: /assets/covers/the-eyes-he-does-not-need.png
 translation_url: "https://oscargaitan.org/teologia%20filosofica/metafisica/ontologia/epistemologia/2026/07/27/los-ojos-que-no-necesita.html"
+
+shelf: gt-e
+series: fig-tree
+series_order: 4
 ---
 
 <br>

@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19843193"
 pdf_url: "https://zenodo.org/records/19843193/files/el-soy-que-permanece.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html
 excerpt: "Una crítica metafísica de Descartes, que sostiene no “pienso, luego soy”, sino que el pensar mismo presupone la realidad previa del ser."
+
+shelf: gt-b1
 ---
 
 <br><br>

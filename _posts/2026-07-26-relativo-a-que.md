@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21610466
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21610466
 cover: /assets/covers/relativo-a-que.png
 translation_url: "https://oscargaitan.org/metaphysics/metaethics/moral%20realism/phenomenology/2026/07/26/relative-to-what.html"
+
+shelf: gt-b1
 ---
 
 <br>

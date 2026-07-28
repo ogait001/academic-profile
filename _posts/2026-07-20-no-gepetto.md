@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21459972
 pdf_url: /assets/pdf/no-gepetto.pdf
 cover: /assets/covers/no-gepetto.png
 translation_url: "https://oscargaitan.org/philosophical%20theology/atonement/free%20will/augustine/thomas%20aquinas/metaphysics/2026/07/20/not-gepetto.html"
+
+shelf: gt-b2
 ---
 
 <br>

@@ -65,6 +65,8 @@ transform:translateY(-4px);
 .cover-card img{
 width:100%;
 height:auto;
+aspect-ratio:2/3;
+object-fit:cover;
 display:block;
 border-radius:8px;
 box-shadow:0 4px 12px rgba(0,0,0,.15);
@@ -148,6 +150,7 @@ box-shadow:0 4px 12px rgba(0,0,0,.15);
 /* AISLE + SHELF HEADINGS */
 .aisle-section{
   margin-top:2.6rem;
+  scroll-margin-top:0.75rem;
 }
 
 .aisle-section h2{

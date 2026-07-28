@@ -7,7 +7,7 @@ date: 2026-07-27
 author: Oscar Gaitan
 lang: es
 categories: [Teologia Filosofica, Metafisica, Ontologia, Epistemologia]
-excerpt: "Una cuenta metafisica del conocimiento divino donde sostener y conocer son un solo acto, sin observacion ni recepcion."
+excerpt: "Una cuenta metafísica del conocimiento divino donde sostener y conocer son un solo acto, sin observación ni recepción."
 doi: 10.5281/zenodo.21633686
 record_url: https://zenodo.org/doi/10.5281/zenodo.21633686
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21633686

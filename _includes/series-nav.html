@@ -1,0 +1,75 @@
+{%- comment -%}
+  Series navigation — for essays in an ordered series (fig-tree,
+  monadology, ghost-zone). Shows the series name and links to the
+  previous / next essay of the SAME language, if published.
+  Renders nothing if page.series is absent or unknown.
+{%- endcomment -%}
+{%- if page.series -%}
+  {%- assign sn_meta = site.data.shelves.series[page.series] -%}
+  {%- if sn_meta -%}
+    {%- if page.lang == "es" -%}
+      {%- assign sn_name = sn_meta.name_es -%}
+    {%- else -%}
+      {%- assign sn_name = sn_meta.name_en -%}
+    {%- endif -%}
+    {%- assign sn_same = site.posts | where: "lang", page.lang | where: "series", page.series -%}
+    {%- assign sn_prev_order = page.series_order | minus: 1 -%}
+    {%- assign sn_next_order = page.series_order | plus: 1 -%}
+    {%- assign sn_prev = sn_same | where: "series_order", sn_prev_order | first -%}
+    {%- assign sn_next = sn_same | where: "series_order", sn_next_order | first -%}
+<nav class="series-nav">
+  <p class="series-nav-title">
+    {{ sn_name }}
+    &middot;
+    {%- if page.series_label %} {{ page.series_label }}{% else %} {{ page.series_order }}/{{ sn_meta.total }}{% endif %}
+  </p>
+  <div class="series-nav-links">
+    <span class="series-nav-prev">
+      {%- if sn_prev -%}
+        <a href="{{ sn_prev.url | relative_url }}">&larr; {{ sn_prev.title }}</a>
+      {%- endif -%}
+    </span>
+    <span class="series-nav-next">
+      {%- if sn_next -%}
+        <a href="{{ sn_next.url | relative_url }}">{{ sn_next.title }} &rarr;</a>
+      {%- endif -%}
+    </span>
+  </div>
+</nav>
+<style>
+.series-nav{
+  margin: 2.5rem 0 1rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid #e5ded5;
+  border-radius: 10px;
+  background: #faf7f2;
+}
+.series-nav-title{
+  margin: 0 0 0.5rem 0;
+  font-size: 0.82rem;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  color: #9c8563;
+}
+.series-nav-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.series-nav-links a{
+  color: #7b5e3b;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.series-nav-links a:hover{
+  color: #5c452c;
+  text-decoration: underline;
+}
+.series-nav-next{
+  margin-left: auto;
+  text-align: right;
+}
+</style>
+  {%- endif -%}
+{%- endif -%}

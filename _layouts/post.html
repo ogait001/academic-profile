@@ -39,11 +39,15 @@ layout: default
         </a>
       </p>
     {% endif %}
+
+    {% include shelf-breadcrumb.html %}
   </header>
 
   <div class="post-content">
     {{ content }}
   </div>
+
+  {% include series-nav.html %}
 
 </article>
 

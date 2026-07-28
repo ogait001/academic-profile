@@ -1,0 +1,58 @@
+{%- comment -%}
+  Shelf breadcrumb — the call number on the book's spine.
+  Reads page.shelf, resolves aisle + shelf from _data/shelves.yml,
+  links back to the essay's aisle in /library/ or /biblioteca/.
+  Renders nothing if page.shelf is absent.
+{%- endcomment -%}
+{%- if page.shelf -%}
+  {%- assign bc_aisle = nil -%}
+  {%- assign bc_shelf = nil -%}
+  {%- for aisle in site.data.shelves.aisles -%}
+    {%- if aisle.id == page.shelf -%}
+      {%- assign bc_aisle = aisle -%}
+    {%- endif -%}
+    {%- for shelf in aisle.shelves -%}
+      {%- if shelf.id == page.shelf -%}
+        {%- assign bc_aisle = aisle -%}
+        {%- assign bc_shelf = shelf -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- if bc_aisle -%}
+    {%- if page.lang == "es" -%}
+      {%- assign bc_target = "/biblioteca/#" | append: bc_aisle.id -%}
+      {%- assign bc_aisle_name = bc_aisle.name_es -%}
+      {%- if bc_shelf -%}{%- assign bc_shelf_name = bc_shelf.name_es -%}{%- endif -%}
+    {%- else -%}
+      {%- assign bc_target = "/library/#" | append: bc_aisle.id -%}
+      {%- assign bc_aisle_name = bc_aisle.name_en -%}
+      {%- if bc_shelf -%}{%- assign bc_shelf_name = bc_shelf.name_en -%}{%- endif -%}
+    {%- endif -%}
+<p class="shelf-breadcrumb">
+  <a href="{{ bc_target | relative_url }}">
+    <span class="shelf-code">{{ bc_aisle.code }}</span>
+    {{ bc_aisle_name }}{% if bc_shelf %} &middot; {{ bc_shelf_name }}{% endif %}
+  </a>
+</p>
+<style>
+.shelf-breadcrumb{
+  margin: 0.4rem 0 0.2rem 0;
+  font-size: 0.85rem;
+}
+.shelf-breadcrumb a{
+  color: #7b5e3b;
+  text-decoration: none;
+}
+.shelf-breadcrumb a:hover{
+  color: #5c452c;
+  text-decoration: underline;
+}
+.shelf-breadcrumb .shelf-code{
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  color: #9c8563;
+  margin-right: 0.35rem;
+}
+</style>
+  {%- endif -%}
+{%- endif -%}

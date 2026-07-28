@@ -28,6 +28,10 @@ doi: "10.5281/zenodo.19685642"
 record_url: "https://zenodo.org/records/19685642"
 pdf_url: "https://zenodo.org/records/19685599/files/das-man-and-the-first-person-singular.pdf"
 translation_url: /philosophy-of-time/ontology/2026/04/21/das-man-primera-persona.html
+
+shelf: gt-c1
+series: ghost-zone
+series_order: 3
 ---
 
 <br><br>

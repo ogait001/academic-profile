@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/20032897"
 pdf_url: "https://zenodo.org/records/20032897/files/el-interior-infinito.pdf"
 translation_url: /ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html
 excerpt: "Una meditación filosófica sobre la identidad, la continuidad y el cambio, que propone el interior infinito como la estructura ininterrumpida que preserva al yo a través de la transformación."
+
+shelf: gt-c2
 ---
 
 <br>

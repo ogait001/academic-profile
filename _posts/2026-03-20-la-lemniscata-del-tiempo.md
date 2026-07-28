@@ -27,6 +27,8 @@ record_url: "https://zenodo.org/records/19121592"
 pdf_url: "https://zenodo.org/records/19121592/files/la-lemniscata-del-tiempo.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html
 excerpt: "Una exploración filosófica y teológica del tiempo a través de la lemniscata como una topología de la memoria, la posibilidad, la libertad, la gracia y el retorno providencial."
+
+shelf: gt-a1
 ---
 
 <br>

@@ -11,8 +11,9 @@ Design (per repo conventions):
     or title. Posts whose DOI is not in the map are REPORTED and left untouched;
     they will appear in the library's visible "Unshelved" section.
   * Idempotent: re-running updates existing shelf/series lines in place.
-  * Safety: every file is verified to have exactly two `---` delimiter lines
-    before AND after patching; any anomaly aborts that file with no write.
+  * Front matter = the FIRST two exact `---` lines; body `---` dividers in
+    older posts are left untouched. Safety: the file's total delimiter count
+    must be unchanged by the patch; any anomaly aborts that file with no write.
   * UTF-8 read/write throughout (Spanish posts).
 """
 
@@ -161,7 +162,7 @@ for path in files:
             text = fh.read()
 
         before_count = delimiter_count(text)
-        assert before_count == 2, "expected exactly 2 --- delimiters, found %d" % before_count
+        assert before_count >= 2, "fewer than 2 --- delimiters (%d)" % before_count
 
         lines = text.splitlines(True)
         o, c = front_matter_bounds(lines)
@@ -193,7 +194,8 @@ for path in files:
         new_text = "".join(lines[:o + 1]) + fm + "".join(lines[c:])
 
         after_count = delimiter_count(new_text)
-        assert after_count == 2, "delimiter count corrupted: %d" % after_count
+        assert after_count == before_count, (
+            "delimiter count changed: %d -> %d" % (before_count, after_count))
         assert DOI_RE.search(new_text), "doi lost during patch"
         assert ("shelf: %s\n" % shelf) in new_text, "shelf line missing after patch"
 

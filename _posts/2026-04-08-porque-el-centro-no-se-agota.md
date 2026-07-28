@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19476451"
 pdf_url: "https://zenodo.org/records/19476451/files/por-que-el-centro-no-se-agota.pdf"
 excerpt: "Una meditación sobre la esperanza, la sed y la topología del deseo, que pregunta por qué el centro no se agota y qué tipo de fuente mantiene vivo el anhelo humano."
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/08/why-the-center-does-not-run-out.html
+
+shelf: gt-f3
 ---
 
 <br><br>

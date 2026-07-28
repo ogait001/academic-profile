@@ -11,6 +11,8 @@ record_url: "https://zenodo.org/records/19389347"
 pdf_url: "https://zenodo.org/records/19389347/files/la-serpiente-el-ser-y-el-colapso-del-yo.pdf"
 excerpt: "Una meditación filosófica y topológica sobre la disolución de la identidad, donde bucles apócrifos preservan el movimiento mientras separan al yo del punto de cruce."
 translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html
+
+shelf: gt-i
 ---
 
 <br>

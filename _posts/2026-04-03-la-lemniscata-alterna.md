@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19410726"
 pdf_url: "https://zenodo.org/records/19410726/files/la-lemniscata-alterna.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/04/03/the-alternate-lemniscate.html
 excerpt: "Una meditación filosófica sobre el desplazamiento y los falsos centros, que sostiene que la devoción sobrevive a la pérdida del centro verdadero reorganizándose alrededor de otro eje."
+
+shelf: gt-a1
 ---
 
 <br><br>

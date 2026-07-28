@@ -21,6 +21,10 @@ excerpt: >
 doi: "10.5281/zenodo.19224539"
 record_url: "https://zenodo.org/records/19224539"
 pdf_url: "https://zenodo.org/records/19447117/files/the-heroic-illusion.pdf"
+
+shelf: gt-c1
+series: ghost-zone
+series_order: 2
 ---
 
 <br>

@@ -11,6 +11,8 @@ doi: "10.5281/zenodo.19379289"
 record_url: "https://zenodo.org/records/19379289"
 pdf_url: "https://zenodo.org/records/19376518/files/the-serpent-the-self-and-the-collapse.pdf"
 translation_url: /ontology/catholic-theology/philosophy-of-time/2026/04/01/la-serpiente-el-ser-y-el-colapso.html
+
+shelf: gt-i
 ---
 
 <br>

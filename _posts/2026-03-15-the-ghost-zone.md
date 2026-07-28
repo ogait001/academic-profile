@@ -21,6 +21,10 @@ excerpt: >
 doi: "10.5281/zenodo.19100268"
 record_url: "https://zenodo.org/records/19100268"
 pdf_url: "https://zenodo.org/records/19420195/files/the-ghost-zone.pdf"
+
+shelf: gt-c1
+series: ghost-zone
+series_order: 1
 ---
 
 <br>

@@ -12,6 +12,8 @@ doi: "10.5281/zenodo.19121110"
 record_url: "https://zenodo.org/records/19121110"
 pdf_url: "https://zenodo.org/records/19107083/files/the-lemniscate-of-time.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/03/20/la-lemniscata-del-tiempo.html
+
+shelf: gt-a1
 ---
 
 <br>

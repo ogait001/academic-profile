@@ -21,6 +21,8 @@ doi: "10.5281/zenodo.19870600"
 record_url: "https://zenodo.org/records/19870600"
 pdf_url: "https://zenodo.org/records/19870892/files/a-letter-to-an-atheist.pdf"
 translation_url: /catholic-theology/ontology/2026/04/28/carta-a-un-ateo.html
+
+shelf: gt-j
 ---
 
 <br>

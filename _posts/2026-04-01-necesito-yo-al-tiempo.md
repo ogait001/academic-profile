@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19513936"
 pdf_url: "https://zenodo.org/records/19513936/files/necesito-yo-al-tiempo.pdf"
 excerpt: "Una meditación filosófica y teológica sobre el tiempo y la presencia, que sostiene que el Ahora invariante es sustentado por el fundamento del ser nombrado como YO SOY EL QUE SOY."
 translation_url: 'https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html'
+
+shelf: gt-a2
 ---
 
 <br><br>

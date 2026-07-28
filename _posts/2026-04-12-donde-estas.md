@@ -13,6 +13,8 @@ record_url: "https://zenodo.org/records/19559034"
 pdf_url: "https://zenodo.org/records/19559034/files/donde-estas.pdf"
 translation_url: /catholic-theology/philosophy-of-time/ontology/2026/04/12/where-are-you.html
 lang: es
+
+shelf: gt-f3
 ---
 
 <br><br>

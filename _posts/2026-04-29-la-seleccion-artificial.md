@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19870865"
 pdf_url: "https://zenodo.org/records/19870865/files/la-seleccion-artificial.pdf"
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/29/the-artificial-selection.html
 excerpt: "Una meditación filosófica sobre la identidad y la perduración, que sostiene que la resistencia es estructuralmente necesaria para la inhabitación y que la cultura moderna del reemplazo ingenieriza el Ahora Deshabitado."
+
+shelf: gt-i
 ---
 
 <br><br>

@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19599225"
 pdf_url: "https://zenodo.org/records/19599225/files/no-puedes-anadir-una-hora.pdf"
 translation_url: /philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html
 excerpt: "Una meditación filosófica sobre la temporalidad, la finitud y la voluntad, que sostiene que la vida humana consiste en cruces finitos cuyos momentos difieren en densidad ontológica."
+
+shelf: gt-a2
 ---
 
 <br><br>

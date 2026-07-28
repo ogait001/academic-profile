@@ -12,6 +12,8 @@ record_url: "https://zenodo.org/records/19358491"
 pdf_url: "https://zenodo.org/records/19358491/files/la-topologia-de-la-presencia.pdf"
 translation_url: /ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html
 excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gaitán: un marco ontológico de cuatro cuadrantes organizado en torno al punto de cruce del Ahora, la presencia, la gracia y el desplazamiento existencial."
+
+shelf: gt-a1
 ---
 
 <br>

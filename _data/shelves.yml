@@ -1,0 +1,109 @@
+# The Gaitan Topology — library classification
+# Single source of truth for both /library/ and /biblioteca/.
+# Rename an aisle here and it renames on both pages.
+# NOTE: Spanish orthography per site convention — no accents on uppercase letters.
+
+aisles:
+  - id: gt-a
+    code: "GT–A"
+    name_en: "Foundations: Time and the Lemniscate"
+    name_es: "Fundamentos: El Tiempo y la Lemniscata"
+    shelves:
+      - id: gt-a1
+        name_en: "The Lemniscate"
+        name_es: "La Lemniscata"
+      - id: gt-a2
+        name_en: "The Now and Temporal Structure"
+        name_es: "El Ahora y la Estructura Temporal"
+
+  - id: gt-b
+    code: "GT–B"
+    name_en: "The Ground: Non-Derivative Being"
+    name_es: "El Fundamento: El Ser No-Derivado"
+    shelves:
+      - id: gt-b1
+        name_en: "The Ground Itself"
+        name_es: "El Fundamento Mismo"
+      - id: gt-b2
+        name_en: "The God Who Is Not"
+        name_es: "El Dios que No Es"
+
+  - id: gt-c
+    code: "GT–C"
+    name_en: "The Soul and Its Interior"
+    name_es: "El Alma y su Interior"
+    shelves:
+      - id: gt-c1
+        name_en: "The Ghost Zone Series"
+        name_es: "Serie Ghost Zone"
+      - id: gt-c2
+        name_en: "Interiority and Identity"
+        name_es: "Interioridad e Identidad"
+      - id: gt-c3
+        name_en: "Heidegger Dialogues"
+        name_es: "Diálogos con Heidegger"
+
+  - id: gt-d
+    code: "GT–D"
+    name_en: "The Monadology"
+    name_es: "La Monadología"
+    shelves: []
+
+  - id: gt-e
+    code: "GT–E"
+    name_en: "Divine Knowledge: The Fig Tree Line"
+    name_es: "El Conocimiento Divino: La Línea de la Higuera"
+    shelves: []
+
+  - id: gt-f
+    code: "GT–F"
+    name_en: "Grace, Mercy, and Sacrament"
+    name_es: "Gracia, Misericordia y Sacramento"
+    shelves:
+      - id: gt-f1
+        name_en: "Thresholds"
+        name_es: "Umbrales"
+      - id: gt-f2
+        name_en: "Eucharist"
+        name_es: "Eucaristía"
+      - id: gt-f3
+        name_en: "Mercy"
+        name_es: "Misericordia"
+
+  - id: gt-g
+    code: "GT–G"
+    name_en: "Temptation and the Will"
+    name_es: "La Tentación y la Voluntad"
+    shelves: []
+
+  - id: gt-h
+    code: "GT–H"
+    name_en: "Moral Topology"
+    name_es: "Topología Moral"
+    shelves: []
+
+  - id: gt-i
+    code: "GT–I"
+    name_en: "Displacement and the Algorithmic Age"
+    name_es: "El Desplazamiento y la Era Algorítmica"
+    shelves: []
+
+  - id: gt-j
+    code: "GT–J"
+    name_en: "Letters"
+    name_es: "Cartas"
+    shelves: []
+
+series:
+  fig-tree:
+    name_en: "The Fig Tree Line"
+    name_es: "La Línea de la Higuera"
+    total: 7
+  monadology:
+    name_en: "The Monadology"
+    name_es: "La Monadología"
+    total: 3
+  ghost-zone:
+    name_en: "Ghost Zone Series"
+    name_es: "Serie Ghost Zone"
+    total: 3

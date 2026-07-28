@@ -1,0 +1,28 @@
+{%- comment -%}
+  Shared essay cover card.
+  Usage: {% include cover-card.html post=post lang="en" home="grid-gt-a1" index=forloop.index %}
+  Thumbnails resolve from post.slug (site convention), NOT the cover: field.
+{%- endcomment -%}
+<a href="{{ include.post.url | relative_url }}"
+   class="cover-card essay-link"
+   data-title="{{ include.post.title | downcase }}"
+   data-date="{{ include.post.date | date: '%Y%m%d' }}"
+   data-home="{{ include.home }}"
+   data-home-index="{{ include.index }}">
+
+  <img
+    src="{{ '/assets/covers/thumbs/' | append: include.post.slug | append: '.png' | relative_url }}"
+    alt="{{ include.post.title }}"
+    loading="lazy">
+
+  {%- if include.post.series -%}
+    {%- assign s = site.data.shelves.series[include.post.series] -%}
+    {%- if s -%}
+      <span class="series-badge">
+        {%- if include.lang == "es" -%}{{ s.name_es }}{%- else -%}{{ s.name_en }}{%- endif -%}
+        &nbsp;&middot;&nbsp;
+        {%- if include.post.series_label -%}{{ include.post.series_label }}{%- else -%}{{ include.post.series_order }}/{{ s.total }}{%- endif -%}
+      </span>
+    {%- endif -%}
+  {%- endif -%}
+</a>

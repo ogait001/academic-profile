@@ -49,17 +49,17 @@ series_label: Coda
 ## Resumen
 
 
-***La tetralogía que precede a este ensayo se cerró con una afirmación que no había ido a buscar: que lo único que la
+*La tetralogía que precede a este ensayo se cerró con una afirmación que no había ido a buscar: que lo único que la
 criatura tiene para dar y que Dios no necesita es una presencia que pudo haberse marchado, y no lo hizo. Tres mil años
 antes, sobre un terreno enteramente distinto, el Salmista formuló la pregunta que esa afirmación responde sin saber que
 había sido formulada —Quid retribuam Domino pro omnibus quae retribuit mihi? ¿Qué le devolveré al Señor por todo
-lo que El me ha dado? — y la respondió no con un objeto, sino con cuatro verbos, ninguno de los cuales nombra la
+lo que Él me ha dado? — y la respondió no con un objeto, sino con cuatro verbos, ninguno de los cuales nombra la
 transferencia de una cosa: accipiam, invocabo, reddam, ambulabo. Este ensayo sostiene que esos verbos convergen en un
 único descubrimiento al que la tetralogía llegó por otro camino: que retribuo, el pago en especie, es estructuralmente
 imposible entre una criatura y el Dios que es la fuente de todo aquello con lo que la criatura podría pagar, y que el
 Salmo no deja de advertirlo. Responde una pregunta que ya ha mostrado ser irrespondible, sustituyendo el pago por la
 única categoría que nunca fue pago proporcional desde el principio. La presencia no salda la deuda. Es lo que la deuda
-parece una vez que quien la debe deja de intentar saldarla y, en cambio, permanece.***
+parece una vez que quien la debe deja de intentar saldarla y, en cambio, permanece.*
 
 <br>
 

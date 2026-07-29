@@ -429,10 +429,19 @@ document.addEventListener("DOMContentLoaded", function () {
     const box = document.getElementById("continueReading");
     box.style.display = "block";
     box.innerHTML =
-      '<strong>Continuar donde lo dejaste</strong><br><br>' +
+      '<div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem;">' +
+      '<strong>Continuar donde lo dejaste</strong>' +
+      '<button id="dismissContinue" type="button" aria-label="Dismiss" ' +
+      'style="border:none;background:none;color:#6b7280;cursor:pointer;font-size:1rem;padding:0;line-height:1;">&#10005;</button>' +
+      '</div><br>' +
       '<a href="' + lastEssayUrl + '">' +
       lastEssayTitle +
       '</a>';
+    document.getElementById("dismissContinue").addEventListener("click", function () {
+      localStorage.removeItem("lastEssayTitle");
+      localStorage.removeItem("lastEssayUrl");
+      box.style.display = "none";
+    });
   }
 
 });

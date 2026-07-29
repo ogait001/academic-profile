@@ -1,7 +1,7 @@
 ---
 layout: post
 description: "El retorno del alma que, al volver en sí, descubre que la gracia nunca la abandonó."
-title: "Donde Vive la Misericordia" 
+title: "¿Donde Vive la Misericordia?" 
 subtitle: "Volviendo en Sí"
 date: 2026-05-25
 categories: [catholic-theology, philosophy-of-time, ontology]

@@ -34,7 +34,7 @@ series_label: Coda
 
 ## Indice
 
-- [Resumen](resumen)
+- [Resumen](#resumen)
 - [I. Una pregunta que rehúsa su propia gramática](#i-una-pregunta-que-rehúsa-su-propia-gramática)
 - [II. Coram: lo que el estar ante añade al ofrecer](#ii-coram-lo-que-el-estar-ante-añade-al-ofrecer)
 - [III. La copa que se recibe y aun así se llama respuesta](#iii-la-copa-que-se-recibe-y-aun-así-se-llama-respuesta)

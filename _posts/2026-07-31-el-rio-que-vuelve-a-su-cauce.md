@@ -38,7 +38,7 @@ shelf: gt-c2
 - [II. Lo que ya estaba escrito: estatus y estructura](#ii-lo-que-ya-estaba-escrito-estatus-y-estructura)
 - [III. La recaída como micro-abdicación](#iii-la-recaída-como-micro-abdicación)
 - [IV. La aritmética que nadie hace](#iv-la-aritmética-que-nadie-hace)
-- [V. Por qué la familia ve al mismo y por qué eso también es cierto y también transitorio](#v-por-qué-la-familia-ve-al-mismo-y-por-qué-eso-tambien-es-cierto-y-también-transitorio)
+- [V. Por qué la familia ve al mismo y por qué eso también es cierto y también transitorio](#v-por-qué-la-familia-ve-al-mismo-y-por-qué-eso-también-es-cierto-y-también-transitorio)
 - [VI. El hombre que quiere el bien y no lo hace](#vi-el-hombre-que-quiere-el-bien-y-no-lo-hace)
 - [VII. Lo asintótico como esperanza, no como consuelo](#vii-lo-asintótico-como-esperanza-no-como-consuelo)
 - [VIII. Lo que Siloé sí ofrece a quien trabaja su cauce](#viii-lo-que-siloé-sí-ofrece-a-quien-trabaja-su-cauce)

@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21726447
 record_url: https://zenodo.org/doi/10.5281/zenodo.21726447
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21726447
 cover: /assets/covers/the-river-that-returns.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/filosofia%20de%20la%20religion/filosofia%20cristiana/teologia%20catolica/2026/07/31/el-rio-que-vuelve-a-su-cauce.html"
 
 shelf: gt-c2
 ---

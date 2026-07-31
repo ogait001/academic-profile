@@ -38,10 +38,10 @@ shelf: gt-c2
 - [II. Lo que ya estaba escrito: estatus y estructura](#ii-lo-que-ya-estaba-escrito-estatus-y-estructura)
 - [III. La recaída como micro-abdicación](#iii-la-recaída-como-micro-abdicación)
 - [IV. La aritmética que nadie hace](#iv-la-aritmética-que-nadie-hace)
-- [V. Por qué la familia ve al mismo -- y por qué eso también es cierto y también transitorio](#v-por-qué-la-familia-ve-al-mismo-y-por-qué-eso-tambien-es-cierto-y-también-transitorio)
+- [V. Por qué la familia ve al mismo y por qué eso también es cierto y también transitorio](#v-por-qué-la-familia-ve-al-mismo-y-por-qué-eso-tambien-es-cierto-y-también-transitorio)
 - [VI. El hombre que quiere el bien y no lo hace](#vi-el-hombre-que-quiere-el-bien-y-no-lo-hace)
 - [VII. Lo asintótico como esperanza, no como consuelo](#vii-lo-asintótico-como-esperanza-no-como-consuelo)
-- [VIII. Lo que Siloé sí ofrece a quien trabaja su cauce](#viii-lo-que-siloé-si-ofrece-a-quien-trabaja-su-cauce)
+- [VIII. Lo que Siloé sí ofrece a quien trabaja su cauce](#viii-lo-que-siloé-sí-ofrece-a-quien-trabaja-su-cauce)
 - [IX. Conclusión](#ix-conclusión)
 - [Referencias](#referencias)
 
@@ -91,7 +91,7 @@ Pero la aritmética no se cierra en la desesperación, porque no es una aritmét
 
 <br>
 
-## V. Por qué la familia ve al mismo -- y por qué eso también es cierto y también transitorio
+## V. Por qué la familia ve al mismo y por qué eso también es cierto y también transitorio
 
 ¿Cuándo es el Presente? estableció que el porte es legible desde fuera porque condensa el devenir hacia fuera -- pero que la memoria y la mirada de los otros es un acto, no la constitución misma, y los actos son selectivos, lentos, sesgados hacia lo repetido y lo dramático. La familia que ha visto el mismo patrón durante veinte años no miente cuando dice que sigue viendo al mismo hombre. Está leyendo correctamente el cauce, que en efecto permanece, en su mayor parte, el viejo cauce -- y un cauce no se percibe como cambiado tras un solo acto contrario, así como un río no parece un río distinto después de que una sola piedra haya caído en él, por real que sea la piedra, por permanente que sea su lugar en el lecho.
 

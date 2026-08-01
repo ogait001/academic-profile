@@ -13,6 +13,8 @@ record_url: https://zenodo.org/doi/10.5281/zenodo.21744639
 pdf_url: https://zenodo.org/doi/10.5281/zenodo.21744639
 cover: /assets/covers/distancia-mas-inmensa-en.png
 translation_url: ""
+
+shelf: gt-b
 ---
 
 <br>

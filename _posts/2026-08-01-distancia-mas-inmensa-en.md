@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Distancia Mas Inmensa"
+title: "Distancia Más Inmensa"
 subtitle: "On the Trinity, the Incarnation, and the Ground Who Became the Grounded"
 description: "Unites Trinitarian and Incarnational theology with a metaphysics of grounding, showing how divine action sustains every creature's present moment."
 date: 2026-08-01

@@ -103,7 +103,7 @@ El Segundo Concilio de Constantinopla, en el año 553, llevó la misma gramátic
 
 <br>
 
-## VIII. Distancia Mas Inmensa
+## VIII. Distancia Más Inmensa
 
 La teología protege el misterio con precisión conceptual; la poesía a veces preserva el mismo misterio mediante la imagen y la proporción. El verso de Góngora pertenece a un soneto que contempla la crucifixión, y su argumento es una pequeña obra maestra de exactamente esta lógica. El poeta no se maravilla primero de la distancia entre la vida y la muerte, aunque esa distancia sea la que todo ser humano teme de manera más directa. Señala más allá de ella, hacia una distancia que llama más inmensa todavía: la distancia de Dios a hombre. El razonamiento implícito es teológico, no meramente poético --si el Verbo ya ha cruzado el abismo mayor, al hacerse hombre siquiera, entonces su ulterior cruce del abismo menor, de la vida a la muerte, no debería asombrar a nadie que haya comprendido rectamente el primer cruce. La distancia que debería detenernos en seco quedó cruzada nueve meses antes del Calvario, en la oscuridad de una virgen, no en la cruz.
 

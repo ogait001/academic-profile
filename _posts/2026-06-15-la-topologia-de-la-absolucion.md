@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Un estudio sobre cómo la absolución remueve el límite sin sustituir al yo, y cómo la santificación sana su curvatura interior mediante un recorrido continuo."
+description: "La absolución remueve el límite sin sustituir al yo, y la santificación sana su curvatura interior mediante un recorrido continuo."
 title: "La Topología de la Absolución" 
 subtitle: "Continuidad, Agencia y la No-sustitución del Yo"
 date: 2026-06-15

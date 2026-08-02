@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Una meditación sobre el anonimato y la comunidad."
+description: "Una meditación filosófica sobre el anonimato y la comunión, que sostiene que la relación auténtica requiere yos reunidos en presencia, en lugar de disueltos en una existencia colectiva e impersonal."
 title: "Das Man y la Primera Persona del Singular" 
 subtitle: "Sobre el Anonimato, el Desplazamiento y las Condiciones de la Comunión Auténtica"
 date: 2026-04-21

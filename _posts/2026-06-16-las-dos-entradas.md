@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Un estudio sobre cómo el bautismo abre el camino y el purgatorio lo consuma, mostrando cómo la humildad permite que la gracia actúe sobre la curvatura del yo."
+description: "El bautismo abre el camino y el purgatorio lo consuma, la humildad permite que la gracia actúe sobre la curvatura del yo."
 title: "Las Dos Entradas"
 subtitle: "El Agua y el Fuego como Umbrales de la Vida Temporal y la Eterna"
 date: 2026-06-16

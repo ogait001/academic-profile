@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A meditation on anonymity and community."
+description: "A meditation on anonymity and communion, authentic relation requires selves gathered into presence rather than dissolved into impersonal collective existence."
 title: "Das Man and the First Person Singular" 
 subtitle: "On Anonymity, Displacement, and the Conditions of Authentic Communion"
 date: 2026-04-21 00:00:00 -0500

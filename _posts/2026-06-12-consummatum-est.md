@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A reflection on consummation as a structure of the Now: each act is complete or not in its instant, and life unfolds crossing by crossing, choosing between presence or delay."
+description: "Consummation as a structure of the Now: each act is complete or not in its instant, and life unfolds, choosing between presence or delay."
 title: "Consummatum Est" 
 subtitle: "Temporal Density, Topological Relativity, and the Consummation of the Now"
 date: 2026-06-12

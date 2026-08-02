@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A study of how baptism opens the path and purgatory completes it, showing how humility lets grace act on the self’s curvature as the root of all sanctifying transformation."
+description: "Baptism opens the path and purgatory completes it, humility lets grace act on the self’s curvature as the root of all sanctifying transformation."
 title: "The Two Entrances"
 subtitle: "Water and Fire as the Thresholds of Temporal and Eternal Life"
 date: 2026-06-16

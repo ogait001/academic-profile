@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Reflexión sobre cómo el tiempo termina cuando cesa la sucesión y cómo los estados finales son modos permanentes de existir en el Ahora, definidos por la orientación de la voluntad."
+description: "El tiempo termina cuando cesa la sucesión y los estados finales son modos permanentes de existir en el Ahora, definidos por la orientación de la voluntad."
 title: "¿Dónde termina el tiempo?" 
 subtitle: "Los Tres Ahoras: Nunca. Nunca. Para Siempre."
 date: 2026-04-14

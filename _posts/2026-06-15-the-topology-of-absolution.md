@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A study of how absolution removes a limit without replacing the self, and how sanctification heals its inner curvature through the self’s continuous traversal."
+description: "Absolution removes a limit without replacing the self, sanctification heals its inner curvature through the self’s continuous traversal."
 title: "The Topology of Absolution"
 subtitle: "Continuity, Agency, and the Non-replacement of the Self"
 date: 2026-06-15

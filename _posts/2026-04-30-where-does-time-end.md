@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "An exploration of how time ends when succession ceases, proposing that final states are permanent modes of existing in the Now, defined by the will’s definitive orientation."
+description: "Time ends when succession ceases, the final states are permanent modes of existing in the Now, defined by the will’s definitive orientation."
 title: "Where Does Time End?" 
 subtitle: "The Three Nows: Never. Never. Forever."
 date: 2026-04-14

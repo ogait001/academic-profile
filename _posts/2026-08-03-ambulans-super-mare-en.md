@@ -12,7 +12,7 @@ doi: 10.5281/zenodo.21779232
 record_url: https://zenodo.org/doi/10.5281/zenodo.21779232
 pdf_url: /assets/pdf/ambulans-super-mare.pdf
 cover: /assets/covers/ambulans-super-mare-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy%20of%20christianity/philosophical%20theology/christology/medieval%20philosophy/2026/08/03/ambulans-super-mare-es.html"
 
 shelf: gt-b3
 series: ground-made-flesh

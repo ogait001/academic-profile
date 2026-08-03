@@ -27,6 +27,9 @@ aisles:
       - id: gt-b2
         name_en: "The God Who Is Not"
         name_es: "El Dios que No Es"
+      - id: gt-b3
+        name_en: "The Ground Made Flesh"
+        name_es: "El Fundamento Hecho Carne"
 
   - id: gt-c
     code: "GT–C"

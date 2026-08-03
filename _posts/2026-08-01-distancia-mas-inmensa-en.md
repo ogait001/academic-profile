@@ -14,7 +14,9 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.21744639
 cover: /assets/covers/distancia-mas-inmensa-en.png
 translation_url: "https://oscargaitan.org/filosofia/teologia/trinidad/cristologia/2026/08/01/distancia-mas-inmensa-es.html"
 
-shelf: gt-b
+shelf: gt-b3
+series: ground-made-flesh
+series_order: 1
 ---
 
 <br>

@@ -32,7 +32,7 @@ series_order: 2
 - [V. Los pies que pudieron hundirse](#v-los-pies-que-pudieron-hundirse)
 - [VI. Retorno a Getsemaní: el mismo acto, el polo opuesto](#vi-retorno-a-getsemaní-el-mismo-acto-el-polo-opuesto)
 - [VII. Lo que este ensayo no afirma](#vii-lo-que-este-ensayo-no-afirma)
-- [References](#references)
+- [Referencias](#referencias)
 <br><br>
 
 ## I. La pregunta que ninguno de los dos ensayos fue construído para responder

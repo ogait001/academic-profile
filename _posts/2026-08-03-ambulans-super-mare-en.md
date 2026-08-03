@@ -32,6 +32,8 @@ series_order: 2
 - [V. The Feet That Could Have Sunk](#v-the-feet-that-could-have-sunk)
 - [VI. Return to Gethsemane: The Same Act, the Opposite Pole](#vi-return-to-gethsemane-the-same-act-the-opposite-pole)
 - [VII. What This Essay Does Not Claim](#vii-what-this-essay-does-not-claim)
+- [References](#references)
+  
 <br><br>
 
 ## I. The Question Neither Essay Was Built to Answer

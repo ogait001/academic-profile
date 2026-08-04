@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A philosophical taxonomy distinguishing three ontological departures from the Now—acute shift, chronic pull, and frictionless pull—and their corresponding forms of grace."
+description: "A taxonomy and three ontological departures from the Now, acute shift, chronic pull, and frictionless pull, and their corresponding forms of grace."
 title: "The Shift and the Pull"
 subtitle: "A Taxonomy of Departure from the Now"
 date: 2026-08-03

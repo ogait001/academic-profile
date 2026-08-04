@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21784418"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21784418"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21784418/files/the-shift-and-the-pull.pdf"
 cover: /assets/covers/the-shift-and-the-pull-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/phenomenology/christian-theology/ontology/2026/08/03/el-cambio-y-la-atraccion-es.html"
 
 shelf: gt-i
 ---

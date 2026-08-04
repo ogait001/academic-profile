@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Una taxonomía filosófica que distingue tres partidas ontolígicas del Ahora —cambio agudo, atracción crónica y atracción sin fricción— y sus formas correspondientes de gracia."
+description: "Una taxonomía y tres partidas ontológicas del Ahora, cambio agudo, atracción crónica y atracción sin fricción, y sus formas correspondientes de gracia."
 title: "El Cambio y la Atracción"
 subtitle: "Una Taxonomía de la Partida del Ahora"
 date: 2026-08-03

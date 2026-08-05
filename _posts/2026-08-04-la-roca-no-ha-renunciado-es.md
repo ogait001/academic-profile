@@ -102,7 +102,7 @@ El edificio no dejó de ser sagrado cuando esto ocurrió. Pero dejó de enseñar
 
 ## VII. Lo que el Cura de Ars todavía dice
 
-Nada de esto es nuevo, lo cual es precisamente el punto. El deseo de hacer que un signo diga algo distinto de aquello para lo que fue hecho es la propuesta más antigua que existe, más antigua que cualquier conferencia episcopal, más antigua que la Iglesia misma. Se ofreció primero en un jardín, y de nuevo en un desierto, al propio Cristo, y él la rechazó allí para que su Iglesia tuviera el modelo para rechazarla en todas partes después.
+Nada de esto es nuevo, lo cual es precisamente el punto. El deseo de hacer que un signo diga algo distinto de aquello para lo que fue hecho es la propuesta más antigua que existe, más antigua que cualquier conferencia episcopal, más antigua que la Iglesia misma. Se ofreció primero en un jardín, y de nuevo en un desierto, al propio Cristo, y Él la rechazó allí para que su Iglesia tuviera el modelo para rechazarla en todas partes después.
 
 San Juan María Vianney la rechazó en el escenario más pequeño posible —una parroquia, un confesionario, una aldea francesa oscura— y la Iglesia entera todavía guarda su fiesta a causa de ello. No reformó Roma. No venció en la discusión a sus críticos. Simplemente permaneció donde su ordenación lo había puesto, ofreciendo los sacramentos que no había recibido autoridad alguna para rediseñar, hasta que la fidelidad misma se volvió el argumento.
 

@@ -72,7 +72,7 @@ Por eso el sacerdote fiel no necesita ganar cada discusión en su propia vida pa
 
 <br>
 
-## IV. Dad al Cesar
+## IV. Dad al César
 
 Una segunda confusión corre junto a la primera, y no se refiere a quién puede predicar, sino a qué debe predicarse. A Cristo le preguntaron si era lícito pagar tributo al César, y él pidió una moneda, preguntó de quién era la imagen grabada en ella y dijo a sus interrogadores que dieran al César lo que llevaba la imagen del César y a Dios lo que llevaba la de Dios. La distinción no era un encogimiento de hombros. Era una frontera: el reconocimiento de que el gobierno temporal y el culto divino no son la misma moneda, y de que confundirlos estafa a ambos.
 
@@ -80,7 +80,7 @@ Buena parte de la voz pública de la Iglesia en el presente ha invertido ese ord
 
 <br>
 
-## V. Las postrimerias, calladas
+## V. Las postrimerías, calladas
 
 El infierno no es una doctrina que la Iglesia inventó para asustar a los campesinos y hacerlos obedecer; es una doctrina que el propio Cristo enseñó con más claridad que casi ninguna otra, y que su Iglesia jamás ha tenido la autoridad de retractar. Y, sin embargo, pregúntele a un católico menor de cuarenta años cuándo escuchó por última vez una homilía sobre el tema, y la respuesta honesta suele ser: nunca, o que no lo recuerda.
 
@@ -100,7 +100,7 @@ El edificio no dejó de ser sagrado cuando esto ocurrió. Pero dejó de enseñar
 
 <br>
 
-## VII. Lo que el Cura de Ars todavia dice
+## VII. Lo que el Cura de Ars todavía dice
 
 Nada de esto es nuevo, lo cual es precisamente el punto. El deseo de hacer que un signo diga algo distinto de aquello para lo que fue hecho es la propuesta más antigua que existe, más antigua que cualquier conferencia episcopal, más antigua que la Iglesia misma. Se ofreció primero en un jardín, y de nuevo en un desierto, al propio Cristo, y él la rechazó allí para que su Iglesia tuviera el modelo para rechazarla en todas partes después.
 

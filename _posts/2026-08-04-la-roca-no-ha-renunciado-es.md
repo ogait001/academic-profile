@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "Un ensayo sobre San Juan María Vianney, el sacerdocio catílico, la fidelidad sacramental y por que la Iglesia perdura a través de sacerdotes fieles antes que de la innovación institucional."
+description: "Sobre San Juan María Vianney, el sacerdocio catílico y la fidelidad sacramental a través de sacerdotes fieles antes que de la innovación institucional."
 title: "La Roca No Ha Renunciado"
 subtitle: "San Juan María Vianney y el Sacerdocio después de Dos Mil Años"
 date: 2026-08-04

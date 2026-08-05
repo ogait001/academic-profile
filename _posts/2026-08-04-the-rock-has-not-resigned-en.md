@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "An essay on St. John Vianney, the Catholic priesthood, sacramental fidelity, and why the Church endures through faithful priests rather than institutional innovation."
+description: "On St. John Vianney, the Catholic priesthood, and sacramental fidelity through faithful priests rather than institutional innovation."
 title: "The Rock Has Not Resigned"
 subtitle: "St. John Vianney and the Priesthood After Two Thousand Years"
 date: 2026-08-04
@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21798568"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21798568"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21798568/files/the-rock-has-not-resigned.pdf"
 cover: /assets/covers/the-rock-has-not-resigned-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/christian-theology/ecclesiology/sacramental-theology/2026/08/04/la-roca-no-ha-renunciado-es.html"
 
 shelf: gt-f
 ---

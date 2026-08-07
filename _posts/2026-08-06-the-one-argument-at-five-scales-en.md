@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21827346"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21827346"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21827346/files/the-one-argument-at-five-scales.pdf"
 cover: /assets/covers/the-one-argument-at-five-scales-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/structural-philosophy/christian-metaphysics/philosophical-theology/2026/08/06/el-unico-argumento-en-cinco-escalas-es.html"
 
 shelf: gt-a2
 ---

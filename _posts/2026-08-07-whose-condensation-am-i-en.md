@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21843239"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21843239"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21843239/files/whose-condensation-am-i.pdf"
 cover: /assets/covers/whose-condensation-am-i-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/phenomenology/christian-theology/philosophical-anthropology/2026/08/07/de-quien-soy-condensacion-es.html"
 
 shelf: gt-a2
 ---

@@ -181,6 +181,8 @@ The series that began with a question about one creature's fear of time ends wit
 
 ## Note on Sources and Method 
 
+This essay is a capstone: it contributes no additional premise the corpus has not already argued elsewhere. Its contribution is architectural — the demonstration that five independently developed results are one argument expressed across five magnitudes. Prior corpus works are cited as established, not re-derived. The philosophical and doctrinal references — Aristotle, Augustine, Aquinas, Chalcedon, Góngora — are parallel witnesses and guardrails, not sources of authority; the argument stands or falls on its structural coherence across the range of scales examined. Theological claims are made within Roman Catholic, Ratzingerian, Catechism-aligned commitments, and follow philosophical inference rather than precede it. Where a reading is exegetical rather than metaphysical, it is marked as such.
+
 <br><br>
 
 ## References

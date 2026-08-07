@@ -7,12 +7,14 @@ date: 2026-08-06
 categories: [philosophy-of-time, structural-philosophy, christian-metaphysics, philosophical-theology]
 tags: [gaitan-topology, now, crossing-point, lemniscate, i-am-who-i-am, non-derivative-ground, scale-invariance, trinity, capstone]
 lang: es
-excerpt: "Cinco ensayos independientes convergen en un solo argumento invariante, revelando la unidad arquitectonica de la Topología Gaitan a través de toda escala de la realidad."
+excerpt: "Cinco ensayos independientes convergen en un solo argumento invariante, revelando la unidad arquitectónica de la Topología Gaitan a través de toda escala de la realidad."
 doi: "10.5281/zenodo.21827444"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21827444"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21827444/files/el-unico-argumento-en-cinco-escalas.pdf"
 cover: /assets/covers/el-unico-argumento-en-cinco-escalas-es.png
 translation_url: "https://oscargaitan.org/philosophy-of-time/structural-philosophy/christian-metaphysics/philosophical-theology/2026/08/06/the-one-argument-at-five-scales-en.html"
+
+shelf: gt-a2
 ---
 
 <br><br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: "A metaphysical essay introducing confluence as the ontology of becoming, explaining individuality, genealogy, nostalgia, and the uncreated ground of every convergence."
+description: "Confluence as the ontology of becoming, explaining individuality, genealogy, nostalgia, and the uncreated ground of every convergence."
 title: "Whose Condensation Am I?"
 subtitle: "On Confluence Without a First Ancestor, and the Kindness of the Finished"
 date: 2026-08-07

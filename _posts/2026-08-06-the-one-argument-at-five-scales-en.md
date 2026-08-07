@@ -17,11 +17,13 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/structural-philosop
 shelf: gt-a2
 ---
 
-<br><br>
+<br>
 
 *A capstone essay in the Gaitan Topology*  
 
 *Feast of the Transfiguration of the Lord*  
+
+<br><br>
 
 ## Table of Contents
 
@@ -40,8 +42,6 @@ shelf: gt-a2
 - [References](#references)
 
 <br>
-
-
 
 ## Abstract
 

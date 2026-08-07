@@ -19,7 +19,9 @@ shelf: gt-a2
 
 <br><br>
 
-*El ensayo capital en la Topología Gaitan · Fiesta de la Transfiguración del Señor*
+*El ensayo capital en la Topología Gaitan*  
+
+* Fiesta de la Transfiguración del Señor*  
 
 ## Indice
 
@@ -43,7 +45,7 @@ shelf: gt-a2
 
 ## Resumen
 
-Cinco ensayos de este corpus han desembocado, por cinco caminos distintos, a la misma frase. *¿Me necesita el tiempo, o necesito yo el tiempo?* llegó a ella desde la regresión del Ahora a escala de una sola vida. *¿Cuándo es el presente?* llegó a ella separando tres niveles que una sola palabra había confundido. *El Es y el SOY* llegó a ella desde el interior de la identidad y la micro-brecha donde una voluntad se reorienta. *Alfa y Omega* llegó a ella desde el término de la expansión cósmica. *Distancia Más Inmensa* llegó a ella desde la doctrina de la Trinidad y el caso más arduo que el marco contiene, el Fundamento que se hizo lo fundado. La frase es la misma en todos los casos: el Ahora se sostiene abierto, no por nada dentro de la secuencia que él hace posible, sino por el autosubsistente YO SOY EL QUE SOY. Este ensayo no aporta ninguna premisa nueva. Su aporte es arquitectónico: sostiene que los cinco no son cinco resultados sino uno solo, enunciado en cinco magnitudes; que el marco ha estado haciendo una sola afirmación y poniéndola a prueba contra las estructuras más grandes y más pequeñas a las que alcanza, y que la afirmación resiste todo el rango. Lo que parece una serie es un solo argumento escalado desde un alma hasta el cosmos entero y de vuelta a la vida interior de Dios.
+Cinco ensayos de este corpus han desembocado, por cinco caminos distintos, a la misma frase. [*¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?*](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html) llegó a ella desde la regresión del Ahora a escala de una sola vida. [*¿Cuando es el Presente?*](https://oscargaitan.org/metafisica/ontologia/teologia%20filosofica/filosofia%20catolica/tomismo/2026/07/03/cuando-es-el-presente.html) llegó a ella separando tres niveles que una sola palabra había confundido.[*El Es y el SOY*](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es-y-el-soy.html) llegó a ella desde el interior de la identidad y la micro-brecha donde una voluntad se reorienta. [*Alfa y Omega*](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/10/alfa-y-omega.html) llegó a ella desde el término de la expansión cósmica. [*Distancia Más Inmensa*](https://oscargaitan.org/filosofia/teologia/trinidad/cristologia/2026/08/01/distancia-mas-inmensa-es.html) llegó a ella desde la doctrina de la Trinidad y el caso más arduo que el marco contiene, el Fundamento que se hizo lo fundado. La frase es la misma en todos los casos: el Ahora se sostiene abierto, no por nada dentro de la secuencia que él hace posible, sino por el autosubsistente YO SOY EL QUE SOY. Este ensayo no aporta ninguna premisa nueva. Su aporte es arquitectónico: sostiene que los cinco no son cinco resultados sino uno solo, enunciado en cinco magnitudes; que el marco ha estado haciendo una sola afirmación y poniéndola a prueba contra las estructuras más grandes y más pequeñas a las que alcanza, y que la afirmación resiste todo el rango. Lo que parece una serie es un solo argumento escalado desde un alma hasta el cosmos entero y de vuelta a la vida interior de Dios.
 
 *Palabras clave: Ahora; punto de cruce; lemniscata; YO SOY EL QUE SOY; fundamento no derivado; condensación; invariancia de escala; Trinidad; Alfa y Omega; Topología Gaitan.*
 

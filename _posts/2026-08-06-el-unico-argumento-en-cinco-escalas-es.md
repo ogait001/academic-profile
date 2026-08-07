@@ -17,11 +17,13 @@ translation_url: "https://oscargaitan.org/philosophy-of-time/structural-philosop
 shelf: gt-a2
 ---
 
-<br><br>
+<br>
 
 *El ensayo capital en la Topología Gaitan*  
 
-* Fiesta de la Transfiguración del Señor*  
+*Fiesta de la Transfiguración del Señor*  
+
+<br><br>
 
 ## Indice
 
@@ -40,8 +42,6 @@ shelf: gt-a2
 - [Referencias](#referencias)
 
 <br>
-
-
 
 ## Resumen
 

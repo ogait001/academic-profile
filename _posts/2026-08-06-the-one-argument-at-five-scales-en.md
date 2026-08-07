@@ -13,6 +13,8 @@ record_url: "https://zenodo.org/doi/10.5281/zenodo.21827346"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21827346/files/the-one-argument-at-five-scales.pdf"
 cover: /assets/covers/the-one-argument-at-five-scales-en.png
 translation_url: ""
+
+shelf: gt-a2
 ---
 
 <br><br>

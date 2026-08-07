@@ -19,7 +19,9 @@ shelf: gt-a2
 
 <br><br>
 
-*A capstone essay in the Gaitan Topology · Feast of the Transfiguration of the Lord*
+*A capstone essay in the Gaitan Topology*  
+
+*Feast of the Transfiguration of the Lord*  
 
 ## Table of Contents
 

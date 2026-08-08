@@ -22,8 +22,6 @@ shelf: gt-a2
 > *Ningún hombre es una isla entera de sí mismo; cada hombre es un pedazo del continente, una parte de lo principal… la muerte de cualquier hombre me disminuye, porque estoy involucrado en la humanidad.*
 > — John Donne, *Devociones sobre Ocasiones Emergentes,* Meditación XVII
 
-*Un ensayo filosófico-teológico dentro de la Topología Gaitan*
-
 <br>
 
 ## Indice

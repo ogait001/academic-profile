@@ -13,6 +13,8 @@ record_url: "https://zenodo.org/doi/10.5281/zenodo.21853440"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21853440/files/no-island-no-erasure.pdf"
 cover: /assets/covers/no-island-no-erasure-en.png
 translation_url: ""
+
+shelf: gt-a2
 ---
 
 <br><br>

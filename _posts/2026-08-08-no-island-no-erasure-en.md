@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21853440"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21853440"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21853440/files/no-island-no-erasure.pdf"
 cover: /assets/covers/no-island-no-erasure-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/christian-theology/philosophical-anthropology/2026/08/08/ni-isla-ni-anulacion-es.html"
 
 shelf: gt-a2
 ---

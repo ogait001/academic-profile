@@ -26,7 +26,7 @@ series_order: 9
 
 <br>
 
-Una secuela de ***El Plan y la Mano** y **El Fundamento que Conoce***.
+Una secuela de ***El Plan y la Mano*** y ***El Fundamento que Conoce***.
 
 <br>
 

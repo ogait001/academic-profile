@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21869839"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21869839"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21869839/files/the-price-of-one-act.pdf"
 cover: /assets/covers/the-price-of-one-act-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophical-theology/philosophy-of-christianity/2026/08/10/el-precio-de-un-solo-acto-es.html"
 
 shelf: gt-e
 series: fig-tree
@@ -26,7 +26,7 @@ series_order: 9
 
 <br>
 
-*A sequel to* The Plan and the Hand *and* The Ground That Knows.
+"A sequel to ***The Plan and the Hand*** and ***The Ground That Knows***.
 
 <br>
 

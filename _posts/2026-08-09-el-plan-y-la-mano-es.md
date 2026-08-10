@@ -85,7 +85,7 @@ Así con la Pasión. El plan requería una sentencia pronunciada contra la inoce
 
 <br>
 
-## IV. La Anatomia del Derrumbe de un Hombre Libre
+## IV. La Anatomía del Derrumbe de un Hombre Libre
 
 Vale la pena recorrer las decisiones de Pilato una por una, porque el argumento contra el fatalismo no se hace mediante una doctrina impuesta desde fuera de la historia: está escrito en los propios detalles de la historia. Cada una de estas es una puerta. No se limita a no abrir una puerta; se le muestran varias, en sucesión, y las rechaza todas.
 

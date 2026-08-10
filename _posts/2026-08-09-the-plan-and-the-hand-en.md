@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21869746"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21869746"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21869746/files/the-plan-and-the-hand.pdf"
 cover: /assets/covers/the-plan-and-the-hand-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/christian-theology/metaphysics/philosophical-anthropology/2026/08/09/el-plan-y-la-mano-es.html"
 
 shelf: gt-e
 series: fig-tree

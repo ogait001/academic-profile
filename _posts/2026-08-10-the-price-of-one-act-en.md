@@ -26,7 +26,7 @@ series_order: 9
 
 <br>
 
-"A sequel to ***The Plan and the Hand*** and ***The Ground That Knows***.
+A sequel to ***The Plan and the Hand*** and ***The Ground That Knows***.
 
 <br>
 

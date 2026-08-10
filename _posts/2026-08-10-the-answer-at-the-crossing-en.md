@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21879663"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21879663"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21879663/files/the-answer-at-the-crossing.pdf"
 cover: /assets/covers/the-answer-at-the-crossing-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophy-of-mind/philosophical-anthropology/2026/08/10/la-respuesta-en-el-cruce-es.html"
 
 shelf: gt-i
 ---

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21893933"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21893933"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21893933/files/the-archive-and-the-now.pdf"
 cover: /assets/covers/the-archive-and-the-now-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophical-theology/christian-philosophy/2026/08/11/el-archivo-y-el-ahora-es.html"
 
 shelf: gt-e
 ---

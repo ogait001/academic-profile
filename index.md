@@ -625,8 +625,8 @@ h1 {
   <a href="/metaphysics/philosophy%20of%20mind/phenomenology/philosophical%20theology/moral%20psychology/2026/07/25/under-the-fig-tree.html"
      data-excerpt="A theological and metaphysical study of thought, conscience, and God's presence at the human Crossing Point.">Under the Fig Tree</a>
 
-  <a href="/philosophy-of-time/ontology/catholic-theology/2026/05/12/on-happiness.html"
-     data-excerpt="A philosophical and theological inquiry into happiness, arguing that human longing seeks enduring fullness rather than fleeting satisfaction, and that finite goods cannot satisfy the desire for permanence.">On Happiness</a>
+  <a href="philosophy/theology/trinity/christology/2026/08/01/distancia-mas-inmensa-en.html"
+     data-excerpt="Can the Ground of all being become one of the grounded? A theological exploration of the Trinity, the Incarnation, and continuous divine sustaining.">Distancia Más Inmensa</a>
 
   <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
      data-excerpt="Algorithms industrialize the ancient temptation of Genesis: redefining reality, perception, and access to divine presence.">Eve's Algorithm</a>

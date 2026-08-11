@@ -2,7 +2,7 @@
 layout: post
 title: "El Archivo y el Ahora"
 subtitle: "Sobre la Simultaneidad en Dios y la Rememoración en el Adversario"
-description: "Dios conoce fundamentando el Ahora; el adversario conoce por rememoración. Un estudio sobre la simultaneidad divina, la tentación, la predicción y la realidad de la libertad."
+description: "Dios conoce fundamentando el Ahora; el adversario conoce por rememoración. Sobre la simultaneidad divina, la tentación, la predicción y la realidad de la libertad."
 date: 2026-08-11
 author: Oscar Gaitan
 lang: es

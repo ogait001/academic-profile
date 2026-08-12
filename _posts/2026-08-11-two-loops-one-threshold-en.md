@@ -12,9 +12,9 @@ doi: "10.5281/zenodo.21897582"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21897582"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21897582/files/two-loops-one-threshold.pdf"
 cover: /assets/covers/two-loops-one-threshold-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/metaphysics/philosophy-of-mind/2026/08/11/dos-bucles-un-umbral-es.html"
 
-shelf: gt-a
+shelf: gt-a1
 ---
 
 <br><br>

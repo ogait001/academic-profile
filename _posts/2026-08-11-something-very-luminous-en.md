@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21895741"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21895741"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21895741/files/something-very-luminous.pdf"
 cover: /assets/covers/something-very-luminous-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-death/philosophical-theology/philosophy-and-literature/2026/08/11/algo-muy-luminoso-es.html"
 
 shelf: gt-h
 ---

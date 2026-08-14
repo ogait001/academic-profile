@@ -13,7 +13,9 @@ record_url: "https://zenodo.org/records/20330645"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.20330645"
 translation_url: "https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
 
-shelf: gt-i
+shelf: gt-i1
+series: the-serpent-architecture
+series_order: 2
 ---
 
 <br>

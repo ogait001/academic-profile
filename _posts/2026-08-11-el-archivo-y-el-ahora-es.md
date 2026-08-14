@@ -14,7 +14,9 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21893993/files/el-archivo-y-el-a
 cover: /assets/covers/el-archivo-y-el-ahora-es.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophical-theology/christian-philosophy/2026/08/11/the-archive-and-the-now-en.html"
 
-shelf: gt-e
+shelf: gt-i1
+series: the-serpent-architecture
+series_order: 3
 ---
 
 <br><br>

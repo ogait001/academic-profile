@@ -13,6 +13,8 @@ excerpt: "Una meditación filosófica y topológica sobre la disolución de la i
 translation_url: /ontology/catholic-theology/2026/04/01/the-serpent-the-self-and-the-collapse.html
 
 shelf: gt-i
+series: the-serpent-architecture
+series_order: 1
 ---
 
 <br>

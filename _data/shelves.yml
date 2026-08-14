@@ -85,7 +85,7 @@ aisles:
     name_es: "Topología Moral"
     shelves: []
 
-    - id: gt-i
+  - id: gt-i
     code: "GT–I"
     name_en: "Displacement and the Algorithmic Age"
     name_es: "El Desplazamiento y la Era Algorítmica"

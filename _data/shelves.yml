@@ -89,7 +89,13 @@ aisles:
     code: "GT–I"
     name_en: "Displacement and the Algorithmic Age"
     name_es: "El Desplazamiento y la Era Algorítmica"
-    shelves: []
+    shelves:
+      -id: gt-f1
+       name_en: The Serpent Architecture
+       name_es: La Arquitectura de la Serpiente
+     -id: gt-f2
+      name_en: Displacement 
+      name_en: Desplazamiento
 
   - id: gt-j
     code: "GT–J"

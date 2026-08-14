@@ -93,9 +93,9 @@ aisles:
       -id: gt-f1
        name_en: The Serpent Architecture
        name_es: La Arquitectura de la Serpiente
-     -id: gt-f2
-      name_en: Displacement 
-      name_en: Desplazamiento
+      -id: gt-f2
+       name_en: Displacement 
+       name_en: Desplazamiento
 
   - id: gt-j
     code: "GT–J"

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21937108"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21937108"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21937108/files/like-god-in-what-terms.pdf"
 cover: /assets/covers/like-god-in-what-terms-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-religion/divine-omniscience/divine-attributes/2026/08/14/como-dios-en-que-terminos-es.html"
 
 shelf: gt-i
 series: the-serpent-architecture

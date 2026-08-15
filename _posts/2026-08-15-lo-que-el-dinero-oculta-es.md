@@ -24,7 +24,7 @@ shelf: gt-h
 
 <br>
 
-> **15 Augusti**
+> **15 Augusti**  
 > ***In Assumptione Beatæ Mariæ Virginis***
 
 <br>
@@ -44,7 +44,7 @@ shelf: gt-h
 
 ## Nota sobre el método
 
-Lo que sigue es una proposición filosófica, no un pronunciamiento doctrinal, y su lectura de Eclesiastés 3:14 se ofrece como una posibilidad exegética entre otras. Presupone la exposición del fundamento no derivado desarrollada en *El Es y el SOY: Presencia, Identidad y el Fundamento que Sostiene,* y la exposición del Ahora invariante desarrollada en *¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?*; se remite al lector a esas obras para la metafísica que el presente ensayo solo nombra.
+Lo que sigue es una proposición filosófica, no un pronunciamiento doctrinal, y su lectura de Eclesiastés 3:14 se ofrece como una posibilidad exegética entre otras. Presupone la exposición del fundamento no derivado desarrollada en [*El Es y el SOY: Presencia, Identidad y el Fundamento que sostiene*](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/19/el-es-y-el-soy.html) y la exposición del Ahora invariante desarrollada en [*¿Necesito Yo al Tiempo, o necesita el Tiempo de Mí?*](https://oscargaitan.org/philosophy-of-time/ontology/catholic-theology/2026/04/22/necesito-yo-al-tiempo.html); se remite al lector a esas obras para la metafísica que el presente ensayo solo nombra.
 
 <br>
 

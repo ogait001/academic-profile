@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21953799"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21953799"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21953799/files/what-money-hides.pdf"
 cover: /assets/covers/what-money-hides-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-religion/metaphysics/philosophical-theology/2026/08/15/lo-que-el-dinero-oculta-es.html"
 
 shelf: gt-h
 ---
@@ -21,6 +21,11 @@ shelf: gt-h
 
 > *I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that people will fear him.*
 > -- Ecclesiastes 3:14
+
+<br>
+
+> **15 Augusti**  
+> ***In Assumptione Beatæ Mariæ Virginis***
 
 <br>
 
@@ -39,7 +44,7 @@ shelf: gt-h
 
 ## A note on method
 
-What follows is a philosophical proposition, not a doctrinal pronouncement, and its reading of Ecclesiastes 3:14 is offered as one exegetical possibility among others. It presupposes the account of the non-derivative ground developed in *The Is and the AM: Presence, Identity, and the Ground that Holds,* and the account of the invariant Now developed in *Does Time need Me, or do I need Time?*; the reader is referred to those works for the metaphysics the present essay only names.
+What follows is a philosophical proposition, not a doctrinal pronouncement, and its reading of Ecclesiastes 3:14 is offered as one exegetical possibility among others. It presupposes the account of the non-derivative ground developed in [*The Is and the AM: Presence, Identity, and the Ground that holds*](https://oscargaitan.org/ontology/philosophy-of-time/catholic-theology/2026/04/19/the-is-and-the-am.html) and the account of the invariant Now developed in [*Does Time need Me, or do I need Time?*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html); the reader is referred to those works for the metaphysics the present essay only names.
 
 <br>
 

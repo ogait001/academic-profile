@@ -2,7 +2,7 @@
 layout: post
 description: "La confluencia como la ontología del devenir, explicando la individualidad, la genealogía, la nostalgia y el fundamento increado de toda convergencia."
 title: "¿De Quien Soy Condensación?"
-subtitle: "Sobre la Confluencia sin una Primer Antepasado, y la Bondad de lo Consumado"
+subtitle: "Sobre la Confluencia sin un Primer Antepasado, y la Bondad de lo Consumado"
 date: 2026-08-07
 categories: [phenomenology, christian-theology, philosophical-anthropology]
 tags: [gaitan-topology, condensation, confluence, now, crossing-point, non-derivative-ground, individuality, nostalgia]

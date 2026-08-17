@@ -13,7 +13,7 @@ record_url: "https://zenodo.org/records/19475979"
 pdf_url: "https://zenodo.org/records/19475956/files/one-day-the-opportunity-that-never-arrives.pdf"
 translation_url: /philosophy-of-time/ontology/catholic-theology/2026/04/08/un-dia.html
 
-shelf: gt-a2
+shelf: gt-h
 ---
 
 <br><br>

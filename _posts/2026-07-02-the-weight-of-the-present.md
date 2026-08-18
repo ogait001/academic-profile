@@ -14,7 +14,7 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.21177683
 cover: /assets/covers/the-weight-of-the-present.png
 translation_url: "https://oscargaitan.org/metafisica/teologia%20filosofica/ontologia/filosofia%20catolica/tomismo/2026/07/02/el-peso-del-presente.html"
 
-shelf: gt-a2
+shelf: gt-a3
 ---
 
 <br>

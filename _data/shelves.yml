@@ -15,7 +15,9 @@ aisles:
       - id: gt-a2
         name_en: "The Now and Temporal Structure"
         name_es: "El Ahora y la Estructura Temporal"
-
+      - id: gt-a3
+        name_en: "The Metaphysics of the Now"
+        name_es: "La Metafísica del Ahora"
   - id: gt-b
     code: "GT–B"
     name_en: "The Ground: Non-Derivative Being"

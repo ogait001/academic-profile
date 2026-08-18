@@ -14,7 +14,7 @@ pdf_url: https://zenodo.org/doi/10.5281/zenodo.21178245
 cover: /assets/covers/cuando-es-el-presente.png
 translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophical%20theology/catholic%20philosophy/thomism/2026/07/03/when-is-the-present.html"
 
-shelf: gt-a2
+shelf: gt-a3
 ---
 
 <br>

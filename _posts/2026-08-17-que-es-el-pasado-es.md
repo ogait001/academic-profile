@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21983054/files/que-es-el-pasado.
 cover: /assets/covers/que-es-el-pasado-es.png
 translation_url: "https://oscargaitan.org/philosophy-of-time/metaphysics/philosophy-of-memory/philosophical-theology/2026/08/17/what-is-the-past-en.html"
 
-shelf: gt-a2
+shelf: gt-a3
 ---
 
 <br><br>

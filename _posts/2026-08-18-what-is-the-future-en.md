@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.21987932"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.21987932"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21987932/files/what-is-the-future.pdf"
 cover: /assets/covers/what-is-the-future-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/metaphysics/philosophy-of-religion/philosophical-theology/2026/08/18/que-es-el-futuro-es.html"
 
 shelf: gt-a3
 ---

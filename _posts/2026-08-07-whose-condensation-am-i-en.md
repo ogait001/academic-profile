@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.21843239/files/whose-condensatio
 cover: /assets/covers/whose-condensation-am-i-en.png
 translation_url: "https://oscargaitan.org/phenomenology/christian-theology/philosophical-anthropology/2026/08/07/de-quien-soy-condensacion-es.html"
 
-shelf: gt-a2
+shelf: gt-a3
 ---
 
 <br><br>

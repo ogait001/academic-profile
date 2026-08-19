@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22004473"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22004473"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22004473/files/the-nows-not-yet.pdf"
 cover: /assets/covers/the-nows-not-yet-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/philosophical-theology/philosophy-of-physics/2026/08/18/el-todavia-no-del-ahora-es.html"
 
 shelf: gt-a3
 ---

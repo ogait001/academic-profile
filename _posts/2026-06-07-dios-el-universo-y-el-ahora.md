@@ -26,7 +26,7 @@ shelf: gt-a2
 
 - [I. La criatura que no puede añadir una hora](#i-la-criatura-que-no-puede-anadir-una-hora)
 - [II. Vivimos en un mundo material](#ii-vivimos-en-un-mundo-material)
-- [III. La objeción mas fuerte](#iii-la-objeción-mas-fuerte)
+- [III. La objeción más fuerte](#iii-la-objeción-más-fuerte)
 - [IV. La jerarquía que nadie quiere](#iv-la-jerarquía-que-nadie-quiere)
 - [V. Del ser necesario al Dios que interpela](#v-del-ser-necesario-al-dios-que-interpela)
 - [VI. Dioses que reflejan mi imagen](#vi-dioses-que-reflejan-mi-imagen)

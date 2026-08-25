@@ -7,12 +7,12 @@ date: 2026-08-25
 author: Oscar Gaitan
 lang: en
 categories: [ontology, philosophy-of-time, phenomenology]
-excerpt: "Tangent lemniscates model genuine relation between distinct histories: beings can touch, transform one another, and remain themselves without sharing a crossing or universal Now."
+excerpt: "Tangent lemniscates model genuine relation between distinct histories: beings can touch and transform one another without sharing actuality, identity, or a universal Now."
 doi: "10.5281/zenodo.22102319"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22102319"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22102319/files/tangent-relational-lemniscates.pdf"
 cover: /assets/covers/tangent-relational-lemniscates-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/ontology/philosophy-of-time/phenomenology/2026/08/25/lemniscatas-relacionales-tangentes-es.html"
 
 shelf: gt-a1
 ---
@@ -201,5 +201,7 @@ The first lemniscate was a geometry of becoming: how a being moves from possibil
 - Mulligan, Kevin, Peter Simons, and Barry Smith. "Truth-Makers." Philosophy and Phenomenological Research 44, no. 3 (1984): 287–321.
 - Catechism of the Catholic Church. 2nd ed. Vatican City: Libreria Editrice Vaticana, 1997. Especially §§252–255, 790– 796, 813–814, 946–962.
 - Gaitan, Oscar. The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession. 2026
+
+<br>
 
 {% include further-reading-en.html %}

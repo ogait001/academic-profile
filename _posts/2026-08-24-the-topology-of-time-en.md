@@ -31,14 +31,14 @@ shelf: gt-a1
 **[Part I - The Ground of the Figure](#part-i---the-ground-of-the-figure)**
 
 - [1. Does Time Need Me, or Do I Need Time?](#1-does-time-need-me-or-do-i-need-time)
-  - [I. THE FEAR](#i-the-fear)
-  - [II. WHAT TIME IS NOT](#ii-what-time-is-not)
-  - [III. THE DEPENDENT CONDITION](#iii-the-dependent-condition)
-  - [IV. THE NOW](#iv-the-now)
-  - [V. THE INVERSION](#v-the-inversion)
-  - [VI. THE LEMNISCATE](#vi-the-lemniscate)
-  - [VII. ONE NOW](#vii-one-now)
-  - [VIII. THE QUESTION THE NOW RAISES](#viii-the-question-the-now-raises)
+  - [I. The Fear](#i-the-fear)
+  - [II. What Time is not](#ii-what-time-is-not)
+  - [III. The Dependent Condition](#iii-the-dependent-condition)
+  - [IV. The Now](#iv-the-now)
+  - [V. The Inversion](#v-the-inversion)
+  - [VI. The Lemniscate](#vi-the-lemniscate)
+  - [VII. One Now](#vii-one-now)
+  - [VIII. The Question the Now raises](#viii-the-question-the-now-raises)
   - [IX. I AM WHO IAM](#ix-i-am-who-iam)
 - [2. The Ground That Does Not Appear](#2-the-ground-that-does-not-appear)
   - [Abstract](#abstract)
@@ -186,7 +186,7 @@ It does not claim to have settled the truthmaker problem for past-tense truth, n
 
 *The Ontology of the Now, the Invariance of Presence, and the Ground of Being*
 
-#### I. THE FEAR
+#### I. The Fear
 
 We speak of time as though it were a force pressing against us from
 outside -- a tide that carries us forward whether we consent or not,
@@ -202,7 +202,7 @@ physics nor common intuition has fully named?
 
 *Time has never moved. Only events are actualized -- within the one relation of actuality that was here before us and will hold the last moment of our existence exactly as it holds this one.*
 
-#### II. WHAT TIME IS NOT
+#### II. What Time is not
 
 Before we can answer the question, we must be precise about what we mean
 by time. The question here is not measured time -- the seconds,
@@ -223,7 +223,7 @@ fittingness. The right unfolding of events within reality. That is
 precisely what ontological time is: the condition that makes ordered
 change possible. Clocks measure it. They do not constitute it.
 
-#### III. THE DEPENDENT CONDITION
+#### III. The Dependent Condition
 
 Ontological time has a peculiar property that we rarely confront
 directly: it cannot exist alone.
@@ -247,7 +247,7 @@ No change, no time. Without matter, there is nothing physical to change. Without
 
 So already the fear begins to dissolve. We are afraid of time as though it were a river carrying us to a waterfall. But a river requires water, gravity, and a channel. Time requires change and the ordered relation of before and after. Neither the river nor time is self-sustaining. Both are relational realities -- real, but dependent.
 
-#### IV. THE NOW
+#### IV. The Now
 
 Within this structure, there is a mode of reality unlike all others. Not the past -- that is fixed, no longer becoming, accessible only through the reconstruction we call memory. Not the future -- that is not yet actual, existing only as projection and anticipation. There is the point at which a being is actually becoming what it is. Where potential becomes actual. Where what *could be* becomes *what is*.
 
@@ -259,7 +259,7 @@ The Now is not a boundary in the ordinary sense -- not a wall between two territ
 
 This is why you cannot step outside the Now to observe the Now itself. You can observe what is actualized within it: the rose blossoming, the cloud dissipating, the body changing. But you cannot step outside the condition of actualization and make that condition itself an object of observation. You can remember the past only now. You can anticipate the future only now. Every act of consciousness, every breath, every decision, occurs now. The Now is not one moment among many. It is the only mode of existence that is ever actual.
 
-#### V. THE INVERSION
+#### V. The Inversion
 
 Here is where the standard picture of time must be inverted.
 
@@ -290,7 +290,7 @@ what is in fact a stationary one.
 **The present does not move along time; rather, time is the ordering of
 what becomes present.**
 
-#### VI. THE LEMNISCATE
+#### VI. The Lemniscate
 
 The shape that best maps this structure is the lemniscate -- the
 figure-eight curve that mathematicians write as the symbol for infinity.
@@ -330,7 +330,7 @@ after. None of these is, by itself, the moving thing. What moves is
 reality itself -- the continuous becoming of existence, actualized
 through the Now.
 
-#### VII. ONE NOW
+#### VII. One Now
 
 There is a temptation to think of the Now as personal -- my Now, your
 Now, billions of private present moments happening around the globe.
@@ -372,7 +372,7 @@ is real and unrepeatable. The lemniscate does not loop back and repeat.
 It crosses at the Now and continues. The history of a continuant is
 ordered, irreversible, and unrepeatable.
 
-#### VIII. THE QUESTION THE NOW RAISES
+#### VIII. The Question the Now raises
 
 We have established that the Now is invariant and zero-thickness. It is
 the condition of actualization. Nothing becomes real except at the Now.

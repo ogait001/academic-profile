@@ -3358,6 +3358,3 @@ Corrected edition. Edited by David Ray Griffin and Donald W. Sherburne.
 
 Free Press, 1978.
 
-<br>
-
-{% include further-reading-en.html %}

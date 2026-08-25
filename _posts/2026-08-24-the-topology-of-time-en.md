@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22089329"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22089329"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22089329/files/the-topology-of-time.pdf"
 cover: /assets/covers/the-topology-of-time-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/metaphysics/ontology/temporal-ontology/2026/08/25/la-topologia-del-tiempo-es.html"
 
 shelf: gt-a1
 ---
@@ -818,8 +818,6 @@ If the cinematic picture were true, nothing in the previous inquiry would surviv
 So the governing question of this inquiry: if the present does not replace the past, what does it do with it? The answer, defended in everything that follows, is one word. **It condenses it.**
 
 #### 2. The Now
-
-**The Now**
 
 We already know what the Now is within this topology. Only the Now is actual; the past no longer exists, the future does not yet exist, and whatever is actual is actual at the present. Augustine's meditation in the eleventh book of the *Confessions* established this so firmly that seventeen centuries have added little to the basic intuition. The Now itself has no duration. Any candidate instant with thickness divides into an earlier part and a later part, of which only one can be present; the division repeats until nothing extended remains. The Now is therefore a point: the zero-thickness condition of actualization. The present is the actuality constituted there.
 

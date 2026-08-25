@@ -28,7 +28,7 @@ shelf: gt-a1
 - [Author's Note: How to Read This Treatise](#authors-note-how-to-read-this-treatise)
 - [What This Treatise Does Not Claim](#what-this-treatise-does-not-claim)
 
-**[Part I — The Ground of the Figure](#part-i-the-ground-of-the-figure)**
+**[Part I - The Ground of the Figure](#part-i-the-ground-of-the-figure)**
 
 - [1. Does Time Need Me, or Do I Need Time?](#1-does-time-need-me-or-do-i-need-time)
   - [I. THE FEAR](#i-the-fear)
@@ -96,7 +96,7 @@ shelf: gt-a1
   - [6. Time](#6-time)
   - [7. Presence, the Now, and the Present](#7-presence-the-now-and-the-present)
 
-**[Part II — The Three Modes of Temporal Being](#part-ii-the-three-modes-of-temporal-being)**
+**[Part II - The Three Modes of Temporal Being](#part-ii-the-three-modes-of-temporal-being)**
 
 - [8. What Is the Past?](#8-what-is-the-past)
   - [Abstract](#abstract-4)
@@ -119,7 +119,7 @@ shelf: gt-a1
   - [V. The Future Grounded](#v-the-future-grounded)
   - [VI. Coda](#vi-coda)
 
-**[Part III — The Topology Audits Itself](#part-iii-the-topology-audits-itself)**
+**[Part III - The Topology Audits Itself](#part-iii-the-topology-audits-itself)**
 
 - [10. The Now's Not-Yet](#10-the-nows-not-yet)
   - [I. The question that survives its own answer](#i-the-question-that-survives-its-own-answer)
@@ -142,7 +142,7 @@ shelf: gt-a1
   - [VIII. What Is Still Owed](#viii-what-is-still-owed)
   - [IX. Coda](#ix-coda)
 
-**[Part IV — The Whole Figure](#part-iv-the-whole-figure)**
+**[Part IV - The Whole Figure](#part-iv-the-whole-figure)**
 
 - [12. Alpha and Omega](#12-alpha-and-omega)
   - [I. The Universe We Cannot See Whole](#i-the-universe-we-cannot-see-whole)
@@ -176,9 +176,11 @@ It does not claim to have derived the asymmetry between possibility and actualit
 
 It does not claim to have settled the truthmaker problem for past-tense truth, nor to have decided presentism against its rivals. The treatise adopts presentism as a commitment and is forthright about the cost: what makes a statement about the past true, when only the present is actual, is a debt it acknowledges rather than discharges.
 
-## Part I — The Ground of the Figure
+<br><br>
 
-#
+## Part I - The Ground of the Figure
+
+<br>
 
 ### 1. Does Time Need Me, or Do I Need Time?
 
@@ -459,6 +461,8 @@ grounds, what should we expect when we look for the ground of the self?
 Perhaps the failure to find it is not evidence that it is absent.
 Perhaps it is exactly what the structure predicts.
 
+<br><br>
+
 ### 2. The Ground That Does Not Appear
 
 *Hume, Invariance, and the self*
@@ -635,6 +639,8 @@ is surveyed from, sustained in that office by a reality that is itself
 sustained by nothing. **That is why the looking came back empty, and why
 the emptiness was never loss.**
 
+<br><br>
+
 ### 3. Zero Returned
 
 *An Ontological Reading of Decimal Structure*
@@ -768,6 +774,8 @@ The number line gave us the arrow. The lemniscate gives us the crossing. Both ar
 The decimal pattern can show recurrence without explaining what recurrence means for a life. It can show a form returning at a higher register without telling us what it means for something to remain itself while changing. The sketch can make the crossing visible, but it cannot tell us what the crossing weighs.
 
 **That question takes us beyond the page.**
+
+<br><br>
 
 ### 4. The Weight of the Present
 
@@ -1076,6 +1084,8 @@ forward. But this leaves one question still open. If every Now gathers a
 life, if every trace belongs to someone, and if every reception is
 received by a subject, then whose condensation is it?**
 
+<br><br>
+
 ### 5. Whose Condensation Am I?
 
 *On Confluence Without a First Ancestor, and the Kindness of the Finished*
@@ -1211,6 +1221,8 @@ is ever actually lived.
 
 **The first question was never "Whose?" It was always: "What holds the
 meeting open?"**
+
+<br><br>
 
 ### 6. The Infinite Interior
 
@@ -1446,6 +1458,8 @@ itself to be present.**
 **The next question is not what changes, nor what sustains change, but
 when the present is.**
 
+<br><br>
+
 ### 7. When Is the Present?
 
 *On the Invariant Now and Temporal Actuality*
@@ -1570,7 +1584,11 @@ correspondingly, are the modes of being of the future and the present?
 
 **The next part turns to those three modes directly.**
 
-## Part II — The Three Modes of Temporal Being
+<br><br>
+
+## Part II - The Three Modes of Temporal Being
+
+<br>
 
 ### 8. What Is the Past?
 
@@ -1776,6 +1794,8 @@ reception.
 **The question now is not where the future is, but what it means for the
 future to remain possible without yet being actual.**
 
+<br><br>
+
 ### 9. What Is the Future?
 
 *On the Asymptotic Horizon, Open Reception, and Eternal Presence*
@@ -1910,7 +1930,11 @@ topology must now submit to its own questions -- to the objections its
 conclusions invite, the debts its vocabulary incurs, and the places
 where its geometry may have said more than its argument can sustain.
 
-## Part III — The Topology Audits Itself
+<br><br>
+
+## Part III - The Topology Audits Itself
+
+<br>
 
 ### 10. The Now's Not-Yet
 
@@ -2206,6 +2230,8 @@ Not yet to the past or the future.
 
 To the crossing itself.
 
+<br><br>
+
 ### 11. What Is the Now?
 
 *On Simultaneity, the Single Point, and the Closing of the Figure*
@@ -2472,7 +2498,11 @@ what the figure becomes when the crossings are considered together: the
 cosmos itself, its unfolding, its limits, and the relation between its
 two ends.
 
-## Part IV — The Whole Figure
+<br><br>
+
+## Part IV - The Whole Figure
+
+<br>
 
 ### 12. Alpha and Omega
 
@@ -2830,6 +2860,8 @@ dissipation. This is a structural tendency, not a universal law.
 
 *All of them pass through it.*
 
+<br><br>
+
 *\ ***Conclusion**
 
 This treatise began with a figure.
@@ -2923,6 +2955,8 @@ than a symbol.
 
 **It has become a question the geometry can ask -- and a boundary
 beyond which only metaphysics, theology, and faith can answer.**
+
+<br><br>
 
 **Lexicon of the Gaitan Topology**
 
@@ -3133,6 +3167,8 @@ non-derivative basis reason is driven to when it follows a contingent
 thing to its condition. The Ground does not replace secondary causes; it
 is that without which they could not operate at all.
 
+<br><br>
+
 ## References
 
 Albert, David Z. *Time and Chance: An Essay on the Lottery of the Past*.
@@ -3320,5 +3356,7 @@ Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology*.
 Corrected edition. Edited by David Ray Griffin and Donald W. Sherburne.
 
 Free Press, 1978.
+
+<br>
 
 {% include further-reading-en.html %}

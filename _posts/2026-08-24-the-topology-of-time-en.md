@@ -153,7 +153,7 @@ shelf: gt-a1
   - [VII. Intervention Is Actualization](#vii-intervention-is-actualization)
   - [VIII. Distant from here, near to there](#viii-distant-from-here-near-to-there)
   - [IX. The Geometry of Anything That Endures](#ix-the-geometry-of-anything-that-endures)
-
+- [Conclusion](#conclusion)
 - [Lexicon of the Gaitan Topology](#lexicon-of-the-gaitan-topology)
 - [References](#references)
 
@@ -2863,7 +2863,7 @@ dissipation. This is a structural tendency, not a universal law.
 
 <br><br>
 
-*\ ***Conclusion**
+## Conclusion
 
 This treatise began with a figure.
 
@@ -2959,7 +2959,7 @@ beyond which only metaphysics, theology, and faith can answer.**
 
 <br><br>
 
-**Lexicon of the Gaitan Topology**
+## Lexicon of the Gaitan Topology
 
 *Canonical vocabulary established by the completed treatise*
 

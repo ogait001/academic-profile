@@ -28,7 +28,7 @@ shelf: gt-a1
 - [Author's Note: How to Read This Treatise](#authors-note-how-to-read-this-treatise)
 - [What This Treatise Does Not Claim](#what-this-treatise-does-not-claim)
 
-**[Part I - The Ground of the Figure](#part-i-the-ground-of-the-figure)**
+**[Part I - The Ground of the Figure](#part-i---the-ground-of-the-figure)**
 
 - [1. Does Time Need Me, or Do I Need Time?](#1-does-time-need-me-or-do-i-need-time)
   - [I. THE FEAR](#i-the-fear)
@@ -96,7 +96,7 @@ shelf: gt-a1
   - [6. Time](#6-time)
   - [7. Presence, the Now, and the Present](#7-presence-the-now-and-the-present)
 
-**[Part II - The Three Modes of Temporal Being](#part-ii-the-three-modes-of-temporal-being)**
+**[Part II - The Three Modes of Temporal Being](#part-ii---the-three-modes-of-temporal-being)**
 
 - [8. What Is the Past?](#8-what-is-the-past)
   - [Abstract](#abstract-4)
@@ -119,7 +119,7 @@ shelf: gt-a1
   - [V. The Future Grounded](#v-the-future-grounded)
   - [VI. Coda](#vi-coda)
 
-**[Part III - The Topology Audits Itself](#part-iii-the-topology-audits-itself)**
+**[Part III - The Topology Audits Itself](#part-iii---the-topology-audits-itself)**
 
 - [10. The Now's Not-Yet](#10-the-nows-not-yet)
   - [I. The question that survives its own answer](#i-the-question-that-survives-its-own-answer)
@@ -142,7 +142,7 @@ shelf: gt-a1
   - [VIII. What Is Still Owed](#viii-what-is-still-owed)
   - [IX. Coda](#ix-coda)
 
-**[Part IV - The Whole Figure](#part-iv-the-whole-figure)**
+**[Part IV - The Whole Figure](#part-iv---the-whole-figure)**
 
 - [12. Alpha and Omega](#12-alpha-and-omega)
   - [I. The Universe We Cannot See Whole](#i-the-universe-we-cannot-see-whole)

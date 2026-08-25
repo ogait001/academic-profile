@@ -7,7 +7,7 @@ date: 2026-08-25
 author: Oscar Gaitan
 lang: es
 categories: [ontology, philosophy-of-time, phenomenology]
-excerpt: "Las lemniscatas tangentes modelan la relación genuina entre historias distintas: los seres pueden tocarse, transformarse mutuamente y seguir siendo ellos mismos sin compartir un cruce ni un Ahora universal."
+excerpt: "Las lemniscatas tangentes modelan una relación genuina entre historias distintas: los seres pueden tocarse y transformarse mutuamente sin compartir la actualidad, la identidad ni un Ahora universal."
 doi: "10.5281/zenodo.22102353"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22102353"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22102353/files/lemniscatas-relacionales-tangentes.pdf"

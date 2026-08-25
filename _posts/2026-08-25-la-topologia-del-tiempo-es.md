@@ -2,7 +2,7 @@
 layout: post
 title: "La Topología del Tiempo"
 subtitle: "Sobre el Cambio, la Identidad, la Presencia y el Fundamento que Sostiene"
-description: "Un tratado sobre el tiempo, el devenir, la identidad y la Presencia divina, que unifica el modelo de la lemniscata en una explicación revisada del ser temporal en cuatro partes."
+description: "Un tratado sobre el tiempo, el devenir, la identidad y la Presencia divina, en una explicación revisada del ser temporal en cuatro partes."
 date: 2026-08-25
 author: Oscar Gaitan
 lang: es

@@ -154,6 +154,7 @@ shelf: gt-a1
   - [VIII. Distant from here, near to there](#viii-distant-from-here-near-to-there)
   - [IX. The Geometry of Anything That Endures](#ix-the-geometry-of-anything-that-endures)
 
+- [Lexicon of the Gaitan Topology](#lexicon-of-the-gaitan-topology)
 - [References](#references)
 
 ## Author's Note: How to Read This Treatise

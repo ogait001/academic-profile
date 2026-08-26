@@ -74,7 +74,9 @@ aisles:
       - id: gt-f3
         name_en: "Mercy"
         name_es: "Misericordia"
-
+      - id: gt-f4
+        name_en: "Marriage and Communion"
+        name_es: "Matrimonio y Comunión"
   - id: gt-g
     code: "GT–G"
     name_en: "Temptation and the Will"

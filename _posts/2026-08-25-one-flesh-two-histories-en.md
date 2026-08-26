@@ -12,7 +12,9 @@ doi: "10.5281/zenodo.22104442"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22104442"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22104442/files/one-flesh-two-histories.pdf"
 cover: /assets/covers/one-flesh-two-histories-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/ontology/identity/medieval-philosophy/2026/08/25/una-sola-carne-dos-historias-es.html"
+
+shelf: gt-f4
 ---
 
 <br><br>

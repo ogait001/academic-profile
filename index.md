@@ -702,6 +702,10 @@ The essays collected here develop an original philosophical framework at the int
      title="The structural deposit a condensation leaves in the Now.">
     Trace
   </a>
+  <a class="pill" href="/lexicon/#confluence"
+     title="The gathering of distinct trajectories into a single actuality at the Now, without erasing their differences.">
+    Confluence
+  </a>
 </div>
 
 

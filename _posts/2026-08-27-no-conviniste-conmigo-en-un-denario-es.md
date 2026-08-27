@@ -8,9 +8,9 @@ author: Oscar Gaitan
 lang: es
 categories: [philosophy-of-religion, metaphysics, philosophical-theology]
 excerpt: "El Infierno no es ni castigo arbitrario ni retorno kármico, sino la condición definitiva de una voluntad que rehúsa la comunión con su fundamento y recibe finalmente el jornal que ella misma formó."
-doi: "10.5281/zenodo.22104529"
-record_url: "https://zenodo.org/doi/10.5281/zenodo.22104529"
-pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22104529/files/no-conviniste-conmigo-en-un-denario.pdf"
+doi: "10.5281/zenodo.22132243" 
+record_url: "https://zenodo.org/doi/10.5281/zenodo.22132243"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22132243/files/no-conviniste-conmigo-en-un-denario.pdf"
 cover: /assets/covers/no-conviniste-conmigo-en-un-denario-es.png
 translation_url: "https://oscargaitan.org/philosophy-of-religion/metaphysics/philosophical-theology/2026/08/27/didst-thou-not-agree-with-me-for-a-penny-en.html"
 

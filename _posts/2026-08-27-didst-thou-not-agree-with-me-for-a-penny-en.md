@@ -8,9 +8,9 @@ author: Oscar Gaitan
 lang: en
 categories: [philosophy-of-religion, metaphysics, philosophical-theology]
 excerpt: "Hell is neither arbitrary punishment nor karmic return, but the definitive condition of a will that refuses communion with its ground and finally receives the wage it formed."
-doi: "10.5281/zenodo.22104442"
-record_url: "https://zenodo.org/doi/10.5281/zenodo.22104442"
-pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22104442/files/didst-thou-not-agree-with-me-for-a-penny.pdf"
+doi: "10.5281/zenodo.22131982" 
+record_url: "https://zenodo.org/doi/10.5281/zenodo.22131982"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22131982/files/didst-thou-not-agree-with-me-for-a-penny.pdf"
 cover: /assets/covers/didst-thou-not-agree-with-me-for-a-penny-en.png
 translation_url: "https://oscargaitan.org/philosophy-of-religion/metaphysics/philosophical-theology/2026/08/27/no-conviniste-conmigo-en-un-denario-es.html"
 

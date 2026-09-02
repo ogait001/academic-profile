@@ -2,7 +2,7 @@
 layout: post
 title: "El Circo y la Jaula"
 subtitle: "Sobre la Censura Digital, la Multitud Fabricada y el Nuevo Goebbels de cada Bando"
-description: "La censura digital, las multitudes fabricadas y la atención algorítmica examinadas a través de la filosofía política, la metafísica y la recuperación del juicio humano."
+description: "La censura digital, las multitudes fabricadas y la atención algorítmica a través de la filosofía política, la metafísica y la recuperación del juicio humano."
 date: 2026-09-02
 author: Oscar Gaitan
 lang: es

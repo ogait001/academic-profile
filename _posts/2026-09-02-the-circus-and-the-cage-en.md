@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22260483"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22260483"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22260483/files/the-circus-and-the-cage.pdf"
 cover: /assets/covers/the-circus-and-the-cage-en.png
-translation_url: "https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/philosophy-of-mind/2026/09/02/the-circus-and-the-cage-en.html"
+translation_url: "https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/philosophy-of-mind/2026/09/02/el-circo-y-la-jaula-es.html"
 
 shelf: gt-i
 ---

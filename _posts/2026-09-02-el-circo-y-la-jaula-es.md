@@ -30,7 +30,7 @@ shelf: gt-i
 
 <br><br>
 
-## I. La Transmisión que fue Creida
+## I. La Transmisión que fue Creída
 
 La noche del 30 de octubre de 1938, Orson Welles leyó ante un micrófono una invasión marciana, y una parte de los Estados Unidos la creyó. El pánico fue menor de lo que registra la leyenda, pero la leyenda es lo que importa. Lo que asustó al país después no fueron los marcianos. Fue el descubrimiento de que una voz, llegada por un canal de confianza, con la cadencia de un boletín de noticias, podía eludir por completo el juicio e inscribirse directamente en el sistema nervioso de una nación. La forma de la transmisión —autorizada, inmediata, ininterrumpible— hizo el trabajo que ningún argumento habría podido hacer. La gente no razonó su camino hacia el terror. Lo recibió.
 

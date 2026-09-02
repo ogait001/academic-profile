@@ -72,7 +72,7 @@ La promesa era correcta como economía editorial y costosa como filosofía, porq
 
 <br>
 
-Quedarse en ella exige el instrumento que los ensayos anteriores no dejaron de tomar sin nunca destinarlo del todo a este uso. En *Das Man y la Primera Persona del Singular*, Fuenteovejuna era la contraimagen de la corte anónima. En *Desplazando a Dios*, era la forma visible de la comunidad frente a la multitud. En *Pluralidad Ocupada*, era la primera articulación de la densidad relacional, puesta a prueba en su miembro más débil. Tres veces se ha convocado a la aldea como ejemplo de cómo se ve un nosotros real. Aún no se la ha usado como lo que con más precisión es: una prueba. Un ejemplo muestra; una prueba mide. La diferencia es la totalidad de este ensayo.
+Quedarse en ella exige el instrumento que los ensayos anteriores no dejaron de tomar sin nunca destinarlo del todo a este uso. En [*Das Man y la Primera Persona del Singular*](https://oscargaitan.org/philosophy-of-time/ontology/2026/04/21/das-man-primera-persona.html), Fuenteovejuna era la contraimagen de la corte anónima. En *Desplazando a Dios*, era la forma visible de la comunidad frente a la multitud. En *Pluralidad Ocupada*, era la primera articulación de la densidad relacional, puesta a prueba en su miembro más débil. Tres veces se ha convocado a la aldea como ejemplo de cómo se ve un nosotros real. Aún no se la ha usado como lo que con más precisión es: una prueba. Un ejemplo muestra; una prueba mide. La diferencia es la totalidad de este ensayo.
 
 <br>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Occupied Plurality"
-post-subtitle: "On the Family, the Community, and the We That Does Not Multiply the I"
+subtitle: "On the Family, the Community, and the We That Does Not Multiply the I"
 description: "On family, community, and relational reality, introducing the Between without multiplying the first-person self."
 date: 2026-09-01
 author: Oscar Gaitan
@@ -12,7 +12,11 @@ doi: "10.5281/zenodo.22237576"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22237576"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22237576/files/occupied-plurality.pdf"
 cover: /assets/covers/occupied-plurality-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/ontology/metaphysics-of-relations/theological-anthropology/2026/09/01/pluralidad-ocupada-es.html"
+
+shelf: gt-d
+series: monadology
+series_order: 4
 ---
 
 <br><br>
@@ -39,7 +43,7 @@ translation_url: ""
 
 ## Note on Relation to Previous Works
 
-This essay presupposes four results rather than re-arguing them. *The Monad That Receives* established that reception is integrative, not additive — a substance without parts can take up a trace without becoming composite. *Legion of Monads* established that the simple can be made to appear many by exactly one mechanism, abdication, and by no other: the crossing point held vacant and then contested, never divided. *Das Man and the First Person Singular* established the distinction, presupposed here without restatement, between a crowd that borrows a center no individual possesses and a community that amplifies centers each individual already occupies. The present essay also carries forward a fourth result developed in draft form — the measure of relational density, tested by whether a plural can bear a cost that falls on its members individually, first articulated through the contrast between Fuenteovejuna's weakest member and the Emperor's strongest courtier.
+This essay presupposes four results rather than re-arguing them. [*The Monad That Receives: On Leibniz, Indivisibility, and the Possibility of Relation*](https://oscargaitan.org/metaphysics/philosophy%20of%20mind/philosophy%20of%20religion/leibniz/2026/07/17/the-monad-that-receives.html) established that reception is integrative, not additive — a substance without parts can take up a trace without becoming composite. [*Legion of Monads: On the Multiplication of the Simple*](https://oscargaitan.org/philosophy/metaphysics/philosophy%20of%20religion/philosophical%20anthropology/philosophy%20of%20mind/2026/07/18/legion-of-monads.html) established that the simple can be made to appear many by exactly one mechanism, abdication, and by no other: the crossing point held vacant and then contested, never divided. [*Das Man and the First Person Singular*](https://oscargaitan.org/ontology/phenomenology/2026/04/21/das-man-and-the-first-person-singular.html) established the distinction, presupposed here without restatement, between a crowd that borrows a center no individual possesses and a community that amplifies centers each individual already occupies. The present essay also carries forward a fourth result developed in draft form — the measure of relational density, tested by whether a plural can bear a cost that falls on its members individually, first articulated through the contrast between Fuenteovejuna's weakest member and the Emperor's strongest courtier.
 
 <br>
 
@@ -139,7 +143,7 @@ The algorithmic aggregate, a limit case first identified in the draft work that 
 
 <br>
 
-One further case belongs on this list for completeness though this essay will not develop it, since *Distancia Más Inmensa* has already done so on its own ground: an occupancy that cannot lapse, and can therefore stand in a between with any number of others without that between ever depending, even in part, on the strength of its own side to hold. The four cases above are four fundamental forms a created plural can take within the topology developed here. That fifth is named here only so the completed fourfold is seen for what it is — the created cases, all four of them, arranged around a center this essay does not itself require.
+One further case belongs on this list for completeness though this essay will not develop it, since [*Distancia Más Inmensa: On the Trinity, the Incarnation, and the Ground Who Became the Grounded*](https://oscargaitan.org/philosophy/theology/trinity/christology/2026/08/01/distancia-mas-inmensa-en.html) has already done so on its own ground: an occupancy that cannot lapse, and can therefore stand in a between with any number of others without that between ever depending, even in part, on the strength of its own side to hold. The four cases above are four fundamental forms a created plural can take within the topology developed here. That fifth is named here only so the completed fourfold is seen for what it is — the created cases, all four of them, arranged around a center this essay does not itself require.
 
 <br>
 

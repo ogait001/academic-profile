@@ -21,10 +21,10 @@ series_order: 5
 
 <br><br>
 
-> *¿Quién mató al Comendador?*<br> 
-> *Fuenteovejuna.*<br>  
-> *¿Y quién es Fuenteovejuna?*<br>  
-> *Todos a una.*<br>  
+> *¿Quién mató al Comendador?* <br> 
+> *Fuenteovejuna.* <br>  
+> *¿Y quién es Fuenteovejuna?* <br>  
+> *Todos a una.* <br>  
 > — Lope de Vega, *Fuenteovejuna,* Acto III  
 
 <br>

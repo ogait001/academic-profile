@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22238094"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22238094"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22238094/files/the-counterfeit-plural.pdf"
 cover: /assets/covers/the-counterfeit-plural-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/social-ontology/2026/09/01/el-plural-falso-es.html"
 
 shelf: gt-d
 series: monadology
@@ -21,10 +21,10 @@ series_order: 5
 
 <br><br>
 
-> *¿Quién mató al Comendador?*
-> *Fuenteovejuna.*
-> *¿Y quién es Fuenteovejuna?*
-> *Todos a una.*
+> *¿Quién mató al Comendador?* <br>
+> *Fuenteovejuna.* <br>
+> *¿Y quién es Fuenteovejuna?* <br>
+> *Todos a una.* <br>
 > — Lope de Vega, *Fuenteovejuna,* Acto III
 
 <br>

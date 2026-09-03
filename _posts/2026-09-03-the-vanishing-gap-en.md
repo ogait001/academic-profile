@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22286727"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22286727"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22286727/files/the-vanishing-gap.pdf"
 cover: /assets/covers/the-vanishing-gap-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-religion/metaphysics/social-and-political-philosophy/2026/09/03/la-brecha-que-se-desvanece-es.html"
 
 shelf: gt-i
 ---

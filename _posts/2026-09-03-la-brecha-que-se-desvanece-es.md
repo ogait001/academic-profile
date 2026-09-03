@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Brecha que se Desvanece"
-subtitle: "Visión Plana, Mimetismo y el Derrumbe de la Distancia Reflexiva — Sobre la Única Geometría Diagnosticada bajo Tres Nombres"
+subtitle: "Visión Plana, Mimetismo y el Derrumbe de la Distancia Reflexiva — Sobre la Unica Geometría Diagnosticada bajo Tres Nombres"
 description: "La visión plana, la distancia reflexiva y el mimetismo como tres coordenadas de una sola geometría: la pérdida de profundidad, duración y presencia."
 date: 2026-09-03
 author: Oscar Gaitan

@@ -1,0 +1,157 @@
+---
+layout: post
+title: "The Ownerless Past"
+subtitle: "On the Withdrawal of the Deed, the Substitution of Its Trace, and the Witness Who Was There"
+description: "How substituted traces counterfeit history and how witness, embodied traversal, and presence remain the only limits against representational dispossession."
+date: 2026-09-04
+author: Oscar Gaitan
+lang: en
+categories: [philosophy-of-time, metaphysics, epistemology]
+excerpt: "The past cannot be rewritten, but its trace can be substituted. The essay examines the witness who keeps a withdrawn deed present."
+doi: "10.5281/zenodo.22308648"
+record_url: "https://zenodo.org/doi/10.5281/zenodo.22308648"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22308648/files/the-ownerless-past.pdf"
+cover: /assets/covers/the-ownerless-past-en.png
+translation_url: ""
+
+shelf: gt-i
+---
+
+<br><br>
+
+<blockquote class="epigraph">
+<em>A faithful witness will not lie: but a false witness will utter lies.</em><br>
+— Proverbs 14:5
+</blockquote>
+
+<br>
+
+## Contents
+
+- [Note on Relation to Previous Works](#note-on-relation-to-previous-works)
+- [I. What the Stone Could Do That the Deed Cannot](#i-what-the-stone-could-do-that-the-deed-cannot)
+- [II. The Counterfeiter Does Not Rewrite the Past](#ii-the-counterfeiter-does-not-rewrite-the-past)
+- [III. Weaker in Being, Stronger in Access](#iii-weaker-in-being-stronger-in-access)
+- [IV. Suppression Wounds; Substitution Feeds](#iv-suppression-wounds-substitution-feeds)
+- [V. The Ownerless Past](#v-the-ownerless-past)
+- [VI. What the Counterfeit Cannot Reach](#vi-what-the-counterfeit-cannot-reach)
+- [VII. The Answer Is Not Another Record](#vii-the-answer-is-not-another-record)
+- [VIII. The Deed Kept Legible](#viii-the-deed-kept-legible)
+- [References](#references)
+
+<br><br>
+
+## Note on Relation to Previous Works
+
+This essay develops a single operation across two prior results and does not re-argue either. [*Eating Stones: The Temptation of Christ as Ontological Contradiction*](https://oscargaitan.org/philosophy%20of%20religion/philosophical%20theology/metaphysics/christian%20philosophy/ontology/2026/06/29/eating-stones.html)
+established that a thing is its history: identity is not the surface a thing presents but the unbroken interior of its becoming, and to overwrite that surface while leaving the interior untouched is substitution, not transformation — a creature made to lie about what it is. That essay proved the point for matter, and for the one case where substitution is not merely a falsehood but a contradiction: the Creator, asked to make a stone profess the vocation of bread, could not do so without turning the power that establishes meaning against the wisdom that establishes it. [*The Counterfeit Plural*](https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/social-ontology/2026/09/01/the-counterfeit-plural-en.html#top)
+established that a we can be manufactured — belonging supplied before the gathering, representation preceding the relation it claims to represent — and that a plural whose existence depends entirely upon its representation is at the disposal of whoever controls the representation. It named that dependence and set it down.
+
+<br>
+
+The present essay takes up what both essays touched and neither developed: the case where the thing subjected to substitution is neither present matter nor a present plural but the past — the deed already done, the history already lived. It will argue that the past is peculiarly and permanently exposed to substitution in a way the stone is not, for a reason the earlier essay could not have supplied, and that the exposure is not a technological accident but a structural feature of pastness itself. The literary witness employed late in the argument is used in the office [*De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/09/de-roling-god.html)
+and *The Counterfeit Plural* assigned such witnesses: an instrument that measures, never the proof of a metaphysical proposition. The target throughout is a structural operation — the substitution of the trace — never any particular technology, régime, or instrument that happens, in our hour, to perform it.
+
+<br>
+
+## I. What the Stone Could Do That the Deed Cannot
+
+*Eating Stones* grounded identity in continuity: a thing is the unbroken interior of its becoming, and it can be known for what it is precisely because it is continuous with what it has been. The stone is legible because its geology is in it — compression, deposition, heat, the whole arc of its making carried within the object and available, in principle, to anyone who sections it. This is why Satan's proposal, in that essay, was a contradiction and not merely a lie. To command the stone to wear the mask of bread would leave the stone's interior standing, palpably, beneath the mask; the creature's true history remains present to refute the false surface laid across it. The stone defends itself. Its interior is at hand.
+
+The deed has no such defense, and the difference is not a matter of degree. When a thing is done — a mercy, a betrayal, a founding, a massacre — the act is fully real in the doing and then, in the same motion, it is over. Its being-over is not a diminishment of its reality; what happened, happened, and nothing will make it not have happened. But its being-over is a withdrawal from presence. The traversal that constituted the deed is finished, sealed, no longer available to be inspected the way a stone is available. What remains of the deed in the present is not the deed. It is the mark the deed left as it receded: the record, the testimony, the document, the memory carried forward by those who were there. The past does not carry its interior with it into the present the way the stone carries its geology. It leaves a trace and withdraws, and the trace is the only face the rest of us are given to look at.
+
+State it as the proposition the essay turns on: the human past is an interior that has withdrawn from direct presence and left only its trace behind. This is sharper than the bare formula identity is history, and it is the sharpening the deed requires. The stone's history is present history. The deed's history is withdrawn history, accessible now only through what it left. The withdrawal of the deed from direct presence is therefore not its disappearance from the Now that follows it: what is withdrawn from access is not thereby withdrawn from being, but remains gathered into the temporal continuity of what comes after. And a trace, unlike a stone, has a surface and no defended interior of its own. It can be overwritten, and when it is overwritten there is no geology beneath it to answer back.
+
+Three terms must be held apart, because the argument to come depends on their not being confused. There is the deed — the occurrence itself, real in the doing and then over. There is the trace — what the occurrence leaves behind as it withdraws. And there is the record — the trace as preserved, ordered, interpreted, transmitted: the trace made into an account others can consult. The distinction that governs everything is the one between the last two and the first: the record gives access to the past; it does not constitute the past. A reader may be tempted to say that since we reach the past only through its traces, the traces simply are the past, for us. The temptation must be refused at the outset, for it is precisely the confusion the counterfeit relies upon. The deed is what happened. The record is the surface through which what happened remains reachable. They are not the same thing, and the whole severity of what follows lies in the gap between them.
+
+<br>
+
+## II. The Counterfeiter Does Not Rewrite the Past
+
+It must be said precisely, because the imprecise version of the claim invites an easy refutation. The counterfeiter does not rewrite the past. He cannot. The past's having-been is fixed beyond every creaturely power — not because omnipotence encounters an obstacle, but because to make what has happened not have happened is not a greater exercise of power but a contradiction, the same contradiction *Eating Stones* located in the stone made bread, now turned upon time. This is the discipline that essay already imposed: the question is never one of ability but of what could belong to the order of meaning at all, and a past unmade is not a feat withheld but a self-contradiction, an occurrence commanded to profess that it never occurred. What has been done has the peculiar armor of the finished: it is beyond revision precisely because it is beyond reach. No one edits the deed. The deed is safe in the one place nothing can enter, which is the past.
+
+So the counterfeiter does something narrower and, for that narrowness, more disturbing. He substitutes the trace through which the withdrawn past becomes accessible. He leaves the event exactly as it was — he could not touch it if he tried — and he replaces the mark it left, the surface through which the present reaches back to it, with a mark it did not leave. The deed remains what it was; the account of the deed is made to testify to a becoming that never occurred. This is the operation of *Eating Stones* transposed from matter to memory, and the transposition changes its character entirely. Against the stone, the false interior was written beneath a surface whose true interior was still present to contradict it; the mask could be thrown off by the object itself. Against the deed, the false interior is written over an absence — the traversal has already withdrawn, leaving the trace to bear the whole weight of access to it — and there is no object present to throw the mask off. The stone wears the mask of bread and remains, visibly, stone. The deed's trace wears the mask of another deed, and there is nothing left in the present, of the deed itself, to say otherwise.
+
+<br>
+
+## III. Weaker in Being, Stronger in Access
+
+The severity of the operation lives in an asymmetry between what the counterfeiter can touch and what he cannot, and the asymmetry runs in both directions at once. He is, at the level of being, weaker than the crudest vandal. The vandal who smashes a monument at least reaches the monument; the counterfeiter reaches nothing that happened. The traversal is closed to him absolutely. He rewrites every account of the founding and the founding stands unaltered; he fabricates the massacre out of the record and the dead are exactly as many as they were, the deed exactly what it was, its having-been untouched in the sealed past where he cannot follow. In the order of what is real, he is impotent against the very thing he seems to command.
+
+And yet, at the level of access — and it is only there, not in any contest of ultimate effect, that the comparison is drawn — he is stronger than the censor, and stronger for the same reason he is ontologically weak. The censor also works upon access and not upon the deed; the difference between them is the subject of the section that follows, and it is not a difference of degree. What must be seen first is why access is where the counterfeit's whole power is concentrated. Because the deed has withdrawn from presence, the trace has become the principal avenue — often the sole avenue — through which anyone now encounters it. The withdrawal that seals the deed against him is the very thing that hands him its trace, for it clears the field: it removes the deed from presence and leaves representation holding the entire burden of the real's accessibility. He does not overpower the past's presence. He exploits an absence the past had already become. He walks into a vacancy the withdrawal opened, and furnishes it with a false interior, and because the true interior is no longer present anywhere to be compared against his furnishing, the furnishing stands. State the paradox in one line, since it is the hinge of the whole essay: the counterfeiter is powerless before what happened and powerful before what remains of it. His weakness and his power are not in tension. They are two faces of the single fact that the deed has withdrawn — the withdrawal that seals the event against him is the withdrawal that delivers its trace into his hands.
+
+This is the structure *The Grammar of Displacement* named, read one turn further and along a different axis. That essay diagnosed the man of the palm as active everywhere and present nowhere — a reach that had come loose from presence, ubiquity paid out as absence. There the separation was spatial: action from a single point, present at none. Here the same separation runs temporally. The trace reaches the present everywhere the deed no longer is — and it can reach everywhere the deed no longer is precisely because the deed is no longer anywhere, having withdrawn into its own completion. The counterfeit inherits the exact structure of displacement and turns it upon history: a representation active across the whole present and answering to no presence behind it, because the presence it claims to represent has withdrawn past the point where it could answer. Reach without presence, transposed from the palm to the past. And here the asymmetry shows its human edge: the counterfeiter can do nothing to the dead, who are beyond him in the sealed past, and everything to the living, who can reach the dead only through the surface he governs. He does not harm those who did the deed. He governs how those who come after are permitted to inherit them.
+
+<br>
+
+## IV. Suppression Wounds; Substitution Feeds
+
+Here the operation parts from what everyone already has a name for, and the parting deserves to become one of the essay's central discoveries, because the two are constantly confused and the confusion protects the more dangerous of them.
+
+Suppression withholds the trace. It removes an account, buries a document, silences a witness, and what it produces is an absence — a gap. The gap has a crucial property: it can be felt as a gap. The suppressed know, or may come to know, that something has been taken; the silence announces itself as silence; the wound can be pointed to, and a wound that can be pointed to can be protested, investigated, someday healed. Censorship, whatever its cruelty, leaves the shape of what it removed pressed into the surface around the removal. It subtracts, and subtraction is visible as subtraction.
+
+Substitution supplies a false trace in the true one's place, and what it produces is not absence but counterfeit presence — a surface that reads exactly as a recovered interior would read, and therefore announces nothing, and therefore is not felt at all. Nothing is missing. The record is full, coherent, available, and false. The deprived can protest a silence; no one protests a meal he has been told is nourishing and has no reason to doubt. This is the distinction in its sharpest form: suppression leaves a wound, and substitution leaves a meal. The suppressed are hungry and know it. The deceived are fed, and thank the hand that fed them, and carry the counterfeit forward as though it were the thing itself — the stone received as bread, and eaten, and praised.
+
+It is worth naming the two postures the corpus has set against each other before, because they return here transposed. The non serviam is refusal, and refusal is visible: it is a wound in a relation, and the one refused remains at the center of the refusal. The non te egeo is not refusal but the painless closure of the space where the relation might have formed — absorbed rather than declared, an atmosphere rather than an argument, and for that reason far harder to answer. Suppression is the non serviam of the record: a visible No laid across the trace. Substitution is the non te egeo of the record: no No anywhere, nothing declared, nothing refused — only a full and comfortable surface under which the space where the true past might have been reached has been quietly closed. You cannot protest what was never presented to you as a loss.
+
+<br>
+
+## V. The Ownerless Past
+
+Draw the operation to its end and a single condition appears, which gives the essay its title. A past accessible only through its trace, and whose trace has been substituted, becomes representationally ownerless — a history belonging, in the register through which others reach it, to whoever holds its representation, because nothing else now holds it there at all.
+
+This is the temporal form of the dependence *The Counterfeit Plural* located in the aggregate. There, a plural whose existence depended entirely upon the representation of its relations was found to be at the disposal of whoever controlled the representation; the we could be enlarged, inflamed, dispersed by adjusting what rendered it, without a single member changing their mind. The withdrawn past is exposed in exactly this way, and worse, because it cannot change its own mind, cannot speak up, cannot bear a cost to hold itself together. The village under interrogation could answer; the deed cannot. It has withdrawn, and left a proxy, and if the proxy is seized the deed has no recourse of its own. A plural at least contains persons who might, under cost, still answer as the villagers answered. The past cannot answer for itself in the present. This is not a claim that the past is nothing, or that those who lived it have ceased to be; it is the narrower and harder fact that the deed, being over, can no longer step forward as a present witness to what it was. It is the purest case of representation without the possibility of self-defense — occupancy fully withdrawn, the trace standing entirely alone.
+
+The word must be given its exact sense, because it is the essay's title and a loose reading would put the whole argument at hazard. Ownerless does not mean that the past ceases to belong to those who lived it, nor that a history becomes the private property of the one who did the deed — a massacre is not owned by its perpetrator the way a coat is owned, and the victims, the participants, and those who came after all stand in their own real relations to what occurred. Ownership here is not property and not exclusive possession. It is authority over the representation through which the history reaches others: the standing of a living bearer who can answer, in the present, for what the past was. The past remains owned ontologically — it belongs to what happened, fixed and beyond seizure — and becomes ownerless representationally when that bearer is gone and the trace stands detached from anyone who can answer for it. That is the precise condition: not the loss of the past, but the loss of a present bearer capable of answering for it. The counterfeit can install itself only in that representational vacancy.
+
+And so the deepest injury of the counterfeit is not that it deceives the present about the past, grave as that is. It is that the person is made, in the only register through which others can reach the deed, to have been someone they never were. This is the substitution of *Eating Stones* performed not on a stone but on a life: the interior untouched and unreachable, the surface overwritten and everywhere, and the creature made to profess a history not its own — with no present interior, this time, to throw the mask off.
+
+Literature has exhibited this condition more exactly than any argument can, and in the office the earlier essays assigned such witnesses — an instrument that displays a structure, not a proof that establishes one — it is worth naming once. In *One Hundred Years of Solitude* the massacre of the strikers is carried out, the bodies loaded and taken away, and by morning the official memory has closed seamlessly over it: nothing happened, there were no dead, the company had always been benign, and the one man who was there and remembers is met everywhere with a settled account in which the deed has no place. The deed occurred; its having-been is fixed and beyond revision. But its trace has been substituted whole, and the substitution is total enough that the witness is left holding a past that the visible record no longer owns — the ownerless past in its purest literary form, a history detached from every bearer the counterfeit could not silence, and belonging, in the register through which the town reaches it, to whoever composed the account.
+
+<br>
+
+## VI. What the Counterfeit Cannot Reach
+
+The argument has now made the past sound defenseless, and it is time to say why it is not — for the floor is real, but it is not where the analogy with the stone would have placed it. For the stone, the floor was the present interior: the geology at hand to refute the mask. That floor is gone for the deed, whose interior has withdrawn and cannot be summoned back to testify. But two things remain that the counterfeit cannot reach, and neither is the stone's kind of defense.
+
+The first is the having-been itself. The counterfeiter alters every account of the event and alters nothing of the event. This is not a consolation about eventual vindication; it is a claim about what is the case. The deed's reality does not wait upon its record. The founding was a founding, the mercy a mercy, the massacre a massacre, and remains so with total indifference to how many accounts survive to say it or how many false accounts are raised to deny it. The counterfeit governs the accessible; it has no jurisdiction whatever over the real. Its every victory is a victory over the present's access to the past, never over the past. What has been is armored by being over — the same armor that makes it unreachable makes it unrevisable, and the counterfeiter's impotence at the level of being is the exact measure of the past's security there.
+
+The second is the witness — and here the corpus's own answer to displacement returns, transposed a final time. There is a difference between a past that is recorded and a past that is carried. A record remembers what happened; it is trace, surface, the kind of thing that can be substituted. A witness carries what happened; the past is present in him, not as a surface to be read but as a traversal he underwent and bears. The distinction is not that the witness is infallible, and the argument must not be misheard as claiming it. A witness can forget, misjudge, embellish, or lie; his account, once given, is a record like any other and as substitutable as any other. What sets him apart is not the reliability of his report but the character of his relation to the event: he was implicated in it by having been there, and his present existence remains continuous with having undergone it. The witness is not incorruptible evidence; he is embodied continuity with the deed — which is why he is not merely another trace, even though his testimony, once given, can become one. This is the distinction *The Grammar of Displacement* drew between frictionless activity that leaves nothing behind and the embodied journey that leaves a path — Marco Polo's road, which has weight because he was there; the fourteen years Edmond Dantès endured in the Chateau d'If, which weigh because they were borne in the body. The witness is the deed's presence held open against its withdrawal. But witness-bearing is not possession of the past, nor does it guarantee its preservation. The witness can preserve a living continuity only so long as that continuity is embodied in someone who remains. His presence does not make the trace incorruptible; it keeps the trace from being the only thing that speaks. What he bears can be forgotten, distorted, suppressed, or lost with him. The witness therefore does not abolish the vulnerability of the past; he postpones its reduction to pure trace by keeping a present bearer alongside the trace. The counterfeiter can overwrite what the witness recorded, and more: he can work upon the witness himself — distort his memory, coerce his account, make him testify falsely to what he underwent. What he cannot reach is the undergoing. He can make the witness speak falsely about the event; he cannot thereby make the witness not have undergone it, for that would be not to alter a report but to unmake a having-been, the one thing barred to him. The testimony is a surface and can be seized. The having-witnessed is not, and can only be ended by ending the one who carries it. And while he lives, the continuity is not inert: it is a standing capacity to refuse. Set the false record before him and he can say that is not what I underwent — a present No the record itself can never utter, for a record has no interior from which to dissent and will profess whatever it has been made to profess. This is the non serviam transposed from the will's refusal of communion to the witness's refusal of the counterfeit: the one point in the whole field of representation that can withhold its assent, because it alone was there. The counterfeiter can outnumber that No, outlast it, or silence it by silencing the man. He cannot procure its agreement, and he cannot forge it, because it issues from an undergoing he never held.
+
+That last clause is the whole limit of the hope, and it must not be softened. The witness is mortal. Testimony becomes record the moment the last person who carried it withdraws in turn, and every witnessed past will, in time, decay into pure trace when its witnesses have passed — at which point the counterfeit's patient strategy, which is simply to wait, comes into its own. So presence is not an incorruptible floor. It is a held-open door, and doors held open by mortal hands eventually close. But two things must be said against despair, and they are exact. The witness does not constitute the past's resistance; he attests to a resistance already there in the having-been, which does not die when he dies. And when the last witness passes and the counterfeit stands unopposed, it has still not become true. It has become unopposed, which is a different and lesser victory — the past made ownerless, but not made other than it was. The having-been keeps its ground even with no one left to stand on it.
+
+<br>
+
+## VII. The Answer Is Not Another Record
+
+It follows that the answer to the counterfeit record is not, in the first place, a better record. The reflex of the age is to meet substitution with verification — the incorruptible archive, the cryptographic seal, the technology that certifies the trace against tampering. Let such instruments be built; they are goods, and this essay argues nothing against them. But they are records defending records, trace fortifying trace, and they do not reach the level at which the injury occurs. A sealed archive answers the question have these bits been altered. It cannot answer the question was anyone there. It secures the surface more firmly to itself; it does not restore the withdrawn interior, because no surface can. The counterfeit's power ends where presence begins, and verification is not presence. It is a very good record, and a record is the thing being counterfeited.
+
+What answers the counterfeit is what answered displacement, and the corpus has said it once already in another key. *The Grammar of Displacement* closed by answering a grammar of absence with a grammar of presence: what answers the from is an at; what answers the anytime is an hour; what answers the then is a now. The same structure holds here, transposed from space and calendar to history. What answers the substituted record is not a better record but a witness — a body, someone who underwent the deed and carries it, whose carrying is the one avenue to the past that has no surface for the counterfeiter to seize.
+
+This is why the past becomes representationally ownerless only where present bearing has already failed — where the witnesses are gone and the deed has decayed into trace, and the trace stands alone and seizable. Present bearing is what keeps the withdrawn past from becoming ownerless in that register: it keeps an owner, one who holds the deed not as a record he consults but as a history he bears. And it is why the corpus's oldest answer is its answer here too. Against a world that can reach everywhere and be present nowhere, and against a counterfeit that can render every account and attend to nothing that happened, the reply is not a better rendering. It is attendance. It is the one who was there, and stays, and carries what he saw — and, when he can carry it no longer, hands it not to a surface but to another who will bear it as he did, keeping the deed owned across the only kind of succession the counterfeit cannot forge: not the copying of a record, but the passing-on of a presence.
+
+<br>
+
+## VIII. The Deed Kept Legible
+
+*Eating Stones* ended with a refusal that kept the world legible: the Word who would not speak a word against the order His Word had established, and who, in refusing to command the stones, preserved the intelligibility of creation — each thing left continuous with what it had been, each creature speaking truthfully the meaning it was given. That refusal held the present order legible. The counterfeit of the record is the same attack moved into a tense the stone never occupied: not can this thing be made to lie about what it is, but can this deed be made to lie about what it was — and made to, now, by a hand that has no Word, that cannot convert the deed any more than it can reach it, and that therefore does not attempt the deed at all but only its trace.
+
+The counterfeiter's whole hope is that the past, having withdrawn, has become ownerless — that between the sealed and unreachable having-been and the seizable, substitutable surface, there stands no one. The answer is that someone stands there: the witness, while he lives, holding the deed present against its withdrawal; and behind the witness, needing no one to hold it, the having-been itself, armored by being over. The deed waits in the one place nothing enters and nothing edits — not to be verified, which only secures a surface, but to be witnessed, which is the only thing that ever kept a deed legible once the doing was done. He was there, and he remained, and in remaining he kept the deed what it was. The answer to the substituted record was never a better record: not the copying of a record, but the passing-on of a presence.
+
+<br><br>
+
+## References
+
+- The Holy Bible. *Proverbs* 14:5; *Matthew* 4:1-11; *Deuteronomy* 8:3; *John* 1:1-18; *Colossians* 1:15-17.
+- Vega, Lope de. *Fuenteovejuna.* c. 1612-14.
+- Dumas, Alexandre. *The Count of Monte Cristo.* Translated by Robin Buss. Penguin Classics, 2003.
+- Garcia Marquez, Gabriel. *One Hundred Years of Solitude.* Translated by Gregory Rabassa. Harper Perennial, 2006.
+- Gaitan, Oscar. *Eating Stones: The Temptation of Christ as Ontological Contradiction.* 2026.
+- Gaitan, Oscar. *The Counterfeit Plural: On Fuenteovejuna, the Algorithmic Aggregate, and the We That Cannot Bear a Cost.* 2026.
+- Gaitan, Oscar. *Occupied Plurality: On the Family, the Community, and the We That Does Not Multiply the I.* 2026.
+- Gaitan, Oscar. *The Grammar of Displacement: From, Anytime, Then.* 2026.
+- Gaitan, Oscar. *De-Roling God: On Community, Multitude, and the Displacement of the Self from the Now.* 2026.
+
+<br>
+
+{% include further-reading-en.html %}

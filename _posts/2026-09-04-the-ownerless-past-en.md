@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22308648"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22308648"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22308648/files/the-ownerless-past.pdf"
 cover: /assets/covers/the-ownerless-past-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/metaphysics/epistemology/2026/09/04/el-pasado-sin-dueno-es.html"
 
 shelf: gt-i
 ---

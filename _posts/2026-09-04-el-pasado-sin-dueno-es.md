@@ -2,7 +2,7 @@
 layout: post
 title: "El Pasado sin Dueño"
 subtitle: "Sobre la Retirada del Hecho, la Sustitución de su Traza y el Testigo que Estuvo Allí"
-description: "Sobre cómo las trazas sustituidas falsifican la historia y cómo el testigo, la travesía encarnada y la presencia siguen siendo el único límite contra el despojo representacional."
+description: "Las trazas sustituidas falsifican la historia y el testigo, la travesía encarnada y la presencia son el único límite contra el despojo representacional."
 date: 2026-09-04
 author: Oscar Gaitan
 lang: es

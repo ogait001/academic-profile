@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22358329"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22358329"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22358329/files/the-authorless-we.pdf"
 cover: /assets/covers/the-authorless-we-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/social-ontology/philosophy-of-technology/philosophy-of-mind/2026/09/05/el-nosotros-sin-autor-es.html"
 
 shelf: gt-i
 ---

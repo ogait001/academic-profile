@@ -2,7 +2,7 @@
 layout: post
 title: "El Nosotros sin Autor"
 subtitle: "Sobre el Soliloquio, la Señal, y la Evacuación de Aquel que Responde"
-description: "La sabiduría, la reflexión, el habla, la persona y la memoria se vuelven formas sin autor que conservan la apariencia exterior mientras evacúan progresivamente la presencia."
+description: "La sabiduría, la reflexión, el habla, la persona y la memoria se vuelven formas sin autor que conservan la apariencia mientras evacúan la presencia."
 date: 2026-09-05
 author: Oscar Gaitan
 lang: es

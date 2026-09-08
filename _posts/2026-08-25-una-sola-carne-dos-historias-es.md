@@ -97,7 +97,7 @@ Y, sin embargo, ocurre algo que la mera proximidad no produce. Las dos historias
 
 ## VI. El cruce sigue siendo personal
 
-En el vocabulario desarrollado en *Lemniscatas Relacionales Tangentes*, la historia de cada continuante tiene su propio cruce: su propio lugar donde la posibilidad se hace actualidad, donde el recorrido de una vida pasa de lo-que-podría-ser a lo-que-es. Ese cruce pertenece a quien lo vive. Ninguna otra parte, por íntimamente relacionada que esté, puede ocuparlo, saldarlo ni sustituirlo.
+En el vocabulario desarrollado en [*Lemniscatas Relacionales Tangentes*](https://oscargaitan.org/ontology/philosophy-of-time/phenomenology/2026/08/25/lemniscatas-relacionales-tangentes-es.html), la historia de cada continuante tiene su propio cruce: su propio lugar donde la posibilidad se hace actualidad, donde el recorrido de una vida pasa de lo-que-podría-ser a lo-que-es. Ese cruce pertenece a quien lo vive. Ninguna otra parte, por íntimamente relacionada que esté, puede ocuparlo, saldarlo ni sustituirlo.
 
 El matrimonio no transfiere esto. Un esposo no puede cruzar por su mujer; una esposa no puede cruzar por su marido. Cada uno sigue de pie, a solas, en el punto donde sus propias posibilidades se hacen su propia actualidad: en sus elecciones, en su consentimiento, en su eventual muerte. Esto no es una limitación que el matrimonio no logre superar. Es una condición que el matrimonio debe respetar para ser una comunión de personas y no la extinción de una persona por otra. Sea lo que sea lo que "una sola carne" nombre, no puede significar que un esposo empiece a cruzar en lugar del otro.
 

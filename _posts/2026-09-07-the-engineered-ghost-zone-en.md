@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Engineered Ghost Zone"
-subtitle: "On the Industrialization of the Parallel Topology, the Downward Gradient, and the We That Cannot Return"
+subtitle: "On the Industrialization of the Parallel Topology"
 description: "Industrialized parallel topology, manufactured crowds, and algorithmic supply displace reflection and presence."
 date: 2026-09-07
 author: Oscar Gaitan

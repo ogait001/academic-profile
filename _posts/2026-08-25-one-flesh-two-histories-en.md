@@ -97,7 +97,7 @@ And yet something happens that mere proximity does not produce. The two historie
 
 ## VI. The Crossing Remains Personal
 
-In the vocabulary developed in *Tangent Relational Lemniscates*, each continuant's history has its own crossing -- its own locus where possibility becomes actuality, where a life's traversal turns from what-might-be into what-is. That crossing belongs to the one who lives it. No other party, however intimately related, can occupy it, discharge it, or substitute for it.
+In the vocabulary developed in [*Tangent Relational Lemniscates*](https://oscargaitan.org/ontology/philosophy-of-time/phenomenology/2026/08/25/tangent-relational-lemniscates-en.html), each continuant's history has its own crossing -- its own locus where possibility becomes actuality, where a life's traversal turns from what-might-be into what-is. That crossing belongs to the one who lives it. No other party, however intimately related, can occupy it, discharge it, or substitute for it.
 
 Marriage does not transfer this. A husband cannot cross for his wife; a wife cannot cross for her husband. Each still stands, alone, at the point where their own possibilities become their own actuality -- in their choices, their consent, their eventual death. This is not a limitation the marriage fails to overcome. It is a condition the marriage must respect in order to be a communion of persons rather than the extinction of one person by another. Whatever "one flesh" names, it cannot mean that one spouse begins crossing on behalf of the other.
 

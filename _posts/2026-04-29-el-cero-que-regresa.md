@@ -19,7 +19,7 @@ shelf: gt-b1
 <br><br>
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/assets/images/return_to_zero.jpeg" alt="Return to Zero sketch" width="500">
+  <img src="/assets/images/return_to_zero.svg" alt="Return to Zero" width="500">
 </div>
 
 *5 + 5 ≡ 0 (mod 10)*

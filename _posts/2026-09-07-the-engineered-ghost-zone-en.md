@@ -12,11 +12,11 @@ doi: "10.5281/zenodo.22652675"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22652675"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22652675/files/the-engineered-ghost-zone.pdf"
 cover: /assets/covers/the-engineered-ghost-zone-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-technology/religious-metaphysics/theological-anthropology/2026/09/07/la-zona-fantasma-disenada-es.html"
 
 shelf: gt-c1
 series: ghost-zone
-series-order: 4
+series_order: 4
 ---
 
 <br><br>

@@ -62,7 +62,7 @@ Este ensayo avanza el marco en una nueva dirección. Mapea cuatro planos ontoló
 ## II. Los Cuatro Planos
 
 <p align="center">
-  <img src="/assets/images/cuatro_planos.png" alt="Los Cuatro Planos" width="700">
+  <img src="/assets/images/cuatro_planos.svg" alt="Los Cuatro Planos" width="700">
 </p>
 
 

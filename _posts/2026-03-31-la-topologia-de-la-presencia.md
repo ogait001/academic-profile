@@ -16,9 +16,7 @@ excerpt: "Un ensayo teológico‑antropológico que propone la Topología de Gai
 shelf: gt-a1
 ---
 
-<br>
-
-
+<br><br>
 
 ## Tabla de contenido
 
@@ -46,9 +44,7 @@ shelf: gt-a1
 - [XIV. El diagrama](#xiv-el-diagrama)
 - [Bibliografía](#bibliografía)
 
-<br>
-
----
+<br><br>
 
 ## I. De la Estructura Temporal al Mapa Ontológico
 

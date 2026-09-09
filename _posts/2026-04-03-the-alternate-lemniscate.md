@@ -54,9 +54,7 @@ shelf: gt-a1
 6. [The Master Key](#v-the-master-key)
 7. [Bibliography](#bibliography)
 
-<br>
-
----
+<br><br>
 
 ## I. The Loop Does Not Break — It Relocates
 
@@ -70,7 +68,7 @@ This is the geometric reality of what tradition calls hardness of heart: not the
 
 This matters because it explains what mere moral language cannot: why destructive patterns feel meaningful, why addiction carries its own coherence, why people defend what is visibly destroying them. The alternate lemniscate is not chaos. It is order in the wrong key.
 
----
+<br>
 
 ## II. A Taxonomy of False Centers
 
@@ -110,7 +108,7 @@ Hans Christian Andersen understood something about collective topology that no s
 
 Here the taxonomy requires the greatest care, and the Church's own language is instructive. The Catechism of the Catholic Church (nn. 2280–2283), in treating suicide, acknowledges that psychological disorders or severe fears can diminish responsibility, entrusting these souls to divine mercy. Similarly, in treating habitual sins, the Church recognizes that affective immaturity, ingrained habits, or anxiety can diminish moral culpability. This is not moral relativism — it is topological precision. Trauma is not a chosen displacement but a structural damage to the curve itself. The self is not inhabiting the future or orbiting a false center by deliberate election; it is frozen in a past coordinate, unable to navigate back to the crossing point. Trauma cannot be argued away, because it is not an argument — it is a wound in the topology.
 
----
+<br>
 
 ## III. The Mechanics of Rupture
 
@@ -120,7 +118,7 @@ Deferral is broken when the future is forced to terminate in the present — a m
 
 What is common to all six? Every rupture is a forced reconciliation between representation and reality. Every false center is a finite thing claiming infinite weight. Every rupture introduces limit — the wall of finitude is not only the mechanism of desire's collapse; it is the hidden structure of every rupture. The false center cannot bear the weight of the crossing point forever. It was never built to.
 
----
+<br>
 
 ## IV. Legion of Legions
 
@@ -152,7 +150,7 @@ Individual sin displaces a self. Collective sin displaces the horizon. And still
 
 Even Legion was sent into the swine. And the man was found — sitting, clothed, in his right mind.
 
----
+<br>
 
 ## V. The Master Key
 
@@ -168,7 +166,7 @@ And the present — the crossing point, the eternal I AM — remains exactly whe
 
 Waiting.
 
-<br>
+<br><br>
 
 ## Bibliography
 
@@ -199,7 +197,7 @@ Waiting.
 - Moore, E.H. "On the reciprocal of the general algebraic matrix." *Bulletin of the American Mathematical Society* 26 (1920): 394–395.
 - Penrose, Roger. "A generalized inverse for matrices." *Mathematical Proceedings of the Cambridge Philosophical Society* 51, no. 3 (1955): 406–413.
 
-<br><br>
+<br>
 
 {% include further-reading-en.html %}
 

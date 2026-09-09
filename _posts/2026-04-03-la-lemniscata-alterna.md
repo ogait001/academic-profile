@@ -37,9 +37,7 @@ shelf: gt-a1
 - [V. La Llave Maestra](#v-la-llave-maestra)
 - [Bibliografía](#bibliografía)
 
-<br>
-
----
+<br><br>
 
 ## I. El Bucle no se Rompe — Se Desplaza
 
@@ -53,7 +51,7 @@ Esta es la realidad geométrica de lo que la tradición llama dureza de corazón
 
 Esto importa porque explica lo que el lenguaje moral por sí solo no puede: por qué los patrones destructivos se sienten cargados de sentido, por qué la adicción posee su propia coherencia, por qué las personas defienden lo que visiblemente las destruye. La lemniscata alterna no es caos. Es orden en la clave equivocada.
 
----
+<br>
 
 ## II. Una Taxonomía de los Centros Falsos
 
@@ -93,7 +91,7 @@ Hans Christian Andersen comprendió algo sobre la topología colectiva que ning�
 
 Aquí la taxonomía exige el mayor cuidado, y el propio lenguaje de la Iglesia es instructivo. El Catecismo de la Iglesia Católica (nn. 2280–2283), al tratar el suicidio, reconoce que los trastornos psíquicos graves o el temor intenso pueden disminuir la responsabilidad, encomendando estas almas a la misericordia divina. De igual modo, al tratar los pecados habituales, la Iglesia reconoce que la inmadurez afectiva, los hábitos adquiridos o la angustia pueden atenuar la culpabilidad moral. Esto no es relativismo moral — es precisión topológica. El trauma no es un desplazamiento elegido sino un daño estructural en la curva misma. El yo no habita el futuro ni orbita un centro falso por elección deliberada; está congelado en una coordenada del pasado, incapaz de navegar de regreso al punto de cruce. El trauma no puede ser refutado mediante argumentos, porque no es un argumento — es una herida en la topología.
 
----
+<br>
 
 ## III. La Mecánica de la Ruptura
 
@@ -103,7 +101,7 @@ El aplazamiento se rompe cuando el futuro se ve forzado a terminar en el present
 
 ¿Qué tienen en común las seis? Toda ruptura es una reconciliación forzada entre representación y realidad. Todo centro falso es una cosa finita que reclama peso infinito. Toda ruptura introduce límite — el muro de la finitud no es solo el mecanismo del colapso del deseo; es la estructura oculta de toda ruptura. El centro falso no puede soportar el peso del punto de cruce eternamente. Nunca fue construido para eso.
 
----
+<br>
 
 ## IV. Legión de Legiones
 
@@ -133,7 +131,7 @@ El pecado individual desplaza a un yo. El pecado colectivo desplaza el horizonte
 
 Incluso la Legión fue enviada a los cerdos. Y el hombre fue encontrado — sentado, vestido, en su sano juicio.
 
----
+<br>
 
 ## V. La Llave Maestra
 
@@ -149,7 +147,7 @@ Y el presente — el punto de cruce, el eterno YO SOY — permanece exactamente 
 
 Esperando.
 
-<br>
+<br><br>
 
 ## Bibliografía
 

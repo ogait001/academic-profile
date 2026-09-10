@@ -1283,7 +1283,7 @@ This chapter is written in his memory, and in the hope that what could not be na
 
 <br>
 
-### II. The Ghost Zone: A Structural Definition
+### II. A Structural Definition
 
 The Ghost Zone was introduced in Chapter Two as the fourth zone of displacement — the one categorically different from the other three. The Memory Zone, the Anxiety Zone, and the Could Have Been Zone all retain some ontological anchoring in the real structure of the lemniscate. They reference events that happened, possibilities that were real, crossings that were genuinely approached. However painful their grip, they are displacements toward something real.
 

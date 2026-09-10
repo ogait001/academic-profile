@@ -1254,7 +1254,7 @@ Este capítulo está escrito en su memoria, y con la esperanza de que lo que no 
 
 <br>
 
-### II. La Zona Fantasma: Una Definición Estructural
+### II. Una Definición Estructural
 
 La Zona Fantasma fue introducida en el Capítulo Segundo como la cuarta zona de desplazamiento — la categóricamente diferente de las otras tres. La Zona de la Memoria, la Zona de la Ansiedad y la Zona del Pudo Haber Sido conservan algún anclaje ontológico en la estructura real de la lemniscata. Hacen referencia a eventos que ocurrieron, a posibilidades que fueron reales, a cruces que fueron genuinamente aproximados. Por doloroso que sea su dominio, son desplazamientos hacia algo real.
 

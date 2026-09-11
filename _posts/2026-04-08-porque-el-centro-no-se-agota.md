@@ -48,7 +48,7 @@ Un sueño, una esperanza, o — lo peor de todo — un recuerdo mantiene el bucl
 
 La esperanza muere con la persona porque nunca fue separable del desplazamiento de la persona. Era la voz del desplazamiento, hablando en tiempo futuro, diciendo «un día» en todos los idiomas que el alma conoce.
 
----
+<br>
 
 ## II. El Agua que te hace sediento otra vez
 
@@ -69,7 +69,7 @@ Un don recibido en presencia no genera sed. Genera manantial — una fuente que 
 
 Cinco maridos. Cinco órbitas. Cinco tragos. Y aún sedienta. Porque estaba bebiendo fuera del centro. Cristo la encuentra en el pozo — en el punto de cruce — y le ofrece no un sexto marido sino el agua que termina la secuencia.
 
----
+<br>
 
 ## III. La Relatividad de la Plenitud
 
@@ -91,7 +91,7 @@ Penélope y Ester esperan lo mismo. El contenido de la esperanza es idéntico: e
 
 La misma noche — cena, cansancio, una cerveza — es o la forma más ordinaria de presencia o la forma más invisible de gracia, dependiendo de si la persona está ahí. La misma carrera, recibida en el punto de cruce, produce plenitud; recibida en la curva de la serpiente, produce vacío. La topología no evalúa el contenido de la vida. Evalúa la posición desde la cual la vida es vivida. Es por esto que Cristo no le promete a la samaritana una vida mejor. Le promete una posición diferente. No mejor agua — agua viva. No un mejor marido — el fin de la secuencia. No una mejor curva — el punto de cruce mismo. El don no es contenido mejorado. El don es posición restaurada.
 
----
+<br>
 
 ## IV. La Tinaja que no se agota
 
@@ -112,7 +112,7 @@ La escasez es real — un puñado de harina, un poco de aceite — pero porque e
 
 La tinaja se agota en la curva de la serpiente porque cada trago genera una nueva sed. La tinaja nunca se agota en el punto de cruce porque cada don es recibido como completo. La diferencia no está en la tinaja. La diferencia está en la posición.
 
----
+<br>
 
 ## V. Tres Posiciones Escriturales
 
@@ -124,7 +124,7 @@ La topología produce tres posiciones distintas, cada una con su propia figura e
 
 **El punto de cruce por don: Cristo en el pozo.** No ofrece una curva mejor. No ofrece un sexto marido. Ofrece el fin de la sed misma — agua que se convierte en un manantial que brota desde dentro. No una fuente que perseguir sino una fuente que recibir. El «Yo soy» encontrando a la persona en el punto de cruce, donde el don no se agota porque el dador es el Presente Eterno. «El que beba del agua que yo le daré, no tendrá sed jamás.»
 
----
+<br>
 
 ## VI. Por qué el Centro no se agota
 
@@ -151,7 +151,7 @@ Porque el centro no es nuestro. Es dado. Y lo que es dado desde el «Yo soy» es
 
 *Yo soy — porque me fue dado.*
 
-<br>
+<br><br>
 
 ## Referencias
 

@@ -13,6 +13,8 @@ record_url: "https://zenodo.org/doi/10.5281/zenodo.22729014"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22729014/files/el-empleado-a-tres-pasos.pdf"
 cover: /assets/covers/el-empleado-a-tres-pasos-es.png
 translation_url: "https://oscargaitan.org/social-philosophy/metaphysics/social-ontology/2026/09/12/the-employee-three-feet-away-en.html"
+
+shelf: gt-i
 ---
 
 <br><br>
@@ -35,8 +37,7 @@ translation_url: "https://oscargaitan.org/social-philosophy/metaphysics/social-o
 
 ## Nota sobre la relación con obras anteriores
 
-Este ensayo toma prestados dos instrumentos ya construidos y calibrados en otras partes del corpus, en lugar de construir instrumentos nuevos. De [*El Plural Falso*](https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/social-ontology/2026/09/01/el-plural-falso-es.html#top) toma la prueba de densidad propiamente dicha: aislar al miembro mas debil, elevar el costo y preguntar si el *nosotros* se sostiene — el mismo procedimiento que los investigadores de la corona aplicaron a la aldea, aplicado ahora a una corporacion. De [*La Brecha que se Desvanece: Visión Plana, Mimetismo y el Derrumbe de la Distancia Reflexiva*](https://oscargaitan.org/philosophy-of-religion/metaphysics/social-and-political-philosophy/2026/09/03/la-brecha-que-se-desvanece-es.html)
-toma el diagnostico de la mirada plana: la eliminacion del gradiente de un campo de vision, de modo que cosas que deberian tener un peso desigual se puntuan en cambio sobre un plano llano donde nada pesa mas que nada. Ninguno de los dos ensayos fue escrito pensando en una empresa. Ambos, resulta, ya la estaban describiendo.
+Este ensayo toma prestados dos instrumentos ya construidos y calibrados en otras partes del corpus, en lugar de construir instrumentos nuevos. De [*El Plural Falso*](https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/social-ontology/2026/09/01/el-plural-falso-es.html#top) toma la prueba de densidad propiamente dicha: aislar al miembro mas debil, elevar el costo y preguntar si el *nosotros* se sostiene — el mismo procedimiento que los investigadores de la corona aplicaron a la aldea, aplicado ahora a una corporacion. De [*La Brecha que se Desvanece*](https://oscargaitan.org/philosophy-of-religion/metaphysics/social-and-political-philosophy/2026/09/03/la-brecha-que-se-desvanece-es.html)toma el diagnostico de la mirada plana: la eliminacion del gradiente de un campo de vision, de modo que cosas que deberian tener un peso desigual se puntuan en cambio sobre un plano llano donde nada pesa mas que nada. Ninguno de los dos ensayos fue escrito pensando en una empresa. Ambos, resulta, ya la estaban describiendo.
 
 <br>
 

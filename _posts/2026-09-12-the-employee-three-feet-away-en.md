@@ -7,7 +7,7 @@ date: 2026-09-12
 author: Oscar Gaitan
 lang: en
 categories: [social-philosophy, metaphysics, social-ontology]
-excerpt: "A corporation can say "we" without anyone occupying the pronoun when responsibility becomes costly, revealing the distance between representation, membership, and real institutional presence."
+excerpt: 'A corporation can say "we" without anyone occupying the pronoun when responsibility becomes costly, revealing the distance between representation, membership, and real institutional presence.'
 doi: "10.5281/zenodo.22728936"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22728936"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22728936/files/the-employee-three-feet-away.pdf"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Empleado a Tres Pasos"
-post-subtitle: "Sobre el Nosotros Corporativo, el Plural Falso y la Comunidad de un Continente de Ancho"
+subtitle: "Sobre el Nosotros Corporativo, el Plural Falso y la Comunidad de un Continente de Ancho"
 description: "¿Quién es el nosotros? Este ensayo examina la identidad corporativa, la presencia colectiva, la representación y la responsabilidad a través de Fuenteovejuna."
 date: 2026-09-12
 author: Oscar Gaitan

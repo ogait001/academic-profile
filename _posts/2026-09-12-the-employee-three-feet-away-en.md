@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22728936"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22728936"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22728936/files/the-employee-three-feet-away.pdf"
 cover: /assets/covers/the-employee-three-feet-away-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/social-philosophy/metaphysics/social-ontology/2026/09/12/el-empleado-a-tres-pasos-es.html"
 
 shelf: gt-i
 ---
@@ -37,7 +37,7 @@ shelf: gt-i
 
 ## Note on Relation to Previous Works
 
-This essay borrows two instruments already built and calibrated elsewhere in the corpus rather than constructing new ones. From [*The Counterfeit Plural*](https://oscargaitan.org/social-philosophy/social-ontology/metaphysics/2026/09/05/the-counterfeit-plural.html) it takes the density test proper: isolate the weakest member, raise the cost, and ask whether the *we* holds — the same procedure the crown's investigators ran on the village, now run on a corporation. From [*The Vanishing Gap*](https://oscargaitan.org/social-philosophy/philosophy-of-mind/metaphysics/2026/08/28/the-vanishing-gap.html) it takes the diagnosis of flat sight: the removal of gradient from a field of vision, so that things which should carry unequal weight are scored instead on a flat plane where nothing outweighs anything else. Neither essay was written with a company in mind. Both, it turns out, were already describing one.
+This essay borrows two instruments already built and calibrated elsewhere in the corpus rather than constructing new ones. From [*The Counterfeit Plural*](https://oscargaitan.org/social-and-political-philosophy/philosophy-of-technology/social-ontology/2026/09/01/the-counterfeit-plural-en.html#top) it takes the density test proper: isolate the weakest member, raise the cost, and ask whether the *we* holds — the same procedure the crown's investigators ran on the village, now run on a corporation. From [*The Vanishing Gap*](https://oscargaitan.org/philosophy-of-religion/metaphysics/social-and-political-philosophy/2026/09/03/the-vanishing-gap-en.html) it takes the diagnosis of flat sight: the removal of gradient from a field of vision, so that things which should carry unequal weight are scored instead on a flat plane where nothing outweighs anything else. Neither essay was written with a company in mind. Both, it turns out, were already describing one.
 
 <br>
 

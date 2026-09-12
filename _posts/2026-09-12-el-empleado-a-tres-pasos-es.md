@@ -19,15 +19,15 @@ shelf: gt-i
 
 <br><br>
 
-## Índice
+## Indice
 
 - [Nota sobre la relación con obras anteriores](#nota-sobre-la-relación-con-obras-anteriores)
 - [I. Las dos oraciones, y la pregunta que hay debajo](#i-las-dos-oraciones-y-la-pregunta-que-hay-debajo)
 - [II. ¿Quién puede ser aislado?](#ii-quién-puede-ser-aislado)
 - [III. La pertenencia documentada, la ocupación nunca realizada](#iii-la-pertenencia-documentada-la-ocupación-nunca-realizada)
-- [IV. La representación sin ocupación, aplicada al cuidado](#iv-la-representacion-sin-ocupacion-aplicada-al-cuidado)
+- [IV. La representación sin ocupación, aplicada al cuidado](#iv-la-representación-sin-ocupación-aplicada-al-cuidado)
 - [V. Lo que no se está diciendo](#v-lo-que-no-se-está-diciendo)
-- [VI. ¿Por qué tres pasos están más lejos que un continente?](#vi-por-qué-tres-pasos-estan-más-lejos-que-un-continente)
+- [VI. ¿Por qué tres pasos están más lejos que un continente?](#vi-por-qué-tres-pasos-están-más-lejos-que-un-continente)
 - [VII. El colapso de la distancia reflexiva en el pasillo](#vii-el-colapso-de-la-distancia-reflexiva-en-el-pasillo)
 - [VIII. Cuando el nosotros se vuelve usted](#viii-cuando-el-nosotros-se-vuelve-usted)
 - [IX. Lo que los instrumentos revelan juntos](#ix-lo-que-los-instrumentos-revelan-juntos)

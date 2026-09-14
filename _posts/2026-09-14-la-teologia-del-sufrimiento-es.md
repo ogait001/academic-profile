@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "La Teologia del Sufrimiento"
-subtitle: "Por que el sufrimiento no es el don, y que es lo que la Cruz verdaderamente da"
+title: "La Teología del Sufrimiento"
+subtitle: "Por qué el sufrimiento no es el don, y qué es lo que la Cruz verdaderamente da"
 description: "El ensayo distingue el sufrimiento mismo de la gracia por la cual el sufrimiento puede llegar a ser redentor mediante la unión con Cristo."
 date: 2026-09-14
 author: Oscar Gaitan

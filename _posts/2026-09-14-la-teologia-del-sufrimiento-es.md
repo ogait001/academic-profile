@@ -20,6 +20,10 @@ shelf: gt-b2
 
 <br><br>
 
+> *In Festo Exaltationis Sanctae Crucis*
+
+<br>
+
 > *«Si aceptamos de Dios el bien, ¿no aceptaremos también el mal?»*
 > — Job 2, 10
 

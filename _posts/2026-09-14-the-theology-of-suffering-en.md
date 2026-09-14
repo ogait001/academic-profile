@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22756203"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22756203"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22756203/files/the-theology-of-suffering.pdf"
 cover: /assets/covers/the-theology-of-suffering-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-theology/theology/philosophy-of-christianity/2026/09/14/la-teologia-del-sufrimiento-es.html"
 
 shelf: gt-b2
 ---

@@ -19,6 +19,10 @@ shelf: gt-f2
 
 <br><br>
 
+> *In Festo Exaltationis Sanctae Crucis*
+
+<br>
+
 > *No me mueve, mi Dios, para quererte*
 > *el cielo que me tienes prometido,*
 > *ni me mueve el infierno tan temido*

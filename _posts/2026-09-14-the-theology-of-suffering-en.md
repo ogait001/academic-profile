@@ -19,6 +19,10 @@ shelf: gt-b2
 
 <br><br>
 
+> *In Festo Exaltationis Sanctae Crucis*
+
+<br>
+
 > *Shall we accept good from God, and not accept adversity?*
 > — Job 2:10
 

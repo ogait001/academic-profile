@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22756334/files/la-teologia-del-s
 cover: /assets/covers/la-teologia-del-sufrimiento-es.png
 translation_url: "https://oscargaitan.org/philosophical-theology/theology/philosophy-of-christianity/2026/09/14/the-theology-of-suffering-en.html"
 
-shelf: gt-b2
+shelf: gt-f3
 
 ---
 

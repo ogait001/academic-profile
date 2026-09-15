@@ -23,26 +23,26 @@ shelf: gt-f2
 
 <br>
 
-> *No me mueve, mi Dios, para quererte*
-> *el cielo que me tienes prometido,*
-> *ni me mueve el infierno tan temido*
-> *para dejar por eso de ofenderte.*
->
-> *Tú me mueves, Señor, muéveme el verte*
-> *clavado en una cruz y escarnecido,*
-> *muéveme el ver tu cuerpo tan herido,*
-> *muévenme tus afrentas y tu muerte.*
->
-> *Muéveme, en fin, tu amor, y en tal manera,*
-> *que aunque no hubiera cielo, yo te amara,*
-> *y aunque no hubiera infierno, te temiera.*
->
-> *No me tienes que dar porque te quiera,*
-> *pues aunque lo que espero no esperara,*
-> *lo mismo que te quiero te quisiera.*
-> — Anónimo, *A Cristo crucificado,* siglo XVI–XVII
+<p><em>No me mueve, mi Dios, para quererte</em><br>
+<em>el cielo que me tienes prometido,</em><br>
+<em>ni me mueve el infierno tan temido</em><br>
+<em>para dejar por eso de ofenderte.</em></p>
 
-<br>
+<p><em>Tú me mueves, Señor, muéveme el verte</em><br>
+<em>clavado en una cruz y escarnecido;</em><br>
+<em>muéveme el ver tu cuerpo tan herido,</em><br>
+<em>muévenme tus afrentas y tu muerte.</em></p>
+
+<p><em>Muéveme, en fin, tu amor, y en tal manera,</em><br>
+<em>que aunque no hubiera cielo, yo te amara,</em><br>
+<em>y aunque no hubiera infierno, te temiera.</em></p>
+
+<p><em>No me tienes que dar porque te quiera,</em><br>
+<em>pues aunque lo que espero no esperara,</em><br>
+<em>lo mismo que te quiero te quisiera.</em><br>
+— Anónimo, <em>A Cristo crucificado</em>, siglo XVI–XVII</p>
+
+<br> 
 
 ## Indice
 
@@ -61,7 +61,7 @@ shelf: gt-f2
 
 ## Nota sobre el método
 
-Este ensayo extiende el marco de la obra anterior del autor —la lemniscata, el punto de cruce, el Ahora de espesor nulo, la condensación, la confluencia, la inercia estructural— y no añade ningún instrumento nuevo. Su propósito no es construir maquinaria, sino exponer un hábito de lectura. El trabajo es diagnóstico más que constructivo: rastrea cómo una gramática gobierna silenciosamente la percepción antes de que la doctrina siquiera entre en la oración. Como en los ensayos anteriores, el marco se ofrece como instrumento filosófico, no demostrado a partir de primeros principios, y los tratamientos de la Escritura son lecturas filosóficas antes que exégesis. Donde el ensayo toca la doctrina, lo hace como comentario junto a la tradición, no como pronunciamiento dentro de ella. La teología católica confiesa a Cristo como la segunda Persona de la Trinidad, verdadero Dios y verdadero hombre; nada de lo aquí escrito revisa esa confesión, y el ensayo lee la Cruz, a la manera de [*Consummatum Est*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est-es.html) como la imagen en la que una estructura se vuelve perfectamente visible, no como una instancia ordinaria de ella.
+Este ensayo extiende el marco de la obra anterior del autor —la lemniscata, el punto de cruce, el Ahora de espesor nulo, la condensación, la confluencia, la inercia estructural— y no añade ningún instrumento nuevo. Su propósito no es construir maquinaria, sino exponer un hábito de lectura. El trabajo es diagnóstico más que constructivo: rastrea cómo una gramática gobierna silenciosamente la percepción antes de que la doctrina siquiera entre en la oración. Como en los ensayos anteriores, el marco se ofrece como instrumento filosófico, no demostrado a partir de primeros principios, y los tratamientos de la Escritura son lecturas filosóficas antes que exégesis. Donde el ensayo toca la doctrina, lo hace como comentario junto a la tradición, no como pronunciamiento dentro de ella. La teología católica confiesa a Cristo como la segunda Persona de la Trinidad, verdadero Dios y verdadero hombre; nada de lo aquí escrito revisa esa confesión, y el ensayo lee la Cruz, a la manera de [*Consummatum Est: Densidad Temporal, Relatividad Topológica, y la Consumación del Ahora*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est-es.html) como la imagen en la que una estructura se vuelve perfectamente visible, no como una instancia ordinaria de ella.
 
 Un objetivo debe nombrarse con precisión desde el comienzo, porque la versión imprecisa de la afirmación sería indefendible. Este ensayo no sostiene que la Iglesia haya enseñado que la Cruz fuera una derrota. La liturgia de la Iglesia ha confesado consistentemente lo contrario: *por tu cruz y resurrección nos has salvado.* El objetivo es más estrecho y más difícil de descartar. Es una gramática: un modo de hablar, disponible tanto para la predicación como para el pensamiento privado, en el que el Viernes Santo se figura como una catástrofe que solo adquiere sentido porque la Pascua la revierte después. Dondequiera que esa gramática se afianza, la relación entre la Cruz y la Resurrección queda calladamente invertida, y —esta es la verdadera inquietud del ensayo— el discípulo que hereda la gramática aprende a leer mal la forma de su propia vida a lo largo de esa misma falla.
 
@@ -167,7 +167,7 @@ Si la Cruz se lee como derrota —si ser aplastado es aquello en lo que el disci
 
 La topología rechaza la conclusión de que el sufrimiento, por el mero hecho de ser sufrimiento, sea por ello santo —algo que buscar, glorificar o soportar pasivamente— sin rechazar la Cruz, y de hecho por medio de la Cruz rectamente leída. El rechazo es preciso, y no debe excederse: la fe católica sí sostiene que el sufrimiento unido a Cristo puede volverse redentor, ocasión de participación en su amor; esta es la carga de *Salvifici Doloris,* que el sufrimiento se transforma desde dentro cuando se une a la Cruz, hallando su sentido no en el dolor, sino en el amor en el que el dolor es asumido. El sufrimiento no es bueno por el mero hecho de doler; puede volverse bueno al ser asumido en el don de sí de Cristo. Lo que la topología niega es únicamente la inferencia que va de *esto duele* a *esto es, por tanto, santificante,* que es la inferencia que la gramática de la derrota calladamente autoriza. Al cristiano no se le pide glorificar el sufrimiento como tal. Se le pide una pregunta enteramente distinta, y es la pregunta que las tres fuentes de la Sección IV se mantuvieron distintas para poder formular: de lo que cargo, ¿qué es en verdad mío para cargar, y qué me exige hacer con ello la fidelidad? Esa pregunta no santifica la carga. La ordena. Lo heredado se carga, no se le imputa a la voluntad. Lo que el mundo impuso no se bautiza como veredicto de Dios; la injusticia se nombra como injusticia y, donde la fidelidad lo exige, se resiste. Lo que la voluntad misma condensó se arrepiente —genuinamente, como propio— sin disolverse en una niebla de victimismo generalizado o de culpa generalizada. La gramática de la derrota no puede formular esta pregunta, porque ya la ha respondido de antemano: *todo ello es tu cruz; sopórtalo.* Pero cargar no es lo mismo que permitir. Resistir lo que el mundo ha impuesto no es rehusar la historia que uno ha recibido. El pasado sigue siendo lo que fue; la resistencia pertenece al Ahora, donde la voluntad encuentra lo que esa historia le exige. Cargar fielmente la propia historia puede significar soportar lo que no puede deshacerse, reparar lo que puede repararse y resistir lo que no debe permitirse que continúe. La gramática de la victoria formula esta pregunta en cada Ahora.
 
-Y aquí el soneto que encabeza este ensayo dice en catorce versos lo que al argumento le ha tomado siete secciones alcanzar. *Aunque no hubiera cielo, yo te amara, / y aunque no hubiera infierno, te temiera.* El amor que el soneto confiesa no es movido ni por la recompensa prometida ni por el castigo temido; es decir, está vaciado de exactamente la estructura transaccional que la gramática de la derrota introduce de contrabando en el discipulado. No es la pasividad que soporta porque una recompensa viene en camino. Es orientación de la voluntad en el Ahora, movida por lo visto —*el verte clavado en una cruz*— sin deber nada al libro de cuentas. El contrafáctico del soneto no es una negación de que la esperanza del cielo y el temor de la separación de Dios sean legítimos; la tradición ordena a ambos dentro del amor de Dios, y el soneto no los abole. Lo que despoja es su volverse el precio: el cielo como la paga por amar a Dios, el infierno como la amenaza que coacciona el amor. Bajo el *aunque no hubiera,* la esperanza y el temor permanecen, pero ordenados dentro de un amor que se sostendría aun sin ellos. El alma del soneto es el discípulo que la topología intenta recobrar: uno cuyo amor sobreviviría incluso a la remoción de la recompensa y el castigo, porque nunca fue transaccional desde el comienzo. Ese es el amor que la Cruz enseña cuando se la lee como victoria, y el amor que la gramática de la derrota calladamente vuelve imposible.
+Y aquí el soneto que encabeza este ensayo dice en catorce versos lo que al argumento le ha tomado siete secciones alcanzar. *Aunque no hubiera cielo, yo te amara, y aunque no hubiera infierno, te temiera.* El amor que el soneto confiesa no es movido ni por la recompensa prometida ni por el castigo temido; es decir, está vaciado de exactamente la estructura transaccional que la gramática de la derrota introduce de contrabando en el discipulado. No es la pasividad que soporta porque una recompensa viene en camino. Es orientación de la voluntad en el Ahora, movida por lo visto —*el verte clavado en una cruz*— sin deber nada al libro de cuentas. El contrafáctico del soneto no es una negación de que la esperanza del cielo y el temor de la separación de Dios sean legítimos; la tradición ordena a ambos dentro del amor de Dios, y el soneto no los abole. Lo que despoja es su volverse el precio: el cielo como la paga por amar a Dios, el infierno como la amenaza que coacciona el amor. Bajo el *aunque no hubiera,* la esperanza y el temor permanecen, pero ordenados dentro de un amor que se sostendría aun sin ellos. El alma del soneto es el discípulo que la topología intenta recobrar: uno cuyo amor sobreviviría incluso a la remoción de la recompensa y el castigo, porque nunca fue transaccional desde el comienzo. Ese es el amor que la Cruz enseña cuando se la lee como victoria, y el amor que la gramática de la derrota calladamente vuelve imposible.
 
 <br>
 

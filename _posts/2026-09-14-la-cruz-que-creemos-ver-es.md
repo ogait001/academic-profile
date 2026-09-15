@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22755263/files/la-cruz-que-creem
 cover: /assets/covers/la-cruz-que-creemos-ver-es.png
 translation_url: "https://oscargaitan.org/philosophical-theology/theology-of-the-cross/christian-theology/2026/09/14/the-cross-we-think-we-see-en.html"
 
-shelf: gt-f2
+shelf: gt-f3
 ---
 
 <br><br>

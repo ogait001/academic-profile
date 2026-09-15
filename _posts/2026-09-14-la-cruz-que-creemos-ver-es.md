@@ -7,7 +7,7 @@ date: 2026-09-14
 author: Oscar Gaitan
 lang: es
 categories: [philosophical-theology, theology-of-the-cross, christian-theology]
-excerpt: "La Cruz no es derrota a la espera de reversion sino victoria consumada en Cristo. El ensayo muestra como esta gramatica reconfigura el sufrimiento, la historia, la responsabilidad y el discipulado."
+excerpt: "La Cruz no es derrota a la espera de reversión, sino victoria consumada en Cristo. El ensayo muestra cómo esta gramática reconfigura el sufrimiento, la historia, la responsabilidad y el discipulado."
 doi: "10.5281/zenodo.22755263"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22755263"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22755263/files/la-cruz-que-creemos-ver.pdf"

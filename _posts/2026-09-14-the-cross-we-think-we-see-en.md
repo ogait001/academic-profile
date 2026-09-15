@@ -23,24 +23,25 @@ shelf: gt-f2
 
 <br>
 
-> *No me mueve, mi Dios, para quererte*
-> *el cielo que me tienes prometido,*
-> *ni me mueve el infierno tan temido*
-> *para dejar por eso de ofenderte.*
->
-> *Tú me mueves, Señor, muéveme el verte*
-> *clavado en una cruz y escarnecido,*
-> *muéveme el ver tu cuerpo tan herido,*
-> *muévenme tus afrentas y tu muerte.*
->
-> *Muéveme, en fin, tu amor, y en tal manera,*
-> *que aunque no hubiera cielo, yo te amara,*
-> *y aunque no hubiera infierno, te temiera.*
->
-> *No me tienes que dar porque te quiera,*
-> *pues aunque lo que espero no esperara,*
-> *lo mismo que te quiero te quisiera.*
-> — Anónimo, *A Cristo crucificado,* siglo XVI–XVII
+<p><em>No me mueve, mi Dios, para quererte</em><br>
+<em>el cielo que me tienes prometido,</em><br>
+<em>ni me mueve el infierno tan temido</em><br>
+<em>para dejar por eso de ofenderte.</em></p>
+
+<p><em>Tú me mueves, Señor, muéveme el verte</em><br>
+<em>clavado en una cruz y escarnecido;</em><br>
+<em>muéveme el ver tu cuerpo tan herido,</em><br>
+<em>muévenme tus afrentas y tu muerte.</em></p>
+
+<p><em>Muéveme, en fin, tu amor, y en tal manera,</em><br>
+<em>que aunque no hubiera cielo, yo te amara,</em><br>
+<em>y aunque no hubiera infierno, te temiera.</em></p>
+
+<p><em>No me tienes que dar porque te quiera,</em><br>
+<em>pues aunque lo que espero no esperara,</em><br>
+<em>lo mismo que te quiero te quisiera.</em><br>
+— Anónimo, <em>A Cristo crucificado</em>, siglo XVI–XVII</p>
+
 
 <br>
 
@@ -61,7 +62,7 @@ shelf: gt-f2
 
 ## A Note on Method
 
-This essay extends the framework of the author's prior work — the lemniscate, the crossing point, the zero-thickness Now, condensation, confluence, structural inertia — and adds no new instrument. Its concern is not to build machinery but to expose a habit of reading. The work is diagnostic rather than constructive: it traces how a grammar silently governs perception before doctrine ever enters the sentence. As in the prior essays, the framework is offered as a philosophical instrument, not demonstrated from first principles, and the Scriptural engagements are philosophical readings rather than exegesis. Where the essay touches doctrine, it does so as commentary alongside the tradition, not as pronouncement within it. Catholic theology confesses Christ as the second Person of the Trinity, true God and true man; nothing here revises that confession, and the essay reads the Cross, in the manner of *Consummatum Est,* as the image in which a structure is perfectly visible — not as an ordinary instance of it.
+This essay extends the framework of the author's prior work — the lemniscate, the crossing point, the zero-thickness Now, condensation, confluence, structural inertia — and adds no new instrument. Its concern is not to build machinery but to expose a habit of reading. The work is diagnostic rather than constructive: it traces how a grammar silently governs perception before doctrine ever enters the sentence. As in the prior essays, the framework is offered as a philosophical instrument, not demonstrated from first principles, and the Scriptural engagements are philosophical readings rather than exegesis. Where the essay touches doctrine, it does so as commentary alongside the tradition, not as pronouncement within it. Catholic theology confesses Christ as the second Person of the Trinity, true God and true man; nothing here revises that confession, and the essay reads the Cross, in the manner of [*Consummatum Est: Temporal Density, Topological Relativity, and the Consummation of the Now*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/12/consummatum-est.html) as the image in which a structure is perfectly visible — not as an ordinary instance of it.
 
 One target must be named precisely at the outset, because the imprecise version of the claim would be indefensible. This essay does not argue that the Church taught the Cross to be a defeat. The Church's liturgy has consistently confessed the opposite: *by his cross and resurrection he has set us free.* The target is narrower and harder to dismiss. It is a grammar — a way of speaking, available to preaching and to private thought alike, in which Good Friday is figured as a catastrophe that only acquires meaning because Easter subsequently reverses it. Wherever that grammar takes hold, the relation between Cross and Resurrection is quietly inverted, and — this is the essay's real concern — the disciple who inherits the grammar learns to misread the shape of his own life along the same fault line.
 
@@ -71,7 +72,7 @@ One target must be named precisely at the outset, because the imprecise version 
 
 Temporal vision reads the Cross as defeat, and it reads it that way honestly, because from within temporal succession that is exactly what it looks like. A man is arrested, condemned, tortured, and killed. The movement of the loops is unmistakable: the past accumulates toward a catastrophe, the future recedes into abandonment, and the present is the slipping-away of everything that was hoped. *We had hoped that he was the one to redeem Israel.* The two on the road to Emmaus are not confused. They are reading the data available to succession, and succession delivers a corpse. But succession is only one axis of the event; the crossing point — the zero-thickness Now — reveals a dimension succession cannot register.
 
-The monograph *The Lemniscate of Time: A Geometrical Meditation on Temporality and Eternity* has already located the error in that reading, and located it structurally rather than merely correcting it with a happier conclusion. What appears as defeat from within the curve is revealed as triumph when the same event is seen in its relation to eternity — not because a later event rescues an earlier one, but because eternity intersects this crossing, and the intersection is victory in the moment that looks, along the curve, like loss. The Cross is not the prelude to victory. It is the instrument through which triumph is accomplished. *Triumphing over them in it* — Colossians says *in* the Cross, not after it. The man dying in abandonment and the decisive act of redemption are not two moments, the second repairing the first. They are one crossing, read from two dimensions.
+The monograph [*The Lemniscate of Time: A Geometrical Meditation on Temporality and Eternity*](https://doi.org/10.5281/zenodo.18684516) has already located the error in that reading, and located it structurally rather than merely correcting it with a happier conclusion. What appears as defeat from within the curve is revealed as triumph when the same event is seen in its relation to eternity — not because a later event rescues an earlier one, but because eternity intersects this crossing, and the intersection is victory in the moment that looks, along the curve, like loss. The Cross is not the prelude to victory. It is the instrument through which triumph is accomplished. *Triumphing over them in it* — Colossians says *in* the Cross, not after it. The man dying in abandonment and the decisive act of redemption are not two moments, the second repairing the first. They are one crossing, read from two dimensions.
 
 So the question this essay begins from is not *was the Cross a defeat* — the prior essay settled that the data of succession are not the whole of the case. The question is subtler and more consequential. Why, given that the tradition confesses the Cross as victory, does Christian speech so readily fall back into the grammar of defeat? And what happens to the one who carries a cross of his own when it does?
 
@@ -103,7 +104,7 @@ Before the grammar can be shown at work in a human life, one thing must be said 
 
 The target here is not the Catholic doctrine of satisfaction, expiation, or substitution. The Church truly confesses that Christ bears our sins, offers himself for us, reconciles us to the Father, and satisfies for our disobedience — and the Catechism holds these together as at once the Father's gift, the Son's free self-offering, obedience, reparation, and love. That is not the target. The target is a reductive image of those doctrines: a bookkeeping caricature in which guilt is imagined as a detachable substance transferred from one ledger to another and cancelled by a sufficient quantity of pain. Catholic tradition does not require that materialized picture, and the topology's quarrel is with the caricature, not the doctrine it deforms.
 
-The transactional caricature imagines guilt as a transferable substance: a quantity of debt lifted off the human ledger and set down on Christ's, discharged by sufficient suffering, the books then balanced. But the essays on condensation have already made that picture unavailable. A person is not a point that can carry a detachable quantity of guilt; a person is a history — *the person being sanctified is not a point; she is a history.* And *Whose Condensation Am I?* pressed the point to its root: what a person is at any Now is a confluence, the gathering at one crossing of an unranked plurality of contributions — inheritance and reception at once, the seed and the rain that never touched the seed, no line traceable back to a single owner. What arrives at the Now is not a ledger entry. It is a whole condensed condition.
+The transactional caricature imagines guilt as a transferable substance: a quantity of debt lifted off the human ledger and set down on Christ's, discharged by sufficient suffering, the books then balanced. But the essays on condensation have already made that picture unavailable. A person is not a point that can carry a detachable quantity of guilt; a person is a history — *the person being sanctified is not a point; she is a history.* And [*Whose Condensation Am I?*](https://oscargaitan.org/phenomenology/christian-theology/philosophical-anthropology/2026/08/07/whose-condensation-am-i-en.html) pressed the point to its root: what a person is at any Now is a confluence, the gathering at one crossing of an unranked plurality of contributions — inheritance and reception at once, the seed and the rain that never touched the seed, no line traceable back to a single owner. What arrives at the Now is not a ledger entry. It is a whole condensed condition.
 
 Read Christ's act through that instrument and the caricature dissolves into something the doctrine can own. Christ does not stand outside the human condition and receive a quantity transferred across a gap. He enters it. As *The Condensed Cross* argued, he assumes from within the very structure by which human beings bear history — while not assuming guilt.
 
@@ -147,7 +148,7 @@ This yields a proposition strong enough to carry the essay: the Cross does not a
 
 This is where the essay on the will becomes indispensable, because it supplies the one thing *take up your cross* actually names.
 
-*Where Are You?* established that mercy is not produced by the will's turning but received at the crossing point where it was already present — the turn does not create it; the turn receives it. And it drew the line the present essay needs exactly: the acts that preceded the address are already past, fixed, unreachable; the loops hold them now. What remains open — what is never fixed — is the orientation of the will at the Now.
+[*Where Are You? On Mercy, Will, and the Crossing Point*](https://oscargaitan.org/catholic-theology/philosophy-of-time/ontology/2026/04/12/where-are-you.html) established that mercy is not produced by the will's turning but received at the crossing point where it was already present — the turn does not create it; the turn receives it. And it drew the line the present essay needs exactly: the acts that preceded the address are already past, fixed, unreachable; the loops hold them now. What remains open — what is never fixed — is the orientation of the will at the Now.
 
 Carry that into the command and it clarifies at once. Taking up your cross is not choosing your suffering. It is choosing your orientation toward the history that has actually been given to you. You did not choose the lineage that arrived before you. You did not choose the world's deposits, or every consequence set in motion by others, or even — the point is sharper than comfort would like — everything your own past has already condensed into the person now standing at the Now. The loops are fixed. But at the Now, one thing is open: you can turn toward what the crossing point holds, or you can orient into the loops and away from it.
 
@@ -167,7 +168,7 @@ If the Cross is read as defeat — if being crushed is what discipleship essenti
 
 The topology rejects the conclusion that suffering, simply because it is suffering, is therefore holy — something to be sought, glorified, or passively endured — without rejecting the Cross, and indeed by means of the Cross rightly read. The rejection is precise, and must not overshoot: Catholic faith does hold that suffering united to Christ can become redemptive, an occasion of participation in his love — this is the burden of *Salvifici Doloris,* that suffering is transformed from within when it is joined to the Cross, its meaning found not in the pain but in the love the pain is taken up into. Suffering is not good merely because it hurts; it can become good by being taken up into Christ's self-gift. What the topology denies is only the inference from *this hurts* to *this is therefore sanctifying,* which is the inference the defeat-grammar quietly licenses. The Christian is not asked to glorify suffering as such. He is asked a different question entirely, and it is the question the three sources of Section IV were kept distinct in order to make askable: what, in what I carry, is actually mine to bear — and what does faithfulness require me to do with it? That question does not sanctify the burden. It sorts it. What is inherited is borne, not blamed on the will. What the world imposed is not baptized as God's verdict; injustice is named as injustice and, where faithfulness requires, resisted. What the will itself condensed is repented — genuinely, as one's own — not dissolved into a fog of generalized victimhood or generalized guilt. The defeat-grammar cannot ask this question, because it has already answered it in advance: *all of it is your cross; endure it.* But bearing is not the same as permitting. To resist what the world has imposed is not to refuse the history one has received. The past remains what it was; resistance belongs to the Now, where the will encounters what that history demands of it. To bear one's history faithfully can mean enduring what cannot be undone, repairing what can be repaired, and resisting what should not be allowed to continue. The victory-grammar asks it at every Now.
 
-And here the sonnet at the head of this essay says in fourteen lines what the argument has taken seven sections to reach. *Aunque no hubiera cielo, yo te amara, / y aunque no hubiera infierno, te temiera.* The love the sonnet confesses is moved by neither the promised reward nor the feared punishment — which is to say, it is emptied of exactly the transactional structure the defeat-grammar smuggles into discipleship. It is not the passivity that endures because a payoff is coming. It is orientation of the will at the Now, moved by the thing seen — *el verte clavado en una cruz* — owing nothing to the ledger. The sonnet's counterfactual is not a denial that hope of heaven and fear of separation from God are legitimate; the tradition orders both within the love of God, and the sonnet does not abolish them. What it strips away is their becoming the price — heaven as the wage paid for loving God, hell as the threat that coerces the love. Under the *aunque no hubiera,* hope and fear remain, but ordered within a love that would stand even without them. The soul of the sonnet is the disciple the topology is trying to recover: one whose love would survive even the removal of reward and punishment, because it was never transactional to begin with. That is the love the Cross teaches when it is read as victory, and the love the defeat-grammar quietly makes impossible.
+And here the sonnet at the head of this essay says in fourteen lines what the argument has taken seven sections to reach. *Aunque no hubiera cielo, yo te amara, y aunque no hubiera infierno, te temiera.* The love the sonnet confesses is moved by neither the promised reward nor the feared punishment — which is to say, it is emptied of exactly the transactional structure the defeat-grammar smuggles into discipleship. It is not the passivity that endures because a payoff is coming. It is orientation of the will at the Now, moved by the thing seen — *el verte clavado en una cruz* — owing nothing to the ledger. The sonnet's counterfactual is not a denial that hope of heaven and fear of separation from God are legitimate; the tradition orders both within the love of God, and the sonnet does not abolish them. What it strips away is their becoming the price — heaven as the wage paid for loving God, hell as the threat that coerces the love. Under the *aunque no hubiera,* hope and fear remain, but ordered within a love that would stand even without them. The soul of the sonnet is the disciple the topology is trying to recover: one whose love would survive even the removal of reward and punishment, because it was never transactional to begin with. That is the love the Cross teaches when it is read as victory, and the love the defeat-grammar quietly makes impossible.
 
 <br>
 

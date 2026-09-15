@@ -25,10 +25,10 @@ shelf: gt-f3
 
 ## Indice
 
-- [Nota sobre el método](#nota-sobre-el-metodo)
+- [Nota sobre el método](#nota-sobre-el-método)
 - [I. Dos madres ante dos muros](#i-dos-madres-ante-dos-muros)
 - [II. Carne de mi carne](#ii-carne-de-mi-carne)
-- [III. La discípula que lloró](#iii-la-discipula-que-lloro)
+- [III. La discípula que lloró](#iii-la-discípula-que-lloró)
 - [IV. Lo que la gracia hace, y lo que no hace](#iv-lo-que-la-gracia-hace-y-lo-que-no-hace)
 - [V. Entre las dos mujeres](#v-entre-las-dos-mujeres)
 - [Referencias](#referencias)

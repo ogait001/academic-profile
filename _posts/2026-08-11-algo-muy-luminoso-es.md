@@ -19,29 +19,29 @@ shelf: gt-h
 
 <br><br>
 
-> *Quiero morir cuando decline el día,*
-> *en alta mar y con la cara al cielo,*
-> *donde parezca sueño la agonía,*
-> *y el alma, un ave que remonta el vuelo.*
->
-> *No escuchar los últimos instantes,*
-> *ya con el cielo y con el mar a solas,*
-> *más voces ni plegarias sollozantes*
-> *que el majestuoso tumbo de las olas.*
->
-> *Morir cuando la luz, triste, retira*
-> *sus áureas redes de la onda verde,*
-> *y ser como ese sol que lento expira:*
-> *algo muy luminoso que se pierde.*
->
-> *Morir, y joven: antes que destruya*
-> *el tiempo aleve la gentil corona;*
-> *cuando la vida dice aún: soy tuya,*
-> *aunque sepamos bien que nos traiciona.*
->
-> — Manuel Gutiérrez Nájera, *«Para entonces»* (1887)
+<p><em>Quiero morir cuando decline el día,</em><br>
+<em>en alta mar y con la cara al cielo,</em><br>
+<em>donde parezca sueño la agonía,</em><br>
+<em>y el alma, un ave que remonta el vuelo.</em></p>
+
+<p><em>No escuchar los últimos instantes,</em><br>
+<em>ya con el cielo y con el mar a solas,</em><br>
+<em>más voces ni plegarias sollozantes</em><br>
+<em>que el majestuoso tumbo de las olas.</em></p>
+
+<p><em>Morir cuando la luz, triste, retira</em><br>
+<em>sus áureas redes de la onda verde,</em><br>
+<em>y ser como ese sol que lento expira:</em><br>
+<em>algo muy luminoso que se pierde.</em></p>
+
+<p><em>Morir, y joven: antes que destruya</em><br>
+<em>el tiempo aleve la gentil corona;</em><br>
+<em>cuando la vida dice aún: soy tuya,</em><br>
+<em>aunque sepamos bien que nos traiciona.</em><br>
+— Manuel Gutiérrez Nájera, <em>«Para entonces»</em> (1887)</p>
 
 <br>
+
 
 ## Indice
 

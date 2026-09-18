@@ -29,7 +29,7 @@ shelf: gt-a3
 
 ## Indice
 
-- [Nota sobre las fuentes y el método](#nota-sobre-las-fuentes-y-el-metodo)
+- [Nota sobre las fuentes y el método](#nota-sobre-las-fuentes-y-el-método)
 - [Resumen](#resumen)
 - [I. El giro hacia afuera](#i-el-giro-hacia-afuera)
 - [II. La objeción en su forma más fuerte](#ii-la-objeción-en-su-forma-mas-fuerte)

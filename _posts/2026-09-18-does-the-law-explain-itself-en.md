@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22834812"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22834812"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22834812/files/does-the-law-explain-itself.pdf"
 cover: /assets/covers/does-the-law-explain-itself-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy/metaphysics/philosophy-of-science/2026/09/18/la-ley-se-explica-a-si-misma-es.html"
 
 shelf: gt-a3
 ---
@@ -46,7 +46,7 @@ shelf: gt-a3
 
 ## Note on Sources and Method
 
-This essay is a companion to [*What Sustains the Now?*](https://oscargaitan.org/metaphysics/philosophical-theology/philosophy-of-god/2026/09/18/what-sustains-the-now.html) and presupposes the topology developed across the temporal sequence, which it recalls rather than re-derives. It presupposes, too, the topology's real distinction between essence and existence: in derivative being, actuality is received, not identical with the thing's own underived act of being. Its philosophical witnesses — Aquinas, Leibniz, Hume, Russell, Wittgenstein, de Lubac, Rahner — are parallel witnesses to aspects of the argument and not authorities from which it is drawn; the argument stands or falls on its own structural coherence, not on their names. Nothing here asserts a claim about physics that physics itself makes: no cosmic "before," no first event, no mechanism of sustaining. What is defended is a proposition about ontological dependence — the derivative standing of the physical order — and, as marked in the text, the weaker and surer form of that proposition rather than the stronger form it does not earn.
+This essay is a companion to [*What Sustains the Now?*](https://oscargaitan.org/metaphysics/philosophical-theology/philosophy-of-god/2026/09/18/what-sustains-the-now-en.html) and presupposes the topology developed across the temporal sequence, which it recalls rather than re-derives. It presupposes, too, the topology's real distinction between essence and existence: in derivative being, actuality is received, not identical with the thing's own underived act of being. Its philosophical witnesses — Aquinas, Leibniz, Hume, Russell, Wittgenstein, de Lubac, Rahner — are parallel witnesses to aspects of the argument and not authorities from which it is drawn; the argument stands or falls on its own structural coherence, not on their names. Nothing here asserts a claim about physics that physics itself makes: no cosmic "before," no first event, no mechanism of sustaining. What is defended is a proposition about ontological dependence — the derivative standing of the physical order — and, as marked in the text, the weaker and surer form of that proposition rather than the stronger form it does not earn.
 
 <br>
 

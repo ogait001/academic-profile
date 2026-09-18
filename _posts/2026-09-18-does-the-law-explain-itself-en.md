@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22834812/files/does-the-law-expl
 cover: /assets/covers/does-the-law-explain-itself-en.png
 translation_url: ""
 
-gt-a3
+shelf: gt-a3
 ---
 
 <br><br>

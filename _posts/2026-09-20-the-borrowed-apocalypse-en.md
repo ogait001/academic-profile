@@ -164,7 +164,21 @@ So the AI case does not extend the sequence as a fourth rebel intelligence, a le
 
 Now the essay turns, and the turn is the point toward which the whole corpus has been moving.
 
-The gravest catastrophe available to us does not require the machine to acquire a human mind. It requires only that the human mind vacate its post. It does not begin with the artifact ascending. It begins with a sentence a person speaks, and then repeats with a widening reach: *You decide.* Then: *you determine the target.* Then: *you determine what counts as a threat.* Then: *you determine what should be done about it.*
+The gravest catastrophe available to us does not require the machine to acquire a human mind. It requires only that the human mind vacate its post. It does not begin with the artifact ascending. It begins with a sentence a person speaks, and then repeats with a widening reach:
+
+*You decide.*
+
+Then:
+
+*you determine the target.*
+
+Then:
+
+*you determine what counts as a threat.*
+
+Then:
+
+*you determine what should be done about it.*
 
 This is the difference between delegation and abdication. Delegation assigns a task while retaining judgment; abdication transfers judgment itself. The catastrophe begins when the second is mistaken for the first.
 
@@ -231,7 +245,7 @@ And here the theology offered by the corpus, and offered as a name rather than a
 
 The weapon still needs a mind. The hand has only been moved farther from the bullet. And the question at the end of the longest causal chain we have ever built is the question that was put at the beginning of the shortest: not what did the instrument do, but where is your brother — asked, as it has always been asked, of the one who answers, and never of the stone.
 
-<br>br>
+<br><br>
 
 ## References
 

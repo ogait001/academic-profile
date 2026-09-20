@@ -2,7 +2,7 @@
 layout: post
 title: "¿Divide la Relatividad el Ahora?"
 subtitle: "Sobre la dilatación del tiempo, la relatividad de la simultaneidad y el Ahora que no es un corte"
-description: "La relatividad especial distingue la simultaneidad distante de la actualidad local, mostrando por qué el Ahora no necesita ser un corte compartido del espacio-tiempo ni un presente universal."
+description: "La relatividad distingue la simultaneidad distante de la actualidad local y muestra que el Ahora no requiere un corte compartido del espacio‑tiempo."
 date: 2026-09-20
 author: Oscar Gaitan
 lang: es

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22863021"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22863021"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22863021/files/the-borrowed-apocalypse.pdf"
 cover: /assets/covers/the-borrowed-apocalypse-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-artificial-intelligence/philosophy-of-technology/philosophical-theology/2026/09/20/el-apocalipsis-prestado-es.html"
 
 shelf: gt-a3
 ---

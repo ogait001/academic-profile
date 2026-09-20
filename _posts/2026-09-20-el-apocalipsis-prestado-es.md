@@ -41,7 +41,7 @@ shelf: gt-a3
 - [VI. Cuando el cerebro entrega su función a la bala](#vi-cuando-el-cerebro-entrega-su-función-a-la-bala)
 - [VII. Quien controla la entidad](#vii-quien-controla-la-entidad)
 - [VIII. Non te egeo, aplicado](#viii-non-te-egeo-aplicado)
-- [IX. Conclusión: La primera derivada aún responde](#ix-conclusión-la-primera-derivada-aun-responde)
+- [IX. Conclusión: La primera derivada aún responde](#ix-conclusión-la-primera-derivada-aún-responde)
 - [Referencias](#referencias)
 
 <br><br>

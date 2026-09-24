@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22932710"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22932710"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22932710/files/one-universe-many-crossings.pdf"
 cover: /assets/covers/one-universe-many-crossings-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-cosmology/metaphysics-of-spacetime/metaphysics-of-time/2026/09/24/un-universo-muchos-cruces-es.html"
 
 shelf: gt-a3
 ---
@@ -51,7 +51,7 @@ This essay is a companion to [*Does Relativity Divide the Now?*](https://oscarga
 
 The physics it uses is established physics, used sparingly: the relativity of distant simultaneity; the cosmologist's "cosmic time" in homogeneous models; and the existence of causal horizons. Nothing here asserts of physics what physics does not assert. In particular, nothing here pronounces on multiverse proposals in cosmology, which are questions for cosmology. The claim is only that the multiplication of crossings does not, by itself, multiply universes. One further question, exposed by this essay rather than settled in it, is marked where it arises: which temporally enduring beings instantiate the full lemniscatic figure, with its epistemic loops of memory and anticipation, and which have histories and actualizations without it. The present argument requires only the weaker premise, and the stronger question is left to its own treatment.
 
-Like its predecessor, this essay also corrects an earlier text. Alpha and Omega spoke of distant events occurring "at the same Now," identified the ground of those events with the Now, and pictured the cosmos as a single lemniscate of which we are one of the crossings. Those sentences belong to the stage of the topology before the relativity correction, and they are here reclassified: what survives is kept, what does not is withdrawn, and the reason is given in each case. The witnesses — Aquinas, Leibniz, and the Scriptures of creation — are company on the road and not authorities from which the argument descends. It stands or falls on its own structural coherence.
+Like its predecessor, this essay also corrects an earlier text. [Alpha and Omega*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html) spoke of distant events occurring "at the same Now," identified the ground of those events with the Now, and pictured the cosmos as a single lemniscate of which we are one of the crossings. Those sentences belong to the stage of the topology before the relativity correction, and they are here reclassified: what survives is kept, what does not is withdrawn, and the reason is given in each case. The witnesses — Aquinas, Leibniz, and the Scriptures of creation — are company on the road and not authorities from which the argument descends. It stands or falls on its own structural coherence.
 
 <br>
 

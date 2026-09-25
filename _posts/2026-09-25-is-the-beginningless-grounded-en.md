@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22967160/files/is-the-beginningl
 cover: /assets/covers/is-the-beginningless-grounded-en.png
 translation_url: "https://oscargaitan.org/metaphysics/philosophy-of-time/divine-eternity/2026/09/25/tiene-fundamento-lo-sin-comienzo-es.html"
 
-shelf: gt-a2
+shelf: gt-a3
 ---
 
 <br><br>

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.22981778"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.22981778"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.22981778/files/begotten-not-made.pdf"
 cover: /assets/covers/begotten-not-made-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-theology/medieval-philosophy/aquinas/2026/09/26/engendrado-no-creado-es.html"
 
 shelf: gt-a3
 ---

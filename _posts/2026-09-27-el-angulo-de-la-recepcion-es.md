@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "El angulo de la recepcion"
-subtitle: "Sobre el encuentro, la curvatura y el mundo recibido a traves de un interior curvado"
+title: "El ángulo de la recepción"
+subtitle: "Sobre el encuentro, la curvatura y el mundo recibido a través de un interior curvado"
 description: "La curvatura no es un acto que el sí mismo emite, sino la lente a través de la cual el mundo es recibido; la santificación es el lento volver a tallar esa lente."
 date: 2026-09-27
 author: Oscar Gaitan
@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23002030/files/el-angulo-de-la-r
 cover: /assets/covers/el-angulo-de-la-recepcion-es.png
 translation_url: "https://oscargaitan.org/philosophy-of-religion/moral-psychology/philosophy-of-perception/2026/09/27/the-angle-of-reception-en.html"
 
-shelf: gt-af
+shelf: gt-f
 ---
 
 <br><br>

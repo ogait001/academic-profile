@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23001752"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23001752"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23001752/files/the-angle-of-reception.pdf"
 cover: /assets/covers/the-angle-of-reception-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-religion/moral-psychology/philosophy-of-perception/2026/09/27/el-angulo-de-la-recepcion-es.html"
 
 shelf: gt-f
 ---

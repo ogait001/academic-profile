@@ -21,9 +21,9 @@ series_order: 1
 
 <br>
 
-> *"Sino porque hay distancia mas inmensa / De Dios a hombre, que de hombre a muerte."*
-> -- Luis de Gongora
-> *("For there is a distance more immense / from God to man, than from man to death.")*
+<p><em>Sino porque hay distancia más inmensa</em><br>
+<em>De Dios a hombre, que de hombre a muerte.</em><br>
+— Luis de Góngora
 >
 > *In festo S. Alphonsi Mariae de Ligorio*
 

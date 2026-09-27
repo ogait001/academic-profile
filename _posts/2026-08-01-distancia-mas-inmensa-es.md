@@ -19,13 +19,13 @@ series: ground-made-flesh
 series_order: 1
 ---
 
-<br>
-
 <p><em>Sino porque hay distancia más inmensa</em><br>
 <em>De Dios a hombre, que de hombre a muerte.</em><br>
-— Luis de Góngora
->
-> *In festo S. Alphonsi Mariae de Ligorio*
+— Luis de Góngora</p>
+
+<br><br>
+
+<p><em>In festo S. Alphonsi Mariae de Ligorio</em></p>
 
 <br>
 

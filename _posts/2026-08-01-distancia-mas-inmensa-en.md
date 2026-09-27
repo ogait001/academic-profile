@@ -22,7 +22,7 @@ series_order: 1
 <br>
 
 <p><em>Sino porque hay distancia más inmensa</em><br>
-<em>De Dios a hombre, que de hombre a muerte.</em><br>
+<em>De Dios a hombre, que de hombre a muerte.</em></p>
 — Luis de Góngora
 >
 > *In festo S. Alphonsi Mariae de Ligorio*

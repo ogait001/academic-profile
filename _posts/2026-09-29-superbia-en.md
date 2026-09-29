@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23027409"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23027409"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23027409/files/superbia.pdf"
 cover: /assets/covers/superbia-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-theology/moral-psychology/christian-philosophy/2026/09/29/superbia-es.html"
 
 shelf: gt-h
 ---

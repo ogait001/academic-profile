@@ -19,8 +19,9 @@ shelf: gt-h
 
 <br><br>
 
-> *«Mejor reinar en el Infierno que servir en el Cielo.»*
-> — John Milton, *El Paraíso Perdido,* Libro I
+> *Mejor reinar en el Infierno que servir en el Cielo.*    
+> — John Milton, *El Paraíso Perdido,* Libro I  
+
 
 > Fiesta de los Santos Arcángeles Miguel, Gabriel y Rafael
 

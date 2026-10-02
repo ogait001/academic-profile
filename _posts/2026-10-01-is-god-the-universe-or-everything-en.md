@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23093194"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23093194"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23093194/files/is-god-the-universe-or-everything.pdf"
 cover: /assets/covers/is-god-the-universe-or-everything-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy/metaphysics/philosophical-theology/2026/10/01/es-dios-el-universo-o-todo-es.html"
 
 shelf: gt-a3
 ---

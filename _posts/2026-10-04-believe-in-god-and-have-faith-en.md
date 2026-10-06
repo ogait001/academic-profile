@@ -188,9 +188,9 @@ Francis, whose memorial this is, left the world almost no arguments and the whol
 
 <br>
 
-> **Credo, Domine; adiuva incredulitatem meam**  
->
-> **I believe; help my unbelief**    
+**Credo, Domine; adiuva incredulitatem meam**    
+<br>
+**I believe; help my unbelief**      
 
 <br><br>
 

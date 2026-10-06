@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23170077"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23170077"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23170077/files/believe-in-god-and-have-faith.pdf"
 cover: /assets/covers/believe-in-god-and-have-faith-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy/metaphysics/philosophical-theology/2026/10/04/creer-en-dios-y-tener-fe-es.html"
 
 shelf: gt-b
 ---
@@ -160,7 +160,7 @@ Faith is the relation proper to a knower so placed. It is reception consented to
 
 ## X. Why Belief Alone Shudders
 
-Return now to the demons, with the apparatus in hand, and to a distinction [*God, the Universe, and the Now*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/god-the-universe-and-the-now.html) drew between two refusals. The demon has the assent relevant to credere Deum without the movement proper to credere in Deum; his assent on the point at issue is firm and compelled, and the movement of charity toward God is wholly absent. He is the limit case not of belief without any faith whatever — the tradition grants him a kind of faith, the unformed and compelled belief of one who cannot deny the signs — but of assent without charity — not human lifeless faith simply, which is still an infused gift, but its dark analogue in a will wholly turned away. His condition names, in its purest form, what that essay called the non te egeo set beside the older non serviam. The demon's difficulty is not non est Deus — he of all beings cannot say it. It is non serviam, and beneath it the colder non te egeo: the refusal not of the fact but of the end, not of the proposition but of the going-in. His assent on the point at issue is firm and his will is turned away, and the shudder is what knowledge of the Ground becomes when the will will not go toward it — belief held and the end refused, the preposition known and not entered.
+Return now to the demons, with the apparatus in hand, and to a distinction [*God, the Universe, and the Now*](https://oscargaitan.org/philosophy-of-time/catholic-theology/ontology/2026/06/07/god-the-universe-and-the-now.html) drew between two refusals. The demon has the assent relevant to credere Deum without the movement proper to credere in Deum; his assent on the point at issue is firm and compelled, and the movement of charity toward God is wholly absent. He is the limit case not of belief without any faith whatever — the tradition grants him a kind of faith, the unformed and compelled belief of one who cannot deny the signs — but of assent without charity — not human lifeless faith simply, which is still an infused gift, but its dark analogue in a will wholly turned away. His condition names, in its purest form, what that essay called the [*Non te egeo*](https://oscargaitan.org/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html) set beside the older non serviam. The demon's difficulty is not non est Deus — he of all beings cannot say it. It is non serviam, and beneath it the colder non te egeo: the refusal not of the fact but of the end, not of the proposition but of the going-in. His assent on the point at issue is firm and his will is turned away, and the shudder is what knowledge of the Ground becomes when the will will not go toward it — belief held and the end refused, the preposition known and not entered.
 
 This exposes the deep miscarriage in the evidential framing of unbelief. The honest unbeliever often locates his difficulty in the evidence: were the argument stronger, were the case for the object clearer, he would believe. But the demon has the strongest possible case — he does not infer the Ground, he cannot evade it — and the strength of the case has not produced in him a grain of charity. The thing living faith is was never waiting on the strength of a case. One can be driven to Deus est by argument, as the sequence's own essays drive the mind. No argument can drive the will into credere in Deum, because the movement is not the terminus of a proof but a free turning of the will moved by grace. The man who says he would have faith if only the evidence were better has mistaken which act is in question. Better evidence could perfect his grasp of the that. It could not perform his going-in, which only he can do, only freely, and only by a grace that argument neither contains nor supplies.
 
@@ -186,9 +186,11 @@ The title asked whether to believe in God and to have faith are one thing, and t
 
 Francis, whose memorial this is, left the world almost no arguments and the whole of the turning. He is not remembered for having established that God is; he is remembered for having received the One who had spoken and gone toward Him with the whole weight of a life, freely, and by a grace he was the first to say he had not earned. That is credere in Deum, and it is what the demons, for all they know, will not do, and what the father of the afflicted boy, for all he does not know, did. Faith is not the mind's last conclusion. It is the person's first step — credendo in eum ire, by believing, to go into Him — taken at the crossing one does not hold, toward the One in whom one already, and whether one wills it or not, lives and moves and has one's being, and by a power that same One gives for the taking of it. The demon knows the sentence and will not move. The father, knowing less and holding it less firmly, moves — and knows even the moving is not all his own, which is why his faith and his prayer are the same words. Faith has only ever had one language, and it is a prayer, and it is the prayer of the one who has the turning and begs for the rest of the assent, and for the grace to make even the begging:
 
-> ***Credo, Domine; adiuva incredulitatem meam***  
+<br>
+
+> **Credo, Domine; adiuva incredulitatem meam**  
 >
-> ***I believe; help my unbelief***  
+> **I believe; help my unbelief**    
 
 <br><br>
 

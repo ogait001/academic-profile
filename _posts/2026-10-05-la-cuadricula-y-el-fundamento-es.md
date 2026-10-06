@@ -162,7 +162,9 @@ Pero el objeto de este ensayo nunca fueron solo las viñetas; fue la forma. *El 
 Así que la respuesta a la cuadrícula no es, al final, una cuadrícula mejor —un contramema que halague el reflejo opuesto, lo cual *El circo y la jaula* advirtió que no es escape sino reubicación dentro de la misma jaula. La respuesta es la recuperación del acto mismo: el negarse a ser ensamblado en la multitud que la viñeta recluta, la insistencia en seguir siendo una persona que sopesa y no un nodo que reacciona. Y la caridad que la secuencia conserva se extiende incluso aquí, incluso al autor de la cuadrícula. Él no es el enemigo; el aplanamiento lo es. El ingenio de las viñetas es real, y la ira que hay bajo algunas de ellas —contra un dios cruel, un dios tribal, un ingeniero descuidado— es a menudo ira contra un ídolo que merece ser derribado, una ira que los profetas habrían reconocido y compartido. La tragedia es solo que derribó el ídolo y creyó haber llegado al altar, demolió al tallador y creyó haber refutado el suelo. El ídolo que tuvo razón en despreciar nunca fue Aquel que no está en ningún eje que la figura tenga. Bajo el feed hay un suelo, y el suelo fue dado, y un lector que deja de dar vueltas lo bastante para pararse en él descubre lo que la viñeta está construida, ante todo, para impedirle descubrir: que sostiene.
 
 Así, toda la respuesta se estrecha, al final, al único acto que el aparato existe para impedir: el juicio. No otro veredicto, no otra viñeta, sino la recuperación de la distancia en que una persona puede detenerse, sopesar y preguntar. Deja la cuadrícula.
+
 <br>
+
 **Quia semel coepi, loquar ad Dominum meum, cum sim pulvis et cinis**
 
 <br><br>

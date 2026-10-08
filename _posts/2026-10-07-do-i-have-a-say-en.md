@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23244961"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23244961"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23244961/files/do-i-have-a-say.pdf"
 cover: /assets/covers/do-i-have-a-say-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophical-anthropology/ethics/2026/10/07/tengo-yo-voz-y-voto-es.html"
 
 shelf: gt-d
 ---

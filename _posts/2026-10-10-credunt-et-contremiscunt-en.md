@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Credunt et Contremiscunt: On Substitution, the Intact Creed, and the Relation It Leaves Behind"
-subtitle: "They Believe, and Shudder"
+title: "Credunt et Contremiscunt"
+subtitle: "On Substitution, the Intact Creed, and the Relation It Leaves Behind"
 description: "A topology of substitution: how formal continuity, simulation, and intact belief can conceal the displacement of a living relation."
 date: 2026-10-10
 author: Oscar Gaitan
@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23286826"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23286826"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23286826/files/credunt-et-contremiscunt.pdf"
 cover: /assets/covers/credunt-et-contremiscunt-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-religion/philosophical-theology/metaphysics/2026/10/10/credunt-et-contremiscunt-es.html"
 
 shelf: gt-c2
 ---

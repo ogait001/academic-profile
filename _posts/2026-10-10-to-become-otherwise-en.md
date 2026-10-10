@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23286140"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23286140"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23286140/files/to-become-otherwise.pdf"
 cover: /assets/covers/to-become-otherwise-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/philosophical-anthropology/philosophy-of-religion/2026/10/10/llegar-a-ser-de-otro-modo-es.html"
 
 shelf: gt-c2
 ---

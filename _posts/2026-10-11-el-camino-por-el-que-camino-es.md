@@ -86,7 +86,18 @@ Así, *se hace camino al andar* es el cruce, leído por entero. El tramo siguien
 
 ## III. La senda que nunca se vuelve a pisar
 
-Luego el poema hace girar al caminante. *Al andar se hace camino, / y al volver la vista atrás / se ve la senda que nunca / se ha de volver a pisar*. Leído sin más, el verso coloca el camino a la espalda del caminante, alejándose, perdido en la distancia. El corpus no lo leerá sin más, porque ¿Qué es el Pasado? estableció que el pasado no está detrás ni en otra parte. El Ahora no tiene lados para que un camino se asiente a su lado como un pasillo se asienta junto a una habitación; y el único pasado que hay ya ha sido plegado, entero, en el Ahora que es. La pregunta que el verso impone es, por tanto, más aguda de lo que suena al principio: si la *senda* no es un lugar a la espalda, ¿por qué nunca puede volver a pisarse?
+Luego el poema hace girar al caminante.
+
+<br>
+
+*Al andar se hace camino,*    
+*al volver la vista atrás,*    
+*se ve la senda que nunca*    
+*se ha de volver a pisar.*  
+
+<br>
+
+Leído sin más, el verso coloca el camino a la espalda del caminante, alejándose, perdido en la distancia. El corpus no lo leerá sin más, porque ¿Qué es el Pasado? estableció que el pasado no está detrás ni en otra parte. El Ahora no tiene lados para que un camino se asiente a su lado como un pasillo se asienta junto a una habitación; y el único pasado que hay ya ha sido plegado, entero, en el Ahora que es. La pregunta que el verso impone es, por tanto, más aguda de lo que suena al principio: si la *senda* no es un lugar a la espalda, ¿por qué nunca puede volver a pisarse?
 
 No porque quede lejos, fuera del alcance por la distancia. Porque está cerrado. *¿Qué es el Pasado?* nombró con exactitud el operador del ser-pasado: el cierre es el cese de la recepción en un cruce —el agotamiento de lo que aquella reunión particular tenía todavía por recibir. El camino recorrido es una confluencia que ha dejado de recibir; volver a pisarlo sería reabrir un cruce que se ha cerrado, lo cual no es difícil sino imposible, del mismo modo en que ninguna subdivisión decimal reabre el intervalo que ya ha completado. El *nunca se ha de volver a pisar* de Machado es la palabra del poeta para el cierre. La imposibilidad que registra no es lejanía. Es que el cruce está terminado, y un cruce terminado no está lejos: está concluido.
 

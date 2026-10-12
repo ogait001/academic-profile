@@ -19,8 +19,11 @@ shelf: gt-c2
 
 <br><br>
 
-> *Caminante, no hay camino, / se hace camino al andar.*
-> — Antonio Machado, *Proverbios y cantares*, XXIX
+*Caminante, no hay camino,*    
+*se hace camino al andar.*    
+— Antonio Machado, *Proverbios y cantares*, XXIX  
+
+<br>
 
 > *¿Qué es más fácil, decir: «Tus pecados te son perdonados», o decir: «Levántate y anda»?*
 > — Mateo 9, 5
@@ -58,7 +61,10 @@ shelf: gt-c2
 
 ## I. Lo que el poema ya ve
 
-Los versos de Antonio Machado se citan tan a menudo, y en tantas paredes, que es fácil olvidar que son una pieza de fenomenología exacta. *Caminante, son tus huellas / el camino, y nada más*. El poema niega, en su primer aliento, que haya un camino trazado de antemano para hallarlo y seguirlo. No hay camino anterior al andar. Lo que hay es *huellas*: las marcas que quedan donde un pie ya ha caído. Y luego el verso que lo enuncia todo: *no hay camino, se hace camino al andar*. El camino no se descubre; se hace, y se hace solo en el hacerse, en el punto donde cae el paso siguiente.
+Los versos de Antonio Machado se citan tan a menudo, y en tantos muros, que es fácil olvidar que son una pieza de fenomenología exacta.  
+*Caminante, son tus huellas*    
+*el camino, y nada más.*   
+El poema niega, en su primer aliento, que haya un camino trazado de antemano para hallarlo y seguirlo. No hay camino anterior al andar. Lo que hay es *huellas*: las marcas que quedan donde un pie ya ha caído. Y luego el verso que lo enuncia todo: *no hay camino, se hace camino al andar*. El camino no se descubre; se hace, y se hace solo en el hacerse, en el punto donde cae el paso siguiente.
 
 Este corpus tiene un nombre para ese punto. Es el cruce —el Ahora, que no tiene lados ni espesor, y en el cual, y solo en él, algo se actualiza. Y tiene una doctrina de lo que allí se actualiza. El futuro, argumentaron ¿Cuándo es el Presente? y ¿Qué es el Futuro?, no es un depósito de hechos en espera a través del cual avanza un caminante, un horizonte abierto determinado en el cruce por tres co-determinantes que allí se encuentran —la palabra nombra un encuentro, no un mecanismo, pues uno de los tres es la respuesta libre de la voluntad—: las trazas que el caminante trae, lo que el mundo da sin ser solicitado y esa respuesta misma. Machado dice que el camino se hace al andar. La topología especifica las condiciones bajo las cuales ocurre ese hacerse. Las dos no son rivales; son una fenomenología y una metafísica de un mismo acontecimiento, y la primera suele ser más fiel precisamente porque no pretende hacer el trabajo de la segunda. Este ensayo no recluta al poeta en afirmaciones que no hizo. Lee la estructura que sus imágenes ya despliegan, y halla que esa estructura es una que este corpus construyó sobre otras bases.
 

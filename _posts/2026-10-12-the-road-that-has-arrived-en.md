@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Road That Has Arrived: On Memory, Charity, and the Soul's Mode of Knowing When Succession Ends"
+title: "The Road That Has Arrived"
 subtitle: "On Memory, Charity, and the Soul's Mode of Knowing When Succession Ends"
 description: "Memory, death, and the separated soul: recollection ends, intellectual retention remains, and charity binds the beloved."
 date: 2026-10-12

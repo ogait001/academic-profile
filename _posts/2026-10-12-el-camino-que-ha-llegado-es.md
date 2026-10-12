@@ -8,9 +8,9 @@ author: Oscar Gaitan
 lang: es
 categories: [philosophy-of-time, philosophical-anthropology, catholic-theology]
 excerpt: "La memoria se dirige hacia atrás, pero la muerte cambia el modo de conocer: lo recibido permanece, mientras que la caridad —no la rememoración— vincula al amado."
-doi: ""
-record_url: ""
-pdf_url: ""
+doi: "10.5281/zenodo.23323855"
+record_url: "https://zenodo.org/doi/10.5281/zenodo.23323855"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23323855/files/el-camino-que-ha-llegado.pdf"
 cover: /assets/covers/el-camino-que-ha-llegado-es.png
 translation_url: "https://oscargaitan.org/philosophy-of-time/philosophical-anthropology/catholic-theology/2026/10/12/the-road-that-has-arrived-en.html"
 

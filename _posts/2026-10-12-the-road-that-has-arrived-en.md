@@ -8,9 +8,9 @@ author: Oscar Gaitan
 lang: en
 categories: [philosophy-of-time, philosophical-anthropology, catholic-theology]
 excerpt: "Memory reaches backward, but death changes the mode of knowing: what was received remains, while charity — not recollection — binds the beloved."
-doi: ""
-record_url: ""
-pdf_url: ""
+doi: "10.5281/zenodo.23323713"
+record_url: "https://zenodo.org/doi/10.5281/zenodo.23323713"
+pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23323713/files/the-road-that-has-arrived.pdf"
 cover: /assets/covers/the-road-that-has-arrived-en.png
 translation_url: "https://oscargaitan.org/philosophy-of-time/philosophical-anthropology/catholic-theology/2026/10/12/el-camino-que-ha-llegado-es.html"
 

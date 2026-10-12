@@ -23,8 +23,8 @@ shelf: gt-c2
 *se hace camino al andar.*    
 — Antonio Machado, *Proverbios y cantares*, XXIX  
 
-> *Whether is easier, to say, Thy sins are forgiven thee: or to say, Arise, and walk?*
-> — Matthew 9:5 (Douay-Rheims)
+> *Whether is easier, to say, Thy sins are forgiven thee: or to say, Arise, and walk?*  
+> — Matthew 9:5  
 
 > *Forgetting what lies behind and straining forward to what lies ahead, I press on.*
 > — Philippians 3:13–14

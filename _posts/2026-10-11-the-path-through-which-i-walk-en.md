@@ -84,7 +84,20 @@ So *se hace camino al andar* is the crossing, read in full. The next stretch of 
 
 ## III. The Senda That Is Never Trodden Twice
 
-Then the poem turns the traveler around. *Al andar se hace camino, / y al volver la vista atrás / se ve la senda que nunca / se ha de volver a pisar* — and looking back, one sees the path one will never tread again. Read flatly, the line places the road behind the walker, receding, lost to distance. The corpus will not read it flatly, because What Is the Past? established that the past is not behind and not elsewhere. The Now has no sides for a road to sit beside it the way a hallway sits beside a room; and the only past there is has already been folded, entire, into the Now that is. The question the line forces is therefore sharper than it first sounds: if the *senda* is not a place behind, why can it never be trodden again?
+Then the poem turns the traveler around.
+
+<br>
+
+<br>
+
+*Al andar se hace camino,*    
+*y al volver la vista atrás,*    
+*se ve la senda que nunca*    
+*se ha de volver a pisar.*  
+
+<br>
+
+*And looking back, one sees the path one will never tread again*. Read flatly, the line places the road behind the walker, receding, lost to distance. The corpus will not read it flatly, because What Is the Past? established that the past is not behind and not elsewhere. The Now has no sides for a road to sit beside it the way a hallway sits beside a room; and the only past there is has already been folded, entire, into the Now that is. The question the line forces is therefore sharper than it first sounds: if the *senda* is not a place behind, why can it never be trodden again?
 
 Not because it lies far off, out of reach by distance. Because it is closed. *What Is the Past?* named the operator of pastness exactly: closure is the cessation of reception at a crossing — the exhaustion of what that particular gathering had still to receive. The road walked is a confluence that has stopped receiving; to tread it again would be to reopen a crossing that has shut, which is not difficult but impossible, in the way that no decimal subdivision reopens the interval it has already completed. Machado's *nunca se ha de volver a pisar* is the poet's word for closure. The impossibility he records is not remoteness. It is that the crossing is finished, and a finished crossing is not far away — it is done.
 
@@ -94,7 +107,7 @@ Not because it lies far off, out of reach by distance. Because it is closed. *Wh
 
 But closure removes nothing. A confluence closes the way a chord finishes sounding, not the way a document is shredded; what was gathered remains gathered, and only the gathering-in stops. What was walked, then, is not gone. It is condensed — carried, as trace, in the one who walked it. Closure is therefore not causal irrelevance: the closed crossing can receive no new act of becoming, but the trace it left is carried, operative, into every crossing that follows. And here is the inversion the poem invites and does not itself take.
 
-The traveler turns — *al volver la vista atrás* — and believes he is looking at the road. He is not. The road is no longer an object out there to be looked at; it has become the shape of the one who looks. The Angle of Reception*](https://oscargaitan.org/philosophy-of-religion/moral-psychology/philosophy-of-perception/2026/09/27/the-angle-of-reception-en.html) named this without the poem: the past is not what I look back upon; it is the shape through which I look. You do not consult your childhood, *What Is the Past?* said; you are inclined by it. The *senda* is not the object of the backward glance but the curvature of the glance itself. The traveler cannot find the road behind him because he is seeing by means of it; the backward glance mislocates what has become the shape of the glance. That it can never be trodden again does not follow from this, but from the prior fact of closure: the crossing is no longer open. The two facts meet in one consequence — there is no longer a road back there to tread, only a walker shaped like his walking.
+The traveler turns — *al volver la vista atrás* — and believes he is looking at the road. He is not. The road is no longer an object out there to be looked at; it has become the shape of the one who looks. *The Angle of Reception* named this without the poem: the past is not what I look back upon; it is the shape through which I look. You do not consult your childhood, *What Is the Past?* said; you are inclined by it. The *senda* is not the object of the backward glance but the curvature of the glance itself. The traveler cannot find the road behind him because he is seeing by means of it; the backward glance mislocates what has become the shape of the glance. That it can never be trodden again does not follow from this, but from the prior fact of closure: the crossing is no longer open. The two facts meet in one consequence — there is no longer a road back there to tread, only a walker shaped like his walking.
 
 <br>
 
@@ -102,9 +115,9 @@ The traveler turns — *al volver la vista atrás* — and believes he is lookin
 
 This permits a completion of the poem — offered, with care, in the register the poem declines. Machado writes *al andar se hace camino*, in walking the road is made, and stops where a poet rightly stops. The topology adds the half-line the image already carries and the poem had no need to state:
 
-> *Al andar se hace camino, / y el camino hecho entra en el que sigue andando.*
+> *Al andar se hace camino,* ***and the road, once made, enters the one who walks on.***  
 
-In walking the road is made; and the road, once made, enters the one who walks on. The footprint is not only pressed into the ground. Something answering to the footprint is pressed into the walker. The guard must be stated plainly, lest this read as a correction of Machado: it is not. A poem shows; it is under no obligation to state the metaphysics of what it shows, and the restraint is part of its truth. The added line is not better poetry — it is worse poetry and a piece of metaphysics, set down only to make explicit, for this corpus's purposes, the condensation the image already holds.
+The footprint is not only pressed into the ground. Something answering to the footprint is pressed into the walker. The guard must be stated plainly, lest this read as a correction of Machado: it is not. A poem shows; it is under no obligation to state the metaphysics of what it shows, and the restraint is part of its truth. The added line is not better poetry — it is worse poetry and a piece of metaphysics, set down only to make explicit, for this corpus's purposes, the condensation the image already holds.
 
 And the completion marks a difference the sea-image will press later. The *huella* on the path disperses — the rain and the years take it, and nothing out there preserves it. The *huella* in the walker does not disperse, and for the reason *What Is the Past?* gave: what was genuinely lived is not lost, not because it is filed somewhere safe behind the traveler, but because it was never left standing anywhere on its own to be lost. It is carried in the one thing still being sustained — the walker at his present step.
 

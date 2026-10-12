@@ -171,7 +171,17 @@ El pasado permanece constitutivo sin permanecer determinante: pertenece a la per
 
 ## XI. Estelas en la mar
 
-La última imagen del poema es la más difícil, porque al principio parece contradecir el corpus. *Caminante, no hay camino, / sino estelas en la mar*. Una estela es el caso más puro de lo que no puede volver a recorrerse: el agua se cierra tras el casco y no guarda marca alguna, la *senda* en el mar desaparece en el instante en que se traza, y el barco está siempre solo en su proa presente, cortando un agua que nunca ha cortado. Leído de un modo, esto es la asíntota de *¿Qué es el Futuro?*, exactamente: el mar abierto de delante se recibe solo al ser hecho el Ahora de la proa; el horizonte retrocede al ritmo de cada avance y no se alcanza en ningún punto, porque alcanzarlo es haberlo cortado.
+La última imagen del poema es la más difícil, porque al principio parece contradecir el corpus.
+
+<br>
+
+*Caminante, son tus huellas*    
+*el camino, y nada más.*  
+
+
+<br>
+
+Una estela es el caso más puro de lo que no puede volver a recorrerse: el agua se cierra tras el casco y no guarda marca alguna, la *senda* en el mar desaparece en el instante en que se traza, y el barco está siempre solo en su proa presente, cortando un agua que nunca ha cortado. Leído de un modo, esto es la asíntota de *¿Qué es el Futuro?*, exactamente: el mar abierto de delante se recibe solo al ser hecho el Ahora de la proa; el horizonte retrocede al ritmo de cada avance y no se alcanza en ningún punto, porque alcanzarlo es haberlo cortado.
 
 Pero el mar parece decir más de lo que el corpus permite —que el pasado está perdido, disperso, no guardado en ninguna parte. Aquí las dos imágenes del poema han de sostenerse juntas en vez de enfrentarse una a otra. En el agua, sí: la estela se dispersa, y no hay *senda* ahí fuera a la que volver —lo cual no es más que el punto ya ganado, que el pasado no es un lugar a la espalda. Pero la travesía no se guarda en el agua; se guarda en quien la navegó, en el rumbo que ahora sostiene. *Estelas en la mar* es verdad del camino-como-lugar: ido, imposible de recorrer de nuevo, sin territorio a la espalda —y a ello responde la afirmación del corpus de que lo que de veras se navegó no se pierde, porque nunca quedó en pie sobre el agua como para poder perderse. La estela se desvanece. La travesía está condensada en el navegante. Y la única agua que puede cortarse es el agua en la proa —es decir, el paso siguiente, es decir, el Ahora.
 
@@ -185,7 +195,7 @@ Todo lo anterior se comprime en un solo enunciado, ofrecido aquí como la afirma
 
 ## XIII. Coda
 
-El caminante se vuelve, *al volver la vista atrás*, a mirar el camino que ha recorrido, y no encuentra camino. Se encuentra a sí mismo: la *senda* plegada en el que está de pie en la proa, toda la distancia recorrida condensada en la forma de su mirar. No se le dice, ni se le iba a decir nunca, que se le haya dado otro camino ya recorrido. Las huellas están donde cayeron; la estela ya quedó atrás; nada hará que la distancia recorrida sea otra de la que fue. Se le dice lo único que deja el pasado verdadero y el paso siguiente abierto. Levántate y anda. Y da el paso hacia el agua siguiente, nunca antes recorrida y que no puede recorrerse dos veces, y que se cierra tras él —no hacia un camino al que pudiera volver, sino hacia la forma del que sigue adelante.
+El caminante se vuelve, *al volver la vista atrás*, a mirar el camino que ha recorrido, y no encuentra camino. Se encuentra a sí mismo: la *senda* plegada en el que está de pie en la proa, toda la distancia recorrida condensada en la forma de su mirar. No se le dice, ni se le iba a decir nunca, que se le haya dado otro camino ya recorrido. Las huellas están donde cayeron; la estela ya quedó atrás; nada hará que la distancia recorrida sea otra de la que fue. Se le dice lo único que deja el pasado verdadero y el paso siguiente abierto. Levántate y anda. Y da el paso sobre el agua que viene, nunca antes recorrida y que no puede recorrerse dos veces, y que se cierra tras él —no hacia un camino al que pudiera volver, sino hacia la forma del que sigue adelante.
 
 <br><br>
 

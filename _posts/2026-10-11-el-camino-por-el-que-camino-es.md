@@ -107,7 +107,7 @@ No porque quede lejos, fuera del alcance por la distancia. Porque está cerrado.
 
 Pero el cierre no quita nada. Una confluencia se cierra como termina de sonar un acorde, no como se tritura un documento; lo que fue reunido permanece reunido, y solo cesa el reunirse. Lo que fue recorrido, entonces, no se ha ido. Está condensado —portado, como traza, en quien lo recorrió. El cierre no es, por tanto, irrelevancia causal: el cruce cerrado no puede recibir ningún nuevo acto de devenir, pero la traza que dejó permanece operante y es llevada a cada cruce siguiente. Y he aquí la inversión que el poema invita y que él mismo no realiza.
 
-El caminante se vuelve —*al volver la vista atrás*— y cree que está mirando el camino. No lo está. El camino ya no es un objeto ahí fuera que mirar; se ha convertido en la forma de quien mira. El ángulo de la recepción nombró esto sin el poema: El pasado no es aquello que miro al volver la vista atrás. Es la forma a través de la cual miro. Uno no consulta su infancia, dijo *¿Qué es el Pasado?*; uno es inclinado por ella. La *senda* no es el objeto de la mirada hacia atrás, sino la curvatura de la mirada misma. El caminante no puede encontrar el camino a su espalda porque está viendo por medio de él; la mirada hacia atrás ubica mal lo que se ha convertido en la forma de la mirada. Que nunca pueda volver a pisarse no se sigue de esto, sino del hecho previo del cierre: el cruce ya no está abierto. Los dos hechos se juntan en una sola consecuencia: ya no hay un camino allá atrás que pisar, solo un caminante con la forma de su andar.
+El caminante se vuelve —*al volver la vista atrás*— y cree que está mirando el camino. No lo está. El camino ya no es un objeto ahí fuera que mirar; se ha convertido en la forma de quien mira. *El ángulo de la recepción* nombró esto sin el poema: El pasado no es aquello que miro al volver la vista atrás. Es la forma a través de la cual miro. Uno no consulta su infancia, dijo *¿Qué es el Pasado?*; uno es inclinado por ella. La *senda* no es el objeto de la mirada hacia atrás, sino la curvatura de la mirada misma. El caminante no puede encontrar el camino a su espalda porque está viendo por medio de él; la mirada hacia atrás ubica mal lo que se ha convertido en la forma de la mirada. Que nunca pueda volver a pisarse no se sigue de esto, sino del hecho previo del cierre: el cruce ya no está abierto. Los dos hechos se juntan en una sola consecuencia: ya no hay un camino allá atrás que pisar, solo un caminante con la forma de su andar.
 
 <br>
 
@@ -115,7 +115,8 @@ El caminante se vuelve —*al volver la vista atrás*— y cree que está mirand
 
 Esto permite una prolongación del poema —ofrecida, con cuidado, en un registro que el poema mismo no adopta. Machado escribe *al andar se hace camino*, y se detiene donde un poeta con razón se detiene. La topología añade el medio verso que la imagen ya lleva y que el poema no tuvo necesidad de enunciar:
 
-> *Al andar se hace camino, / y el camino hecho entra en el que sigue andando.*
+> *Al andar se hace camino,*  
+> *y el camino hecho entra en el que sigue andando.*  
 
 Al andar se hace camino; y el camino, una vez hecho, entra en el que sigue andando. La huella no solo se imprime en el suelo. Algo que responde a la huella se imprime en el caminante. La salvedad debe enunciarse con claridad, no sea que esto se lea como una corrección de Machado: no lo es. Un poema muestra; no tiene obligación alguna de enunciar la metafísica de lo que muestra, y esa contención es parte de su verdad. El verso añadido no es mejor poesía —es peor poesía y una pieza de metafísica, consignada solo para hacer explícita, para los fines de este corpus, la condensación que la imagen ya contiene.
 

@@ -59,10 +59,16 @@ shelf: gt-c2
 
 ## I. What the Poem Already Sees
 
-Antonio Machado's lines are quoted so often, and on so many walls, that it is easy to forget they are a piece of exact phenomenology.
-*Caminante, son tus huellas*    
-*el camino, y nada más.*  
-— wayfarer, your footprints are the road, and nothing more. The poem denies, in its first breath, that there is a road laid out ahead to be found and followed. There is no *camino* prior to the *andar*. What there is, is *huellas*: the marks left where a foot has already fallen. And then the line that states the whole of it — *no hay camino, se hace camino al andar*. The path is not discovered; it is made, and made only in the making, at the point where the next step falls.
+Antonio Machado's lines are quoted so often, and on so many walls, that it is easy to forget they are a piece of exact phenomenology.  
+
+<br>
+
+*Caminante, son tus huellas*      
+*el camino, y nada más.*
+
+<br>
+
+Wayfarer, your footprints are the road, and nothing more. The poem denies, in its first breath, that there is a road laid out ahead to be found and followed. There is no *camino* prior to the *andar*. What there is, is *huellas*: the marks left where a foot has already fallen. And then the line that states the whole of it — *no hay camino, se hace camino al andar*. The path is not discovered; it is made, and made only in the making, at the point where the next step falls.
 
 This corpus has a name for that point. It is the crossing — the Now, which has no sides and no thickness, at which alone anything is actualized. And it has a doctrine of what is actualized there. The future, When Is the Present? and What Is the Future? argued, is not a store of facts-in-waiting through which a traveler advances, but an open horizon determined in part at the crossing by three co-determinants meeting there — the word names a meeting, not a mechanism, for one of the three is the free response of the will: the traces the walker brings, the world's uninvited givens, and that response itself. Machado says the road is made in walking. The topology specifies the conditions under which that making occurs. The two are not rivals; they are a phenomenology and a metaphysics of one event, and the first can sometimes disclose what the second must labor to formulate. This essay does not conscript the poet into claims he did not make. It reads the structure his images already display, and finds that the structure is one this corpus built on other grounds.
 

@@ -171,7 +171,17 @@ The past remains constitutive without remaining determinative: it belongs to the
 
 ## XI. Estelas en la mar
 
-The poem's last image is the hardest, because at first it seems to contradict the corpus. *Caminante, no hay camino, / sino estelas en la mar* — there is no road, only wakes on the sea. A wake is the purest case of the un-re-walkable: the water closes behind the hull and keeps no print, the *senda* on the sea is gone the instant it is cut, and the boat is only ever at its present bow, cutting water it has never cut. Read one way this is the asymptote of *What Is the Future?*, exactly: the open sea ahead is received only by being made into the Now of the bow; the horizon recedes at the rate of every advance and is reached at no point, because to reach it is to have cut it.
+The poem's last image is the hardest, because at first it seems to contradict the corpus.
+
+<br>
+
+*Caminante, son tus huellas*      
+*el camino, y nada más.*    
+
+
+<br> 
+
+There is no road, only wakes on the sea. A wake is the purest case of the un-re-walkable: the water closes behind the hull and keeps no print, the *senda* on the sea is gone the instant it is cut, and the boat is only ever at its present bow, cutting water it has never cut. Read one way this is the asymptote of *What Is the Future?*, exactly: the open sea ahead is received only by being made into the Now of the bow; the horizon recedes at the rate of every advance and is reached at no point, because to reach it is to have cut it.
 
 But the sea seems to say more than the corpus allows — that the past is lost, dispersed, kept nowhere. Here the two images of the poem must be held together rather than played against each other. On the water, yes: the wake disperses, and there is no *senda* out there to return to — which is only the point already won, that the past is not a place behind. But the voyage is not kept on the water; it is kept in the one who sailed it, in the heading he now holds. *Estelas en la mar* is true of the road-as-place: gone, un-re-walkable, no territory behind — and answered by the corpus's claim that what was genuinely sailed is not lost, because it was never left standing on the water to be lost. The wake vanishes. The voyage is condensed in the voyager. And the only water that can be cut is the water at the bow — which is to say the next step, which is to say the Now.
 

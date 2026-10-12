@@ -12,7 +12,7 @@ doi: ""
 record_url: ""
 pdf_url: ""
 cover: /assets/covers/the-road-that-has-arrived-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophy-of-time/philosophical-anthropology/catholic-theology/2026/10/12/el-camino-que-ha-llegado-es.html"
 
 shelf: gt-a2
 ---

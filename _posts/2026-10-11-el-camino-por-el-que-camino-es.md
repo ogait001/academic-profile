@@ -91,7 +91,7 @@ Luego el poema hace girar al caminante.
 <br>
 
 *Al andar se hace camino,*    
-*al volver la vista atrás,*    
+*y al volver la vista atrás,*    
 *se ve la senda que nunca*    
 *se ha de volver a pisar.*  
 
@@ -115,8 +115,7 @@ El caminante se vuelve —*al volver la vista atrás*— y cree que está mirand
 
 Esto permite una prolongación del poema —ofrecida, con cuidado, en un registro que el poema mismo no adopta. Machado escribe *al andar se hace camino*, y se detiene donde un poeta con razón se detiene. La topología añade el medio verso que la imagen ya lleva y que el poema no tuvo necesidad de enunciar:
 
-> *Al andar se hace camino,*  
-> *y el camino hecho entra en el que sigue andando.*  
+> *Al andar se hace camino,* ***y el camino hecho entra en el que sigue andando.***    
 
 Al andar se hace camino; y el camino, una vez hecho, entra en el que sigue andando. La huella no solo se imprime en el suelo. Algo que responde a la huella se imprime en el caminante. La salvedad debe enunciarse con claridad, no sea que esto se lea como una corrección de Machado: no lo es. Un poema muestra; no tiene obligación alguna de enunciar la metafísica de lo que muestra, y esa contención es parte de su verdad. El verso añadido no es mejor poesía —es peor poesía y una pieza de metafísica, consignada solo para hacer explícita, para los fines de este corpus, la condensación que la imagen ya contiene.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "La divergencia de los términos"
 subtitle: "Sobre la caridad, la constitución y qué sucede con una comunión cuando dos historias terminan separadas"
-description: "Cuando dos vidas terminan separadas, la verdad histórica permanece: la caridad persiste, mientras que la comunión recíproca puede no alcanzar la bienaventuranza compartida."
+description: "Comunión perdida y verdad histórica permanecen: la caridad sigue, aunque la comunión ya no pueda culminar en bienaventuranza compartida."
 date: 2026-10-13
 author: Oscar Gaitan
 lang: es

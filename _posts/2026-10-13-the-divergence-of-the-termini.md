@@ -12,7 +12,9 @@ doi: "10.5281/zenodo.23352533"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23352533"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23352533/files/the-divergence-of-the-termini.pdf"
 cover: /assets/covers/the-divergence-of-the-termini-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-anthropology/thomas-aquinas/medieval-philosophy/2026/10/13/la-divergencia-de-los-terminos-es.html"
+
+shelf: gt-a2
 ---
 
 <br><br>

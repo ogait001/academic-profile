@@ -210,15 +210,159 @@ translation_url: /lexicon/
     .entry-body, .entry-chev { transition: none; }
     .entry.flash { animation: none; }
   }
+
+
+/* MEDIEVAL WALNUT THEME — page-scoped to the Lexicon/Léxico only */
+html { scroll-behavior: smooth; }
+body:has(.lx-medieval) {
+  background:
+    radial-gradient(ellipse 70% 50% at 30% 20%, rgba(80,35,10,.60) 0%, transparent 65%),
+    radial-gradient(ellipse 60% 70% at 70% 75%, rgba(40,15,5,.70) 0%, transparent 60%),
+    linear-gradient(170deg,#1e0c04 0%,#2a1108 20%,#1a0a03 40%,#241008 60%,#1c0b05 80%,#1e0c04 100%);
+  color:#e8d4a8;
+}
+body:has(.lx-medieval) .site-header {
+  background:linear-gradient(180deg,#1c0b05 0%,#2a1108 100%);
+  border-bottom:1px solid rgba(120,72,32,.78);
+}
+body:has(.lx-medieval) .site-header .wrapper {
+  max-width:1100px; margin:0 auto; padding:22px 48px !important;
+}
+body:has(.lx-medieval) .site-header nav { text-align:center; line-height:1.9; }
+body:has(.lx-medieval) .site-header nav a {
+  display:inline-block; margin:2px 10px; color:#c5a36d !important;
+  font:600 12px/1.8 system-ui,-apple-system,sans-serif;
+  letter-spacing:.06em; text-transform:uppercase; text-decoration:none;
+}
+body:has(.lx-medieval) .site-header nav a:hover { color:#e8d4a8 !important; text-decoration:underline; }
+body:has(.lx-medieval) .page-content { max-width:none; width:100%; margin:0; padding:0; background:transparent; }
+body:has(.lx-medieval) .page-content > .wrapper { max-width:none; width:100%; margin:0; padding:0; }
+body:has(.lx-medieval) .back-to-top {
+  background:#2a1108; color:#e8d4a8; border:1px solid rgba(120,72,32,.9);
+  box-shadow:0 3px 15px rgba(0,0,0,.38);
+}
+body:has(.lx-medieval) .back-to-top:hover { background:#4a210c; }
+body:has(.lx-medieval) .site-footer {
+  margin-top:0; padding:28px 24px; background:#170903;
+  border-top:1px solid rgba(120,72,32,.75); color:#ad8955;
+}
+body:has(.lx-medieval) .site-footer p { color:#ad8955; }
+body:has(.lx-medieval) .site-footer a { color:#d7ab58; }
+body:has(.lx-medieval) .site-footer a:hover { color:#f1dca9; }
+body:has(.lx-medieval) .footer-inner { max-width:850px; margin:0 auto; }
+
+.lx-medieval {
+  --ink:#e8d4a8;
+  --soft:#cfb88d;
+  --faint:#ad8957;
+  --line:rgba(145,91,42,.58);
+  --paper:rgba(24,10,4,.92);
+  --panel:rgba(48,22,8,.88);
+  --gold:#d4a04b;
+  --gold-soft:rgba(160,98,35,.72);
+  /* Keep ontological orders visually distinct against the dark ground. */
+  --t1:#b39ad2;
+  --t2:#76b88f;
+  --t3:#d69868;
+  --t4:#78aacf;
+  --t5:#d98279;
+  position:relative; isolation:isolate; overflow:hidden;
+  box-sizing:border-box; width:calc(100% - 36px); max-width:1100px;
+  margin:0 auto; padding:40px 54px 64px;
+  color:var(--ink);
+  background-image:
+    radial-gradient(ellipse 70% 50% at 30% 20%,rgba(80,35,10,.42) 0%,transparent 65%),
+    radial-gradient(ellipse 60% 70% at 70% 75%,rgba(40,15,5,.48) 0%,transparent 60%),
+    linear-gradient(170deg,#1e0c04 0%,#2a1108 20%,#1a0a03 40%,#241008 60%,#1c0b05 80%,#1e0c04 100%);
+  box-shadow:inset 0 0 0 1px rgba(120,72,32,.45);
+  font-family:"EB Garamond","Palatino Linotype",Palatino,Garamond,Georgia,serif;
+}
+.lx-medieval::before { content:""; position:absolute; inset:17px; border:1.5px solid rgba(120,72,32,.76); pointer-events:none; z-index:0; }
+.lx-medieval::after { content:""; position:absolute; inset:32px; border:1px solid rgba(100,55,22,.54); pointer-events:none; z-index:0; }
+.lx-medieval > * { position:relative; z-index:1; }
+.lx-medieval .lx-ornament {
+  text-align:center; color:rgba(172,112,44,.92); font-size:19px; letter-spacing:.55em;
+  margin:0 0 16px; text-shadow:0 0 16px rgba(150,80,10,.15);
+}
+.lx-medieval .lx-head { border-bottom-color:var(--line); padding:0 8px 1.6rem; margin-bottom:2rem; }
+.lx-medieval .lx-head::after { content:"✦"; position:relative; display:block; width:36px; margin:11px auto -27px; text-align:center; background:#211006; color:var(--gold); font-size:13px; }
+.lx-medieval .lx-eyebrow, .lx-medieval .field-label { color:#c08a3b; }
+.lx-medieval .lx-title { color:#e8d4a8; text-shadow:0 3px 12px rgba(0,0,0,.65); }
+.lx-medieval .lx-sub { color:var(--soft); }
+.lx-medieval .lx-sub + .lx-sub { color:#bda276; }
+.lx-medieval .lx-language { font-size:.8rem; letter-spacing:.04em; margin:0 0 .9rem; }
+.lx-medieval .lx-language-current { color:#e8d4a8; font-weight:700; }
+.lx-medieval .lx-language-sep { color:#946d3d; margin:0 .4rem; }
+.lx-medieval .lx-language-link { color:#c5a36d; text-decoration:none; border-bottom:1px solid rgba(197,163,109,.5); }
+.lx-medieval .lx-language-link:hover { color:#f1dca9; border-bottom-color:#d4a04b; }
+.lx-medieval .lx-search {
+  color:var(--ink); background:rgba(18,7,3,.78); border-color:rgba(145,91,42,.78);
+}
+.lx-medieval .lx-search::placeholder { color:#ab895d; opacity:1; }
+.lx-medieval .lx-search:focus { border-color:#c89b37; box-shadow:0 0 0 3px rgba(200,155,55,.13); }
+.lx-medieval .lx-filter { color:var(--soft); background:rgba(28,11,4,.92); border-color:rgba(145,91,42,.65); }
+.lx-medieval .lx-filter:hover { border-color:#c89b37; color:#f0ddb0; }
+.lx-medieval .lx-filter.active { color:#fff8e9; }
+.lx-medieval .lx-filter[data-tier="all"].active { background:#81511f; border-color:#b17a35; }
+.lx-medieval .lx-hint { color:#b18b58; }
+.lx-medieval .tier-label { color:#e8d4a8; }
+.lx-medieval .tier-desc { color:#b59a70; }
+.lx-medieval .tier-1 .tier-num { background:#73558f; }
+.lx-medieval .tier-2 .tier-num { background:#2e7950; }
+.lx-medieval .tier-3 .tier-num { background:#92532c; }
+.lx-medieval .tier-4 .tier-num { background:#2d6388; }
+.lx-medieval .tier-5 .tier-num { background:#93433d; }
+.lx-medieval .entry {
+  background:linear-gradient(165deg,rgba(48,22,8,.96),rgba(23,9,3,.97));
+  border-color:rgba(129,80,35,.76); box-shadow:inset 0 0 0 2px rgba(160,100,35,.04);
+}
+.lx-medieval .entry:hover { box-shadow:0 4px 16px rgba(0,0,0,.32),inset 0 0 0 1px rgba(201,154,75,.12); }
+.lx-medieval .entry.open { box-shadow:0 5px 18px rgba(0,0,0,.38),inset 0 0 0 1px rgba(201,154,75,.15); }
+.lx-medieval .entry.open .entry-head { background:#241008; }
+.lx-medieval .entry-name { color:#e8d4a8; }
+.lx-medieval .entry-no, .lx-medieval .entry-chev { color:#b18b58; }
+.lx-medieval .entry.open .entry-chev { color:#d4a04b; }
+.lx-medieval .entry.open .entry-head::after { color:#b18b58; }
+.lx-medieval .entry.flash { animation:lxMedievalFlash 1.1s ease; }
+@keyframes lxMedievalFlash { 0% { background:#53300f; } 100% { background:linear-gradient(165deg,rgba(48,22,8,.96),rgba(23,9,3,.97)); } }
+.lx-medieval .field-def { color:#e8d4a8; }
+.lx-medieval .field-fn { color:#cfb88d; }
+.lx-medieval .relations { border-top-color:rgba(145,91,42,.66); }
+.lx-medieval .rel-verb { color:#b18b58; }
+.lx-medieval .rel-link { color:#d3bd94; background:rgba(37,16,5,.9); border-color:rgba(145,91,42,.7); }
+.lx-medieval .rel-link:hover { background:#48240c; border-color:#c18a3c; color:#f1dca9; }
+.lx-medieval .rel-plain { color:#cfb88d; }
+.lx-medieval .axioms { border-top-color:rgba(145,91,42,.7); }
+.lx-medieval .axioms h2 { color:#e8d4a8; }
+.lx-medieval .axioms .intro { color:#bda276; }
+.lx-medieval .axiom { border-bottom-color:rgba(145,91,42,.42); }
+.lx-medieval .axiom-num { color:#d4a04b; }
+.lx-medieval .axiom-text { color:#e8d4a8; }
+.lx-medieval .lx-foot { border-top-color:rgba(145,91,42,.7); color:#ad8957; }
+.lx-medieval .lx-foot a { color:#d7ab58; }
+.lx-medieval .no-results { color:#cfb88d; }
+.lx-medieval .rel-link:focus-visible, .lx-medieval .lx-filter:focus-visible, .lx-medieval .lx-search:focus-visible { outline:2px solid #d4a04b; outline-offset:3px; }
+@media (max-width:760px) {
+  .lx-medieval { width:calc(100% - 20px); padding:30px 28px 48px; }
+  .lx-medieval::before { inset:11px; }
+  .lx-medieval::after { inset:22px; }
+}
+@media (max-width:480px) {
+  .lx-medieval { width:100%; padding:24px 22px 40px; }
+  .lx-medieval .lx-title { font-size:1.7rem; }
+  .lx-medieval .lx-head { padding-left:0; padding-right:0; }
+}
+
 </style>
 
-<div class="lx">
+<div class="lx lx-medieval">
+  <div class="lx-ornament" aria-hidden="true">❧ &nbsp; ✦ &nbsp; ❧</div>
 
   <div class="lx-head">
-    <p style="font-size:0.8rem; letter-spacing:0.04em; margin:0 0 0.9rem 0;">
-      <a href="/lexicon/" style="color:#4b4741; text-decoration:none; border-bottom:1px solid #e5ded5;">EN</a>
-      <span style="color:#c8bfb0; margin:0 0.4rem;">·</span>
-      <span style="color:#7b5e3b; font-weight:600;">ES</span>
+    <p class="lx-language">
+      <a href="/lexicon/" class="lx-language-link">EN</a>
+      <span class="lx-language-sep">·</span>
+      <span class="lx-language-current">ES</span>
     </p>
     <p class="lx-eyebrow">Topologia Gaitan · Referencia</p>
     <h1 class="lx-title">Léxico de la Topología Gaitan</h1>

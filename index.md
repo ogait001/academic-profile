@@ -940,7 +940,7 @@ The essays collected here develop an original philosophical framework at the int
 </div>
 
 
-[Open the full Lexicon →](/lexicon/)
+[Read the full Research Framework →](/research-framework/) · [Open the full Lexicon →](/lexicon/)
 
 <div class="section-divider"></div>
 

@@ -1,0 +1,273 @@
+/*
+ * Reading-room pilot for The Divergence of the Termini.
+ * Loaded only when the essay sets reading_room_pilot: true.
+ */
+
+body.reading-room-pilot-page {
+  background: #e8decc;
+  color: #34271d;
+}
+
+body.reading-room-pilot-page .site-header {
+  background: linear-gradient(180deg, #1c0b05 0%, #2a1108 100%);
+  border-bottom: 1px solid rgba(177, 116, 49, .8);
+  box-shadow: 0 3px 12px rgba(25, 12, 5, .16);
+}
+
+body.reading-room-pilot-page .site-header a,
+body.reading-room-pilot-page .site-header a:visited {
+  color: #e8d4a8 !important;
+}
+
+body.reading-room-pilot-page .site-header a:hover {
+  color: #fff1cb !important;
+  text-decoration-color: #b98943 !important;
+  text-underline-offset: .22em;
+}
+
+body.reading-room-pilot-page .page-content {
+  background: #e8decc;
+  padding: 2.1rem 0 3.2rem;
+}
+
+body.reading-room-pilot-page .page-content > .wrapper {
+  box-sizing: border-box;
+  width: calc(100% - 2.5rem);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4.5vw, 3.5rem);
+  color: #34271d;
+  background: #fbf7ef;
+  border: 1px solid #d1bb91;
+  box-shadow: 0 10px 30px rgba(57, 35, 17, .13);
+}
+
+body.reading-room-pilot-page .post-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #d8c49e;
+}
+
+body.reading-room-pilot-page .post-header .post-title {
+  margin: 0 0 .8rem;
+  color: #2b180e;
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-size: clamp(2.15rem, 4.6vw, 3.25rem);
+  font-weight: 500;
+  line-height: 1.12;
+}
+
+body.reading-room-pilot-page .post-header .post-subtitle {
+  margin: .5rem 0 1.25rem;
+  color: #735b42;
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-size: clamp(1.2rem, 2.4vw, 1.5rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+body.reading-room-pilot-page .post-header > p {
+  color: #786953;
+  font-size: .9rem;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+body.reading-room-pilot-page .post-header a,
+body.reading-room-pilot-page .post-content a,
+body.reading-room-pilot-page .post a {
+  color: #79501f;
+  text-decoration-color: #b28b52;
+  text-underline-offset: .17em;
+  overflow-wrap: anywhere;
+}
+
+body.reading-room-pilot-page .post-header a:hover,
+body.reading-room-pilot-page .post-content a:hover,
+body.reading-room-pilot-page .post a:hover {
+  color: #4d2d13;
+  text-decoration-color: #79501f;
+}
+
+body.reading-room-pilot-page .post-header a:focus-visible,
+body.reading-room-pilot-page .post-content a:focus-visible {
+  outline: 2px solid #996d32;
+  outline-offset: 3px;
+}
+
+body.reading-room-pilot-page .post-content {
+  color: #342a21;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.075rem;
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}
+
+body.reading-room-pilot-page .post-content p {
+  margin: 0 0 1.25rem;
+}
+
+body.reading-room-pilot-page .post-content h2,
+body.reading-room-pilot-page .post-content h3,
+body.reading-room-pilot-page .post-content h4 {
+  color: #392315;
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-weight: 500;
+  line-height: 1.25;
+  scroll-margin-top: 1.5rem;
+}
+
+body.reading-room-pilot-page .post-content h2 {
+  margin: 2.8rem 0 1rem;
+  padding-bottom: .42rem;
+  font-size: clamp(1.65rem, 3vw, 2.05rem);
+  border-bottom: 1px solid #e1d1b3;
+}
+
+body.reading-room-pilot-page .post-content h3 {
+  margin: 2rem 0 .7rem;
+  font-size: 1.55rem;
+}
+
+body.reading-room-pilot-page .post-content h4 {
+  margin: 1.5rem 0 .6rem;
+  font-size: 1.3rem;
+}
+
+body.reading-room-pilot-page .post-content strong,
+body.reading-room-pilot-page .post-content b {
+  color: #392719;
+}
+
+body.reading-room-pilot-page .post-content blockquote {
+  margin: 1.5rem 0 1.8rem;
+  padding: 1rem 1.35rem;
+  color: #5a4937;
+  background: #f3ead9;
+  border-left: 3px solid #a77c3e;
+  border-radius: 0 3px 3px 0;
+}
+
+body.reading-room-pilot-page .post-content blockquote p {
+  margin-bottom: .65rem;
+}
+
+body.reading-room-pilot-page .post-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+body.reading-room-pilot-page .post-content ul,
+body.reading-room-pilot-page .post-content ol {
+  margin: 0 0 1.5rem;
+  padding-left: 1.65rem;
+}
+
+body.reading-room-pilot-page .post-content li {
+  margin: .25rem 0 .45rem;
+  padding-left: .15rem;
+}
+
+body.reading-room-pilot-page .post-content hr {
+  margin: 2.3rem auto;
+  border: 0;
+  border-top: 1px solid #d8c49e;
+}
+
+body.reading-room-pilot-page .post-content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+body.reading-room-pilot-page .post-content th,
+body.reading-room-pilot-page .post-content td {
+  padding: .55rem .7rem;
+  border: 1px solid #ddceb3;
+  text-align: left;
+}
+
+body.reading-room-pilot-page .post-content th {
+  color: #392719;
+  background: #f1e7d5;
+}
+
+body.reading-room-pilot-page .post-content code {
+  padding: .08rem .25rem;
+  color: #56391e;
+  background: #f1e7d7;
+  border-radius: 3px;
+  font-size: .9em;
+}
+
+body.reading-room-pilot-page .post-content pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 1rem;
+  color: #f8edda;
+  background: #2a170d;
+  border: 1px solid #76542e;
+  border-radius: 3px;
+}
+
+body.reading-room-pilot-page .post-content pre code {
+  padding: 0;
+  color: inherit;
+  background: transparent;
+}
+
+body.reading-room-pilot-page .post-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+body.reading-room-pilot-page .site-footer {
+  color: #cfbb97;
+  background: #1e0c04;
+  border-top: 1px solid rgba(177, 116, 49, .7);
+}
+
+body.reading-room-pilot-page .site-footer a {
+  color: #e8d4a8;
+}
+
+body.reading-room-pilot-page .back-to-top {
+  color: #f7e7c4;
+  background: #2a1108;
+  border: 1px solid #a77c3e;
+}
+
+body.reading-room-pilot-page .back-to-top:hover {
+  background: #4a2812;
+}
+
+@media (max-width: 640px) {
+  body.reading-room-pilot-page .page-content {
+    padding: 1rem 0 1.8rem;
+  }
+
+  body.reading-room-pilot-page .page-content > .wrapper {
+    width: calc(100% - 1rem);
+    padding: 1.25rem 1.05rem;
+  }
+
+  body.reading-room-pilot-page .post-content {
+    font-size: 1rem;
+    line-height: 1.78;
+  }
+
+  body.reading-room-pilot-page .post-content h2 {
+    margin-top: 2.2rem;
+  }
+
+  body.reading-room-pilot-page .post-content blockquote {
+    padding: .85rem 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.reading-room-pilot-page {
+    scroll-behavior: auto;
+  }
+}

@@ -71,6 +71,9 @@
   {% endif %}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+  {% if page.reading_room_pilot %}
+  <link rel="stylesheet" href="{{ '/assets/essay-reading-room.css' | relative_url }}">
+  {% endif %}
   <style>
     html {
       scroll-behavior: smooth;
@@ -93,7 +96,7 @@
     }
   </style>
 </head>
-<body id="top">
+<body id="top"{% if page.reading_room_pilot %} class="reading-room-pilot-page"{% endif %}>
   {% include header.html %}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">

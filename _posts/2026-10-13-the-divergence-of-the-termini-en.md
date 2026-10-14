@@ -1,6 +1,5 @@
 ---
 layout: post
-reading_room_pilot: true
 title: "The Divergence of the Termini"
 subtitle: "On Charity, Constitution, and What Becomes of a Communion When Two Histories End Apart"
 description: "When two lives end apart, historical truth remains: charity persists, while reciprocal communion may not reach shared beatitude."

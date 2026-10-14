@@ -5,6 +5,9 @@ author: Oscar Gaitan
 description: Oscar Gaitan is a Nicaraguan American philosopher and independent researcher in ontology, temporality, phenomenology, metaphysical anthropology, and Catholic theology.
 ---
 
+<div class="medieval-theme-marker" aria-hidden="true"></div>
+
+
 <h1>Philosophy & Catholic Thought</h1>
 
 <p style="
@@ -602,6 +605,234 @@ h1 {
     display: none;
   }
 }
+
+
+/* ==========================================================
+   GAITAN TOPOLOGY — MEDIEVAL WALNUT & ANTIQUE-GOLD THEME
+   Page-scoped: activates only when .medieval-theme-marker exists.
+   ========================================================== */
+body:has(.medieval-theme-marker) {
+  --gt-walnut: #1e0c04;
+  --gt-walnut-deep: #120701;
+  --gt-walnut-mid: #2a1108;
+  --gt-gold: #c99a4b;
+  --gt-gold-bright: #e8d4a8;
+  --gt-gold-muted: #b58a49;
+  --gt-ink: #e2d0ad;
+  --gt-line: rgba(140, 80, 30, 0.62);
+  --gt-panel: rgba(20, 8, 3, 0.72);
+}
+
+body:has(.medieval-theme-marker) .medieval-theme-marker { display: none !important; }
+body:has(.medieval-theme-marker) {
+  color: var(--gt-ink) !important;
+  background:
+    radial-gradient(ellipse 70% 42% at 25% 6%, rgba(80,35,10,.52) 0%, transparent 68%),
+    radial-gradient(ellipse 62% 58% at 80% 78%, rgba(40,15,5,.62) 0%, transparent 70%),
+    linear-gradient(170deg, #1e0c04 0%, #2a1108 22%, #1a0a03 53%, #241008 76%, #160802 100%) !important;
+}
+body:has(.medieval-theme-marker) .page-content {
+  /* Minima's project stylesheet caps this outer element at 900px. Remove that cap
+     on these themed pages so the inner frame and book-cover grids can use their
+     intended responsive width without changing any other page. */
+  width: 100%;
+  max-width: none !important;
+  margin-inline: auto;
+  box-sizing: border-box;
+  background: transparent !important;
+  color: var(--gt-ink) !important;
+}
+body:has(.medieval-theme-marker) .page-content > .wrapper:has(.homepage-epigraph) {
+  max-width: 1000px;
+}
+body:has(.medieval-theme-marker) .page-content > .wrapper {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1320px;
+  padding: 2rem clamp(1rem, 3.3vw, 2.6rem) 3.25rem;
+  color: var(--gt-ink) !important;
+  background: linear-gradient(180deg, rgba(18,7,1,.22), rgba(18,7,1,.04));
+  border-left: 1px solid rgba(120,72,32,.30);
+  border-right: 1px solid rgba(120,72,32,.30);
+  font-family: 'EB Garamond', Garamond, Georgia, serif;
+  font-size: 1.08rem;
+}
+body:has(.medieval-theme-marker) .page-content > .wrapper::before {
+  content: '❧   ✦   ❧';
+  display: block;
+  text-align: center;
+  color: rgba(180,127,55,.76);
+  letter-spacing: .34em;
+  font-size: .95rem;
+  margin: 0 auto 1.2rem;
+}
+body:has(.medieval-theme-marker) .site-header,
+body:has(.medieval-theme-marker) .site-footer {
+  background: rgba(18,7,1,.97) !important;
+  color: #cdb27d !important;
+  border-color: rgba(120,72,32,.72) !important;
+}
+body:has(.medieval-theme-marker) .site-header {
+  border-top: 4px solid rgba(120,72,32,.9) !important;
+  border-bottom: 1px solid rgba(120,72,32,.62) !important;
+}
+body:has(.medieval-theme-marker) .site-header a,
+body:has(.medieval-theme-marker) .site-footer a {
+  color: #d8b56e !important;
+  text-decoration-color: rgba(200,155,75,.55);
+}
+body:has(.medieval-theme-marker) .site-header a:hover,
+body:has(.medieval-theme-marker) .site-footer a:hover {
+  color: #fff0c5 !important;
+}
+body:has(.medieval-theme-marker) .site-footer .footer-inner {
+  border-top: 1px solid rgba(120,72,32,.35);
+}
+body:has(.medieval-theme-marker) .back-to-top {
+  background: #2a1108 !important;
+  color: #e8d4a8 !important;
+  border: 1px solid rgba(180,127,55,.8);
+}
+body:has(.medieval-theme-marker) .page-content .wrapper h1,
+body:has(.medieval-theme-marker) .page-content .wrapper h2,
+body:has(.medieval-theme-marker) .page-content .wrapper h3,
+body:has(.medieval-theme-marker) .page-content .wrapper h4 {
+  color: var(--gt-gold-bright) !important;
+  font-family: 'EB Garamond', Garamond, Georgia, serif !important;
+  font-weight: 500;
+  text-shadow: 0 1px 8px rgba(0,0,0,.36);
+}
+body:has(.medieval-theme-marker) .page-content .wrapper h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.12;
+  letter-spacing: .015em;
+  margin-top: .4rem;
+  margin-bottom: .8rem;
+}
+body:has(.medieval-theme-marker) .page-content .wrapper h2 {
+  border-bottom: 1px solid rgba(120,72,32,.46);
+  padding-bottom: .35rem;
+  margin-top: 2rem;
+}
+body:has(.medieval-theme-marker) .page-content .wrapper h3 { color: #d8b56e !important; }
+body:has(.medieval-theme-marker) .page-content .wrapper p,
+body:has(.medieval-theme-marker) .page-content .wrapper li,
+body:has(.medieval-theme-marker) .page-content .wrapper label,
+body:has(.medieval-theme-marker) .page-content .wrapper small,
+body:has(.medieval-theme-marker) .page-content .wrapper summary {
+  color: var(--gt-ink) !important;
+}
+body:has(.medieval-theme-marker) .page-content .wrapper a {
+  color: #d8b56e;
+  text-decoration-color: rgba(200,155,75,.48);
+  text-underline-offset: .18em;
+}
+body:has(.medieval-theme-marker) .page-content .wrapper a:hover {
+  color: #fff0c5;
+  text-decoration-color: #d8b56e;
+}
+body:has(.medieval-theme-marker) .page-content .wrapper hr,
+body:has(.medieval-theme-marker) .section-divider,
+body:has(.medieval-theme-marker) .aisle-divider {
+  border-color: rgba(120,72,32,.62) !important;
+}
+body:has(.medieval-theme-marker) .section-divider {
+  border-top: 1px solid rgba(120,72,32,.58) !important;
+  opacity: .8;
+}
+body:has(.medieval-theme-marker) .hero-buttons a,
+body:has(.medieval-theme-marker) .featured-grid a,
+body:has(.medieval-theme-marker) .framework-grid div,
+body:has(.medieval-theme-marker) .framework-grid a.framework-pill,
+body:has(.medieval-theme-marker) .pill,
+body:has(.medieval-theme-marker) .pub-item,
+body:has(.medieval-theme-marker) #continueReading {
+  background: linear-gradient(145deg, rgba(42,17,8,.96), rgba(20,8,3,.96)) !important;
+  color: #e8d4a8 !important;
+  border: 1px solid rgba(120,72,32,.72) !important;
+  box-shadow: inset 0 0 0 1px rgba(185,133,54,.06), 0 4px 14px rgba(0,0,0,.14);
+}
+body:has(.medieval-theme-marker) .hero-buttons a:hover,
+body:has(.medieval-theme-marker) .featured-grid a:hover,
+body:has(.medieval-theme-marker) .framework-grid a.framework-pill:hover,
+body:has(.medieval-theme-marker) .pill:hover {
+  background: linear-gradient(145deg, #3a1b0c, #241008) !important;
+  border-color: rgba(200,155,75,.9) !important;
+}
+body:has(.medieval-theme-marker) .pub-item,
+body:has(.medieval-theme-marker) .pub-gloss .pub-item {
+  border-left: 2px solid rgba(140,80,30,.82) !important;
+  border-top-color: rgba(120,72,32,.4) !important;
+}
+body:has(.medieval-theme-marker) .pub-item a strong,
+body:has(.medieval-theme-marker) .pub-item summary,
+body:has(.medieval-theme-marker) .pub-title {
+  color: #e8d4a8 !important;
+}
+body:has(.medieval-theme-marker) .pub-item summary::before { color: #c99a4b !important; }
+body:has(.medieval-theme-marker) .pub-item p,
+body:has(.medieval-theme-marker) .pub-abstract { color: #d6c19b !important; }
+body:has(.medieval-theme-marker) .homepage-epigraph {
+  border-left: 1px solid rgba(140,80,30,.8);
+  padding-left: 1rem;
+}
+body:has(.medieval-theme-marker) .epigraph-text { color: #e2d0ad !important; }
+body:has(.medieval-theme-marker) .epigraph-author { color: #bda16b !important; }
+body:has(.medieval-theme-marker) .site-author,
+body:has(.medieval-theme-marker) .hero-description,
+body:has(.medieval-theme-marker) .hero-audience,
+body:has(.medieval-theme-marker) .site-subtitle { color: #d2bd95 !important; }
+body:has(.medieval-theme-marker) .about-photo img {
+  border: 1px solid rgba(140,80,30,.72) !important;
+  box-shadow: 0 5px 18px rgba(0,0,0,.35);
+}
+body:has(.medieval-theme-marker) .aisle-index {
+  background: rgba(15,6,2,.78) !important;
+  border: 1px solid rgba(120,72,32,.72) !important;
+  border-radius: 8px;
+  box-shadow: inset 0 0 0 1px rgba(185,133,54,.06);
+}
+body:has(.medieval-theme-marker) .aisle-index a,
+body:has(.medieval-theme-marker) .aisle-index .aisle-code,
+body:has(.medieval-theme-marker) .aisle-section h2 .aisle-code { color: #d0a35d !important; }
+body:has(.medieval-theme-marker) .shelf-block h3 { color: #cfb581 !important; }
+body:has(.medieval-theme-marker) .cover-card img {
+  border: 1px solid rgba(120,72,32,.5);
+  box-shadow: 0 7px 20px rgba(0,0,0,.42), 0 0 0 1px rgba(185,133,54,.08);
+}
+body:has(.medieval-theme-marker) .view-toggle { border-color: rgba(140,80,30,.8) !important; }
+body:has(.medieval-theme-marker) .view-toggle button,
+body:has(.medieval-theme-marker) .sort-container select {
+  background: #1c0a03 !important;
+  color: #e2d0ad !important;
+  border-color: rgba(140,80,30,.72) !important;
+}
+body:has(.medieval-theme-marker) .view-toggle button.active {
+  background: #5a2020 !important;
+  color: #f3dfb1 !important;
+}
+body:has(.medieval-theme-marker) #continueReading button {
+  color: #e8d4a8 !important;
+}
+body:has(.medieval-theme-marker) .featured-grid a[data-excerpt]::after {
+  background: #170802 !important;
+  color: #e8d4a8 !important;
+  border: 1px solid rgba(140,80,30,.82);
+}
+@media (max-width: 640px) {
+  body:has(.medieval-theme-marker) .page-content > .wrapper {
+    padding: 1.35rem 1rem 2.2rem;
+    border-left: 0;
+    border-right: 0;
+  }
+  body:has(.medieval-theme-marker) .page-content > .wrapper::before {
+    margin-bottom: .75rem;
+    letter-spacing: .22em;
+  }
+  body:has(.medieval-theme-marker) .page-content .wrapper h1 { font-size: 1.9rem; }
+}
+
 </style>
 
 <div class="section-divider"></div>

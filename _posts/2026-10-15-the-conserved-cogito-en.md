@@ -12,7 +12,7 @@ doi: ""
 record_url: ""
 pdf_url: ""
 cover: /assets/covers/the-conserved-cogito-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/rene-descartes/metaphysical-grounding/divine-attributes/2026/10/15/el-cogito-conservado-es.html"
 
 shelf: gt-b1
 ---

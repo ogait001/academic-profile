@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23438701"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23438701"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23438701/files/who-was-before-me-or-myself.pdf"
 cover: /assets/covers/who-was-before-me-or-myself-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-theology/philosophy-of-mind/thomas-aquinas/2026/10/17/quien-fue-antes-de-mi-es.html"
 
 shelf: gt-c
 ---

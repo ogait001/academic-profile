@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23455243/files/el-yo-que-debe-at
 cover: /assets/covers/el-yo-que-debe-atravesar-es.png
 translation_url: "https://oscargaitan.org/philosophical-anthropology/philosophy-of-mind/philosophical-theology/2026/10/18/the-self-that-must-traverse-en.html"
 
-shelf: gtc
+shelf: gt-c
 ---
 
 <br><br>

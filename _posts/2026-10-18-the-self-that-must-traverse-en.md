@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Self That Must Traverse"
-subtitle: "On the Two Necessities Hidden in \"Must,\" Temporal Persistence, and the Subject Who Remains"
+subtitle: "On the Two Necessities Hidden in "Must," Temporal Persistence, and the Subject Who Remains"
 description: "A metaphysical study of traversal, persistence, and why a self can undergo change without being constituted or grounded by change."
 date: 2026-10-18
 author: Oscar Gaitan
@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23455180"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23455180"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23455180/files/the-self-that-must-traverse.pdf"
 cover: /assets/covers/the-self-that-must-traverse-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-anthropology/philosophy-of-mind/philosophical-theology/2026/10/18/el-yo-que-debe-atravesar-es.html"
 
 shelf: gt-c
 ---

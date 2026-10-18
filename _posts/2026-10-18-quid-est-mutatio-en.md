@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23455364"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23455364"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23455364/files/quid-est-mutatio.pdf"
 cover: /assets/covers/quid-est-mutatio-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophy-of-time/2026/10/18/quid-est-mutatio-es.html"
 
 shelf: gt-c
 ---

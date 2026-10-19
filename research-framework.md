@@ -212,9 +212,6 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <div class="header-links"><a class="action-link" href="/lexicon/">Explore the full Lexicon <span aria-hidden="true">↗</span></a><a class="action-link" href="/lexico/">Leer en español <span aria-hidden="true">↗</span></a></div>
 </header>
 <section aria-labelledby="dependency-title" class="section">
-<p class="section-kicker">01 · At a glance</p><h2 id="dependency-title">The core dependency</h2>
-<p class="section-intro">A compact map of the framework's central relations before the individual terms are opened below.</p>
-<section aria-labelledby="dependency-title" class="section">
   <p class="section-kicker">01 · At a glance</p>
   <h2 id="dependency-title">The core dependency</h2>
 

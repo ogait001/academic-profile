@@ -216,7 +216,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <p class="section-intro">A compact map of the framework's central relations before the individual terms are opened below.</p>
 <div class="dependency">
 <div aria-label="Explanatory dependency map" class="flow">
-<div class="flow-step"><span class="flow-n">01</span><span class="flow-title">Non-derivative</span><span class="flow-sub">Ground</span></div>
+<div class="flow-step"><span class="flow-n">01</span><span class="flow-title">Non-Derivative</span><span class="flow-sub">Ground</span></div>
 <div class="flow-step"><span class="flow-n">02</span><span class="flow-title">Invariant Now</span><span class="flow-sub">Condition of actualization</span></div>
 <div class="flow-step"><span class="flow-n">03</span><span class="flow-title">Condensation</span><span class="flow-sub">Constitution at the Now</span><span class="flow-join"><span>Inheritance</span><span>Reception</span></span></div>
 <div class="flow-step"><span class="flow-n">04</span><span class="flow-title">Present</span><span class="flow-sub">Constituted actuality</span></div>
@@ -237,12 +237,12 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <article class="term-card" id="non-derivative">
 <button aria-controls="detail-non-derivative" aria-expanded="false" class="term-toggle" type="button">
 <span class="term-number">01</span>
-<span class="term-heading"><span class="term-name">Non-derivative</span><span class="term-summary">That whose being depends on nothing else and gives rather than receives actualization.</span></span>
+<span class="term-heading"><span class="term-name">Non-derivative</span><span class="term-summary">That whose being depends on nothing else and upon which derivative actuality depends.</span></span>
 <span class="term-kind">Ontological</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
 <div class="term-detail" hidden="" id="detail-non-derivative">
-<div class="detail-inner"><p class="field-label">Definition</p><p>That whose being depends on nothing else in order to exist. It does not receive actualization — it gives it. It is the non-derivative ground on which the invariant Now depends.</p>
-<p class="field-label">Function</p><p class="function-text">Prevents the Now from becoming one more unexplained member of the temporal order.</p>
+<div class="detail-inner"><p class="field-label">Definition</p><p>That whose being depends on nothing else in order to exist. It does not receive actuality from another; derivative actuality depends upon it. It is the Non-Derivative Ground on which the invariant Now depends.</p>
+<p class="field-label">Function</p><p class="function-text">Prevents the invariant Now from being treated as self-grounding or as the ultimate explanation of actuality.</p>
 <a class="entry-link" href="/lexicon/#non-derivative">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
 </div>
@@ -255,7 +255,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 </button>
 <div class="term-detail" hidden="" id="detail-now">
 <div class="detail-inner"><p class="field-label">Definition</p><p>The invariant zero-thickness condition at which every created actuality becomes actual. The Now does not flow, elapse, or contain succession. A present is actualized at it; succession belongs to the irreversible order among constituted actualities.</p>
-<p class="field-label">Function</p><p class="function-text">The crossing of the lemniscate: the condition at which freedom, identity, reception, and reorientation become effective in a constituted present.</p>
+<p class="field-label">Function</p><p class="function-text">The crossing of the lemniscate: the invariant condition at which a present is constituted through inheritance and reception; in rational agents, it is where free response and reorientation become effective.</p>
 <a class="entry-link" href="/lexicon/#now">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
 </div>
@@ -267,7 +267,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <span class="term-kind">Structural</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
 <div class="term-detail" hidden="" id="detail-condensation">
-<div class="detail-inner"><p class="field-label">Definition</p><p>The constitutive operation by which what is inherited from the past and what is newly received are gathered into one present actuality at the invariant Now. Inheritance and reception are not successive phases inside the Now.</p>
+<div class="detail-inner"><p class="field-label">Definition</p><p>The constitution by which what is inherited from the past and what is newly received are gathered into one present actuality at the invariant Now. Inheritance and reception are not successive phases inside the Now.</p>
 <p class="field-label">Function</p><p class="function-text">Explains continuity without reducing becoming to replacement: the past is carried, novelty is received, and the constituted present can leave a trace.</p>
 <a class="entry-link" href="/lexicon/#condensation">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
@@ -280,8 +280,8 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <span class="term-kind">Structural</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
 <div class="term-detail" hidden="" id="detail-inheritance">
-<div class="detail-inner"><p class="field-label">Definition</p><p>What already constituted actuality contributes to the present: continuity, trace, structural inertia, and condensed history. It is the past insofar as the past is received constitutively in the present.</p>
-<p class="field-label">Function</p><p class="function-text">Secures identity and legibility without placing a temporal “before” inside the Now.</p>
+<div class="detail-inner"><p class="field-label">Definition</p><p>What already constituted actuality contributes to the present: continuity of history, trace, structural inertia, and inherited determination. It is the past insofar as it is carried constitutively into the present.</p>
+<p class="field-label">Function</p><p class="function-text">Makes continuity and historical legibility intelligible without treating inherited content as the source of the subject’s numerical identity or placing a temporal “before” inside the Now.</p>
 <a class="entry-link" href="/lexicon/#inheritance">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
 </div>
@@ -294,7 +294,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 </button>
 <div class="term-detail" hidden="" id="detail-reception">
 <div class="detail-inner"><p class="field-label">Definition</p><p>What is newly given in the constitution of the present and cannot be derived from inheritance alone. Reception is co-constitutive with inheritance rather than a later phase within the crossing.</p>
-<p class="field-label">Function</p><p class="function-text">Keeps genuine novelty, freedom, transformation, and grace structurally open.</p>
+<p class="field-label">Function</p><p class="function-text">Prevents inheritance from exhausting present actuality, thereby preserving structural openness to genuine novelty, free response, transformation, and, in the theological register, grace.</p>
 <a class="entry-link" href="/lexicon/#reception">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
 </div>
@@ -320,7 +320,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 </button>
 <div class="term-detail" hidden="" id="detail-present">
 <div class="detail-inner"><p class="field-label">Definition</p><p>The actuality constituted at the Now through the condensation of inheritance and reception. The Now is the invariant condition of actualization; the present is what becomes actually constituted.</p>
-<p class="field-label">Function</p><p class="function-text">Provides the temporal register in which agency becomes effective and from which an actuality can be sealed as past.</p>
+<p class="field-label">Function</p><p class="function-text">Provides the constituted temporal actuality from which irreversible temporal relations arise and within which, for agents, action becomes effective; once constituted, it can enter the inherited past.</p>
 <a class="entry-link" href="/lexicon/#present">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
 </div>
@@ -332,7 +332,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <span class="term-kind">Ontological</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
 <div class="term-detail" hidden="" id="detail-temporal-density">
-<div class="detail-inner"><p class="field-label">Definition</p><p>The referential scope of a crossing: how much of a trajectory can become structurally legible from one actuality constituted at the zero-thickness Now, without adding duration or thickness to the Now itself.</p>
+<div class="detail-inner"><p class="field-label">Definition</p><p>The extent of a trajectory structurally implicated in a single actuality constituted at the zero-thickness Now, and therefore capable of being disclosed from that crossing, without adding duration or thickness to the Now itself.</p>
 <p class="field-label">Function</p><p class="function-text">Explains why one crossing may disclose or reorient more of a life than a much longer span of repetition.</p>
 <a class="entry-link" href="/lexicon/#temporal-density">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
@@ -345,7 +345,7 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <span class="term-kind">Structural</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
 <div class="term-detail" hidden="" id="detail-structural-inertia">
-<div class="detail-inner"><p class="field-label">Definition</p><p>The ontological resistance to change produced by repeated acts actualized at the Now and carried in the constituted history of the self. Accumulation belongs to the self across presents, not to the Now.</p>
+<div class="detail-inner"><p class="field-label">Definition</p><p>The structural persistence produced by traces carried across constituted presents. In agents, repeated acts can deepen that persistence, making subsequent reorientation easier or harder.</p>
 <p class="field-label">Function</p><p class="function-text">Explains habit, fixation, and why repeated acts can make later reorientation easier or harder.</p>
 <a class="entry-link" href="/lexicon/#structural-inertia">Open full Lexicon entry <span aria-hidden="true">↗</span></a>
 </div>
@@ -355,37 +355,37 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <aside class="history-note"><p class="history-label">A note on conceptual development</p><p>Earlier essays use <strong>temporal density</strong> in a phenomenological sense—the felt depth or weight of a moment. In the developed framework, the term is defined ontologically as the referential scope of a zero-thickness crossing. The two senses are related but not identical.</p></aside>
 </section>
 <section aria-labelledby="props-title" class="section">
-<p class="section-kicker">03 · Axiomatic layer</p><h2 id="props-title">Foundational propositions</h2>
+<p class="section-kicker">03 · Foundational layer</p><h2 id="props-title">Foundational propositions</h2>
 <p class="section-intro">Five propositions state the framework's structural commitments. Open one to read its formulation and the terms it draws on.</p>
 <div class="props"><article class="prop-card" id="p1">
 <button aria-controls="body-p1" aria-expanded="false" class="prop-toggle" type="button">
 <span class="prop-number">P1</span><span class="prop-name">Actuality and the invariant Now</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
-<div class="prop-body" hidden="" id="body-p1"><div class="detail-inner"><p>Every created actuality occurs only at the invariant Now. This does not place succession inside the Now: the Now is the zero-thickness condition at which a present is actualized.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a><a class="rel-pill" href="/lexicon/#non-derivative">Non-derivative</a><a class="rel-pill" href="/lexicon/#present">Present</a></div></div></div>
+<div class="prop-body" hidden="" id="body-p1"><div class="detail-inner"><p>Every created actuality is actualized only at the invariant Now. The Now is not itself an event or duration, but the zero-thickness condition at which a present is constituted.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a><a class="rel-pill" href="/lexicon/#non-derivative">Non-derivative</a><a class="rel-pill" href="/lexicon/#present">Present</a></div></div></div>
 </article>
 <article class="prop-card" id="p2">
 <button aria-controls="body-p2" aria-expanded="false" class="prop-toggle" type="button">
 <span class="prop-number">P2</span><span class="prop-name">Condensation</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
-<div class="prop-body" hidden="" id="body-p2"><div class="detail-inner"><p>Becoming proceeds through condensation constituted by inheritance and reception. These are co-constitutive dimensions of the present, not temporal stages occurring one after another inside the Now. Confluence names the relational unity through which distinct trajectories jointly constitute one actuality without erasing their differences; it is not a further temporal stage.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#condensation">Condensation</a><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a><a class="rel-pill" href="/lexicon/#reception">Reception</a><a class="rel-pill" href="/lexicon/#confluence">Confluence</a></div></div></div>
+<div class="prop-body" hidden="" id="body-p2"><div class="detail-inner"><p>A present is constituted through condensation from inheritance and reception. These are co-constitutive dimensions of the present, not successive stages within the Now. Confluence names the relational unity through which distinct trajectories jointly contribute to one actuality without erasing their differences; it is not a further temporal stage.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#condensation">Condensation</a><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a><a class="rel-pill" href="/lexicon/#reception">Reception</a><a class="rel-pill" href="/lexicon/#confluence">Confluence</a></div></div></div>
 </article>
 <article class="prop-card" id="p3">
 <button aria-controls="body-p3" aria-expanded="false" class="prop-toggle" type="button">
 <span class="prop-number">P3</span><span class="prop-name">Temporal order</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
-<div class="prop-body" hidden="" id="body-p3"><div class="detail-inner"><p>Time is the constitutive and irreversible order that results from the relation among condensed actualities. Succession belongs to this temporal order, not to the invariant Now itself.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#present">Present</a><a class="rel-pill" href="/lexicon/#condensation">Condensation</a><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a></div></div></div>
+<div class="prop-body" hidden="" id="body-p3"><div class="detail-inner"><p>Created time is the irreversible order of relations among constituted actualities. Succession belongs to this temporal order, not to the invariant Now itself.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#present">Present</a><a class="rel-pill" href="/lexicon/#condensation">Condensation</a><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a></div></div></div>
 </article>
 <article class="prop-card" id="p4">
 <button aria-controls="body-p4" aria-expanded="false" class="prop-toggle" type="button">
 <span class="prop-number">P4</span><span class="prop-name">Eternal Presence</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
-<div class="prop-body" hidden="" id="body-p4"><div class="detail-inner"><p>Eternal Presence sustains the invariant Now without entering temporal succession. The Ground is constitutively present to created actuality without becoming an event within the temporal series.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#non-derivative">Non-derivative</a><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a></div></div></div>
+<div class="prop-body" hidden="" id="body-p4"><div class="detail-inner"><p>The Non-Derivative Ground sustains the invariant Now and created actuality without entering temporal succession. It is present as Ground of actuality, not as an event, term, or constituent within the temporal series.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#non-derivative">Non-derivative</a><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a></div></div></div>
 </article>
 <article class="prop-card" id="p5">
 <button aria-controls="body-p5" aria-expanded="false" class="prop-toggle" type="button">
 <span class="prop-number">P5</span><span class="prop-name">Lemniscatic structure</span><span aria-hidden="true" class="chevron">⌄</span>
 </button>
-<div class="prop-body" hidden="" id="body-p5"><div class="detail-inner"><p>The topology is lemniscatic because continuity and openness coexist at every crossing: inheritance preserves what has been constituted while reception leaves genuine novelty open.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a><a class="rel-pill" href="/lexicon/#reception">Reception</a><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a></div></div></div>
+<div class="prop-body" hidden="" id="body-p5"><div class="detail-inner"><p>The topology is lemniscatic because continuity and openness coexist at every crossing: inheritance carries forward what has been constituted while reception leaves genuine novelty open.</p><p class="field-label">Draws on</p><div class="rel-pills"><a class="rel-pill" href="/lexicon/#inheritance">Inheritance</a><a class="rel-pill" href="/lexicon/#reception">Reception</a><a class="rel-pill" href="/lexicon/#now">Now (ontological)</a></div></div></div>
 </article></div>
 </section>
 <footer class="rf-foot"><span>Gaitan Topology · Research Framework</span><span><a href="/lexicon/">Full Lexicon</a> · <a href="/lexico/">Léxico</a></span></footer>

@@ -214,8 +214,20 @@ body:has(.rf-wrap) .footer-inner { max-width: 850px; margin: 0 auto; }
 <section aria-labelledby="dependency-title" class="section">
 <p class="section-kicker">01 · At a glance</p><h2 id="dependency-title">The core dependency</h2>
 <p class="section-intro">A compact map of the framework's central relations before the individual terms are opened below.</p>
-<div class="dependency">
-<div aria-label="Explanatory dependency map" class="flow">
+<section aria-labelledby="dependency-title" class="section">
+  <p class="section-kicker">01 · At a glance</p>
+  <h2 id="dependency-title">The core dependency</h2>
+
+  <p class="section-intro">
+    A compact map of the framework's central relations before the individual terms are opened below.
+  </p>
+
+  <p class="dependency-label">
+    Explanatory dependence <span aria-hidden="true">·</span> Not temporal sequence
+  </p>
+
+  <div class="dependency">
+    <div aria-label="Explanatory dependency map" class="flow">
 <div class="flow-step"><span class="flow-n">01</span><span class="flow-title">Non-Derivative</span><span class="flow-sub">Ground</span></div>
 <div class="flow-step"><span class="flow-n">02</span><span class="flow-title">Invariant Now</span><span class="flow-sub">Condition of actualization</span></div>
 <div class="flow-step"><span class="flow-n">03</span><span class="flow-title">Condensation</span><span class="flow-sub">Constitution at the Now</span><span class="flow-join"><span>Inheritance</span><span>Reception</span></span></div>

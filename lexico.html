@@ -2,7 +2,7 @@
 layout: default
 title: Léxico de la Topología Gaitan
 permalink: /lexico/
-description: "El Léxico de la Topología Gaitan — una referencia sistemática de los veintitrés conceptos interconectados y las cinco proposiciones fundamentales de la filosofía del tiempo, la ontología y el pensamiento católico de Oscar Gaitan."
+description: "Veintitrés conceptos interconectados y cinco proposiciones fundamentales de la filosofía del tiempo, la ontología y el pensamiento católico de Oscar Gaitan."
 lang: es
 translation_url: /lexicon/
 ---
@@ -129,7 +129,7 @@ translation_url: /lexicon/
   .entry.open .entry-chev { transform: rotate(180deg); color: var(--gold); }
   .entry.open .entry-head { position: sticky; top: 0; background: var(--paper); z-index: 1; }
   .entry.open .entry-head::after {
-    content: "collapse"; position: absolute; right: 2.8rem; top: 50%;
+    content: "contraer"; position: absolute; right: 2.8rem; top: 50%;
     transform: translateY(-50%); font-family: system-ui, sans-serif;
     font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
     color: var(--faint); opacity: 0; transition: opacity 0.15s ease; pointer-events: none;
@@ -364,7 +364,7 @@ body:has(.lx-medieval) .footer-inner { max-width:850px; margin:0 auto; }
       <span class="lx-language-sep">·</span>
       <span class="lx-language-current">ES</span>
     </p>
-    <p class="lx-eyebrow">Topologia Gaitan · Referencia</p>
+    <p class="lx-eyebrow">Topología Gaitan · Referencia</p>
     <h1 class="lx-title">Léxico de la Topología Gaitan</h1>
     <p class="lx-sub">Veintitrés conceptos interconectados, ordenados no alfabéticamente sino por orden ontológico: desde el Fundamento No-Derivado, a través de la ontología temporal, la dinámica antropológica y los principios topológicos, hasta las patologías culturales que siguen del desplazamiento. Cada entrada define un término, una relación o una operación estructural dentro del marco, no un significado general de diccionario.</p>
     <p class="lx-sub">El campo <em>Relación</em> de cada entrada nombra los conceptos con los que guarda una relación estructuralmente significativa. Esos nombres son enlaces: síguelos para leer el Léxico como la red que describe.</p>
@@ -447,13 +447,13 @@ body:has(.lx-medieval) .footer-inner { max-width:850px; margin:0 auto; }
 
 <script>
 const LEX = {
-  tiers: [
-    { n: 1, key: "1", label: "Ontología Fundamental", roman: "I", desc: "El fundamento no-derivado y sus nombres." },
-    { n: 2, key: "2", label: "Ontología Temporal", roman: "II", desc: "Como se constituye el devenir en el Ahora y a través de él." },
-    { n: 3, key: "3", label: "Dinámica Antropológica", roman: "III", desc: "Como el yo se configura, se sostiene y se orienta en el tiempo." },
-    { n: 4, key: "4", label: "Principios Topológicos", roman: "IV", desc: "Como la posición dentro de la estructura gobierna el significado." },
-    { n: 5, key: "5", label: "Patologías Culturales", roman: "V", desc: "Lo que produce el desplazamiento del punto de cruce." }
-  ],  
+tiers: [
+  { n: 1, key: "1", label: "Ontología Fundamental", roman: "I", desc: "El Fundamento No-Derivado y sus nombres." },
+  { n: 2, key: "2", label: "Ontología Temporal", roman: "II", desc: "Cómo se constituye el devenir en el Ahora y a través de él." },
+  { n: 3, key: "3", label: "Dinámica Antropológica", roman: "III", desc: "Cómo el yo se configura, se sostiene y se orienta en el tiempo." },
+  { n: 4, key: "4", label: "Principios Topológicos", roman: "IV", desc: "Cómo la posición dentro de la estructura gobierna el significado." },
+  { n: 5, key: "5", label: "Patologías Culturales", roman: "V", desc: "Lo que produce el desplazamiento respecto del punto de cruce." }
+],  
   entries: [
   { id:"non-derivative", no:1, tier:1, name:"Lo No-Derivado",
     def:"Aquello cuyo ser no depende de ninguna otra cosa para existir. No recibe actualidad de otro; la actualidad derivada depende de ello. Es el Fundamento No-Derivado del que dependen el Ahora invariante y toda actualidad creada. No participa del devenir como un miembro más del orden temporal.",
@@ -613,9 +613,9 @@ const LEX = {
         </div>
         <div class="entry-body">
           <div class="entry-inner">
-            <p class="field-label">Definicion</p>
+            <p class="field-label">Definición</p>
             <p class="field-def">${e.def}</p>
-            <p class="field-label">Funcion</p>
+            <p class="field-label">Función</p>
             <p class="field-fn">${e.fn}</p>
             <div class="relations">${relHtml}</div>
           </div>

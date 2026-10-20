@@ -2,8 +2,7 @@
 layout: default
 title: Philosophy & Catholic Thought
 author: Oscar Gaitan
-description: Oscar Gaitan is a Nicaraguan American philosopher and independent researcher in ontology, temporality, phenomenology, metaphysical anthropology, and Catholic theology.
----
+description: Oscar Gaitan is a Nicaraguan American philosopher researching ontology, temporality, metaphysical anthropology, and Catholic theology.
 
 <div class="medieval-theme-marker" aria-hidden="true"></div>
 
@@ -840,7 +839,7 @@ body:has(.medieval-theme-marker) .featured-grid a[data-excerpt]::after {
 ## Featured Essays · Ensayos destacados
 
 <p class="featured-note">
-  Spanish editions / Ediciones en español: <a href="/biblioteca/">Biblioteca</a>.
+  Spanish editions / Ediciones en español: <a href="/biblioteca/">Biblioteca</a>
 </p>
 
 <div class="featured-grid">
@@ -916,7 +915,7 @@ body:has(.medieval-theme-marker) .featured-grid a[data-excerpt]::after {
 
 ## Research Framework
 
-The essays collected here develop an original philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
+The essays collected here develop the Gaitan Topology, a philosophical framework at the intersection of ontology, philosophy of time, metaphysics, phenomenology, and Catholic theology.
 
 ### Original Concepts & Structural Propositions
 
@@ -973,16 +972,20 @@ The essays collected here develop an original philosophical framework at the int
   </a>
 
   <a class="pill" href="/lexicon/#infinite-interior"
-     title="The unbroken structural continuity through which one subject can become otherwise without ceasing to be numerically the same subject.">
-    Infinite Interior
-  </a>
+   title="The unbroken structural continuity through which one subject can become otherwise without ceasing to be numerically the same subject.">
+  Infinite Interior
+</a>
 
-  <a class="pill" href="/lexicon/#topological-relativity"
-     title="The variation of meaning and effect according to structural position and orientation, not subjective relativism.">
-    Topological Relativity
-  </a>
+<a class="pill" href="/lexicon/#topological-relativity"
+   title="The variation of meaning and effect according to structural position and orientation, not subjective relativism.">
+  Topological Relativity
+</a>
 
 </div>
+
+<p class="framework-note">
+  The Lexicon gives the current definitions; earlier essays preserve the framework's stages of development.
+</p>
 
 
 [Read the full Research Framework →](/research-framework/) · [Open the full Lexicon →](/lexicon/)

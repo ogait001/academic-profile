@@ -893,50 +893,67 @@ The essays collected here develop an original philosophical framework at the int
 ### Original Concepts & Structural Propositions
 
 <div class="pill-grid" markdown="0">
-  <a class="pill" href="/lexicon/#now"
-     title="The invariant point of actualization where every being becomes actual.">
-    The Ontological Now
-  </a>
+
   <a class="pill" href="/lexicon/#non-derivative"
-     title="That whose being depends on nothing else. It does not receive actualization — it gives it.">
-    Non‑derivative
+     title="That whose being depends on nothing else and upon which derivative actuality depends.">
+    Non-Derivative
   </a>
-  <a class="pill" href="/lexicon/#temporal-density"
-     title="A moment's density depends on the breadth of the trajectory it renders visible.">
-    Temporal Density
+
+  <a class="pill" href="/lexicon/#now"
+     title="The invariant zero-thickness condition of actualization; succession does not occur within it.">
+    Now (ontological)
   </a>
-  <a class="pill" href="/lexicon/#structural-inertia"
-     title="The ontological resistance to change arising from repeated acts in the Now.">
-    Structural Inertia
-  </a>
-  <a class="pill" href="/lexicon/#topological-relativity"
-     title="Meaning varies with position, not with subjective interpretation.">
-    Topological Relativity
-  </a>
-  <a class="pill" href="/lexicon/#infinite-interior"
-     title="The continuous, asymptotic space that preserves identity across transformation.">
-    Infinite Interior
-  </a>
+
   <a class="pill" href="/lexicon/#condensation"
-     title="Each Now gathers the preceding present rather than replacing it.">
+     title="The constitutive structure by which inheritance and reception are gathered into one present actuality at the invariant Now.">
     Condensation
   </a>
+
   <a class="pill" href="/lexicon/#inheritance"
-     title="Everything the previous moment contributes to the new condensation.">
+     title="What already constituted actuality contributes to the present as carried history, trace, and acquired determination.">
     Inheritance
   </a>
+
   <a class="pill" href="/lexicon/#reception"
-     title="Everything newly given in the Now; the point of entry for grace.">
+     title="What is newly given in the constitution of a present and cannot be derived from inheritance alone.">
     Reception
   </a>
-  <a class="pill" href="/lexicon/#trace"
-     title="The structural deposit a condensation leaves in the Now.">
-    Trace
-  </a>
+
   <a class="pill" href="/lexicon/#confluence"
-     title="The gathering of distinct trajectories into a single actuality at the Now, without erasing their differences.">
+     title="The relational unity by which distinct trajectories jointly constitute one actuality without losing their differences.">
     Confluence
   </a>
+
+  <a class="pill" href="/lexicon/#present"
+     title="The temporal actuality constituted at the Now through the condensation of inheritance and reception.">
+    Present
+  </a>
+
+  <a class="pill" href="/lexicon/#trace"
+     title="The structural mark left by a constituted actuality and carried into subsequent presents through inheritance.">
+    Trace
+  </a>
+
+  <a class="pill" href="/lexicon/#structural-inertia"
+     title="The structural persistence generated as traces are carried across constituted presents.">
+    Structural Inertia
+  </a>
+
+  <a class="pill" href="/lexicon/#temporal-density"
+     title="The referential scope of a crossing: how much of a trajectory is structurally implicated without adding thickness to the Now.">
+    Temporal Density
+  </a>
+
+  <a class="pill" href="/lexicon/#infinite-interior"
+     title="The unbroken structural continuity through which one subject can become otherwise without ceasing to be numerically the same subject.">
+    Infinite Interior
+  </a>
+
+  <a class="pill" href="/lexicon/#topological-relativity"
+     title="The variation of meaning and effect according to structural position and orientation, not subjective relativism.">
+    Topological Relativity
+  </a>
+
 </div>
 
 

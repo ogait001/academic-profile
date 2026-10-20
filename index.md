@@ -7,7 +7,6 @@ description: "Oscar Gaitan is a Nicaraguan American philosopher researching onto
 
 <div class="medieval-theme-marker" aria-hidden="true"></div>
 
-
 <h1>Philosophy & Catholic Thought</h1>
 
 <p style="
@@ -1070,18 +1069,17 @@ The essays collected here develop the Gaitan Topology, a philosophical framework
   <div class="about-content">
     <h2>About</h2>
 
-   <p>
-  Oscar Gaitan is a Nicaraguan American independent researcher in philosophy, developing the Gaitan Topology, a framework centered on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
-</p>
+    <p>
+      Oscar Gaitan is a Nicaraguan American independent researcher in philosophy, developing the Gaitan Topology, a framework centered on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
+    </p>
 
-<p>
-  He is the author of <em>The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession</em> (2026), a monograph proposing the lemniscate (∞) as a contemplative framework for understanding the relationship between time and eternity.
-</p>
+    <p>
+      He is the author of <em>The Lemniscate of Time: A Geometric Meditation on Eternity and Temporal Succession</em> (2026), a monograph proposing the lemniscate (∞) as a contemplative framework for understanding the relationship between time and eternity.
+    </p>
 
-<p>
-  His essays explore philosophical theology, phenomenology, consciousness, and the structure of human existence.
-</p>
-
+    <p>
+      His essays explore philosophical theology, phenomenology, consciousness, and the structure of human existence.
+    </p>
 
     <h3>Contact</h3>
 
@@ -1092,6 +1090,8 @@ The essays collected here develop the Gaitan Topology, a philosophical framework
     <p>
       <a href="mailto:ogaitan.research@gmail.com">ogaitan.research@gmail.com</a>
     </p>
+
   </div>
+</div>
 
 

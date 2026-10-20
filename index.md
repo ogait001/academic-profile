@@ -535,32 +535,36 @@ h1 {
 }
 .homepage-epigraph {
   margin: 1.6rem 0 1.8rem 0;
-  max-width: 520px;
+  max-width: 620px;
   text-align: left;
-  padding: 0;
+  padding-left: 1rem;
 }
 
 .epigraph-text {
-  font-size: 0.97rem;
+  font-size: 1.08rem;
   font-style: italic;
-  line-height: 1.65;
-  color: #374151;
+  line-height: 1.7;
   margin: 0;
 }
 
 .epigraph-author {
-  font-size: 0.82rem;
-  margin-top: 0.5rem;
-  color: #6b7280;
+  font-size: 0.92rem;
+  margin-top: 0.55rem;
 }
 
 @media (max-width: 640px) {
   .homepage-epigraph {
-    margin: 1rem auto 1.2rem auto;
-    padding: 0 0.5rem;
+    margin: 1.2rem 0 1.4rem 0;
+    padding-left: 0.85rem;
   }
+
   .epigraph-text {
-    font-size: 0.92rem;
+    font-size: 1.02rem;
+    line-height: 1.65;
+  }
+
+  .epigraph-author {
+    font-size: 0.88rem;
   }
 }
 /* FEATURED ESSAY HOVER EXCERPTS */

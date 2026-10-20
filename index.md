@@ -2,7 +2,8 @@
 layout: default
 title: Philosophy & Catholic Thought
 author: Oscar Gaitan
-description: Oscar Gaitan is a Nicaraguan American philosopher researching ontology, temporality, metaphysical anthropology, and Catholic theology.
+description: "Oscar Gaitan is a Nicaraguan American philosopher researching ontology, temporality, metaphysical anthropology, and Catholic theology."
+---
 
 <div class="medieval-theme-marker" aria-hidden="true"></div>
 

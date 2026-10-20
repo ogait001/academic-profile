@@ -29,7 +29,7 @@ description: "Oscar Gaitan is a Nicaraguan American philosopher researching onto
 <div class="homepage-epigraph">
   <p class="epigraph-text">
     Converso con el hombre que siempre va conmigo<br>
-    —quien habla solo espera hablar a Dios un día—
+    —quien habla solo espera hablar a <span class="epigraph-nowrap">Dios un día—</span>
   </p>
   <p class="epigraph-author">
     — Antonio Machado, <em>&#8220;Retrato&#8221;</em>, <em>Campos de Castilla</em> (1912)
@@ -552,6 +552,10 @@ h1 {
   margin-top: 0.55rem;
 }
 
+.epigraph-nowrap {
+  white-space: nowrap;
+}
+
 @media (max-width: 640px) {
   .homepage-epigraph {
     margin: 1.2rem 0 1.4rem 0;
@@ -559,12 +563,12 @@ h1 {
   }
 
   .epigraph-text {
-    font-size: 1.02rem;
+    font-size: 0.98rem;
     line-height: 1.65;
   }
 
   .epigraph-author {
-    font-size: 0.88rem;
+    font-size: 0.86rem;
   }
 }
 /* FEATURED ESSAY HOVER EXCERPTS */

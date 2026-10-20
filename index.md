@@ -24,7 +24,7 @@ description: Oscar Gaitan is a Nicaraguan American philosopher researching ontol
   font-size:1.1rem;
   margin:0.4rem 0 1.2rem 0;
 ">
-  Independent research in ontology, temporality, phenomenology, and Catholic theology.
+  Independent research in ontology, temporality, metaphysical anthropology, phenomenology, and Catholic theology.
 </p>
 <div class="homepage-epigraph">
   <p class="epigraph-text">
@@ -998,32 +998,32 @@ The essays collected here develop the Gaitan Topology, a philosophical framework
 
   <div class="area">
     <h3>Ontology</h3>
-    <p>Questions of being, identity, continuity, and persistence.</p>
+    <p>Being, actuality, dependence, identity, continuity, and the structure of what is.</p>
   </div>
 
   <div class="area">
     <h3>Philosophy of Time</h3>
-    <p>Presence, temporality, memory, and the structure of the Now.</p>
+    <p>The invariant Now, temporal order, succession, past, future, and the constitution of the present.</p>
   </div>
 
   <div class="area">
-    <h3>Catholic Theology</h3>
-    <p>Grace, suffering, divine action, eternity, and the metaphysics of faith.</p>
-  </div>
-
-  <div class="area">
-    <h3>Phenomenology</h3>
-    <p>Experience, selfhood, and first-person existence.</p>
+    <h3>Metaphysics</h3>
+    <p>Grounding, change, causality, dependence, the Non-Derivative, and the relation between the Ground and the created order.</p>
   </div>
 
   <div class="area">
     <h3>Metaphysical Anthropology</h3>
-    <p>Human identity, moral agency, responsibility, and personhood.</p>
+    <p>Selfhood, numerical identity, agency, inheritance, reception, responsibility, and the persistence of the subject through change.</p>
   </div>
 
   <div class="area">
-    <h3>Philosophy of Mathematics</h3>
-    <p>Symbolic structures, abstraction, number, and ontological interpretation.</p>
+    <h3>Phenomenology</h3>
+    <p>First-person existence, attention, presence, memory, orientation, and the way reality is received from within a situated history.</p>
+  </div>
+
+  <div class="area">
+    <h3>Catholic Theology</h3>
+    <p>Grace, faith, revelation, divine action, eternity, Christology, sacramentality, judgment, and the creature's relation to God.</p>
   </div>
 
 </div>
@@ -1060,10 +1060,6 @@ The essays collected here develop the Gaitan Topology, a philosophical framework
 
 
 
-<hr style="margin: 3rem 0 0.75rem; border: 0; border-top: 1px solid #d1d5db;">
-
-<hr style="margin: 3rem 0 0.75rem; border: 0; border-top: 1px solid #d1d5db;">
-
 <div class="about-card">
 
   <div class="about-photo">
@@ -1074,7 +1070,7 @@ The essays collected here develop the Gaitan Topology, a philosophical framework
     <h2>About</h2>
 
    <p>
-  Oscar Gaitan is a Nicaraguan American independent philosophical researcher based in Los Angeles, developing an original philosophical framework on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
+  Oscar Gaitan is a Nicaraguan American independent researcher in philosophy, developing the Gaitan Topology, a framework centered on temporality, ontology, and metaphysical anthropology through publicly accessible open scholarship.
 </p>
 
 <p>

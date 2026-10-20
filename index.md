@@ -837,46 +837,74 @@ body:has(.medieval-theme-marker) .featured-grid a[data-excerpt]::after {
 
 <div class="section-divider"></div>
 
-## Featured Essays - Destacados
+## Featured Essays · Ensayos destacados
+
+<p class="featured-note">
+  Spanish editions / Ediciones en español: <a href="/biblioteca/">Biblioteca</a>.
+</p>
 
 <div class="featured-grid">
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/03/20/the-lemniscate-of-time.html"
-     data-excerpt="A philosophical and theological exploration of time through the lemniscate as a topology of memory, possibility, freedom, grace, and providential return.">A Topology of Memory, Possibility, and Grace</a>
-
   <a href="/ontology/philosophy-of-time/catholic-theology/2026/03/30/the-topology-of-presence.html"
-     data-excerpt="A theological-anthropological essay proposing the Gaitan Topology: a four-quadrant ontological framework organized around the crossing point of the Now, presence, grace, and existential displacement.">Four Planes of Existence on the Lemniscate</a>
+     data-excerpt="The essay in which the Gaitan Topology was first introduced through a four-plane lemniscatic framework. Later work refines its account of the invariant Now, Ground, and constitutive relations.">
+    Four Planes of Existence on the Lemniscate
+  </a>
 
-  <a href="/philosophy-of-time/ontology/2026/04/10/does-time-need-me-or-do-i-need-time.html"
-     data-excerpt="A philosophical and theological meditation on time and presence, arguing that the invariant Now is sustained by the ground of being named as I AM WHO I AM.">Does Time need Me or Do I need Time?</a>
+  <a href="/metaphysics/philosophical-theology/philosophy-of-god/2026/09/18/what-sustains-the-now-en.html"
+     data-excerpt="A mature statement of the topology's grounding question: the invariant Now does not explain itself but depends upon the Non-Derivative Ground beneath the figure.">
+    What Sustains the Now?
+  </a>
 
-  <a href="/ontology/philosophy-of-time/catholic-theology/2026/04/20/the-am-that-remains.html"
-     data-excerpt="A metaphysical critique of Descartes, arguing not 'I think, therefore I am,' but that thought itself presupposes the prior reality of being.">A Critique of Descartes</a>
+  <a href="/philosophy/metaphysics/philosophy-of-science/2026/09/18/does-the-law-explain-itself-en.html"
+     data-excerpt="An argument that physical law can describe the order of the figure without supplying the Ground upon which the actuality of that order depends.">
+    Does the Law Explain Itself?
+  </a>
 
-  <a href="/metaphysics/philosophy%20of%20mind/phenomenology/philosophical%20theology/moral%20psychology/2026/07/25/under-the-fig-tree.html"
-     data-excerpt="A theological and metaphysical study of thought, conscience, and God's presence at the human Crossing Point.">Under the Fig Tree</a>
+  <a href="/philosophy-of-time/philosophy-of-physics/special-relativity/2026/09/20/does-relativity-divide-the-now-en.html"
+     data-excerpt="A confrontation with relativity asking whether time dilation and relative simultaneity divide the invariant Now, and distinguishing physical crossings from the Now that is not a temporal slice.">
+    Does Relativity Divide the Now?
+  </a>
 
-  <a href="philosophy/theology/trinity/christology/2026/08/01/distancia-mas-inmensa-en.html"
-     data-excerpt="Can the Ground of all being become one of the grounded? A theological exploration of the Trinity, the Incarnation, and continuous divine sustaining.">Distancia Más Inmensa</a>
+  <a href="/philosophy/metaphysics/philosophical-theology/2026/10/01/is-god-the-universe-or-everything-en.html"
+     data-excerpt="A metaphysical distinction between God and the totality of created reality, arguing that no universe, sum, or everything within the figure can occupy the place of the Ground.">
+    Is God the Universe, or Is God Everything?
+  </a>
 
-  <a href="/catholic-theology/philosophy-of-time/ontology/2026/05/21/eves-algorithm.html"
-     data-excerpt="Algorithms industrialize the ancient temptation of Genesis: redefining reality, perception, and access to divine presence.">Eve's Algorithm</a>
+  <a href="/philosophy/metaphysics/philosophical-theology/2026/10/04/believe-in-god-and-have-faith-en.html"
+     data-excerpt="An examination of the difference between reaching that God is by reason and receiving who God is through faith, assent, trust, and revelation.">
+    Believe in God and Have Faith?
+  </a>
 
-  <a href="/philosophy-of-time/ontology/2026/05/16/non-te-egeo.html"
-     data-excerpt="A reflection on digital culture's preemptive supply of answers, arguing that the deeper modern spiritual crisis is not rebellion against transcendence, but the erosion of the capacity to ask.">Non te egeo: When We Stopped Asking</a>
+  <a href="/philosophy-of-religion/moral-psychology/philosophy-of-perception/2026/09/27/the-angle-of-reception-en.html"
+     data-excerpt="A study of reception as structurally conditioned by the interior orientation of the receiver: the world encountered is received through a history already curved.">
+    The Angle of Reception
+  </a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/04/20/you-cannot-add-one-hour.html"
-     data-excerpt="A philosophical meditation on temporality, finitude, and the will, arguing that human life consists of finite crossings whose moments differ in ontological density.">You Cannot Add One Hour</a>
+  <a href="/philosophy-of-time/metaphysics-of-time/philosophical-theology/2026/10/11/the-path-through-which-i-walk-en.html"
+     data-excerpt="A meditation on inheritance through Machado: the past is not merely behind us but the path through which we walk, while grace gives another step rather than another past.">
+    The Path Through Which I Walk
+  </a>
 
-  <a href="/philosophy-of-time/catholic-theology/ontology/2026/05/10/alpha-and-omega.html"
-     data-excerpt="A philosophical and theological meditation on the Now, the cosmos, and Alpha and Omega as the sustaining foundation of temporality and existence.">Alpha and Omega</a>
+  <a href="/philosophy-of-time/philosophical-anthropology/philosophy-of-religion/2026/10/10/to-become-otherwise-en.html"
+     data-excerpt="An account of interior change in which genuine novelty can be received without replacing the subject: one can become otherwise without becoming another.">
+    To Become Otherwise
+  </a>
 
- <a href="/catholic-theology/ontology/philosophy-of-time/2026/06/15/the-topology-of-absolution.html"
-     data-excerpt="Absolution restores communion with God while the work of temporal restoration continues. A topological meditation on confession, grace, and reconciliation.">The Topology of Absolution</a>
+  <a href="/philosophical-theology/philosophy-of-mind/thomas-aquinas/2026/10/17/who-was-before-me-or-myself-en.html"
+     data-excerpt="A first-person inquiry into origin and inheritance: extending a subject's history backward cannot explain why there is a subject to inherit that history at all.">
+    Who Was Before Me, or Myself?
+  </a>
 
- <a href="/ontology/philosophy-of-time/2026/05/05/the-infinite-interior.html"
-     data-excerpt="A philosophical meditation on identity, continuity, and change, proposing the infinite interior as the uninterrupted structure that preserves the self across transformation.">The Infinite Interior</a>
-     
+  <a href="/rene-descartes/metaphysical-grounding/divine-attributes/2026/10/15/the-conserved-cogito-en.html"
+     data-excerpt="A return to Descartes through the mature topology, distinguishing self-presence from self-grounding and asking what sustains the subject whose cogito remains actual.">
+    The Conserved Cogito
+  </a>
+
+  <a href="/metaphysics/ontology/philosophy-of-time/2026/10/18/quid-est-mutatio-en.html"
+     data-excerpt="A metaphysics of change centered on continuity and numerical identity: change is the becoming-otherwise of one subject rather than replacement by another.">
+    Quid est mutatio?
+  </a>
+
 </div>
 
 

@@ -119,7 +119,7 @@ La persona en este cuadrante es—no ha sido borrada—pero existe en un modo qu
 
 La visión estructural más profunda de esta topología es gramatical. Concierne al tiempo verbal—y el tiempo verbal, sostengo, no es una característica neutral del lenguaje sino un indicador ontológico de dónde se encuentra el hablante en relación con el punto de cruce.
 
-Dios se presenta a Moisés en tiempo presente: «Yo soy el que soy» (Éxodo 3:14). No «Yo fui.» No «Yo seré.» El nombre divino es puro presente—el Ahora eterno hablando. La gramática de Dios es la gramática de la presencia, del ser.
+Dios se presenta a Moisés en tiempo presente: «YO SOY EL QUE SOY» (Éxodo 3:14). No «Yo fui.» No «Yo seré.» El nombre divino es puro presente—el Ahora eterno hablando. La gramática de Dios es la gramática de la presencia, del ser.
 
 Y no es solo en el nombre divino donde aparece esta gramática. En el Evangelio de Juan, Cristo declara: «Yo soy la resurrección y la vida» (Juan 11:25). No *seré*, no *fui*—sino *soy*. Esta es una afirmación sobre la presencia, no sobre la secuencia. Cristo habita y revela plenamente el punto de cruce; la intersección de la eternidad y la temporalidad no es un lugar que Él meramente ocupa sino el modo de Su presencia en el mundo. Cada declaración de *Yo soy* en los Evangelios es, en los términos de esta topología, una declaración de que el Presente Eterno ha entrado en la curva y sostiene el centro desde dentro.
 
@@ -140,7 +140,7 @@ La serpiente no meramente invitó a la desobediencia. Introdujo una gramática: 
 
 La muerte, entonces, no es solo el fin de la vida. Es el colapso de esa proyección. Expone la inestabilidad de la promesa. El que vive en *yo seré* no puede aceptar *tú morirás*. Y así decimos que tememos la muerte. Pero lo que resistimos no es solo el fin de la vida biológica. Resistimos la pérdida del futuro en el cual nos hemos colocado. Resistimos la interrupción del aplazamiento.
 
-Al mismo tiempo, confesamos algo más. «Yo soy el camino, la verdad y la vida.» Esta no es una promesa futura. Es una declaración presente. No: *seréis*. Sino: *Yo soy*. Y sin embargo, aparece una división. Confesamos el tiempo presente—pero vivimos en el tiempo futuro. Nos llamamos seguidores de Cristo, pero organizamos nuestro ser alrededor de una gramática diferente. Hablamos el lenguaje del *Yo soy*, pero habitamos la estructura del *seréis*.
+Al mismo tiempo, confesamos algo más. «Yo soy el camino, la verdad y la vida.» Esta no es una promesa futura. Es una declaración presente. No: *seréis*. Sino: *YO SOY*. Y sin embargo, aparece una división. Confesamos el tiempo presente—pero vivimos en el tiempo futuro. Nos llamamos seguidores de Cristo, pero organizamos nuestro ser alrededor de una gramática diferente. Hablamos el lenguaje del *YO SOY*, pero habitamos la estructura del *seréis*.
 
 Esta no es una contradicción a nivel de doctrina. Es una contradicción a nivel de existencia. La promesa rota no es simplemente creída. Es habitada. Y la verdad no es simplemente negada. Es diferida. El resultado es una lealtad dividida—no entre dos opciones explícitas, sino entre dos modos de ser. Uno recogido en el presente, donde la vida es dada. El otro extendido hacia un futuro que nunca llega, donde la vida está siempre a punto de comenzar.
 

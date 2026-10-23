@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23599884"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23599884"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23599884/files/the-refused-therefore.pdf"
 cover: /assets/covers/the-refused-therefore-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/philosophical-theology/metaphysics/ontology/2026/10/23/el-por-tanto-rechazado-es.html"
 
 shelf: gt-g
 ---

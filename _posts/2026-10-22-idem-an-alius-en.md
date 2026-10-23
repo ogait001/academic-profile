@@ -2,7 +2,7 @@
 layout: post
 title: "Idem, an alius?"
 subtitle: "On Substitution, the Masks of Continuity, and the Seam Dressed as a Passage"
-description: "Substitution is replacement dressed as change: a seam disguised as a passage, in which the signs of continuity are worn without the continuous subject they are taken to establish."
+description: "A metaphysical essay on substitution, numerical identity, continuity, and how replacement can be mistaken for genuine change."
 date: 2026-10-22
 author: Oscar Gaitan
 lang: en
@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23573641"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23573641"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23573641/files/idem-an-alius.pdf"
 cover: /assets/covers/idem-an-alius-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/ontology/numerical-identity/2026/10/22/idem-an-alius-es.html"
 
 shelf: gt-c
 ---

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23625613"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23625613"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23625613/files/non-accipio-me.pdf"
 cover: /assets/covers/non-accipio-me-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophical-anthropology/philosophical-theology/2026/10/24/non-accipio-me-es.html"
 
 shelf: gt-c
 ---

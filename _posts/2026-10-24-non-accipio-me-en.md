@@ -14,7 +14,7 @@ pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23625613/files/non-accipio-me.pd
 cover: /assets/covers/non-accipio-me-en.png
 translation_url: ""
 
-gt-c
+shelf: gt-c
 ---
 
 <br><br>

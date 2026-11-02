@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.23893863"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.23893863"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.23893863/files/non-ex-se.pdf"
 cover: /assets/covers/non-ex-se-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/philosophy-of-religion/philosophy-of-time/2026/11/02/non-ex-se-es.html"
 
 shelf: gt-a3
 ---

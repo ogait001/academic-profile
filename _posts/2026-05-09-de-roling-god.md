@@ -140,7 +140,9 @@ Community, in the precise sense this essay requires, is constituted by crossing 
 
 Lope de Vega's *Fuenteovejuna* makes this topology visible in its most dramatic form. When the royal investigators arrive and demand to know who killed the Commander, the entire village answers as one: *Fuenteovejuna did it*. No individual name is given. No particular hand is identified. The collective voice assumes full responsibility.
 
-On the surface this looks like the erasure of individual identity into collective anonymity. It is topologically the opposite. The villagers who answer as one have first lived as many real persons — eating together, working together, celebrating and grieving together. Their shared voice does not emerge from the erasure of individual identity but from its prior fullness. **Genuine *we* presupposes genuine *I*.**
+On the surface, this appears to be the erasure of individual identity into collective anonymity. Topologically, it is the opposite. The villagers who answer in unison have first lived as many real persons: eating together, working together, celebrating and suffering together, and being violated together by the Commander whose abuses gave occasion to the killing. Their shared voice does not arise from the erasure of individual identity but from its prior fullness. They know one another’s names. Their we is dense because the persons who constitute it are gathered, not evacuated.
+
+This is the distinction between community and crowd in structurally precise terms. A crowd borrows a center that no individual possesses. A community amplifies centers that each individual already occupies. A crowd speaks because no one will speak. A community speaks because everyone already has. A genuine *we* presupposes a genuine *I*.
 
 ### The Multitude and Its False Center
 

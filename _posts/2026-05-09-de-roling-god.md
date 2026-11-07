@@ -84,7 +84,7 @@ This essay draws on philosophical argument, theological interpretation, and cult
 
 ## I. Prologue: The Wrong Battle
 
-There is a line in the British television series *Britannia* that does more philosophical work than most academic arguments about secularization. A Roman commander, explaining imperial strategy to a subordinate, says: you do not fight the druids. You fight their gods.
+A line from the British television series *Britannia* offers a simple way into the problem. A Roman commander, explaining imperial strategy to a subordinate, says: you do not fight the druids. You fight their gods.
 
 The subordinate hears a military tactic. The philosopher hears an ontological claim. The druids are not a belief system to be refuted. They are a community of crossing points — people whose identity, whose shared life, whose very capacity for resistance is constituted by a ground that precedes and sustains them. You cannot dissolve this by argument. You cannot dissolve it by persecution.
 
@@ -138,7 +138,7 @@ The distinction between community and multitude is not a matter of size, coheren
 
 Community, in the precise sense this essay requires, is constituted by crossing points genuinely coinciding in the one shared Now. The early Christians who held everything in common were not organized around an ideology. They were organized around a shared encounter with a presence that each of them carried individually. The community was the aggregate of genuine selves — persons who could each say *I am*, and mean one undivided thing, before they said *we are*.
 
-Lope de Vega's *Fuenteovejuna* makes this topology visible in its most dramatic form. When the royal investigators arrive and demand to know who killed the Commander, the entire village answers as one: *Fuenteovejuna did it*. No individual name is given. No particular hand is identified. The collective voice assumes full responsibility.
+*Fuenteovejuna* by Lope de Vega offers a particularly clear illustration of this topology. When the royal investigators arrive and demand to know who killed the Commander, the entire village answers as one: *Fuenteovejuna did it*. No individual name is given. No particular hand is identified. The collective voice assumes full responsibility.
 
 On the surface, this appears to be the erasure of individual identity into collective anonymity. Topologically, it is the opposite. The villagers who answer in unison have first lived as many real persons: eating together, working together, celebrating and suffering together, and being violated together by the Commander whose abuses gave occasion to the killing. Their shared voice does not arise from the erasure of individual identity but from its prior fullness. They know one another’s names. Their we is dense because the persons who constitute it are gathered, not evacuated.
 
@@ -160,7 +160,7 @@ The vocabulary needed to name the crossing point is not abolished. It is made un
 
 ### Mode One: Physical Elimination
 
-Monsignor Hugh O'Flaherty's line to Colonel Herbert Kappler in *The Scarlet and the Black* is the most compressed possible statement of why persecution fails against a non-derivative ground: *"But the Church is still here."* O'Flaherty does not argue theology. He points at architecture. The stones in which they are standing were built by men who entertained themselves watching Christians die. Those men are gone. The empire is a ruin open to tourists. The community that was supposed to be destroyed is conducting its business two thousand years later in the same city.
+Monsignor Hugh O'Flaherty's line to Colonel Herbert Kappler in *The Scarlet and the Black* summarizes with notable concision why persecution fails against a non-derived ground: *"But the Church is still here."* O'Flaherty does not argue theology. He points at architecture. The stones in which they are standing were built by men who entertained themselves watching Christians die. Those men are gone. The empire is a ruin open to tourists. The community that was supposed to be destroyed is conducting its business two thousand years later in the same city.
 
 The structural reason is precise. Persecution operates on the material plane against a ground that does not primarily reside there. Kill every Christian in the Colosseum and the crossing point remains untouched. Each martyr became a fixed coordinate in the memory loop of the community — permanent, unreachable, continuing to generate effects long after the event passed into the past. **The Romans were building the Church with their own instruments.**
 
@@ -192,9 +192,11 @@ Martin Heidegger identified the social mechanism of evacuation before the techno
 
 A methodological note is required here. Heidegger's diagnostic of Das Man is used in this essay as a precise instrument for identifying the social mechanism of evacuation. However, Heidegger himself carefully avoided the metaphysical-theological move this essay makes. He would classify the argument for a non-derivative sustaining ground as onto-theology — precisely the metaphysical structure he spent his career dismantling. Das Man is borrowed as a diagnostic tool. The ontological argument is the essay's own.
 
-Hans Christian Andersen understood the social mechanism of Das Man with a precision no sociologist has improved upon. *The Emperor's New Clothes* is not a story about vanity. It is a story about what happens to perception when the individual gaze has been replaced by the shared gaze of the anonymous *they*. The child who speaks is the figure of the first person singular restored. From an inhabited center, the report is unavoidable: the Emperor has nothing on. **Das Man does not primarily corrupt logic. It corrupts position.**
+Hans Christian Andersen portrayed this structure with notable clarity in *The Emperor's New Clothes*. The tale is not about vanity. It is a story about what happens to perception when individual sight has been replaced by the shared sight of the anonymous they. The tailors offer invisible clothing to anyone unfit for their office. No one lies. Everyone performs. Each courtier, seeing the others nod and admire, concludes that the defect must be his own. The illusion requires only a social field in which the anonymous “they see” has replaced the particular “I see.”
 
-Contemporary digital culture is Das Man with industrial infrastructure. The result is a civilization of courtiers: each privately unsure, each publicly nodding, the shared performance sustaining an appearance that no single person believes but that everyone confirms.
+The child who speaks is the figure of the restored first-person singular. Notice what the child does not do: the child does not argue, does not cite evidence, does not build a case. The child simply reports what the child sees. That simplicity is not naivete; it is the structure of presence. From an inhabited center, the report is inevitable: the Emperor is wearing nothing. Das Man does not chiefly corrupt logic. It corrupts position.
+
+Contemporary digital culture is Das Man with industrial infrastructure. The mechanisms are different, more distributed, more frictionless, accelerated by algorithmic platforms, but the structure is identical. The anonymous they of a timeline or comment section raises the cost of honest perception above the threshold most people are willing to pay. The result is a civilization of courtiers: each privately uncertain, each publicly nodding in assent, the shared performance sustaining an appearance that no one believes individually yet everyone confirms.
 
 ### The Chain of Hollow Centers
 

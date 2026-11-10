@@ -42,6 +42,123 @@ description: "Oscar Gaitan is a Nicaraguan American philosopher researching onto
   <a href="https://scholar.google.com/citations?user=huV-MLsAAAAJ">Google Scholar</a>
 </div>
 
+<section class="confession-quote" aria-label="Author's statement">
+
+  <div class="confession-language-switch" role="tablist"
+       aria-label="Choose quotation language">
+    <button type="button"
+            class="confession-language-button is-active"
+            id="confession-tab-es"
+            role="tab"
+            aria-selected="true"
+            aria-controls="confession-panel-es"
+            tabindex="0">
+      ES
+    </button>
+
+    <button type="button"
+            class="confession-language-button"
+            id="confession-tab-en"
+            role="tab"
+            aria-selected="false"
+            aria-controls="confession-panel-en"
+            tabindex="-1">
+      EN
+    </button>
+  </div>
+
+  <div class="confession-languages">
+
+    <div class="confession-panel"
+         id="confession-panel-es"
+         role="tabpanel"
+         aria-labelledby="confession-tab-es">
+      <p class="confession-text">
+        “No puedo entender, y mucho menos explicarte, quién es Dios.
+        Ni pretendo abarcar con mi entendimiento aquello que me supera.
+        Desde la razón sólo puedo hablarte de Él, aunque cierres los oídos;
+        y aun eso lo hago a través de mi simple fe en Cristo.”
+      </p>
+    </div>
+
+    <div class="confession-panel"
+         id="confession-panel-en"
+         role="tabpanel"
+         aria-labelledby="confession-tab-en">
+      <p class="confession-text">
+        “I cannot understand, much less explain to you, who God is.
+        Nor do I presume to comprehend what surpasses me.
+        By reason alone, I can only speak to you about Him,
+        even if you close your ears; and even this I do
+        through my simple faith in Christ.”
+      </p>
+    </div>
+
+  </div>
+
+  <p class="confession-author">— Oscar Gaitan</p>
+
+</section>
+
+<script>
+(function () {
+  function initializeConfession() {
+    const section = document.querySelector(".confession-quote");
+    if (!section) return;
+
+    const buttons = section.querySelectorAll(".confession-language-button");
+    const panels = section.querySelectorAll(".confession-panel");
+    const mobileQuery = window.matchMedia("(max-width: 640px)");
+
+    function selectLanguage(language) {
+      buttons.forEach(button => {
+        const active = button.id === "confession-tab-" + language;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-selected", String(active));
+        button.tabIndex = active ? 0 : -1;
+      });
+
+      panels.forEach(panel => {
+        panel.hidden = panel.id !== "confession-panel-" + language;
+      });
+    }
+
+    buttons.forEach(button => {
+      button.addEventListener("click", function () {
+        selectLanguage(this.id.endsWith("-es") ? "es" : "en");
+      });
+
+      button.addEventListener("keydown", function (event) {
+        if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+          event.preventDefault();
+          const next = this.id.endsWith("-es") ? "en" : "es";
+          document.getElementById("confession-tab-" + next).focus();
+          selectLanguage(next);
+        }
+      });
+    });
+
+    function updateLayout() {
+      if (mobileQuery.matches) {
+        section.classList.add("has-language-switch");
+        selectLanguage("es");
+      } else {
+        section.classList.remove("has-language-switch");
+        selectLanguage("es");
+      }
+    }
+
+    updateLayout();
+    mobileQuery.addEventListener("change", updateLayout);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initializeConfession);
+  } else {
+    initializeConfession();
+  }
+})();
+</script>
 
 <style>
 .recent-pubs {
@@ -838,6 +955,156 @@ body:has(.medieval-theme-marker) .featured-grid a[data-excerpt]::after {
     letter-spacing: .22em;
   }
   body:has(.medieval-theme-marker) .page-content .wrapper h1 { font-size: 1.9rem; }
+}
+
+/* AUTHOR'S CONFESSION OF FAITH */
+
+.confession-quote {
+  margin: 2.5rem auto 2.8rem auto;
+  max-width: 1100px;
+  padding: 1.8rem 2rem;
+}
+
+.confession-languages {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.confession-panel {
+  padding: 0 2rem;
+  min-width: 0;
+}
+
+/* Always display both languages on desktop */
+@media (min-width: 641px) {
+  .confession-panel[hidden] {
+    display: block;
+  }
+}
+
+.confession-panel:first-child {
+  border-right: 1px solid rgba(201,154,75,.45);
+}
+
+.confession-language-label {
+  display: block;
+  margin-bottom: .8rem;
+  font-size: .72rem;
+  letter-spacing: .2em;
+  font-weight: 600;
+}
+
+.confession-text {
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.8;
+  margin: 0;
+}
+
+.confession-author {
+  text-align: right;
+  margin: 1.2rem 2rem 0 0;
+  font-size: .95rem;
+  font-style: italic;
+}
+
+.confession-language-switch {
+  display: none;
+}
+
+/* Medieval theme */
+
+body:has(.medieval-theme-marker) .confession-quote {
+  background: rgba(18,7,1,.38);
+  border: 1px solid rgba(201,154,75,.25);
+  box-shadow: inset 0 0 0 1px rgba(185,133,54,.05);
+}
+
+body:has(.medieval-theme-marker) .confession-text {
+  color: #e2d0ad;
+}
+
+body:has(.medieval-theme-marker) .confession-language-label {
+  color: #c99a4b;
+}
+
+body:has(.medieval-theme-marker) .confession-author {
+  color: #bda16b;
+}
+
+/* Mobile language selector */
+
+@media (max-width: 640px) {
+  .confession-quote {
+    margin: 1.8rem auto 2rem auto;
+    padding: 1.2rem .9rem;
+  }
+
+  .confession-language-switch {
+    display: none;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .confession-quote.has-language-switch .confession-language-switch {
+    display: flex;
+  }
+
+  .confession-languages {
+    display: block;
+  }
+
+  .confession-panel {
+    padding: 0;
+  }
+
+  .confession-panel:first-child {
+    border-right: none;
+  }
+
+  .confession-language-label {
+    display: none;
+  }
+
+  .confession-text {
+    font-size: 1.08rem;
+    line-height: 1.75;
+  }
+
+  .confession-author {
+    margin-right: 0;
+  }
+
+  .confession-quote.has-language-switch .confession-panel[hidden] {
+    display: none;
+  }
+
+  .confession-language-button {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid transparent;
+    padding: .4rem .2rem;
+    font: inherit;
+    font-size: .85rem;
+    letter-spacing: .12em;
+    cursor: pointer;
+  }
+
+  body:has(.medieval-theme-marker) .confession-language-button {
+    color: #bda16b;
+  }
+
+  body:has(.medieval-theme-marker) .confession-language-button.is-active {
+    color: #e8d4a8;
+    border-bottom-color: #c99a4b;
+  }
+
+  .confession-language-button:focus-visible {
+    outline: 2px solid #c99a4b;
+    outline-offset: 4px;
+  }
 }
 
 </style>

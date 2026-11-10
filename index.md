@@ -1154,9 +1154,9 @@ body:has(.medieval-theme-marker) .confession-author {
     The Angle of Reception
   </a>
 
-  <a href="/philosophy-of-time/metaphysics-of-time/philosophical-theology/2026/10/11/the-path-through-which-i-walk-en.html"
-     data-excerpt="A meditation on inheritance through Machado: the past is not merely behind us but the path through which we walk, while grace gives another step rather than another past.">
-    The Path Through Which I Walk
+  <a href="/metaphysics/philosophy-of-religion/philosophy-of-time/2026/11/02/non-ex-se-en.html"
+     data-excerpt="An examination of existence as received rather than self-originating: why what exists cannot be the ultimate source of its own being, and what it means to be sustained by a ground beyond oneself.">
+    Non ex se
   </a>
 
   <a href="/philosophy-of-time/philosophical-anthropology/philosophy-of-religion/2026/10/10/to-become-otherwise-en.html"

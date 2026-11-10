@@ -87,7 +87,7 @@ description: "Oscar Gaitan is a Nicaraguan American philosopher researching onto
          aria-labelledby="confession-tab-en">
       <p class="confession-text">
         “I cannot understand, much less explain to you, who God is.
-        Nor do I presume to comprehend what surpasses me.
+        Nor do I presume that my understanding can encompass that which surpasses me.  
         By reason alone, I can only speak to you about Him,
         even if you close your ears; and even this I do
         through my simple faith in Christ.”

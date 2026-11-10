@@ -1165,7 +1165,7 @@ body:has(.medieval-theme-marker) .confession-author {
   </a>
 
   <a href="/philosophical-theology/philosophy-of-mind/thomas-aquinas/2026/10/17/who-was-before-me-or-myself-en.html"
-     data-excerpt="A first-person inquiry into origin and inheritance: extending a subject's history backward cannot explain why there is a subject to inherit that history at all.">
+     data-excerpt="A first-person inquiry into origin and inheritance:tracing one's history backward cannot explain the existence of the one who inherits it.">
     Who Was Before Me, or Myself?
   </a>
 

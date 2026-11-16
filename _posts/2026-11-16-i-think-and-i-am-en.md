@@ -12,18 +12,18 @@ doi: "10.5281/zenodo.24294325"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.24294325"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.24294325/files/i-think-and-i-am.pdf"
 cover: /assets/covers/i-think-and-i-am-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophy-of-mind/2026/11/16/pienso-y-soy-es.html"
 
 shelf: gt-b
 ---
 
 <br><br>
 
-> *Non itaque velut absentem se quaerat cernere, sed praesentem se curet discernere.*
-> "Let the mind, then, not seek to see itself as though it were absent, but take care to discern itself as present."
+> *Non itaque velut absentem se quaerat cernere, sed praesentem se curet discernere.*  
+> "Let the mind, then, not seek to see itself as though it were absent, but take care to discern itself as present."  
 > — Augustine, De Trinitate X.9.12
 
-> *"If I ceased to think, would I cease only to sin, or would I cease to exist altogether?"*
+> *"If I ceased to think, would I cease only to sin, or would I cease to exist altogether?"*  
 > — Oscar Gaitan
 
 <br>

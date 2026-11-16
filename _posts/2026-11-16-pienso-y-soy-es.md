@@ -20,7 +20,7 @@ shelf: gt-b
 <br><br>
 
 > *Non itaque velut absentem se quaerat cernere, sed praesentem se curet discernere.*  
-> «Que la mente, pues, no busque verse a sí misma como si estuviera ausente, sino que procure discernirse como presente.»
+> «Que la mente, pues, no busque verse a sí misma como si estuviera ausente, sino que procure discernirse como presente.»  
 > — Agustín, De Trinitate X.9.12
 
 > *«Si dejara de pensar, ¿dejaría de pecar solamente o dejaría de existir por completo?»*  

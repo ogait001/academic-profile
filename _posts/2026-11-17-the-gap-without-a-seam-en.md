@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.24326974"
 record_url: "https://zenodo.org/doi/10.5281/zenodo.24326974"
 pdf_url: "https://zenodo.org/doi/10.5281/zenodo.24326974/files/the-gap-without-a-seam.pdf"
 cover: /assets/covers/the-gap-without-a-seam-en.png
-translation_url: ""
+translation_url: "https://oscargaitan.org/metaphysics/ontology/philosophy-of-time/2026/11/17/la-apertura-sin-ruptura-es.html"
 
 shelf: gt-c
 ---

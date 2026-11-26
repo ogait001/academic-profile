@@ -95,7 +95,9 @@ Center and boundary. Accumulation and reset. One and many. These are not abstrac
 
 The role of five as the midpoint of every decade is not arbitrary, and within the decimal system it can be demonstrated with algebraic precision. In modulo ten arithmetic — the formal structure governing digit behavior within decimal notation — five is its own mirror.
 
-$$5 + 5 \equiv 0 \pmod{10}$$
+$$
+5 + 5 \equiv 0 \pmod{10}
+$$
 
 Five is the only non-zero digit in the decimal system that, added to itself, returns directly to the crossing point. It is, in the precise algebraic sense, the furthest you can travel from zero before the geometry of the system begins pulling you back. Six is four steps from the next crossing. Seven is three. Eight is two. Nine is one. Five is equidistant — the exact midpoint between the zero behind and the zero ahead, the moment of maximum tension before the return takes over.
 

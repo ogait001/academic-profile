@@ -22,9 +22,7 @@
     <meta name="citation_author" content="Oscar Gaitan">
     <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
     <meta name="citation_abstract_html_url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-    {% if page.doi %}
-      <meta name="citation_doi" content="{{ page.doi }}">
-    {% endif %}
+    <meta name="citation_doi" content="{{ page.doi }}">
     {% if page.pdf_url %}
       <meta name="citation_pdf_url" content="{{ page.pdf_url }}">
     {% endif %}
@@ -38,10 +36,8 @@
         "name":"Oscar Gaitan"
       },
       "datePublished":"{{ page.date | date: '%Y-%m-%d' }}",
-      "url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-      {% if page.doi %},
+      "url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}",
       "identifier":"https://doi.org/{{ page.doi }}"
-      {% endif %}
     }
     </script>
   {% else %}
@@ -69,11 +65,32 @@
     }
     </script>
   {% endif %}
+
+  {% if page.layout == "post" %}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      },
+      options: {
+        skipHtmlTags: [
+          'script', 'noscript', 'style',
+          'textarea', 'pre', 'code'
+        ]
+      }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  {% endif %}
+
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
   {% if page.layout == "post" %}
   <link rel="stylesheet" href="{{ '/assets/essay-reading-room.css' | relative_url }}">
   {% endif %}
+
   <style>
     html {
       scroll-behavior: smooth;
